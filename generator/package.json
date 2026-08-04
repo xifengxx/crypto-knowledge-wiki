@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-site-generator",
+  "version": "1.0.0",
+  "description": "Static site generator for the LLM-Wiki knowledge base (GitHub Pages deploy)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.js",
+    "serve": "node src/serve.js",
+    "verify": "node src/verify.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "d3-force": "^3.0.0"
+  }
+}

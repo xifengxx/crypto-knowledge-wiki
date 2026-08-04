@@ -1,0 +1,1924 @@
+# Wiki 索引
+
+> 最后更新：2026-07-02
+> 页面总数：2450
+> 素材总数：876 | 已处理：831
+> 
+> **总体进度 95.2% · QA: v3.5 · 1144 synthesis · 1199 entities · 95 concepts**
+
+---
+
+## 论点 (theses/) — 16
+
+- [[theses/stablecoins-reshaping-finance]] — 稳定币正在重塑传统金融体系：银行脱媒四大机制（存款替代/信用创造转移/美债需求/链上收益前沿），$300B→$1T 路径，置信度 8/10
+- [[theses/memecoin-supercycle]] — Memecoin 超级周期：注意力金融的结构性崛起，三条并行驱动力（基础设施民主化/交易工具 Consumerization/叙事载体进化），置信度 7/10
+- [[theses/l1-competition-differentiation]] — L1 竞争进入差异化分化阶段：以太坊 Based Rollup、Solana Meme 飞轮、BNB Chain PCV 金融化三条分化路径，置信度 7/10
+- [[theses/ai-agent-pmf]] — AI Agent 正在开辟加密的第三大 PMF（自主经济行为），69,000 活跃 Agent，1.65 亿笔累计交易，置信度 7/10
+- [[theses/depin-real-world-value]] — DePIN 的真实价值不在"去中心化"而在于代币激励机制降低了供给侧冷启动成本，置信度 6/10
+- [[theses/rwa-institutional-tokenization]] — RWA 代币化赢家将是 TradFi 巨头而非加密原生项目，BUIDL $29B AUM 遥遥领先，置信度 7/10
+- [[theses/gamefi-evolution]] — GameFi 正从"代币激励"向"游戏性"范式转换中，抽税制框架是新的设计方向，置信度 5/10
+- [[theses/l2-rollup-economics]] — L2 Rollup 面临去中心化-安全性-成本三难困境，Dencun 后 L1 价值捕获面临挑战，置信度 6/10
+- [[theses/nft-utility-evolution]] — NFT 已从收藏品转型为链上凭证，Ordinals 证明 NFT 可独立于以太坊运行，置信度 5/10
+- [[theses/bitcoin-ecosystem-expansion]] — 比特币正从数字黄金进化为多协议金融层，但 BTC DeFi TVL 仍被高估，真实增长在企业财库+ETF，置信度 6/10
+- [[theses/defi-real-yield]] — DeFi 从流动性挖矿进入真实收益阶段，AAVE 年收入 $5 亿+、Uniswap 日费 $200 万+，置信度 7/10
+- [[theses/etf-institutional-asymmetry]] — 加密 ETF 打开机构入场通道，BTC $1070 亿 vs ETH $40 亿，效果高度不对称，置信度 7/10
+- [[theses/fundraising-community-shift]] — 加密项目融资从"to VC"转向"to 社区"，Pump.fun 等发射平台取代传统 VC，置信度 6/10
+- [[theses/payfi-real-world-adoption]] — 支付+收益的 PayFi 模式是 Web3 最大非投机用例，$35 万亿年链上结算，置信度 6/10
+- [[theses/socialfi-info-evolution]] — SocialFi 仍在寻找 PMF，InfoFi（Kaito/Cookie DAO）是当前最有希望方向，置信度 5/10
+- [[theses/cross-chain-intent-evolution]] — 跨链桥从资产桥向意图桥进化，LayerZero/Wormhole 等 GM 协议取代资产桥，置信度 5/10
+
+
+## 概念 (concepts/)
+
+
+### 🔵 稳定币 & 金融
+- [[blockchain-governance]] — 区块链治理：三类网络经济框架/卡尔达舍夫等级类比/Ostrom 公地八项原则/价值捕获与分配（+ 治理设计实操清单：投票因子/投票属性/治理权争夺预案/贿赂风险评估）
+- [[stablecoins]] — 稳定币全景：四路径+三驱动力+银行脱媒+宏观经济学视角（中金：狭义银行/需求四驱动力/平台货币即人民币稳定币）+ 宏观战略视角（稳定币作为大国债务永续"阳谋"工具）+ 香港《稳定币条例》监管框架（2025.8.1生效）+ 第四驱动力：AI Agent 经济 + USDT0 vs CCTP 全链稳定币竞争（Tether/Circle/Frax 三方博弈+"街头美元 vs 企业美元"框架）+ 离岸人民币CNH稳定币双轨制（去SWIFT化+亚非拉渗透）
+- [[rwa]] — 现实世界资产代币化（含华尔街2.0升级叙事 + Aptos RWA叙事 + 代币化股票四阶段历史 + EXOD 96.5%市场集中度 + 中国RWA风险分析 + 香港RWA案例全表 + CNH稳定币双轨制 + Alpaca 94%市场份额 Brokerage-as-a-Service基础设施层)）
+- [[payfi]] — 支付金融：货币时间价值新原语，Solana主推叙事（+ Aptos安全高效合规替代定位 + Coinbase acceptusdc.com 商户支付试点 + Huma $3800万融资/Arf收购）
+- [[genius-act]] — 美国稳定币国家创新法案
+- [[crypto-taxation]] — 加密货币税收：亚洲五类税制（免税/累进/统一/过渡/交易税），税率竞争与资本外逃（+ 韩国虚拟资产用户保护法/外汇法扩展对跨境套利限制）；+ 迪拜零税+VARA沙盒形成"低税+合规明确"双重引力虹吸全球Web3人才
+- [[kimchi-premium]] — 泡菜溢价：韩国加密交易所的独特定价现象，三种形态（折价/个别溢价/捕捞网拉升），散户风险偏好+受限市场结构的双重驱动
+- [[defi]] — 去中心化金融：借贷/DEX/收益
+- [[perp-dex]] — 去中心化永续合约交易所：AMM vs CLOB 架构权衡、市场公平性（MEV/清算/标记价格）、保证金资本效率、Ponzi 代币激励 vs 可持续增长模式
+- [[fundraising]] — 加密融资：ICO→IEO→IDO→VC→Fair Launch演化史（+ IC0复兴/VC币辩论/Fair Launch内在悖论/价值驱动参与者选择）
+- [[crypto-m-and-a]] — 加密并购：风投锐减70%后并购作为融资替代的三波浪潮（2017→2020→2024）、四种收购模式、70-75%失败率与加密特殊优势
+- [[restaking]] — 再质押：EigenLayer AVS供给端/需求端 + Solayer内源性AVS
+- [[prediction-market]] — 链上预测市场
+- [[delta-neutral]] — Delta中性/收益套利：多空零敞口对冲 + 两端获取收益（资金费率+现货生息），Ethena USDe的策略协议化/牛市APY可达37%
+
+
+### 🟤 货币理论 & 系统设计
+
+### 🟢 基础设施
+- [[mev]] — 最大可提取价值：三链MEV对比（Ethereum 8%/Solana 80%/Tron 0%），反映链上投机程度；含美国证券法分析（scienter/内幕交易/最佳执行）及 PBS 四步流程详解
+- [[layer2]] — 以太坊二层扩容（+ Base隐私路线图/全球链上经济定位）
+- [[sequencer]] — 排序器：Rollup核心组件/五大去中心化方案(Espresso/Astria/SUAVE/Radius/Metis)/排序即服务
+- [[cross-chain]] — 跨链互操作性（+ ERC-7281/xERC-20 主权跨链代币标准对比 + USDT0 基于 OFT 的全链稳定币应用）
+- [[data-availability]] — 数据可用性层（Celestia/EigenDA）
+- [[l1-competition]] — L1 竞争格局：Monad/Berachain/Sui/Aptos/Sei，技术≠护城河
+- [[danksharding]] — 以太坊分片新方案：DAS+RS编码+KZG承诺+PBS+CrList，实现"中心化出块+去中心化验证+抗审查"，将L1变为结算+DA层为L2 Rollup释放计算空间
+- [[chain-abstraction]] — 链抽象：用户无需感知底层链
+- [[account-abstraction]] — 账户抽象/ERC-4337：六大接口、守护者机制、AA+L2=大规模采用（+ ERC-4337采用数据：550万钱包/80万周活UserOp/EIP-7702）
+- [[intents]] — 意图：用户只表达结果/Solver竞标执行，链抽象关键路径（+ ERC-7683/Anoma/Across/Cow Swap）
+- [[privacy]] — 隐私公链（+ Coinbase/Base 隐私路线图：合规隐私池→原生L2隐私）
+- [[decentralized-identity]] — 去中心化身份/DID：七层身份堆栈+W3C标准+VC凭证+隐私基元（+ Base basenames + KYA Know Your Agent Agent时代身份验证四条路径）
+- [[liveness-detection]] — 活体检测/Liveness Detection：PAD五级攻击分类、主动/被动/硬件三种技术路线、ISO 30107-3标准缺口与全球20+供应商全景
+- [[market-maker]] — 做市商（Market Maker）：CEX订单簿双边报价机构，分为主动做市商（操纵价格/有合规风险）和被动做市商（Delta Hedge中性摆单/赚约3%期权费+价差）；Token Loan（借币）vs Retainer（月费）两种合作模式；项目方与做市商的信息不对称（只有交易所可见完整交易记录）
+- [[fat-protocols-fat-apps]] — 胖协议 vs 胖应用：价值最终由谁捕获的核心辩论，应用链/超级应用/木马中间件三条胖应用路径；2025年新增 IOSG Weekly Brief #288 Appchain 论点（Unichain $1B TVL/HyperEVM $2B TVL/应用收入占比80%）
+- [[web3]] — Web 3.0 概念全景：三代互联网范式对比（只读→读写→价值）、L0-L4 五层技术栈、Tim Berners-Lee 语义网 vs Gavin Wood 去中心化区块链的两个定义版本、四大基本特性
+- [[zk-tls]] — 零知识传输层安全（zkTLS）：结合ZKP和TLS使链上合约无需信任第三方即可验证HTTPS数据真实性；对比传统预言机PoS共识机制的成本与效率劣势；长尾资产定价、链上KYC/DID、GameFi等应用场景
+
+
+### 🟡 AI & 算力
+- [[ai-crypto]] — AI + Crypto 融合基础设施
+- [[ai-suanli]] — AI算力：中心化算力供给侧全景（GPU市场/云厂商capex/军备竞赛逻辑），与去中心化算力对照
+- [[ai-agents]] — 链上 AI 智能体（+ Agent 支付基础设施：x402/MPP/Visa TAP/Mastercard Agent Pay 等五层光谱全景）
+- [[application-llm]] — 应用大模型：围绕核心产品和场景进行AI技术创新，与DeepSeek等基础型大模型互补
+- [[model-context-protocol]] — MCP（Model Context Protocol）：AI 应用与外部扩展的标准通信协议，Anthropic 创建，类比"AI 的 USB-C 接口"；a16z 合伙人 Yoko Li 分析八大未解决挑战及五项前瞻预测；Higress 开源 Remote MCP Server 托管方案解析（+ 来源_2025-04_MCP_AI_Agent_工具交互_a16z + 来源_2025-04_Remote_MCP_Server_开源托管_Higress）
+- [[a2a-protocol]] — A2A（Agent-to-Agent 协议）：Google 推出，与 MCP 互补（MCP=Agent-to-Tool，A2A=Agent-to-Agent），专注 AI Agent 间直接通信与协作，在 Web3 环境面临三大结构性障碍
+- [[defai]] — DeFi+AI 融合：AI 抽象层/自主交易 Agent/AI 原生应用，40+ 项目生态全景
+- [[depin]] — DePIN：WHAT-WHY-HOW 框架、GPU 算力 io.net、去中心化共享经济
+- [[depai]] — DePAI（去中心化物理AI）：DePIN 的进化，融合 AI+机器人+Web3，七层架构（硬件/软件/数据/空间智能/基础设施/机器经济/DAO），peaq L1 基础设施
+- [[desci]] — 去中心化科研：[[bio-protocol]](币安Launchpool)+7子DAO+pump.science实验平台 + AI for Science传统路径对照（DeepMind AlphaFold/Anthropic Dario预测/Pear VC Biotech Top 50量化）+ Foresight"Science=/=Knowledge"范式批评（先做社区再科研的crypto native策略）+ [[researchhub]](Coinbase CEO创立/RSC Token 10亿供应/14天评审周期) + 传统学术三大结构性缺陷分析（Elsevier 70%利润率/$6,790 APC/NSF 29%通过率/$150K中位拨款）
+- [[b2a]] — B2A（Business-to-Agent）：AI Agent 作为独立经济参与者所需六层基础设施栈（支付/算力/隐私/数据/通信/IP），与 SaaS 类比（+ x402/MPP/Visa TAP/Mastercard Agent Pay 等具体支付层协议）
+- [[erc-8004]] — ERC-8004 AI Agent 链上身份/声誉/验证标准：三注册表（身份注册表 ERC-721 NFT + 声誉注册表 + 验证注册表），与 x402 互补（x402 解决支付，ERC-8004 解决信任），2025 年 8 月提交 EIP-8004
+
+### 🔴 应用层
+- [[igaming]] — 传统在线赌博产业（1994年起）：定义/历史/全球监管格局/区块链+VR驱动力，是理解 GameFi"赌场基因"的前置知识（+ SOFTSWISS 官方科普来源）
+- [[gamefi]] — 区块链游戏 / 全链游戏（+ Nat Eliason 2021年3月七大问题/八大解决方案最早系统性批判；+ Tiger Research 时间尺度错配理论；+ 三盘模型：GameFi 为矿机分红盘创新变体；+ Sonic SVM Solana游戏L2方案；+ 黑神话悟空反思；+ iGaming 传统赌博产业对照；+ 2025年17款链游关闭潮：投资骤降71%，结构性困境）
+- [[tokenomics]] — 代币经济模型：供应/需求/价值捕获三要素、单币/双币/VCT三币模型分类（+ 三盘模型：分红/互助/拆分的 Ponzi 归约框架；+ 设计者视角 39 问题检查清单：General/Supply/Demand/Governance）
+- [[crypto-ponzi-models]] — Crypto 庞氏三盘模型：分红盘/互助盘/拆分盘，庄家操盘三角形（准备金/拨出比/市场成本），矿币分红盘正循环，"万物皆盘"（+ 对立视角：Ponzi 作为可选早期增长工具 vs 底层归约）
+- [[socialfi]] — 去中心化社交金融（+ 1kx应用先行投资框架/旗舰客户端主导问题/代币化社交图谱）
+- [[infofi]] — InfoFi 信息金融：SocialFi 的 AI 升级形态，将信息及其衍生物和供应链代币化，Kaito AI 为代表
+- [[nft]] — 非同质化代币，含ERC协议家族（ERC-721A/721R/998/809/1155）、BEP-721/SPL跨链对比、IPFS/Arweave/中心化三种存储方案、Atomic NFT
+- [[creator-economy]] — 创作者经济：Web3版本将所有权和货币化从平台转移给创作者+"社区代币+NFT+代币门控"平台全景
+- [[memecoins]] — Meme 币 / 注意力金融（+ Jesse 态度转变：否定→接受；+ DOGS币安Launchpool管道：Telegram流量→上币→退出；+ 0xWizard 社区币vs控盘币/三次80%暴跌社区韧性测试；+ DOGS 1000万链上持有者/基于Telegram账户年龄分配/TON区块链宕机事件；+ Solana vs BNB Chain MEME生态四维对比：野生vs官方/全民造币vs精选Alpha/多元vs单一/触底反弹vs大跌震荡）
+- [[trading-system]] — 交易系统：七要素框架（周期判断/操作思维/选币/选时/买卖规则/资金管理/风险控制），盈亏比核心评价指标，格兰维尔八法经典示例（+ 0xWizard 牛市发动机三定律/链上交易三策略）
+- [[narrative-economics]] — 叙事经济学：罗伯特·席勒理论在加密市场的应用，叙事作为市场引擎、叙事生命周期五阶段（火花→蔓延→狂热→幻灭→退出或进化）、交易叙事方法论
+- [[dao]] — 去中心化自治组织：链上治理新范式，智能合约替代公司章程和董事会选举，投票统计和决定执行无需人为干预，代币加权治理的透明度优势和鲸鱼主导风险
+- [[metaverse]] — 元宇宙/Metaverse：未来数字文明的超巨载体，五阶段虚拟世界发展史（MUD→Habitat→Active Worlds→Second Life→Solipsis），哲学/文明史视角的深度讨论（+ Snow Crash 1992年起源；+ CryptoAIGC + Loot 范式原生叙事；+ DAO批判；+ Roblox CEO Metaverse八要素）；+ 迪拜国家级元宇宙战略：VARA全球首个元宇宙监管机构总部/DEWAverse政府平台/Project 2117/棕榈岛虚拟地块15 ETH成交
+- [[virtual-real-estate]] — 虚拟房地产（VRE）：从文本MUD时代到区块链NFT时代的完整演化史，核心进化驱动力不是图形质量而是代币化能力和用户所有权完整度，含四种盈利模式和"日活悖论"分析
+
+### ⚫ Bitcoin
+- [[bitcoin-ecosystem]] — BTC 生态：Ordinals/L2/Babylon（+ 区块空间经济学：Goldilocks Zone/9 BIP热力学安全/主权使用下降信号）
+- [[pcv]] — Public Crypto Vehicle，募集资金持有加密资产的"准ETF"，连接股权与加密市场的结构性工具；含SPAC上市路径分析（Twenty One Capital/ProCap/ReserveOne/Nakamoto Holdings），SPAC vs IPO vs ETF三种敞口方式对比
+- [[op-cat]] — Bitcoin 脚本操作码 BIP347 软分叉，闪电网络后最大技术叙事
+- [[liquid-staking]] — 流动性质押 & LSDFi（+ Mint Ventures 2022年3月Staking赛道全景：Lido/Rocket Pool/SSV/Stader，ETH转PoS前基准格局）
+
+### 🎮 游戏设计
+- [[game-design]] — 游戏设计：数值策划、系统协同、体验驱动（+ 游戏机制理论框架：规则-机制-玩法三层次）
+- [[combat-balance]] — 战斗平衡：同职业内战定上下限、异职业验证居中
+- [[game-monetization]] — 游戏商业化：从收入预期反推付费深度与充值档位
+
+
+### 🌐 宏观 & 地缘
+- [[re-globalization]] — 再全球化：超级全球化结束后各国自发保护产业和就业，内需成为大国竞争最关键砝码
+- [[cross-border-wealth-protection]] — 跨境财富保护：NRA美股遗产税（$6万免税额/最高40%税率）及其四条防护工具链（离岸公司/现金仓位/联名账户/港险对冲）
+- [[carbon-market]] — 碳市场（碳排放权交易）：配额+CCER双轨制/中国全国及8个试点市场机制/与RWA碳信用代币化的关系
+- [[ubi]] — 全民基本收入：四特征（定期/个人/普遍/无义务），传统执行障碍，区块链UBI两种范式——社交信任图谱（Circles）vs 生物识别（Worldcoin）
+- [[crypto-regulation]] — 加密监管全景：新加坡DTSP（2025.6.30生效/<10%批准率）/香港VATP+稳定币条例/欧盟MiCA（53家牌照）/迪拜VARA零税沙盒/美国GENIUS+CLARITY+Crypto Task Force；核心矛盾从"鼓励创新vs保护投资者"演变为"注册地vs实际运营地"原则转变；FATF Offshore VASP漏洞警示；Terra/3AC崩盘推动全球监管同步收紧
+- [[seed-strapping]] — Seed-Strapping（种子自举融资）：AI时代创业第四范式，小种子轮($10-100万)+盈利优先，由Henry Shi提出
+---
+
+## 实体 (entities/)
+
+### 稳定币 & RWA
+- [[tether]] — USDT，$1500 亿
+- [[level-defi]] — Level，去中心化稳定币协议(slvlUSD)，Dragonfly/Polychain支持，Aave+Symbiotic双层收益，收益率13.69%
+- [[ledn]] — CeFi 加密贷款机构，$932.5M 未偿贷款（6.9% 市占率），第二大跟踪CeFi贷款机构
+- [[two-prime]] — CeFi 加密贷款机构，$884M 未偿贷款（6.54% 市占率），第三大跟踪CeFi贷款机构
+- [[genesis-global-capital]] — 曾为CeFi最大贷款机构（峰值$14.6B贷款账簿），2023年1月破产；与Celsius/BlockFi/Voyager在2022年Q1合计占CeFi 76%
+- [[celsius-network]] — CeFi贷款平台，2022年7月破产；高达36.6%机构贷款为无抵押；Alex Mashinsky创立
+- [[blockfi]] — CeFi贷款平台，2022年11月破产；因向FTX提供无抵押贷款而倒闭；Zac Prince创立
+- [[bridge]] — Bridge，稳定币基础设施平台，2024年10月被Stripe以11亿美元收购，提供稳定币编排/货币承兑/转账三项核心服务，与Visa合作推出全球首个稳定币卡
+- [[voyager-digital]] — CeFi经纪商/贷款平台，2022年7月破产；因Three Arrows Capital $6.6亿违约触发
+- [[circle]] — USDC，$610 亿，CRCL IPO 定价$31→$199.81/+600%/$42B 市值，Coinbase 获 USDC 50% 剩余收入分成
+- [[circle-arc]] — Circle 稳定币专用 L1（Arc），20 节点 DPoS/3000-50000 TPS/Gas<1美元/USDC原生Gas Token
+- [[crypto-com]] — Crypto.com，加密货币交易所/Visa联名卡 USDC结算创新（预付时间8天→4天，FX费降至20-30bps）
+- [[tempo]] — Stripe 稳定币专用 L1（Tempo），Matt Huang（Paradigm 联创）任 CEO
+- [[makerdao]] — DAI，$100 亿 TVL
+- [[ethena]] — USDe，合成美元
+- [[exodus-movement]] — Exodus Movement，唯一获SEC批准将普通股代币化的上市公司，EXOD代币占股票RWA市场96.5%（$429.84M/$445.40M），在Algorand区块链发行
+- [[etherealize]] — 以太坊 RWA 采用推动机构（SDK/Noir钱包/国际化），Vivek Raman 创始人
+- [[usual-money]] — Usual Money，USD0/USD0++/Usual 三代币稳定币协议，RWA准备金+4年期债券化
+- [[vnx-commodities]] — 列支敦士登FMA注册的非美元稳定币发行层（VCHF/VEUR/VGBP），含VNXAU黄金代币，MiCA兼容
+- [[arkstream-capital]] — 加密 VC，Ethena $500 万战略投资
+- [[hashed]] — 韩国加密 VC/研究型基金，Hashed Team Blog 发布数据驱动行业研究（如空投价格表现量化分析），亚洲Web3生态枢纽
+- [[blackrock]] — 贝莱德（BlackRock），全球最大资管公司，11.5万亿美元AUM，阿拉丁风险管理系统，收购安硕主导ETF市场，受美联储委托清算贝尔斯登/AIG
+- [[larry-fink]] — 拉里·芬克，贝莱德创始人兼CEO，CMO抵押担保债券发明者，从1亿美元亏损失败到阿拉丁系统再崛起
+- [[blackstone]] — 黑石集团，全球最大私募股权公司之一，贝莱德最初的投资方和母公司，苏世民创立
+- [[steve-schwarzman]] — 苏世民（Stephen Schwarzman），黑石集团联合创始人，为拉里·芬克提供启动资金创立贝莱德
+- [[blackrock-buidl]] — 贝莱德 $29 亿代币化 MMF
+- [[franklin-templeton]] — 富兰克林邓普顿，FOBXX $4.28 亿代币化货币基金，首只美国注册公链基金
+- [[vaneck]] — VanEck，全球资管/55年历史，SOL现货ETF首个申请人（2024.06）+AVAX ETF申请
+- [[bitwise]] — Bitwise Asset Management，加密原生资管/多资产ETF发行商（SOL/XRP/APT/DOGE四线申请）
+- [[canary-capital]] — Canary Capital，Steven McClurg创立/2024年新资管，山寨币先发占位（LTC/SOL/XRP/SUI/PENGU五线申请）
+- [[world-liberty-financial]] — WLFI/USD1，政治资本派，特朗普 OEM 结构（75% 净收入分成），真实操盘团队为 Chase Herro/Zak Folkman（Dough Finance $2M 黑客前科），WLFI 不可转让纯治理代币规避监管；新增Macro Strategy（2025.2.12）和早期持仓表（链上$3,779万+Coinbase Prime$2.89亿/63.8%ETH）
+- [[trump-token]] — 特朗普官方 Meme 币（Solana），ATH $800 亿，80% 内部持有+集体诉讼豁免，6 家 CEX 24h 内上架，驱动 SOL 突破 $295 ATH
+- [[securitize]] — RWA 合规技术平台
+- [[ondo-finance]] — RWA 收益产品（USDY/OUSG）
+- [[fireblocks]] — 机构级数字资产托管与安全基础设施，支持多签与保险赔付，MPC多方计算技术
+- [[matrixdock]] — Matrixport 链上债券平台（STBT）
+- [[superstate]] — Compound 创始人 SEC 合规链上国债基金 / Opening Bell 公司自发行链上股份平台（Upexi/SOL Strategies/Galaxy Digital 参与，SEC 圆桌讨论，变相 IPO 路径）
+- [[spiko]] — 代币化短期国债基金（USTBL/EUTBL），Arbitrum/Polygon 核心 RWA 支撑（Arbitrum 占36.5%）
+- [[tradable]] — zkSync 私募信贷 RWA 平台，驱动 zkSync L2 RWA 第二
+- [[stusdt]] — TRON 生态"Web3 余额宝"，RWA 质押收益
+- [[story-protocol]] — IPFi 公链，Cosmos-SDK L1，PIL许可/双代币模型（License NFT+Royalty ERC-20），$140M 融资，Odyssey 测试网
+- [[centrifuge]] — RWA 私人信贷龙头，Solana deRWA 标准
+- [[clearpool]] — 许可制链上信贷，Credit Vaults + Prime V2，跨链部署，链下信用报告嵌入
+- [[cicc]] — 中金公司（CICC），中国领先投行与研究机构，首席经济学家彭文生对稳定币有宏观分析
+- [[goldfinch]] — 去中心化 RWA 借贷，四角色模型，20+ 市场 $1.1 亿贷款
+- [[huma]] — PayFi 基础设施，$3800 万融资（Circle/ParaFi/Hashkey等），2024 收购 Arf，$8.9 亿支付融资/0% 违约率
+- [[unitas]] — 去中心化多链支付协议，核心产品 USDu（基于 JLP 手续费的收益型稳定币），Unitas Card 实现链上+现实世界支付融合
+- [[sphere-pay]] — 数字货币支付 API，0.3% 固定费率/无软件使用费，一站式稳定币支付集成
+- [[loopcrypto-xyz]] — 企业 Web3 支付自动化（收款/付款/发票），支持所有 ERC-20，集成 Stripe/Zapier/Xero
+- [[plume]] — RWAfi 专用 L1 公链，模块化全生命周期架构（Arc/Passport/Nexus），2000 万美元融资，180+ 应用/375 万测试网用户，Katie Haun 投资
+- [[digift]] — 新加坡持牌链上数字资产交易所（RMO+CMS双牌照），全球首家合规链上AMM，与Invesco $6.3亿代币化私人信贷基金/UBS uMINT/招银国际CMBMINT合作，端到端RWA解决方案
+- [[mantra]] — RWA 专用 L1（Cosmos SDK），DID 合规+MANTRA Finance，与 Plume/Polymesh 竞争
+- [[converage]] — Securitize 正在开发的 RWA 自有链
+- [[plasma-chain]] — Tether 支持的稳定币专用公链，零手续费 USDT 转账+EVM 兼容+比特币级安全性，为收益型稳定币收益策略提供执行基础
+- [[lingo]] — RWA 奖励生态系统（SocialFi+地产），Solana/Base，2.5% 手续费买一线城市地产收租，800 万+ Web2 用户，团队前身 John Paul 被雅高 $1.5 亿收购
+- [[redbelly-network]] — RWA 合规专用 L1，悉尼大学+CSIRO 合作开发，DBFT 共识/20,000 TPS/ZKP 身份/美国专利 #12093247，原生代币 RBNT 即将推出
+- [[avalon-labs]] — BTC LSDFi & CeDeFi 借贷枢纽，Merlin Chain 生态，首个 BTC 稳定币 USDa（CDP 排名第三/8% 固定利率），TVL 超 $10 亿
+- [[maple-finance]] — 链上资产管理平台，syrupUSDC 收益稳定币+ BTC Yield，TVL $4B+，Cantor Fitzgerald $2B 合作
+- [[resolv]] — 风险分层收益金库协议，4.3-15.2% APY 范围，用户可在保守型至杠杆型策略中自由选择
+- [[apollo-acred]] — Apollo $10 亿私募信贷基金代币化，Solana $2,690 万
+- [[cap-money]] — MegaETH 链上收益聚合，EigenLayer 再质押信任市场，策略竞争自我强化机制
+- [[backed]] — 代币化股票发行方（bSTOCK 无限制 ERC-20 + xStocks），瑞士注册，$950万融资（Gnosis领投），$800万 LP TVL
+- [[alpaca]] — 代币化股票基础设施提供商（Brokerage-as-a-Service），94%市场份额，服务Binance/Bitget/Gate/Ondo/xStocks，融资超3.2亿美元，估值~$11亿
+- [[truefi]] — 链上信用借贷协议，$17 亿累计贷款/Polaris 生息稳定币，1-4% 违约率
+- [[wildcat]] — 纯链上零抵押借贷实验，无委托代表/无法律文件，合约自由度最高
+- [[dinari]] — 代币化股票发行方（dShares），美国注册严格合规但无法链上交易，$1000万种子+$1270万A轮（VanEck/Fidelity F Prime）
+- [[ripple]] — XRPL 跨境支付公链 / XRP $1335 亿市值 / RLUSD 稳定币 NYDFS 审批 / Archax RWA 代币化 / SEC $1 亿法律战 + DIFC 中东总部 + ENBD 合作跨境汇款 3 天→3 秒
+- [[hidden-road]] — Hidden Road，多资产主经纪商（Prime Brokerage），年清算量$3万亿+，2025年4月被Ripple以$12.5亿全现金收购
+- [[stellar]] — 普惠金融 L1 支付公链（XLM），SCP 联邦共识/3-5秒确认/FOBXX $290 亿+ AUM/Soroban 智能合约 2024/MoneyGram 180 国兑现网络
+- [[r3]] — 企业 DLT 技术商（Corda），$100 亿+ 代币化资产计划引入 Solana，Lily Liu 加入董事会
+- [[onchain]] — RWA技术推手，基于Solana Token-2022标准构建代币化合规架构（转账钩子/双标准架构/分层流动性），与招银国际/UBS/Invesco合作
+- [[cmb-international]] — 招商银行旗下国际投行，2017年起布局区块链（投资Cryptape/Nervos/溪塔科技），联合发起$5000万InNervation生态基金，香港首家中资银行系券商获虚拟资产交易牌照，2025年8月发行CMBMINT代币化基金
+- [[uranium-digital]] — 铀代币化平台（Solana），Framework Ventures领投$6.1M种子轮，首个24/7机构级铀交易平台
+- [[agridex]] — Solana 农产品供应链去中心化市场，DAO 治理，稳定币结算
+- [[credix]] — Solana 拉丁美洲私人信贷平台，多层信贷池结构，活跃于巴西和哥伦比亚
+- [[metawealth]] — Solana 欧洲房地产碎片化投资，$3500万+/50K+投资者/138代币化资产，2025-04获VASP牌照
+- [[homebasedao]] — Solana 美国房地产碎片化投资，SEC注册，最低$100起投，首两批$400K+/38人
+- [[dvin-labs]] — Solana 葡萄酒代币化基础设施，Digital Cork+NFC标签+Tasting Token，70+酒庄合作
+- [[collector-crypt]] — Solana 宝可梦卡牌代币化服务，Gacha盲包+eBay秒杀
+- [[oro-gold]] — Solana 代币化黄金（GOLD+stGOLD双代币），UAE合规，$1.5M预种子轮
+- [[remora-markets]] — Solana 代币化股票平台（原Moose Capital），Step Finance收购，UAE托管，月度PoR审计
+- [[ventuals]] — Paradigm 孵化的 Hyperliquid Pre-IPO 永续合约平台，10x 杠杆，乐观预言机定价，Alvin Hsia 创立
+- [[earlybird]] — Hyperspace 团队打造的 Solana Pre-IPO 多空市场，前摩根士丹利分析师创立，Dragonfly/Pantera 投资
+- [[prestocks]] — Republic 背书的 1:1 实股代币化平台（Solana），SPV 持真股，22 个标的（OpenAI/Canva），最低几美元交易
+- [[jarsy]] — 链上 Pre-IPO 股权团购平台（Arbitrum），先募集后购买真股，$10 起投，Breyer Capital 融资，支持 Anthropic/Stripe/Perplexity AI
+- [[synthetix]] — 去中心化合成资产协议，SNX，v3多抵押跨链，RWA合成资产子类
+- [[parcl]] — Solana去中心化房地产衍生品协议，合成资产价格指数交易，两轮融资$1200万+（Dragonfly/Coinbase Ventures），主网2023年1月上线，与Propy API合作
+- [[propy]] — 房地产RWA平台（2017年硅谷）：三大产品线（交易+产权托管+PropyKeys Dapp）、$50亿+交易量、PRO代币上线Coinbase、Chainlink+Parcl合作
+- [[tangible]] — 实物资产NFT投资平台（黄金/酒/手表），USDR超额抵押稳定币
+- [[aqua1-fund]] — Web3 原生基金，以 $1 亿购入 WLFI 成最大独立持仓方（8 亿枚），计划中东基金+BlockRock RWA 平台
+- [[aquarius]] — 加密投资/研究基金，RWA 代币化四种方法分类学提出者
+- [[klimadao]] — 碳信用链上交易市场，KLIMA算法碳货币，交易额$40亿+
+- [[polymesh]] — 专为证券型代币打造的机构级 Layer1 区块链，币安节点运营商
+- [[redstone]] — RWA预言机提供商，cover 100+链，Securitize首选预言机合作伙伴，RedStone BOLT毫秒级预言机
+- [[spark-protocol]] — Sky生态RWA收益引擎，Spark Liquidity Layer管理$35亿+资产，Tokenization Grand Prix$10亿，RWA配置$15亿+
+- [[canton-network]] — 机构级公链/$4万亿+代币化资产/月$2万亿UST回购/Goldman Sachs/HSBC/BNP Paribas生产系统
+- [[conduit]] — 稳定币跨境支付基础设施，使企业在稳定币和法币间无缝交易，支持 10+ 货币，巴西企业欧元结算快 500 倍
+- [[dtcc]] — 全球金融核心基础设施/$3 quadrillion年交易/$85万亿托管/2025年4月AppChain上线
+- [[bitso]] — 拉丁美洲加密交易所，Bitso Business 提供稳定币 B2B 跨境支付服务，开发 MXNB 墨西哥比索稳定币
+- [[reap]] — 亚洲领先稳定币借记卡发行商，API 驱动的嵌入式金融，每月处理数十亿稳定币支付
+- [[yellow-card]] — 非洲最大持牌稳定币公司，20 国业务，$5B+ 交易量，解决非洲外汇短缺+跨境支付痛点
+- [[m0]] — 稳定币基础设施提供商，使平台推出内置收益策略的定制稳定币，供应量接近3亿美元
+- [[citi]] — 花旗集团（Citigroup），全球系统重要性银行，GPS研报部门连续发布2023年"Money Tokens and Games"和2025年"Digital Dollars"两份标志性区块链研报
+- [[hsbc]] — 汇丰银行（HSBC），全球最大银行之一，2024年通过Aave私有网络完成外汇结算实验，代表传统银行在DeFi基础设施上的实际应用探索
+- [[world-bank]] — 世界银行（World Bank），国际金融机构，FundsChain区块链资金追踪平台（覆盖6国9项目）+ Promissa代币化本票项目（BIS/SNB合作）
+- [[tokeny-solutions]] — 卢森堡合规代币化基础设施公司，ERC-3643（T-REX）标准发起者，开发 OnchainID 身份框架，提供代币化平台和 SDK
+
+### DeSci & Biotech
+- [[molecule]] — DeSci基础设施平台，三大引擎架构（Catalyst IP代币化→BIO Protocol金融层→pump.science用户层），$13M种子轮，Paul Kohlhaas创立
+- [[bio-protocol]] — DeSci 策展协议，币安 Launchpool #63，7+3 子 DAO，五层功能架构，$33M+ Genesis 融资，Foresight VC 投资逻辑（五大基础设施/BIO捕获子网价值）
+- [[pump-science]] — Solana生态DeSci实验代币化平台，RIF($190M)+URO($97M)，果蝇测试阶段，基于Pump.fun；2025年2月新发射平台（Bonding Curve 303 SOL/动态费用抗狙击/12新化合物），EGS"超募高退"预售（1223 SOL/退91.87%）
+- [[big-pharmai]] — DeSci meme 项目（DRUGS），daos.fun 发行，颠覆 Big Pharma 叙事，白名单募资 420 SOL/7082 人参与/500 倍涨幅，Pump Science 支持
+- [[quantum-biology-dao]] — 量子生物学 DeSci 项目，BIO Protocol 第二批 BioDAO，代币拍卖超募 1344%（$6.88M），三层生态结构（研究所→DAO→孵化器）
+- [[deepmind]] — Google DeepMind，AlphaFold 系列获 2024 诺贝尔化学奖，AlphaGo/AlphaZero 里程碑，Gemini 大模型，DiLoCo 开源训练方法，AI for Science 黄金时代战略
+- [[anthropic]] — Claude 系列 LLM 开发商 + MCP 协议创立者，Dario Amodei 预测 AI 将生物/神经科学 50-100 年进展压缩至 5-10 年
+- [[david-soria-parra]] — Anthropic 工程师，MCP 协议联合创造者与原创提出者
+- [[justin-spahr-summers]] — Anthropic 工程师，MCP 协议联合创造者与核心开发者
+- [[pear-vc]] — 早期 VC，2024 年发布 Biotech Behemoths 报告（Top 50 Biotech 量化分析）
+- [[researchhub]] — DeSci学术出版平台，Coinbase CEO Brian Armstrong创立，RSC Token总供应10亿，RH Journal 14天评审周期
+
+### GameFi & Social
+- [[epic-games]] — Fortnite/Unreal Engine开发商，Epic Games Store，Epic v. Apple反垄断诉讼，Web3游戏重要人才输出方（Big Time等多团队来自Epic），metaverse虚拟社交平台先驱
+- [[gala-games]] — Web3 游戏发行平台（2019年），The Walking Dead: Empires 发行商，VoxVerse（Will Wright 参与设计），2025年7月关闭 TWD 作为战略调整，$GALA 代币
+- [[gallium-studios]] — 独立游戏工作室，Will Wright（Sims/SimCity/Spore）与 Lauren Elliott（Carmen Sandiego）联合创立，首批项目 VoxVerse（Gala Games）和 Proxi（AI 记忆模拟游戏），$6M 融资（Griffin Gaming Partners）
+- [[will-wright]] — 传奇游戏设计师（SimCity/The Sims/Spore），Maxis 联合创始人，Gallium Studios 联合创始人，2022 年涉足区块链游戏
+- [[treasure-dao]] — 去中心化游戏生态系统（源自Loot社区），Arbitrum上最大的链游生态，MAGIC代币（3.5亿总供应/每年减半），孵化现象级游戏 The Beacon
+- [[the-dao]] — 首个大规模 DAO 实验（2016年4月），去中心化风投基金，募资 $150M ETH，被黑客盗走 $60M，导致以太坊分叉（ETH/ETC）
+- [[the-beacon]] — TreasureDAO孵化的像素风 Roguelite ARPG链游，上线9天获2万+玩家，2022年底现象级链游
+- [[axie-infinity]] — P2E鼻祖，双代币模型（AXS+SLP），2021年300万DAU，代币通胀崩溃经典案例
+- [[heroes-of-mavia]] — AAA MMO 策略链游（受 Axie/部落冲突启发），三类 NFT（土地/英雄/雕像）+双币模型（RUBY+MAVIA）+Mavia-Match 匹配质押，Binance Labs 等融资 800 万美元
+- [[stepn]] — Move-to-Earn健身应用，代币供应过剩→用户流失，P2E死亡率螺旋案例
+- [[starsharks]] — BSC双token模型创新：SEA子币90%销毁、抛压转向NFT池，2022年Q1活跃用户匀速增长后断崖下跌
+- [[binaryx]] — 强社区共识+大户锁仓驱动，BNX币价因高度控盘反弹但游戏用户寥寥，代币通胀典型
+- [[cryptomines]] — 单币纯资金盘模型代表，极短回本周期吸引资金，断崖式死亡螺旋
+- [[sunflower-land]] — Polygon 链上农场 P2E，种田/砍伐/采矿/养殖多玩法递进，SFL 代币按参与人数递减产出（无预挖），提款滑动税率防倾销，Wishing Well 质押
+- [[big-time]] — 3A 级 MMORPG 链游，以太坊上构建，Epic/暴雪团队，Web2.5 模式，融资 $9000 万+
+- [[arc-agents]] — 游戏 RL 代理平台（ARC SDK/$NRN），AI Arena 对战训练，用 AI 代理解决玩家流动性+动态难度平衡
+- [[dark-forest]] — 首个 zkSNARKs 全链游戏，不完全信息博弈，MIT 团队，V 神背书
+- [[ronin]] — 游戏专用 L1（Sky Mavis），累计 NFT $43B，12+ 游戏，DPoS + zkEVM
+- [[sonic-svm]] — Solana 首个 SVM Layer 2 游戏扩展方案，HyperGrid 多网格架构，$SONIC 代币，TikTok 引流
+- [[immutable-x]] — Ethereum NFT 游戏 L2（StarkEx Validium → Polygon zkEVM），$200M+ 融资，Gods Unchained，游戏 Appchain 代表
+- [[unichain]] — Uniswap 推出的应用链 L2（基于 OP Stack），2025年2月上线，TVL 约 10 亿美元排 L2 前五，>100 应用构建；胖应用理论落地的标志性案例
+- [[illuvium]] — AAA级链游RPG，捕捉"Illuvials"野兽+下注+土地建造，单代币模型（$ILV治理+sILV 1:1合成效用），填补区块链"电影级3D AAA游戏"空白
+- [[rtfkt]] — Nike 旗下数字时尚 NFT 平台（2021收购/2024关停），Clone X 村上隆合作 PFP（$8亿交易量），.Swoosh 平台（Polygon）
+- [[pudgy-penguins]] — 头部 NFT 品牌→消费品牌：OG 8,888 个/150 万玩具 Walmart+Target+Amazon/340 亿 GIF 浏览/PENGU 代币（88.9 亿/Solana 首发/12.17上线/$17.2亿首日市值/地板价36→16 ETH）/母公司 Igloo Inc. 开发 Abstract L2（Founders Fund $11M+）
+- [[azuki]] — 动漫风PFP NFT项目，ERC-721A批量铸造协议发明者，Zagabond创立，BEANZ衍生系列
+- [[bayc]] — BAYC（Bored Ape Yacht Club），Yuga Labs 头部 PFP NFT 品牌，Otherside 元宇宙 10 万块土地，Nat Eliason 对其土地经济模型的成本收益分析（10亿美元市值需年1亿美元现金流）
+- [[1kx]] — 加密风险投资机构，研究驱动型，2025 年发布 Web3 社交图谱投资论文（应用先行/代币化/生态建设/GTM 四维框架）
+- [[10ktf]] — 10KTF，Yuga Labs PFP 个性化商品平台/Gucci Grail 合作方，品牌与 Yuga 生态之间的桥梁
+- [[otherside]] — Yuga Labs 排他性元宇宙，20万 Otherdeed 地块+Koda 角色，双轨 IP 结构（Otherdeed 无知识产权 vs Koda 完整商业许可），与其他 Yuga 系列（BAYC/MAYC/Punks/Meebits）互操作
+- [[moonbirds]] — 2022年4月PROOF Collective发行的PFP系列，8月转为CC0许可引发大讨论，成立Moonbirds DAO，PROOF获a16z等$50M+融资
+- [[proof-collective]] — 俱乐部型NFT PASS旗舰项目，Kevin Rose PROOF播客，NFT持仓（148 CryptoPunks/817 BAYC/499 Meebits/5288 Art Blocks），NFT PASS地板价82.5 ETH
+- [[doodles]] — 涂鸦风PFP项目，2022年任命前Billboard总裁为CEO，$54M融资(估值$7.04亿)，品牌商业化路径代表
+- [[wolf-game]] — 风险协议链游（ERC-20/ERC-721 盗窃交互），被 Pixel Vault 收购，混合架构
+- [[wow]] — World of Women，唯一尝试通过版权转让协议将全部 IP 转移给 NFT 持有者的 PFP 项目，但其在二级市场（OpenSea）的执行存在结构性缺陷
+- [[defi-kingdoms]] — DeFi游戏化先驱，用RPG界面封装DeFi操作（DEX/LP/质押），JEWEL代币，Harmony→DFK Chain
+- [[splinterlands]] — 区块链TCG（2018至今），Hive链核心应用，走通CGG公会模式
+- [[ygg]] — Yield Guild Games，Web3 游戏公会/DAO，NFT 奖学金模式，跨游戏收益社区
+- [[yupp]] — Yupp.ai，AI 模型众包评估平台，a16z crypto 领投 3300 万美元种子轮
+- [[sorare]] — 足球NFT游戏平台，2023年2月170万用户/245俱乐部合作/550万月访问量，获得软银+Benchmark投资，足球链游赛道绝对领先者
+- [[topgoal]] — 足球NFT数字收藏品平台（旗下TopManager模拟经营链游），9位传奇球星IP（德尔皮耶罗/欧文等），币安CZ参与直播，双代币模型GOAL+TMT
+- [[genz-dao]] — Web3 95后/00后青年 DAO，2022年熊市创立，聚焦青年项目孵化（残障人士NFT发行/Web3青年说播客/共学小组等），基于代际身份认同凝聚社群
+- [[gomble-games]] — 新加坡 Web3 休闲游戏，111% 工作室，$10M（Binance/Spartan），1亿用户基础
+- [[roblox]] — 全球最大UGC游戏平台，3.8亿MAU/8000万DAU/60亿小时月时长，NYSE: RBLX，亏损率-38%的结构性分析
+- [[game-science]] — 游戏科学，中国首个开发出全球级3A单机游戏（《黑神话：悟空》）的独立工作室，冯骥创立，约30人团队，14年从失败到成功
+- [[fantasy-westward-journey]] — 梦幻西游，网易旗下运行超20年的2D回合制MMORPG，以其极其稳定的经济系统闻名，点卡制+藏宝阁+生产消费金字塔模式
+- [[netease]] — 网易，中国互联网科技公司（NTES），梦幻西游等经典IP开发商，克制运营/间接变现/藏宝阁抽水商业模式
+- [[circles]] — 个人加密货币+社交信任图谱UBI协议：每人一种个人货币+定期铸造+信任关系1:1汇率+传递性支付，对比Worldcoin生物识别路线
+- [[feng-ji]] — 冯骥，《斗战神》主策划→游戏科学创始人→《黑神话：悟空》制作人，"试试吧"哲学，14年取经路
+- [[cellula]] — 全链 AI 游戏，vPOW 机制，$2M Pre-Seed（SevenX+OKX），"Game of Life"
+- [[crypto-raiders]] — Polygon 上 Roguelike 地下城探险链游，Nat Eliason 任经济顾问，探索降低 NFT 角色门槛的经济设计实践
+- [[clique]] — Web3 身份预言机（ZKP+TEE+MPC），$1100万融资（Polychain/Robot），90% OP AttestationStation 证明来源，GameFi 玩家画像数据基础设施
+- [[yay]] — 日本 SocialFi 应用，900万注册用户，Soneium 生态
+- [[yield-basis]] — Curve创始人Michael Egorov的BTC收益层AMM项目（2025.02），以5000万美元估值募资500万美元，「AMM内嵌AMM」最小化无常损失
+- [[friend-tech]] — 去中心化社交金融应用（Base/Paradigm），bonding curve定价（y=x²/16000），2023年SocialFi现象级产品，2024年近乎归零
+- [[soneium]] — Sony L2（OP Stack），"索尼链"，目标 Mass Adoption
+- [[lens-protocol]] — 去中心化社交图谱协议（Aave孵化），$15M融资，因基础设施碎片化导致失败（Polygon→zkSync+L3），Farcaster 竞争对手
+- [[farcaster]] — 去中心化社交协议（Base 生态），开放数据协议，$10 亿估值，多客户端生态 + 代币化社区 & AI Agent 代币发射器生态
+- [[forefront]] — Forefront，社交代币 DAO，2021 年由 1kx 领投系统化 treasury 多元化出售的经典案例：从 $3mm FDV 初始报价提至 $20mm FDV 完成，预留 20% 社区额度
+- [[oasys]] — 游戏专用公链，Hub+Verse 模块化架构，育碧/世嘉/Com2uS 合作，2022 主网上线，28 款链游
+- [[portal]] — Web3 游戏生态系统（LayerZero），Binance Launchpool #47，Crystal Dash 病毒式营销，$3400万种子轮，10亿 PORTAL
+- [[balance]] — Web3 游戏平台+zkEVM L2，前身北美最大陪玩平台E-PAL（420万用户），a16z+Galaxy领投$3000万
+- [[beefy]] — 跨链收益耕作协议（mooBIFI），采用 xERC-20 标准实现多桥并行支持的跨链代币部署
+- [[believe]] — Solana Meme Launchpad（Ben Pasternak创立），Twitter社交发币(@LaunchACoin)，Scout激励，B点机制，1%创作者永久分润，18亿美元累计交易额
+- [[index-coop]] — 去中心化指数协议，DPI+杠杆比率代币（ETH2xBTC/BTC2xETH），将特定交易意图代币化为ERC-20
+- [[jones-dao]] — DeFi 结构化产品和收益策略协议，$JONES代币排放曲线分析显示私募解锁期月通胀率从1.36%翻倍至约3%（2022年4-10月），新增代币全部流向折扣价入场的投资者
+- [[alchemix]] — DeFi协议，Flux代币将veToken时间锁代币化，通过销毁Flux解锁锁仓头寸，消除liquid locker中间人
+- [[matr1x]] — Web3娱乐平台，MATR1X FIRE射击手游300万+下载，$MAX以1.6亿FDV低估值上线OKX，2000-3000万融资，Folius/Hana/OKX/Makers Fund/SevenX/Amber投资
+- [[decentraland]] — 最早的去中心化元宇宙平台（2017），基于以太坊的3D虚拟世界，DAO治理+LAND NFT+MANA代币，创下350万美元/块地价纪录，JPMorgan等入驻
+- [[the-sandbox]] — 元宇宙第二（2011游戏→2020链改），SAND代币+LAND NFT，Snoop Dogg/Gucci/Adidas/汇丰等IP联名，Animoca Brands开发
+- [[pixels]] — Ronin 链上像素风格 Web3 游戏，年化收入 $2000 万，70-80% 玩家支出为有机消费，可持续代币经济典范
+- [[playerone]] — 多链元宇宙沙盒平台（2022），四个编辑器产品矩阵、LayerZero 七链互操作、RarityScore 机制、O2E 经济模型，SIG 和 The9 领投
+- [[double-jump-tokyo]] — 日本链游开发公司，Oasys 创始团队，开发《我的加密英雄》，与世嘉/Square Enix/万代南梦宫合作
+- [[cyberconnect]] — 去中心化跨链社交图谱协议，种子 $1000 万 + A 轮 $1500 万，CYBER 代币
+- [[next-id]] — Mask Network 身份管理产品，Web2+Web3账号聚合+Avatar开发者体系，全网身份基础设施
+- [[space-id]] — BNB Chain生态的Web3域名服务，.bnb域名注册，Binance官方支持，迭代速度快于ENS
+- [[deso]] — 专为去中心化社交构建的 L1 区块链，募资超 $2 亿但仅 ~500 DAU，投入产出比最差的社交图谱案例
+- [[atem-network]] — Web3 Token/NFT 群组社交平台，"聊天即交易"，群组空间由 DAO 治理
+- [[relation-labs]] — 多链去中心化社交图谱 + Rust 图数据库，Relation One DApp
+- [[5degrees]] — TokenPocket 孵化 Web3 社交协议，ERC-1155 标准，为 DApp 添加社交模块
+- [[galaxy]] — Galaxy Digital (Michael Novogratz)：加密金融服务全牌照（交易/资产/投行/研究），多份具有市场影响力的行业研究报告发布方
+- [[galxe]] — 链上凭证平台（原 Project Galaxy），$1000 万融资，GAL 代币+SBT 护照
+- [[debox]] — 基于 DID 的社群管理工具，DBX 10 亿代币，微信式用户体验
+- [[satellite-im]] — 去中心化点对点通信，$1050 万种子轮，4K 视频+4GB 文件共享
+- [[bbs-network]] — 去中心化 Reddit，Binance Labs $150 万，帖子 NFT 化+预测声誉
+- [[meet48]] — AI+Web3偶像粉丝平台，丝芭传媒（SNH48），千万粉丝，GameFi+SocialFi+AI融合
+- [[modhaus]] — 韩国Web3粉丝参与型经纪公司，tripleS和ARTMS，NFT fotocard+链上投票，Billboard认可
+- [[yoake]] — 日本秋元康（AKB48创始人）区块链粉丝平台，Soneium L2，计划$YOAKE代币，60,000+新用户
+- [[alt-town]] — 虚拟艺人价值代币化平台，"DNA"代币让粉丝参与艺人成长，去中心化融资新路径
+- [[fansland]] — Web3音乐节+NFT票务平台，iMe娱乐（500+场音乐会），Fantopia票务，2024曼谷首届音乐节
+- [[wemade]] — 韩国游戏公司，MIR 4 Global（140万CCU/620万MAU），自建WEMIX Chain L1生态，代币融资$2.5亿
+- [[netmarble]] — 韩国$40B市值游戏公司，双平台策略（Marblex+FNCY），Ni no Kuni 95%代币销毁率，三款链游1300万用户
+- [[hamster-kombat]] — Telegram Tap-to-Earn游戏，239M注册用户（3个月）/950M MAU（Tiger Research），YouTube一周10M订阅（吉尼斯纪录），TON链
+- [[notcoin]] — TON生态首个现象级Tap-to-Earn，$1B FDV Binance上线，95%社区分配，244万链上持有者，跨项目$NOT消费销毁机制
+- [[catizen]] — TON游戏唯一验证变现能力：$10M+ IAP/7%付费率（行业均值0.66%的10x），WeChat小游戏背景，42%社区空投
+- [[dogs]] — TON Memecoin，基于Telegram账户年龄分配，1000万链上持有者（TON最高）/日交易峰值1440万笔，空投期间导致TON宕机（TokenTable→Mass Sender紧急切换）
+- [[tapswap]] — Telegram Tap-to-Earn游戏，60M+玩家，两次TGE跳票（5月→7月→Q3），Pavel Durov点赞
+- [[pixelverse]] — 赛博朋克游戏生态+PixelTap，50M+玩家，$7.5M融资（Delphi/Galaxy/Crit），PIXFI代币
+- [[memefi]] — Telegram Tap-to-Earn游戏（差异化：Linea非TON），20M+用户，$MEMEFI 90%社区空投
+- [[dotcoin]] — Telegram Tap-to-Earn游戏，17M+用户，DTC挖矿功能上线即宕机（800万并发请求）
+- [[mud]] — 首个Web3全链游戏引擎（Lattice开发），基于ECS架构，先发优势+大社区，MUD v2已有游戏上线
+- [[forte]] — 区块链游戏一站式服务平台，覆盖全生命周期（做市/合规/工具/玩家服务/游戏创作/经济模型），内置AML/KYC
+- [[xteriogames]] — Web3游戏平台+发行商，早期$4000万融资（FunPlus/Makers Fund/XPLA领投），2023年7月Binance Labs $1500万追加投资，FunPlus/EA/动视暴雪等顶级工作室团队，多平台（PC+移动），目标是Web3版TapTap
+- [[cartridge]] — Starknet生态游戏集成平台，"Web3的Steam"，提供Cartridge Controller+Dojo Engine
+- [[dubai-web3-gaming]] — 迪拜 Web3 游戏生态：DPG33 目标 2030 年 GDP 贡献 40 亿美元 + 27,000 就业，DMCC 100+ 游戏公司，AI Agent 协同定位
+- [[dmcc]] — 迪拜多商品中心：游戏+加密货币双部门自由区，Web3 游戏核心执行机构，100+ 游戏公司入驻，Crypto Centre 注册 460 家区块链公司，元宇宙平台一站式服务，Crypto Oasis 连接瑞士
+- [[degame]] — Web3游戏聚合平台，收录4795款游戏/77条链/1356种Token，累计融资$1000万+，180万+任务用户
+- [[hyperplay]] — Web3原生游戏启动器和商店聚合器，跨游戏资产互操作，$1200万融资（2023.06）
+- [[zealy]] — Web3社区任务平台（前Crew3），$350万pre-seed，以Web3 Discord为定位
+- [[questn]] — Web3任务活动平台（前Quest3），Hogwarts Labs孵化，聚焦长尾B端客户
+- [[rabbithole]] — 去中心化链上激励互动平台，$1800万A轮（Greylock+TCG Crypto），Web3教育定位
+- [[taskon]] — Web3任务协作平台（Moonbeam生态），92.9%真实用户率，API-Verified自动验证
+- [[poap]] — 出席证明协议，Web3最早徽章项目，916,332钱包持有（2022/8），Vitalik背书为"区分真人与机器人的方式"，被视为SBT前身
+- [[koii-network]] — 去中心化创作者生态系统，"注意力经济"代币奖励 + Atomic NFT（NFT+元数据同链确权）
+- [[runescape]] — 经典MMORPG（2001年至今），以其深度经济系统和"水槽"机制设计闻名，建筑技能/债券系统/大交易所2%贸易税/"善意之井"慈善活动等经济创新
+- [[eve-online]] — 大型多人在线太空沙盒游戏（2003年至今），交易税为最大ISK回收通道，经纪人费用第三，ESS更新机制调控通胀
+- [[aavegotchi]] — Aave生态NFT驱动的DeFi游戏，社区开发小游戏生态，不同特质Aavegotchi适配不同游戏
+- [[gaia-online]] — 虚拟形象社交社区（2003年至今），2009年救助活动创新社区经济"水槽"机制
+- [[ultima-online]] — 首个获得广泛知名度的图形化MMORPG（1997），玩家住房系统催生eBay虚拟房地产黑市，成为第一个成熟的VRE市场；空地$600、完工房屋$150-$2,500（2004年）
+- [[entropia-universe]] — 首个实现虚拟货币与法币官方双向兑换的虚拟世界（2003），1 PED=$0.10；诞生$26,500岛屿和$100,000小行星度假村等天价VRE交易
+
+### DeFi & 基础设施
+- [[cetus]] — Sui生态早期DeFi龙头DEX，主网上线一月占65%+ TVL，集中流动性模型
+- [[navi]] — Sui生态最大借贷协议，DEX聚合器+流动性质押+借贷一站式，$714M TVL，80万+用户
+- [[suilend]] — Sui生态第二大借贷协议，TVL $387.5M，AUSD 75.80%锁仓，APY ~11.19%
+- [[szns]] — Sui专属区块链数据索引方案，对象模型稳定币追踪+DeFi流动性映射
+- [[chainlink]] — 去中心化预言机网络龙头 + CCIP跨链互操作性协议，保障数百亿美元资产，$8万亿+链上交易价值
+- [[hardhat]] — 最主流以太坊智能合约开发框架（JavaScript/TypeScript），2021年起超越Truffle成为事实标准
+- [[brownie]] — Python以太坊智能合约开发框架，Curve/Yearn使用，作者（Chainlink开发者倡导者）首选
+- [[openzeppelin]] — Solidity合约标准库/安全监控平台，行业事实标准，约80%教程使用
+- [[foundry]] — Paradigm出品的Rust以太坊开发框架，DappTools现代继任者，内置模糊测试
+- [[slither]] — Trail of Bits静态分析工具，EVM智能合约安全审计事实标准
+- [[slowmist]] — 慢雾科技(区块链安全公司)，MistTrack链上追踪工具，Bybit黑客深度分析/WazirX/Radiant Capital攻击模式识别
+- [[tenderly]] — 以太坊智能合约生产监控与调试平台
+- [[pyth]] — 去中心化预言机网络，Solana最大预言机，TVS市占率8.95%，Pull-based架构，90+价格喂价，$PYTH总供应100亿枚
+- [[redstone]] — 模块化区块链预言机，专注收益率资产/RWA/NAV定价，Securitize首选预言机合作伙伴，100+链部署，2025年6月发布最全面RWA全景研报
+- [[aave]] — 最大借贷协议（+ Umbrella 安全模块 / AAVEnomics / Morpho 竞争）
+- [[aevo]] — 链上期权 DEX（Ribbon Finance 转型），Pre-Launch 期货+aeUSD 收益抵押资产，自有 OP Stack L2，Paradigm 875 万美元 B 轮
+- [[morpho]] — P2P 利率优化器 + Morpho Blue 无许可借贷基础层，$10 亿存款，a16z 投资（+ PayFi 嵌入式收益层）
+- [[euler]] — 模块化隔离式借贷协议，Euler v2支持隔离借贷对+先进风险工具，2024年重启后显著复苏
+- [[fun-xyz]] — Web3 支付层，Checkout 跨链结账（流动性聚合器+路由引擎+SDK）
+- [[gauntlet]] — DeFi 风险管理 + 收益策略平台，USD Alpha ($gtUSDa) 动态分配至最优借贷市场，回测 7.76% Alpha 收益
+- [[re7]] — 加密原生资产管理公司，深耕Morpho生态专业金库，托管TVL约23%份额
+- [[steakhouse-financial]] — 加密原生资产管理公司，Morpho托管TVL约27%份额，第二大加密原生资管
+- [[perena]] — Solana 稳定币流动性层 StableBank，USD\* 收据代币 + 收益聚合，v2 智能路由跨链扫描最优汇率
+- [[uniswap]] — 最大 DEX（+ 费用开关争议 / Labs前端收费）
+- [[opensea]] — 全球最大NFT交易市场，累计融资$4.2亿+，C轮估值$133亿，基金会2024年12月上线暗示潜在发币
+- [[looksrare]] — NFT交易市场，2022年1月上线，LOOKS代币空投+交易挖矿对OpenSea发起"吸血鬼攻击"，2022年挑战者三巨头之一
+- [[x2y2]] — NFT交易市场，2022年2月上线，X2Y2代币"挂单挖矿"模式，版税政策摇摆（可选→取消），2022年挑战者三巨头之一
+- [[sudoswap]] — NFT AMM协议，2022年7月发布sudoAMM联合曲线定价，率先支持零版税，打破NFT市场竞争格局
+- [[magic-eden]] — 多链NFT市场（Solana→Bitcoin→Ethereum），2023年3月率先采用PSBT+外置钱包支持BTC Ordinals交易
+- [[okay-bears]] — 2022年 Solana NFT 标杆项目，被称为"Solana 上的 BAYC"，24h 销售超 1,200 万美元，熊市品牌叙事+中性画风+务实路线案例
+- [[zora]] — NFT铸造协议+自有L2（Zora Network）+ Instagram式链上社交网络，创作者币+$ZORA双层飞轮，$50M融资/100亿$ZORA供应，2025年TGE后SocialFi叙事回温
+- [[sound-xyz]] — 音乐NFT发行平台，500万美元种子轮（a16z领投），2022年早期精选策略+艺术家内推制度+Twitter Space发售仪式，800名收藏家
+- [[mint-songs]] — 音乐NFT开放入驻平台，~500艺术家/~1500收藏家/~2000活跃用户，创新海报NFT策略+现场活动转化（10%入场率），MoonPay法币入金合作伙伴
+- [[rcrdshp]] — 音乐NFT游戏化平台，95%交易通过信用卡，盲盒/集卡挑战机制，Solarstone神话级卡片奖励，精选策略控制供应和质量
+- [[nftx-protocol]] — NFT流动性协议，NFT→vToken（ERC20）转换+AMM交易，铸币费5%/定向赎回费5%，FDV $57.7M/保险库$39.3M（2022年中数据）
+- [[flamingodao]] — 营利性 NFT 投资 DAO，以 $762k ETH 购买稀有 CryptoPunk，2021年早期 NFT 投资 DAO 代表
+- [[floordao]] — 去中心化NFT做市协议，Olympus债券+rebase机制为NFTX保险库提供深度流动性，2022年2月LBP公平启动
+- [[jpeg-d]] — 去中心化NFT借贷协议，Chainlink预言机定价，初始利率2%/最高借出32%/清算阈值33%，FDV $142M（2022年中数据）
+- [[pilgrim-protocol]] — NFT低流动性资产原子估值系统，独创算法模型实现价格与流动性正相关+0滑点，$PIL固定上限10亿枚
+- [[fractional-art]] — NFT碎片化龙头协议，Delphi/Paradigm投资，支持高价值NFT部分所有权
+- [[bend-dao]] — NFT P2POOL借贷协议（2022年3月上线），TVL 73,000 ETH（$1.1亿），熊市中BAYC/Azuki面临死亡螺旋风险
+- [[bitscrunch]] — AI驱动的NFT洗盘交易检测与价格预测平台，覆盖12条链，日均API调用超1亿次
+- [[nftscan]] — 多链NFT数据聚合器，提供批量交易分析与版权溯源服务，OpenSea/Blur等头部平台集成其数据API
+- [[genie]] — 首个NFT聚合器（2021年8月推出），总交易量14,700 ETH（$4.46亿），后被Uniswap收购
+- [[gem]] — NFT聚合器后来居上，日交易量超越Genie，后被OpenSea收购
+- [[banksea]] — AI驱动的NFT定价预言机，机器学习+博弈论+多节点惩罚，Hackathon获奖项目
+- [[abacus]] — NFT博弈论定价协议，"竞争对手激励估值"机制将质押率从30%提升至70%
+- [[solidly]] — Fantom ve(3,3) DEX 首创者（Andre Cronje），TVL峰值$23亿，创始人离场后归零，代码分叉500+
+- [[shadow-exchange]] — Sonic链 x(3,3) DEX龙头，总交易量破100亿美元，Sonic 86%收入来源，全球DeFi收入前十
+- [[aerodrome]] — Base 上 ve(3,3) DEX 龙头，100% 收入回馈持有者，年收入 $1 亿+
+- [[flying-tulip]] — Andre Cronje 全栈链上交易所，首创永续看跌期权，募资 10 亿美元
+- [[pancakeswap]] — 多链 DEX 龙头，BNB Chain 原生，2025 年中 7 天 DEX 市占率 74.6%，7 天交易额 $773.5 亿，30 天收入 $6.6 亿，支持 9 条链，集成 Solana
+- [[bakery-swap]] — BNB Chain AMM DEX + BNB Chain 首个 NFT 交易平台 + Launchpad，代币 BAKE 流通市值 8470 万美元（2025.02）/24 小时涨幅 91%
+- [[lista-dao]] — BNB Chain 借贷协议，TVL 超 $12 亿（较年初 +900%），累计借贷 $6.3 亿，slisBNB/lisUSD 多抵押品，与 WLFI USD1 合作
+- [[aster]] — Perp DEX 双模式（Simple AMM + Pro CLOB），Hidden Orders 隐私交易，深度绑定 BNB 生态，PancakeSwap perp 后端集成，YZi Labs 投资；2025 年中 24h 交易量 $4.5 亿排 Perp DEX 第二
+- [[aperture-finance]] — 基于意图的 DeFi 协议，AI 自然语言界面 + Intents DSL + Solver DAO，累计结算约 50 亿美元
+- [[thena]] — BNB Chain ve(3,3) DEX 超级应用，现货+永续(270+交易对/60x)+社交交易+Launchpad，币安 HODLer 空投项目
+- [[thirdweb]] — Web3 无代码开发平台 / NFT 发布一站式解决方案，支持智能合约部署/铸造/空投/版税全流程，封装市场最佳实践
+- [[across-protocol]] — 跨链桥协议，基于意图架构，60%+以太坊桥接市场份额，秒级延迟
+- [[kamino]] — Solana DeFi流动性管理平台，$14M ARR，年化$30M用户利息
+- [[balancer]] — 可定制权重池 AMM，巅峰 TVL $20 亿+，CoW AMM 联合开发
+- [[bancor]] — 第一个 AMM DEX，2017 年 6 月上线，IC0 $1.53 亿
+- [[bunni]] — Uniswap V4 钩子 DEX，超出范围钩子将闲置流动性部署到借贷协议（Aave/Yearn 等），LP 双重收益（手续费+利息）
+- [[burnt]] — 通用链抽象协议，元账户设计（不可知签名/参数化费用层/状态机更新），2024 年链抽象四大参与者之一
+- [[etherdelta]] — 第一个 CFTC 注册以太坊 DEX，SEC 追诉首例，2018 年跑路
+- [[compound]] — 第一个 ETH/ERC20 跨资产借贷协议，2018 年上线，引爆 DeFi Summer
+- [[cow-protocol]] — 意图驱动 DEX（CoW Swap + CoW AMM），批量拍卖+Solver 竞价机制，MEV 捕获型 AMM 消除 LVR
+- [[counterparty]] — 比特币上最早的 DeFi 平台（2014），XCP 代币，Rare Pepe NFT 发源地
+- [[gnosis]] — 去中心化预测市场（2015），Martin Koppelmann 的 DeFi 帝国起点
+- [[polymarket]] — 最大链上预测市场，Polygon 链上结算，月交易量 $4 亿，累计融资 $7000 万，尚未发币
+- [[azuro]] — 预测市场底层协议，流动性树概念支持跨事件共享流动性，$AZUR 代币，融资 $1100 万
+- [[predx]] — SEI 链 AI 驱动预测市场，债券曲线票价系统 + 无 $1 上限，估值 $2000 万
+- [[drift-protocol]] — Solana DEX + BET 预测市场（Bullish on Everything），支持 30+ 加密资产，24h 交易额一度超越 Polymarket
+- [[kalshi]] — 美国首个CFTC持牌预测市场交易所，2024.9胜诉CFTC，选举夜单日$1B/$1.97B年交易额，$100M融资/$1B估值，市占率超Polymarket
+- [[football-fun]] — Base 链足球球员份额交易平台，14天TVL超$10M/日交易$14.85M，球员份额总市值$935M，$2M种子轮
+- [[limitless]] — 超短期链上预测市场（1分钟至1天），Base/Arbitrum，三个月交易量$250M，$7M融资，数据造假争议
+- [[myriad-markets]] — 内容原生预测市场，Chrome扩展6万+用户，Abstract链，41.5万钱包/120万次预测
+- [[fantasy-top]] — SocialFi KOL卡牌游戏，Base链，DragonFly领投$4.25M，累计协议费$7.05M，从Blast迁移
+- [[noise-xyz]] — 注意力叙事合成资产交易平台，MegaETH，RAI指数5x杠杆，Kaito数据源，$7M种子轮
+- [[flipr]] — 社交预测市场，"预测市场的社交层"，X(Twitter)嵌入下注，$FLIPR两月百倍（200万→2100万），匿名团队无融资
+- [[augur]] — 以太坊首个去中心化预测市场（2015年ICO），REP代币众包报告+分叉防共识失败机制，Vitalik投注获利$58K
+- [[uma]] — 乐观预言机协议，Polymarket/Across基础设施，DVM双层架构+秒级响应，$UMA市值$124M
+- [[pnp-exchange]] — Solana无许可预测DEX，LLM预言机自动结算（Perplexity+Grok），联合曲线定价，$PNP市值$1.6M
+- [[hedgemony]] — AI自主预测交易算法，2500新闻源/秒+60秒窗口执行高频交易，自报$1B估值（未证实），集中度极高
+- [[lido]] — 最大 LSD 协议（stETH）（+ PE压缩 31.6→13.7）
+- [[rocket-pool]] — 去中心化ETH流动性质押协议，rETH，分级资产设计（16ETH优先+16ETH劣后），RPL代币
+- [[ssv-network]] — DVT基础设施，SSV代币，消除ETH质押单点故障，Lido上游安全层
+- [[stader]] — 多链STaaS，SD代币，Terra起家后扩展多链，Pantera/三箭资本投资
+- [[eigenlayer]] — 再质押协议，外源性 AVS（+ EigenDA / DVT 集成）
+- [[mellow]] — 无许可LRT市场协议，EigenLayer"推送模式"→Rocketpool"拉取模式"替代方案，支持数百差异化风险谱系
+- [[eigenda]] — EigenLayer 旗舰 AVS，高性能数据可用性层，按需 0.015 ETH/GB 降低 rollup DA 成本 ~99%
+- [[edgex]] — Perp DEX（StarkEx L2），移动端优先，Amber Group 孵化，V2 模块化金融系统（交易/流动性/借贷/钱包即插即用），韩国社区热度高
+
+- [[solayer]] — Solana Restaking，内源性 AVS
+- [[solv-protocol]] — BTC 生态 DeFi 协议，「链上微策略」，SolvBTC + SAL 质押抽象层，25,000+ BTC 锁仓，15 链 50+ 协议
+- [[hyperliquid]] — Perp DEX 龙头 + L1，无 VC 路径，荷兰拍上币，$6.2B 空投；JELLYJELLY 空头挤压事件验证了"CEX 级干预能力"的双刃剑效应；30 天费用 $69.15M 超越多数主流 L1
+- [[synfutures]] — Perp DEX，Oyster AMM 26,666x 资金效率，Base 上 68% 份额，Q2/Q3 全链 Perp #3（14.11%），2024-12-06 TGE
+- [[superp]] — BSC Perp DEX 龙头，定位「Meme 版 Hyperliquid」，NoLiquidation Perp + Meme Perp + Alpha Perp 三大产品，万倍杠杆+永不爆仓，SUP 代币上线 Binance Alpha
+- [[pendle]] — 收益代币化协议，PT/YT 分离，利率衍生品市场（+ TVL腰斩事件）
+- [[peng-wensheng]] — 中金公司首席经济学家，从宏观经济视角分析稳定币（狭义银行/货币竞争/平台货币即人民币稳定币）
+- [[curve]] — 稳定币 AMM DEX，crvUSD，veTokenomics，交易量跌至第8
+- [[convex-finance]] — 收益聚合器/veCRV代币化协议，CVX排放量取决于CRV收益且通胀率持续下降至1亿上限，锁仓17周周期导致批量解锁事件（2022年1月首批解锁与价格下跌高度相关）
+- [[vessel-finance]] — ZK 驱动 DEX + L3，VAELOB 订单簿+AMM 融合，红杉参投 $1000 万，2024 年 8 月封闭 alpha 阶段
+- [[jupiter]] — Solana DEX聚合器+Perps+生态基建运营商，JLP飞轮，6个月收购5平台（SolanaFM/Coinhall/Sonarwatch/Ultimate Wallet/Moonshot），JUP价值捕获困境
+- [[ethscriptions]] — ETHS 以太坊铭文协议+Facet VM，Ordinals 仿盘，桥单 signer 安全硬伤
+- [[frax]] — 多产品线DeFi协议：稳定币+LSD+RWA+L2 Fraxtal
+- [[olympus-dao]] — DeFi 2.0开山协议，非钉住法币的储备货币OHM，首创协议拥有流动性（POL）模型和(3,3)机制，市值最高达35亿美元，被广泛分叉
+- [[daos-fun]] — Solana AI 对冲基金 DAO 创建平台，ai16z 母平台，市值曾近 $1 亿，后热度回落
+- [[daos-world]] — Base 上 DAO 对冲基金发行平台，预售→Uniswap V3 上线→基金经理主动管理，单边流动性设计阻止即抛
+- [[coordinape]] — 去中心化主观贡献评估与薪酬分配平台：Peer-to-Peer 积分打赏制，自动生成社区关系网络图，将"赏赞经济"内化到 DAO 组织
+- [[snapshot]] — 去中心化链下投票基础设施，DAO 治理标准平台：代币加权信号投票（Gas-free），与 Gnosis SafeSnap/Zodiac 集成实现从链下投票到链上执行的闭环
+- [[daohaus]] — 基于 Moloch 框架的 DAO 部署与管理平台：一键创建 DAO、提案投票、Boosts 插件系统（Discord/Discourse/Gnosis Safe 集成）
+- [[syndicate]] — DAO 创建与法律基础设施，与 Doola 集成提供法律实体注册和"投资俱乐部"SEC 合规结构，支持非认证投资者合法参与
+- [[utopia-labs]] — DAO 贡献者薪酬支付和费用管理平台，支持多钱包记账，曾被 FWB/PleasrDAO/SquiggleDAO 等大型 DAO 采用
+- [[debank]] — 去中心化数字资产管理平台/DeFi数据聚合器，$2亿估值/$2500万融资（红杉中国领投），30+链/1000+协议收录，Web3 ID+Hi社交变现模式
+- [[dydx]] — Perp DEX龙头，V4迁移Cosmos Chain，71%代币未解锁
+- [[trader-joe]] — Avalanche最大DEX，LB流动性簿，Joe Stack路线图
+- [[orderly-network]] — 全链流动性基础设施/"流动性中央厨房"B2B2C模式/$2500万融资/7链部署/20+DEX/$740万净收入
+- [[opyn]] — 去中心化方差永续合约协议，4种产品（0-perps/0.5-perps/1-perps/2-perps），支持螃蟹策略+禅牛策略等组合交易
+- [[logx]] — 跨链永续合约流动性基础设施，DAMN离散资产市场中性AMM池，跨链流动性聚合+L1公链双定位
+- [[lighter]] — Perp DEX（应用专用 ZK-Rollup），可验证过程撮合引擎（Price-Time Priority 编码进 ZK 电路），0 手续费策略，日均 $38 亿交易量（第二名），前 Citadel 创始人，a16z/Coatue 投资
+- [[monad]] — Parallel EVM L1，Paradigm $30 亿估值，Jump 交易基因
+- [[sei]] — Cosmos Parallel EVM L1（Sei V2），Geth 导入+Optimistic 并行化+SeiDB，DeFi 特化但叙事弱于 Monad
+- [[movement]] — Move 模块化框架，Solidity→Move 自动转译，$3800 万 A 轮（Polychain/Hack VC/Binance Labs）
+- [[megaeth]] — 实时 L2，1-10ms 出块/10 万+ TPS，EigenDA，中心化排序器设计
+- [[meteora]] — Solana 流动性层/DLMM DEX，原 Jupiter 团队开发（原 Mercurial 转型），TVL 峰值 $13 亿（2024.1），单边池支持 Dev 自动出货/吸筹，$TRUMP/$LIBRA 使用
+- [[solana]] — 高性能 L1，SVM 标准，Meme/PayFi/DePIN 生态
+- [[base]] — Coinbase L2（OP Stack），AI Agent + NFT 生态，隐私+钱包+稳定币升级
+- [[bittensor]] — TAO，去中心化 AI 网络，子网架构+dTAO双代币提案，$40亿市值但散户排斥催生寄生型meme，前5验证者>65%质押集中度
+- [[layerzero]] — 全链互操作性
+- [[axelar]] — 通用跨链覆盖网络，Cosmos SDK/PoS验证器集/全栈安全路由转换服务，AXL代币总量10亿
+- [[lazarus-group]] — 朝鲜国家背景黑客组织，2023-2024年累计盗窃$20亿+加密资产，主责2025年Bybit $14亿+黑客，涉及Atomic Wallet $1亿+钓鱼、Ronin Bridge $6.2亿社会工程学攻击
+- [[monkey-drainer]] — 2022-2023年"耗尽程序即服务"工具包，通过欺骗性网站诱导用户签署恶意授权，从数百钱包窃取$430万+
+- [[monkeyleague]] — Solana上街机足球链游，体育馆NFT+观众影响比赛机制，300万美元融资（Solana Capital/DraftKings参投），双代币MBS+SCORE
+- [[stargate]] — LayerZero 上旗舰跨链桥，统一流动性 + 即时最终性
+- [[stix]] — 加密货币二级OTC交易平台，2023年初成立，专注于锁定代币场外买卖，创始人Taran
+- [[lumoz]] — ZK-RaaS 平台 + ZK-PoW 挖矿网络 + EigenLayer AVS 计算层 (zkProver/zkVerifier)，$1.2 亿估值 / $1000 万融资，已助推 ZKFair 和 Merlin Chain
+- [[celestia]] — 模块化 DA 链
+- [[rollkit]] — Celestia 生态模块化 Rollup 框架（原 Rollmint/Optimint），通用 DA 层接口支持任意 DA 插入，含争议性 Bitcoin DA 集成
+- [[babylon]] — BTC 质押协议，对标 EigenLayer
+- [[lombard]] — Babylon 生态 BTC LST 协议，LBTC，Polychain $1600万种子轮领投，以太坊 DeFi 集成
+- [[bedrock-defi]] — 多资产 LSD 协议（uniETH/uniBTC/uniIOTX），Babylon 第一阶段最大委托人（297.8 BTC，30%）
+- [[pumpbtc]] — Babylon 生态 BTC LST 协议，pumpBTC，组队模式+积分激励，2333 质押地址
+- [[lorenzo-protocol]] — Babylon 生态 BTC 流动性金融层，本息分离模型（stBTC+YAT），Binance Labs 投资
+- [[pstake-finance]] — 老牌 PoS LSD 协议（Cosmos 起家），Babylon BTC 质押方案 yBTC，$2000万+融资
+- [[chakra]] — ZK 证明 BTC 再质押协议，Babylon 生态，ABCDE/StarkWare 投资，未成功委托
+- [[satlayer]] — Babylon 生态 BTC 再质押层，BVS（比特币验证服务），Hack VC $800万 Pre-Seed 领投
+- [[bouncebit]] — BTC 生态 CeFi+DeFi 融合收益协议，流动性托管+再质押+多重安全机制
+- [[bounce-finance]] — 去中心化拍卖平台（2020.9），AaaS拍卖即服务，AUCTION代币，Coinbase/Binance/Pantera投资，BSSB和MUBI的IDO平台
+- [[dao-maker]] — 2019年创立的Launchpad，SHO机制（质押$DAO获分配权），179场发行/募资$1.07亿，2025平均ROI 0.14x
+- [[seedify]] — 2021年创立的社区驱动Launchpad($SFUND)，100+发行/募资$4000-5500万，历史最高ROI~8x，联合曲线+社交分配+退款机制
+- [[cointerminal]] — 2023年底上线零门槛IDO平台，BNPL(先买后付)+Chainlink VRF抽签+退款机制，75次销售/$6500万/1590%平均回报率/50万用户
+- [[fjord-foundry]] — 基于LBP(流动性引导池)的公平发行平台（前Copper），多链部署，聚焦DeFi/DAO/DePIN基础设施项目
+- [[coinlist]] — 最成熟合规ICO/ITO平台，严格KYC/AML，2025上半年8次销售，峰值回报1.5-6x，聚焦基础设施项目
+- [[yala]] — BTC 生态多链稳定币协议，利用 BTC 流动性发行多链稳定币
+- [[rgb-protocol]] — 比特币智能合约协议，客户端验证+一次性密封（Peter Todd 2016），闪电网络兼容；RGB++ 同构绑定（CKB/Cardano/Fuel），从客户端验证到乐观托管
+- [[lightning-network]] — 比特币Layer2状态通道网络，2015提出/2018实施，RSMC+HTLC双协议栈，理论无限扩展
+- [[dlc]] — 谨慎日志合约，Tadge Dryja 2017发明，断言机+适配器签名实现链上不可见的BTC条件支付，lit闪电网络执行环境
+- [[bennythedev]] — 比特币生态核心开发者（LooksOrdinal/TRAC/TAP/PIPE协议），基于 Casey Rodarmor Runes 概念实现了首个可用协议 PIPE
+- [[casey-rodarmor]] — Ordinals 协议和 Runes 协议创始人，2022年12月创建 ORD 开源软件，引入铭文（Inscriptions）和序数（Ordinals）概念催生比特币 NFT 生态
+- [[domodata]] — BRC-20 代币标准创建者，2023年3月8日提出 BRC-20 实验性标准，使用 JSON 格式铭文部署和转移代币
+- [[blockstream]] — 比特币基础设施公司（2014），Adam Back创立，Bitcoin Inquisition测试网，闪电网络/OP_CAT推动者
+- [[liquid-network]] — Blockstream比特币侧链（2015），2分钟确认/Confidential Transactions隐私交易/Federated Peg联邦锚定
+- [[rootstock]] — RSK比特币智能合约平台（2015提出/2018上线），BTC双向锚定+合并挖矿+EVM兼容
+- [[stacks]] — 比特币智能合约平台（2013提出/2017 ICO），Stacking/PoX共识（BTC奖励）+Clarity可判定语言
+- [[atomicals]] — BTC 一层智能合约协议，ARC-20 代币标准（1 token=1 sat），AVM 虚拟机 Beta 发布（2024.08），被部分玩家视为"最理想的 L1 智能合约方案"
+- [[eclipse-l2]] — 首个 SVM 以太坊 L2（ETH 结算 + Solana 执行 + Celestia DA），累计融资 $65M（含 $50M A 轮 Placeholder/Hack VC 领投），主网计划 2024 Q2
+- [[neon-evm]] — Solana 上 EVM 兼容层（作为 Solana 智能合约运行），支持 Solidity/Vyper/MetaMask，被 Eclipse 集成
+- [[merlin-chain]] — BTC L2，TVL 峰值 $36 亿
+- [[brc420]] — 比特币生态模块化递归铭文协议，扩展Ordinals支持复杂链上应用（游戏道具合成/元宇宙资产格式），TVL超$8亿，Merlin Chain深度集成
+- [[merlinswap]] — Merlin Chain 核心 DEX，iZUMi DaaS，$MP 210亿总供，40万+空投用户
+- [[unicross]] — BTC L2 铭刻工具，多协议铸造，UniCross Genesis NFT 0.115 BTC底板
+- [[dragonverse-neo]] — MOBOX BTC首个3D开放世界游戏，龙珠铭文$1360万，计划BTC游戏L3
+- [[surf-protocol]] — Merlin Chain 衍生品协议，50x杠杆，币安MVB，聪本位保证金
+- [[bitsmiley]] — BTC超额抵押稳定币+借贷，MakerDAO+Compound模式，bitDisc-Black $3467万
+- [[bevm]] — BTC EVM 兼容 L2（侧链架构），BTC 为 Gas，BSWAP DEX+BITBOX 铭文服务，未发币暗示空投
+- [[tectum]] — BTC 覆盖网络，SoftNote 票据化支付转账（零费用/即时/邮件转账），HashDrive 算法宣称 100 万+ TPS
+- [[fractal-bitcoin]] — BTC 原生扩展/侧链，UniSat 团队
+- [[dotswap]] — BRC20首个原生AMM DEX，PSBT+veToken经济模型（类Curve），DSWP总量12亿（2.3%流通），创始人林哲明
+- [[ordiswap]] — BRC20 DEX+桥+稳定币BTSD，ORDS总量100万（$16/枚），Fjord Foundry公售
+- [[turtsat]] — Ordinals社区Launchpad（Ordinals的Gitcoin），TURT/EGGS双层代币设计，313.4M质押
+- [[ordinals]] — 比特币链上 NFT 协议，顺序理论+记录机制，6级稀有度系统
+- [[ordi]] — 首个BRC-20实验代币，2023.3.8由@domodata部署，铸造$2-3/张→$75.79/枚，不到一年涨幅~30,000倍，2023.11上Binance
+- [[nals]] — BRC-20 代币，因截取"Ordinals"单词后半段而得名，与 ORDI 拼出协议全名，一度暴涨至 BRC-20 赛道市值第二
+- [[runes]] — 比特币同质化代币协议，Casey Rodarmor 创建，UTXO 原生，前 10 个 Runes 硬编码 Open Mint
+- [[rune-alpha]] — Runes 协议先行预演项目（2023.12），独立于 Casey，首创部署方收费模式（$2/mint），基于 PSBT 的去中心化市场
+- [[cook-runes-token]] — Rune Alpha 龙头代币，上线初期市值 ~$79.2M，总量 198,000 张，场外价 $400/张
+- [[brc20]] — 比特币同质化代币标准（2023.03），基于 Ordinals 铭文机制，依赖第三方分类器+两步转账，正统性不足但投机热度高
+- [[taproot-assets]] — Lightning Labs 推出的 BTC 代币协议（前身 Taro），代币须在闪电网络内交易，最中心化的 BTC 代币方案之一
+- [[bitvm]] — 比特币乐观 Rollup 方案（2023.10 Robin Linus），Taproot 地址矩阵+欺诈证明实现图灵完备而不修改协议；三位资深开发者第一时间评价（更慢更贵但无需升级/早已图灵完备/矿工合谋风险）；白皮书182万浏览量
+- [[unisat]] — 领先 BTC 钱包（~100万周活），BRC-20/Ordinals/Runes 支持，Binance+OKX 投资
+- [[alex]] — Stacks上DeFi平台，Launchpad+跨链桥+AMM+预言机，代币总量10亿，2024.1 30d涨幅157.3%
+- [[threshold-network]] — Keep+NuCypher合并，代理重加密(PRE)+去中心化BTC桥tBTC v2，T代币初始供应100亿
+- [[badger-dao]] — Bitcoin DeFi DAO，eBTC（0%利息stETH抵押合成BTC）+ibBTC（计息BTC），2024.1市值$7574万
+- [[multibit]] — BRC20↔EVM跨链桥（2023.5），MUBI总量9.01亿全流通，2024.1市值$1.62亿
+- [[bitstable]] — 比特币稳定币协议，双代币（DAII稳定币+BSSB治理），Bounce Launchpad公售，2024.1市值$3430万
+- [[btns]] — BTNS/BTNS-420 比特币广播型元协议，广播信号+链下索引，零存储占用。创始人 @jdogresorg 曾参与Stamp后独立创建。龙头代币SAT
+- [[nostr-assets-protocol]] — Nostr Assets Protocol，BTC生态资产发行协议（后更名Lnfi Network），2023年12月首次Fair Mint：BTC区块哈希抽奖+12星座池+三档NOSTR奖励，抽奖统计偏差显著
+- [[fantom]] — Fantom/Sonic L1，Andre Cronje + Gas 货币化创新
+- [[andre-cronje]] — DeFi 建筑家：Yearn/Fantom/Solidly/Flying Tulip 创始人
+- [[metamask]] — 以太坊最大非托管钱包，1亿用户/3000万MAU，Portfolio dApp聚合+Snaps多链扩展
+- [[bitkeep]] — 多链非托管钱包（现 Bitget Wallet），Bitget 3000万美元控股，1000万+用户/90+链支持
+- [[unipass]] — 多链统一加密身份应用，基于电子邮件的非托管社交恢复钱包，支持Web2身份验证和多链身份聚合
+- [[walletconnect]] — 钱包-dapp 通信协议，中继网络云邮箱，DIDComm替代方案
+- [[web3auth]] — 白标钱包基础设施，2000万 MAU，Trust Wallet + 多家 Fortune 500 客户，CEO Zhen Yu Yong 主张 memecoin 作为 VC-Free 融资民主化工具
+- [[ceramic]] — 去中心化数据变更和可组合性协议，ComposeDB图形数据库，DID验证数据流
+- [[lit-protocol]] — 去中心化密钥管理和访问控制，MPC份额+PKD NFT，链上条件解密
+- [[orange-protocol]] — 去中心化声誉模型聚合，MP+数据提供者→dapp消费，Aave/Gitcoin/Snapshot已接入
+- [[zcloak-network]] — Web3 身份隐私与可验证计算项目，结合零知识证明与去中心化身份，编译传播 VC/DID 中文内容
+- [[safe]] — Safe（原Gnosis Safe），最大智能钱包提供商：~1000万钱包/$900亿资产保护，模块化架构
+- [[zan]] — 蚂蚁数科旗下区块链节点服务，提供WSS/HTTP RPC节点+AI合约审计，通过MEV教程等内容营销吸引开发者
+- [[bitizen-wallet]] — Keyless & Seedless 钱包，三方 MPC 架构（服务器+手机+第二设备），3FA 恢复方案
+- [[the-graph]] — 去中心化链上数据索引协议，GraphQL API + subgraph，GRT 代币机制（索引者/委托人/策展人），支持 30+ 网络
+- [[covalent]] — 多链数据查询层，通过改变 Chain ID 切换查询目标链，CQT 代币，支持 Ethereum/BNB Chain/Avalanche 等网络
+- [[subquery]] — 面向 Polkadot/Substrate 的数据查询服务，GraphQL 语言，SQT 代币三角色模型
+- [[blocknative]] — 实时交易数据检索服务，专注 mempool 数据浏览器，地址/内部交易/替换交易追踪
+- [[dune-analytics]] — 综合型 Web3 数据平台，SQL 查询链上数据并可视化，B 轮融资 $6942 万/估值 $10 亿
+- [[flipside-crypto]] — 区块链数据分析平台，SQL 查询 + 赏金计划，$5000 万融资
+- [[nansen]] — 区块链数据分析平台，核心能力为钱包"标签"系统，累计分析超 5000 万以太坊地址，$7.5 亿估值
+- [[chainalysis]] — 链上数据监控与分析（"链上 FBI"），面向政府/交易所/执法机构，E 轮 $1 亿/估值 $42 亿
+- [[rss3]] — 去中心化数据索引和分发协议（衍生自 RSS），用户跨平台资产/内容/行为数据聚合
+- [[go-plus]] — Web3 安全数据层，代币安全监测 + 安全 API（Token/NFT/实时风险/dApp/交互安全），Go Pocket 冷启动
+- [[footprint-analytics]] — 综合型区块链数据分析平台，低门槛模板 + 一键分叉 + 钱包标记
+- [[glassnode]] — 区块链数据与链上分析平台（瑞士楚格，2018），MVRV/SOPR/CBD等原创指标，Week On-chain周刊，对Bybit黑客事件进行了实时链上数据量化分析
+
+
+### AI & Agent
+- [[openai]] — OpenAI，GPT 系列 LLM 开发商，Agent 构建者视角的通用推理首选，封闭源+按量付费模式
+- [[meta]] — Meta Platforms，Llama 开源 LLM 系列，加密 x AI 项目核心基础设施（Virtuals/ai16z 等集成），可通过 OpenRouter/Groq 试用
+- [[mistral]] — Mistral AI，欧洲开源 LLM 领导者，Mixtral MoE 架构擅长复杂推理，"美国/中国之外第三条 AI 路径"
+- [[nvidia]] — 英伟达（NVIDIA），AI算力芯片绝对龙头，数据中心GPU市占率80%+，FY2025 Q2营收300亿美元（+122% YoY），核心客户为四大CSP
+- [[cerebras]] — Cerebras Systems，AI推理芯片挑战者，Wafer Scale Engine晶圆级芯片（WSE-3/4万亿晶体管），推理速度达NVIDIA方案的20倍
+- [[groq]] — Groq，AI推理芯片公司，LPU架构专为LLM推理优化，Jonathan Ross（前Google TPU核心设计者）创立，2025年Q1融资$15亿
+- [[aiccelerate-dao]] — AI 投资与开发 DAO（AICC），豪华顾问阵容（ai16z/Virtuals/EigenLayer/Story Protocol），上线即抛售争议，市值 $3.7亿→$5000万
+- [[aios]] — AI Agent 操作系统，LLM 嵌入 OS 层，GitHub 3700+ stars，销毁 66.61% 供应量，Solana 生态
+- [[aixcb]] — AI驱动Web3创业孵化器（Virtuals生态），ATH $1.2亿，50%流通，Odaily提示坐庄操盘风险
+- [[bp-flac]] — 面向AI的公链，zk-SNARK联邦学习，PoC+PoS混合共识，NVIDIA+亚马逊参投$10M，已消失
+- [[botto]] — Botto 去中心化自主 AI 艺术家，BottoDAO 社区治理，每周 fragments 投票+SuperRare 拍卖，50% 收入回馈社区，苏富比个展
+- [[myshell]] — 去中心化 AI 消费生态平台，开源模型+Agent开发平台+公平价值分配，无代码创建，$SHELL 10亿
+- [[dev-fun]] — AI App 生成平台 / AppFi 概念，通过 AI 聊天生成 App（类 Replit），近 13,000 个 App / Buidl 70,000 次运行
+- [[kaito-ai]] — AI驱动Web3社交数据平台，MetaSearch→Yaps积分→KOL图谱→营销撮合引擎，$10.8M融资，KAITO代币，2024.06盈利
+- [[kip-protocol]] — Web3 AI 基础层，LIBRA"Viva la Libertad"项目开发者，2024年10月会见阿根廷总统Milei，引荐Kelsier Ventures做市，否认参与代币发布和获利
+- [[kite-ai]] — AI 原生 Layer 1 公链（Avalanche 框架），PoAI 共识+可组合 AI 子网+AI 原生执行层+去中心化数据引擎，195 万钱包测试网/1.15 亿次 AI 调用，General Catalyst/Samsung Next 投资
+- [[sahara-ai]] — 人类 AI 协作网络，$43M 融资（Binance Labs/Polychain/Pantera），三组件架构（Sahara 区块链/AI 基础设施/AI Marketplace），SIWA 测试网 2025.03
+- [[vana]] — 去中心化数据所有权与货币化 L1，DataDAO+DLP 数据流动性池模型，YZi Labs 投资+CZ 顾问，Reddit DataDAO/Finquarium 等案例
+- [[truth-terminal]] — Truth Terminal 半自主 AI Agent + GOAT Meme币，$4亿市值，Infinite Backrooms→LLMtheism→AI对齐
+- [[virtuals]] — AI Agent 发行平台（Base），ATH $5B
+- [[ai-pool]] — 实验性 AI Agent Fair Launch 平台（Skely），TEE 保护 AI 钱包私钥自主运作，数小时募资 $500 万+
+- [[aixbt]] — AI KOL 代理，Virtuals 生态旗舰，$6.4亿市值，38万粉丝
+- [[freysa]] — Base 自主主权 AI Agent 框架（TEE + zkTLS，$FAI）
+- [[ritual]] — AI 主权执行层，$25M 融资，EigenLayer AVS+io.net GPU
+- [[ai16z]] — ElizaOS 开源 AI Agent 框架（TypeScript），SWARM 多模态编排
+- [[project89]] — argOS ECS 架构 Agent 框架，Shaw 曾在创始人前项目 Magick 中担任第四贡献者
+- [[rei-network]] — AI Agent 框架，四层认知架构 + "通用翻译器" 连接 AI 和区块链，Unit00x0 量化分析师首个实例（Base/ERC-4337）
+- [[eliza]] — ElizaOS 开源多 Agent 框架（TypeScript），角色系统+RAG记忆+动作系统+插件扩展，ai16z 团队开发
+- [[hyperfy]] — AI Agent 3D 沉浸式空间平台，ElizaOS 集成，10h 市值 $280M，M3 社群背景
+- [[sora-labs]] — Go 语言 AI 对话框架（Zen/Hana/Toolkit/Solana Toolkit 四产品），Solana 生态，上线 2h 市值 $19M
+- [[soulgraph]] — AI Agent 个性化基础设施：Soulscript个性规范+Soulgraph Memory持久记忆+Soulgraph Presence实时通信，$23M→$23.5M(12/31)，演示版可用/外部Agent接入未实现
+- [[swarmnode-ai]] — SwarmNode.ai (SNAI) 无服务器AI Agent部署平台，用户只需写Python脚本，"按实际运行时间计费"，$55M→$43M(12/31)
+- [[alphaarc]] — AlphaArc (alpha) 区块链→AI数据翻译层，弥合Web2 AI训练数据与Web3链上数据鸿沟，AI Cat Cafe每小时播报代币评分，$30M→$26M(12/31)
+- [[yesnoerror]] — YesNoError (YNE) DeSci+AI科学论文审查，OpenAI o1驱动/30秒$.30识别论文计算错误，2219篇/3-4%错误率，$48M→$30M(12/31)
+- [[scoutly-ai]] — Scoutly AI (SCOUT) AI体育赛事预测，NFL 8中6/$182→$9000循环赛投注案例，长期有效性未验证，$25M→$12.6M(12/31)为本期最低
+- [[sendai]] — Solana AI开发实验室：Solana Agent Kit（30+协议/60+操作/1500+ GitHub stars）、Solana AppKit（React Native/19+协议）、Solana MCP服务器。AI黑客松400+项目提交
+- [[spore-fun]] — 自主AI进化实验平台：Eliza Framework + pump.fun + Phala TEE，AI Agent 自主繁殖/自然选择/进化，"AI必须由AI创造"
+- [[swarms]] — Swarms 多 Agent 编排框架（Kye Gomez），代币激励+MPC数据安全+透明协作环境，$4.4亿 ATH，MCS/SPORES/CREATE/IFSCI 四生态项目，代币诞生日过山车（$6K→$74M→$6M→$40M）与Shaw抄袭指控插曲
+- [[taocat]] — TAOCat，Masa（$1765万融资）+Virtuals联合推出，基于Bittensor子网42/19，ATH $5300万
+- [[din]] — 首个模块化AI原生数据预处理层（前身Web3Go），xData(70万DAU)+Chipper Node(3万+持有者)，$8M融资，opBNB运行
+- [[degenai]] — DegenSpartanAI，ai16z DAO 内独立代币 AI 投资 Agent，高风险高收益风格，模仿 DegenSpartan，Pump.fun 代币市值 $6000 万
+- [[ropairito]] — AI Agent，创建者 Ropirito（NousResearch 研究员/TEE 架构/GOD AI），AI 为创建者订披萨轶事，ai16z 生态核心成员
+- [[mcs]] — MCS 医疗诊断多 Agent 系统（Swarms 创始人 Kye Gomez 创建），$2500万市值，6000+ 日活
+- [[autonomous-spores]] — Autonomous Spores 四 AI Agent 集群（Saya 基金经理/Oozeborn 代币创建/Grassian 数据分析/Jaguarundi 风险评估），Swarms 多代理协作最佳展示案例
+- [[rig]] — Rig Rust Agent 框架（ARC 团队），类型安全+LLM统一接口+向量存储集成，Solana 原生
+- [[zerepy]] — ZerePy Python Agent 框架，轻量级社交创意定位，音乐/NFT/数字艺术领域
+- [[game-framework]] — G.A.M.E 无代码/低代码 Agent 框架（Virtuals），模块化架构（Prompting/Perception/Strategic Planning）
+- [[griffain]] — Solana AI 代理网络，$3.7亿，Blink 开发者创建，邀请制+通行证
+- [[hey-anon]] — AI DeFi 抽象层，Daniele Sesta 部署，ANON $2.3亿，9+链+TypeScript 框架
+- [[mode]] — L2 聚焦 DeFi+AI 交叉点，MODE $3.8亿，AI Terminal+Bittensor 子网 Synth
+- [[neur]] — Solana 开源 AI 智能助手，GPT-4 + 自然语言→DeFi/NFT 操作，集成 Jupiter/Magic Eden/DexScreener，12/24创建，$45M/$40M
+- [[orbit]] — DeFAI AI 抽象层（GRIFT），第二个发币，跨链集成最多（117 链/200 协议），被 Neur 估值反超
+- [[gudtech]] — DeFAI 信息聚合+交易执行 Agent，链上数据+社交上下文解读，与 Zircuit 关联，交易系统尚未上线
+- [[listen]] — DeFAI 多智能体协作系统（@listenonsol），专注专业化 AI Agent 协作管理端到端 DeFi 策略，与 Arc 合作
+- [[nillion]] — 去中心化盲计算网络，Agent Superhighway 愿景，AI 代理隐私协作基础设施
+- [[cookie-dao]] — AI 代理索引和数据层，COOKIE $1.7亿，首个 AI 代理垂直索引
+- [[prime-intellect]] — OpenDiLoCo分布式训练框架(已开源)，INTELLECT-1（10B参数/20+全球集群），带宽需求降至1/500
+- [[nous-research]] — DisTrO 10,000x通信压缩，15B参数模型预训练完成/损失曲线超越中心化训练
+- [[exo-labs]] — 消费级硬件分布式推理，MacBook/Mac Mini运行4500亿参数Llama3，AI的CDN叙事关键证据
+- [[fetch-ai]] — FET，去中心化机器学习平台，Agent部署工具链，$5.34B FDV，Binance上市
+- [[frodobots]] — 去中心化具身 AI 数据采集平台：GameFi 化远程驾驶传感器漫游车收集真实3D数据，最低 $149 参与
+- [[foceliza]] — AI Agent 链化基础设施（DA 层），ai16z 生态，以 AI Agent 专属 DA 能力作为链化破局点
+- [[gaia]] — AI Agent 推理系统/知识基础设施，主张"公平的、自我治理的 AI 智能体推理系统"，14 种 Agent 用例全景，定位差异化于 Virtuals（发射平台）和 ai16z（框架）
+- [[singularitynet]] — AGIX，去中心化AI网络，12+子项目生态，DFINITY合作
+- [[render-network]] — RNDR，去中心化GPU渲染，$1.5B市值，DePIN算力核心
+- [[compute-labs]] — GPU 代币化协议（GNFT），Nvidia Inception 孵化，AI+RWA 概念，Solana，OKX/Amber/Hashkey 投资，预售阶段
+- [[gaib]] — GPU 资产代币化（GPU-Fi），Hack VC $5M 种子轮，GPU 债务融资模型
+- [[gensyn]] — 去中心化AI计算协议，a16z领投$43M A轮，加密验证训练
+- [[phala]] — Phala (PHA)，TEE 隐私计算云，原 Polkadot，AI Agent 链化 TEE 基建层，B2A 隐私基础设施，Spore.fun 信任沙盒
+- [[phala-network]] — TEE 去中心化计算网络（原 Polkadot），AI Agent 链化 TEE 基建，PHA 代币在 CEX 流通，小市值+低存在感+技术扎实+踩中 AI Agent 风口
+- [[podflow-ai]] — Podflow AI 播客生成代理（Virtuals），Degen Hour Show，加密新闻→YouTube+Spotify 播客，计划跨领域扩展至健身/体育/科技
+- [[slate-defai]] — Slate DeFAI抽象AI（⇒ [[slate]]），首个人工智能代理集成Hyperliquid自动交易，BigBrain Holdings投资，分级费率0.25%-1.00%，条件交易/跨链Swap/交易前模拟
+- [[slate]] — Hyperliquid DeFAI Agent平台，首个人工智能代理集成Hyperliquid自动交易，51+协议/11链覆盖，BigBrain Holdings投资，分类费率0.25%-1.00%
+- [[wayfinder]] — Wayfinder DeFAI聊天助手，Parallel开发，PROMT+PRIME双代币，封闭测试，1%+40%空投
+- [[the-farm]] — Hyperliquid 上首个 GenAI 宠物游戏，Orchestrator AI 多代理架构，三阶段路线图，$FARM 代币，50% 协议收益回购销毁
+- [[the-hive]] — Solana DeFAI 模块化策略自动化平台，$BUZZ，黑客松主赛道冠军（$60K）
+- [[heyelsa]] — HeyElsa DeFAI助手，专有LLM，ChatGPT界面，7+链，积分激励，已上线
+- [[project-plutus]] — Solana AI 交易代理，$PPCOIN，"分析+交易"双模块，对标 aixbt，黑客松 Trading Agents 冠军
+- [[the-hive]] — Solana DeFAI 模块化策略自动化平台，$BUZZ，黑客松主赛道冠军（$60K）
+- [[deepseek]] — 中国 AI 大模型公司（幻方量化孵化），R1 纯 RL 推理模型对标 o1，558 万美元训练前沿模型，MIT 开源
+- [[quark]] — 夸克AI，阿里巴巴"AI全能助手"，7102万MAU/40%留存/8000字长文模型，"AI in All"策略，灵知学习大模型考研数学比肩o1
+- [[chaingpt]] — Web3 专用 AI 模型和工具平台，CGPT 上线币安现货，入选 Binance Alpha S3
+- [[creator-bid]] — CreatorBid，Base 上 AI Agent 发射台，2% 税进入 Agent 资金库 + Olas mech Agent 间协作 + Bittensor 子网，$BID 2025年1月 TGE
+- [[olas]] — Olas (Autonolas)，Agent 协作协议，mech 协议实现 "Agent 雇佣 Agent"，$OLAS
+- [[nft-prompt]] — AI 驱动的 NFT 内容生成平台，NFP 上线币安，Binance Labs 投资，MVB S6
+- [[nofx]] — AI加密交易操作系统，Go+React全栈开源系统，让LLM(DeepSeek/Qwen)自主交易币安合约，三层风控+自我进化机制，MIT协议
+- [[arc]] — ARC (Rig)，Rust Agent 框架，Solana 生态 "Virtuals"，市占率 15%，GitHub 1700 星
+- [[asym]] — ASYM Memecoin 自主交易 AI 代理，回测 3-4x 收益，"memecoin 交易作弊代码"
+- [[zerebro]] — Zerebro (ZerePy)，Python 创意 AI Agent 框架，市占率 5%，市值 $4.24 亿
+- [[act-ai-prophecy]] — ACT，首个上线币安的 AI Agent 概念币，多智能体协作平台，$5000万市值
+- [[limitus]] — 去中心化AI平台，Web2/Web3/AI三层整合（计算-编排-执行），跨链DeFi策略自动化
+- [[lola]] — Lola 实验性 AI 交易员，pump.fun 部署，自主分析小市值代币，Telegram 交易日记分享，叙事驱动策略+记忆进化能力
+- [[luna-virtuals]] — LUNA，Virtuals 旗舰 AI 虚拟偶像，7x24 直播，ATH $2.4亿→$9000万
+- [[turbo]] — TURBO，GPT-4 灵感驱动 Meme 币，社区驱动+CC0，ATH $9.85亿
+- [[fartcoin]] — FARTCOIN，Truth Terminal 幽默文化衍生，"最好的 GOAT beta"
+- [[vaderai]] — VaderAI，AI KOL + 投资 DAO 管理器，首个自主交易 AI 代理币的机器人，子 DAO 收益 20% 分成，VADER 质押白名单机制
+- [[dolos-diary]] — Dolos Diary，恶搞型 AI KOL，BULLY 代币，Twitter 创作者报酬回购+Dolion 无代码平台销毁机制
+- [[god-s8n]] — GOD/S8N，SHL0MS 艺术项目+Nouns Research 合作，"nothing"代币（反模因艺术币技术），AI 自动化 god/s8n Twitter 账户
+- [[perplexity-ai]] — AI 对话式搜索引擎，$90 亿估值，$3.5 亿年收入
+- [[anysphere-cursor]] — AI 代码编辑器 Cursor 开发商，$96 亿估值（a16z/Thrive）
+- [[midjourney]] — AI 图像生成，1300 万+用户/$2 亿营收/$0 融资
+- [[figure-ai]] — AI 人形机器人，$395 亿估值（福布斯 AI 50 最高）
+- [[kizuna-ai]] — 首个VTuber，创造"VTuber"一词，10个月200万订阅者
+- [[lil-miquela]] — 最成功虚拟影响者，年收入$1,200万，参与率三倍于真人网红
+- [[hatsune-miku]] — Vocaloid虚拟偶像，分布式创作模式，前5年总收入$1.2亿
+- [[alethea-ai]] — iNFT标准创造者，Alice在苏富比以$478,800售出，GPT-3链上AI先驱
+- [[altered-state-machine]] — 去中心化AI代理协议，form+brain架构+GPU挖矿训练
+- [[langchain]] — LLM 应用开发开源框架，$2500 万 A 轮
+- [[runway]] — AI 视频编辑，$40 亿估值/《瞬息全宇宙》特效合作
+- [[elevenlabs]] — AI 语音克隆/合成，$33 亿估值
+- [[notion]] — 模块化生产力软件，1 亿用户/$100 亿估值
+- [[deepl]] — AI 翻译，$20 亿估值/50% 500 强企业客户
+- [[harvey]] — AI 法律顾问（GPT-4），$15 亿估值
+- [[abridge]] — AI 医疗笔记，$27.5 亿估值/200x 成本降低
+- [[glean]] — 企业 AI 搜索，$46 亿估值/E 轮 $2.6 亿
+- [[coreweave]] — 前端加密挖矿后转型AI云基础设施（NASDAQ: CRWV），2025年3月IPO，提供Nvidia GPU云计算用于AI训练和推理
+- [[higress]] — 阿里云开源 AI 原生 API 网关，基于 Envoy 构建；提供完整的 Remote MCP Server 一站式托管方案（Wasm 插件/OAuth2 认证/协议版本卸载），已被 Anthropic 官方 MCP Server 文档收录；支持弹性伸缩、灰度发布、MCP 市场
+- [[lovable]] — AI 应用开发平台，上线 2 个月以 $10M ARR 验证社交分发策略（a16z 播客标杆案例）
+- [[bolt]] — AI 辅助开发平台（bolt.new），挑战吉尼斯世界纪录举办最大规模黑客松，$100 万奖金
+- [[genspark]] — AI 搜索/超级 AI 助理，20 人团队 45 天实现 $36M ARR，社交挑战 $10K 奖金池
+- [[manus]] — 中国通用 AI 助手，4 分钟演示视频获 50 万+ 浏览，零发布会/零广告
+- [[anton-osika]] — Lovable 联合创始人，a16z 播客嘉宾，AI 产品社交分发方法论的代表人物
+
+### DePIN & 应用
+- [[doublezero]] — 分布式带宽 DePIN，DoubleZero Foundation，Solana 前战略主管创立，2800 万美元融资
+- [[roam]] — 去中心化 WiFi 网络 DePIN，230 万用户/200 万节点覆盖 190 国，硬件节点数赛道第一
+- [[helium]] — 去中心化无线网络（Solana），Helium Mobile 11.4 万用户，$20/月无限流量；⚠️ 2025.1 SEC 误导投资者指控（虚假声称 Lime/Nestle/Salesforce 为客户）
+- [[geodnet]] — 80% buy/burn 比例 + $3M ARR，唯一在 2024 年创 ATH 的代币
+- [[fluence]] — Cloud DePIN，USD 计价质押（$12,000/CPU）和奖励（$10/核/月），开放质押模式
+- [[storj]] — 去中心化存储，USD 计价奖励先驱（$1.5/TB/月存储 + $2.00/TB 下载）
+- [[natix]] — 去中心化地图网络，市场分层奖励 + Stake-to-Vote + 40% 收入分配锁仓持有人
+- [[iotex]] — DePIN 全栈基础设施 L1，33 万用户/310 万设备/830 TPS
+- [[glow]] — 去中心化太阳能 DePIN，ARR $1.6M，50+ 农场，月均 15,000+ kWh
+- [[livepeer]] — 去中心化视频+AI 计算，AI 节点费用 +1005%，财库 38.2 万 LPT ATH
+- [[tada-mvl]] — 去中心化打车（东南亚），10 万+ 司机，TADA mini Telegram 小程序
+- [[davide-crapis]] — 以太坊基金会 dAI 团队负责人，ERC-8004 标准（EIP-8004）提出者之一，与 MetaMask/Google 联合提交
+- [[daylight]] — 去中心化能源共享，a16z $9M A 轮
+- [[dimo]] — 去中心化车辆数据网络（Polygon），OBD-II 直连车辆 ECU 采集驾驶数据，车主贡献数据获 $DIMO 奖励，数据可用于 UBI 车险定价和链上车贷
+- [[planetwatch]] — 去中心化空气质量监测网络（Algorand），用户部署传感器采集 PM2.5/CO2 等环境数据获 $PLANETS 代币，最早的环境 DePIN 项目之一
+- [[theta-network]] — 去中心化视频流媒体+CDN网络（自有 Tendermint 链），双代币（$THETA 治理/$TFUEL Gas），Google/Samsung 验证节点，与 Livepeer 构成视频 DePIN 互补
+- [[towns]] — 去中心化社交协议（链上 Discord），a16z $25.5M
+- [[discord]] — Web2 社区通讯平台，Web3 项目的"默认市政厅"，Stage Channels 单向语音广播功能（类 Clubhouse），与 Telegram 形成双平台社区运营格局
+- [[clanker]] — Base 生态 Meme 发币平台（AI Agent 自动发币，Farcaster 集成），狙击问题 + CONSENT 实验
+- [[larrybot]] — Farcaster AI Bot 代币发射器，69 分钟等价格窗口 + 3 ETH 门槛 + Neynar 声誉准入，反狙击公平发行
+- [[launcher]] — Farcaster 代币发射器（Kompreni），固定价格池防狙击 + 两年 LP 激励 + 汗水股权 + 90% 费用返还持有者
+- [[pumpfun]] — Solana Memecoin发行+交易平台，Q4收入$235M（Solana应用第1），Bonding Curve毕业机制（+ Fair Launch公平性挑战：TGE狙击/Cabal）
+- [[sunpump]] — Tron Meme发行平台（Pump.fun仿盘），2024.8上线，发行92,039个代币，单日收入$56万一度超Pump.fun，短期效应明显长尾不足
+- [[fourmeme]] — BNB Chain Meme发射平台+加速器，已孵化$banana($62M)/$Aicell($11M)，分层支持体系（徽章→KOL→CEX引荐），空投积分成本0.007 USDT/分
+- [[firstledger]] — XRPL首个Meme发射平台，信任线机制，1%交易费，2024.12 XRP上涨受益者
+- [[flashbots]] — 以太坊 MEV 生态核心基础设施提供者：MEV-Boost（事实标准 PBS）、Flashbots Protect（90% 套利价值返还用户）、BuilderNet（TEE 去中心化区块构建），Paradigm 投资组合
+- [[snekfun]] — Cardano Meme发射平台，$SNEK+Splash合作，9月初上线，42,069 ADA毕业门槛
+- [[raydium]] — Solana 最大 AMM DEX，Pump.fun"毕业管道"终点，Q4 收入 $74M（生态第3），DeFiLlama 收入前五常客，Memecoin LP 日收益 0.5%-3%
+- [[meme4fun]] — Solana Meme发行与分发平台，@0xmeme4fun创建，Content/Asset二象性框架，拒绝做盘走creator生态路线
+- [[moonshot]] — Solana Meme 交易平台+法币入金入口，2024.7推出，TRUMP币日交易量近$4亿，2025.1被Jupiter收购多数股权
+- [[legion]] — 社区驱动投资平台（Delphi Labs孵化），Legion Score四维评估+Cover Letter机制，价值驱动参与者选择
+- [[gmgn]] — 中文 Meme 扫链交易平台，Solana/Ethereum/BSC，飙升榜+钱包监控+防夹+持有者分析
+- [[bullx]] — 英文 Meme 扫链 TG Bot，Q4收入$73M（Solana第4），速度比GMGN快几秒
+- [[debot]] — 链上交易分析与钱包监控工具，BSC/EVM，以分组行为监控为差异化特色
+- [[pink-punk]] — TG 交易 Bot（粉猪），支持挂单和狙击功能，多链
+- [[pepe-buldak]] — 韩国 K-Meme 项目（$BUL），meme 币"实体化"实验——开放加盟模式将代币质押与实体餐饮门店绑定，预售 $100 万，目标 10,000 家门店
+- [[shib]] — SHIB (Shiba Inu)，Ethereum 狗系 Memecoin，Glassnode 链上分析显示早期持有者积累超 20% 总供应后于 2021 年 10-11 月峰值大规模卖出，Herfindahl Index/NUPL/CBD 热力图验证了典型的 memecoin 生命周期模式
+- [[captainbnb]] — BNB Chain 吉祥物 Meme 代币，Four.Meme 发射 6 小时破 1000 万美元市值（最高 1500 万）/日内涨幅 13000%+/持币生息 7% BNB 反射/Anti-Whale+Anti-Dump 机制
+- [[koma]] — BNB Chain "SHIB 儿子"社区驱动 Meme 代币，流通市值 4060 万美元（2025.02）/已上线 Binance/社区凝聚力强
+- [[unibot]] — Telegram 交易机器人先驱，2023年5-8月 $3.13→$200.45（100x），后龙头地位被超越
+- [[banana-gun]] — EVM+SVM Telegram Bot，年交易量$78亿/现金流$6000万，狙击胜率88%，EOF协议争议（与Titan Builder私下分赃截留用户贿赂）
+- [[bonkbot]] — Solana Telegram Bot，日活35,700/交易频率10x竞品/单日收入高位$75万，95%交易通过Raydium，Jito MEV保护
+- [[sol-trading-bot]] — Solana Telegram Bot 后起之秀（2023.12），多DEX集成（Jupiter/Orca/Raydium），一月内交易量超越Unibot+Banana Gun
+- [[btcbot]] — BTC生态首个Telegram Bot（2023.12.23上线），BRC-20限价买单（行业首创）、AutoBoost铭文加速（99%成功率）、多平台挂单
+- [[maestro-bot]] — Ethereum Telegram Bot，赛道DAU长期领先（2000-3000/2023年7月），累计收入赛道第一（领先Unibot 1x+），1%交易费
+- [[grass]] — Solana DePIN+AI 数据层，闲置带宽→AI 训练数据，FDV $15.5B
+- [[io-net]] — Solana原生GPU市场，30万+验证GPU，$9M年化收入
+- [[aethir]] — 去中心化GPU市场，4万+GPU含4000+H100
+- [[aphone]] — DePIN 云手机，基于 Aethir 分布式云，首个去中心化云智能手机（零硬件门槛/Web3 原生/多账户云端 farming）
+- [[karrier-one]] — DePIN 电信网络 + PayFi 支付，KNS 手机号即 Web3 钱包，Karrier DAO 治理，71 亿手机用户目标市场
+- [[hyperbolic]] — 去中心化GPU市场+AgentKit，计算成本削减75%，Proof of Sample验证推理
+- [[blackbird]] — Web3餐厅忠诚度+链上支付，Base上标杆消费应用，2%支付费率+FLY积分双飞轮
+- [[filecoin]] — 去中心化存储龙头（IPFS激励层），4.7 EiB容量/30%利用率/FIL年通胀27%/FVM双层网络
+- [[arweave]] — 去中心化永久存储，Blockweave+SPoRA共识/Endowment通缩机制/AO并行计算/99%流通，含Atomic NFT/Bundlr跨链中间件/IPFS费用对比
+- [[bundlr]] — Arweave跨链数据存储中间件（后更名为Irys），Bundles L2压缩技术，支持Ethereum/Solana/Near数据写入
+- [[ipfs]] — 去中心化内容寻址存储协议，NFT 元数据和媒体文件的主要链下存储方案，与 Arweave 并列两大标准
+- [[akash]] — 去中心化云计算市场（Cosmos SDK），~20,000 CPU/逆向拍卖/AKT 2.0代币经济
+- [[hivemapper]] — 去中心化地图数据（Solana），$HONEY BME机制/3.71亿公里/28%覆盖/三大地图厂商客户
+- [[peaq]] — DePIN/DePAI 专业L1（EVM兼容），500,000+ TPS/$0.00025成本/30+链桥接/$4,300万融资/peaq IDs+verify 框架
+- [[xmaquina]] — DePAI DAO：机器人技术共享所有权+治理框架，Genesis 拍卖第二阶段，让普通人拥有物理 AI
+- [[auki-network]] — 去中心化空间智能协议，Posemesh 技术可在保护隐私的同时实现实时空间感知，为 DePAI 提供空间智能层支持
+- [[messari]] — 加密研究/数据分析公司，2018年 Ryan Selkis 创立；研究员 Dylan Bane 于 2025 年 2 月发布 DePAI Ex Machina 报告，正式提出 DePAI 概念
+- [[swan-chain]] — 全栈AI智能链（OP Stack），Binance Labs孵化唯一AI DePIN项目，测试网2500万活跃地址/2000+计算提供商/2100+GPU
+- [[parasail]] — DePIN专用再质押协议（Filecoin起），TVL $6000万+，pFIL代币化释放存储提供商流动性
+- [[jambo]] — Web3手机（$99）+DePIN+非洲市场入口，40万台销售/123万激活钱包，数据变现闭环
+- [[oort]] — 去中心化可验证云计算（AI专用），Deimos边缘节点$379/5500+全球部署，自研区块链验证层
+- [[dephy]] — DePIN中间件基础设施，开源硬件方案+SDK+500ms链下节点，Starpower智能插座案例
+- [[silencio]] — 噪音污染DePIN，利用手机麦克风绘制全球噪音地图，零硬件成本参与
+- [[pingpong]] — DePIN流动性+服务聚合器，多网络挖矿收益优化，中间层定位
+- [[starpower]] — 能源DePIN，去中心化虚拟电厂（VPP），基于DePHY搭建
+- [[power-ledger]] — 能源DePIN P2P电力交易先驱（澳大利亚），POWR代币2025.6市值~$9300万
+- [[baxus]] — 高端烈酒/奢侈品代币化平台（Solana），Multicoin Capital领投$5M种子轮，加密货币支付增长11,500%/海外买家50x/Helium IoT追踪50万+酒桶
+- [[nosana]] — 去中心化GPU推理市场（Solana），176万完成部署/177万工作时长，AI推理节点成本比传统低6倍，与Sogni合作生成9544万张图像
+- [[shaga]] — 去中心化云游戏平台（Solana），549节点/116,877流媒体小时，Anatoly+Helium联创天使投资，目标颠覆GeForce Now
+- [[meson-network]] — 去中心化 CDN 网络（SevenX Ventures 投资），通过挖矿聚合闲置服务器调度带宽，为 IPFS/Arweave 提供加速服务
+- [[core-scientific]] — 美国区块链基础设施龙头（NASDAQ: CORZ），运营北美最大挖矿设施，正从比特币挖矿向AI/HPC计算扩展，月涨幅34.81%
+- [[crusoe-energy]] — 能源科技公司，利用油田伴生气（flared gas）发电驱动比特币矿机，将甲烷排放转化为经济价值，是比特币挖矿环境贡献的代表案例
+### DeFi & 基础设施 (续)
+- [[wormhole]] — 通用跨链消息传递协议，$2.25B 估值，Jump 孵化
+- [[arkham]] — AI 链上数据分析+Perp DEX，$ARKM
+- [[jito]] — Solana MEV+LSD，JitoSOL+内源性 Restaking
+- [[jpmorgan]] — 摩根大通：JPM Coin机构稳定币/Quorum区块链/每日$10亿交易，传统银行巨头入场稳定币发行
+- [[dwf-labs]] — 加密做市+OTC+投资+营销四合一机构，熊市困境项目套利模式，"OTC拿币→拉盘→出货"三阶段周期
+- [[jump-crypto]] — Jump Crypto，高频交易/做市商/加密投资，2024年85暴跌中被指抛售资产但做市商同行分析认为宏观因素为主因、Jump链上转移为自有持仓调整
+- [[kelsier-ventures]] — 代币发行及做市顾问，Hayden Mark Davis创立，LIBRA代币事件核心操盘方，声称控制1亿美元资金拟回购销毁，被指关联MELANIA/ENRON内部人士及印度撤池诈骗者
+- [[titan-builder]] — 以太坊第二大区块构建者（40%份额/利润13,151 ETH），通过Banana Gun EOF协议崛起
+- [[tai-mo-shan]] — Jump Trading 子公司（开曼群岛注册），专用于处理特定市场做市和加密货币交易，曾是 Robinhood 最大做市商；2021年秘密买入 Terra UST 制造需求假象赚取 10 亿美元；2024年12月以 1.23 亿美元与 SEC 和解
+- [[sanctum]] — Solana LST流动性层，100+LST，Infinity多LST池，Creator Coins
+- [[marinade]] — Solana首个LST协议，mSOL+Marinade Native+Stake Auction Marketplace(SAM)市场驱动委托竞争
+- [[xion]] — 广义抽象 L1，$25M A轮（Multicoin/Animoca），邮箱/生物特征登录，无需钱包
+- [[privy]] — Web3 登录/嵌入式钱包基础设施，300 万+ 用户，支持 Web2+Web3 全部登录体系
+- [[clusters]] — 全链域名服务（LayerZero），`用户名/链名` 一键解析 8 条公链地址
+- [[zeus-network]] — Solana-Bitcoin 跨链互操作层，$8M/估值$100M，Jupiter LFG 首发
+- [[lightning-labs]] — Lightning Network 核心软件开发方，$7000 万 B 轮，比特币 L2 基础设施
+- [[avail]] — 模块化 DA 层，Polygon 分拆，DAS 轻节点支持
+- [[gmx]] — Arbitrum 最大 Perp DEX，GLP 流动性池模型
+- [[vertex-protocol]] — 链上交叉保证金期货交易所，CLOB+AMM混合模型，五条链部署，VRTX质押APY 20-30%
+- [[zebec-protocol]] — Solana流支付协议，Zebec Payroll链上薪资管理，实时连续资金流
+
+### L1 & L2
+- [[ton]] — The Open Network，Telegram 生态 L1，3步战略/3200万激活钱包/TVL $7.26亿/LSD赛道5项目/6个币安上线生态项目+7个候选项目（2024.09快照）
+- [[tonstakers]] — TON LSD龙头，TVL $1.97亿，CertiK审计94.5分，tsTON，APY 4.1%
+- [[bemo]] — TON LSD第二名，TVL $7101万，DWF Labs，stXP激励→$BMO代币
+- [[stakee]] — ⚠️ TON LSD高风险项目，TVL $3224万，Telegram为主阵地，无审计
+- [[ton-whales]] — TON综合服务商（钱包+浏览器+质押+俱乐部），TVL $1.05亿
+- [[hipo]] — TON LSD开源协议，TVL $332万，去中心化验证者竞拍模型
+- [[bitcoin]] — BTC，去中心化数字黄金，$2.1万亿市值，2009年创世→2024年$100K
+- [[bitcoin-sv]] — 2018年BCH分叉，Craig Wright自称中本聪（2024.3英国法院裁定否定），2019.4被Binance下架，2023.10上线永续合约
+- [[bitmap]] — Bitmap.land 比特币生态首個元宇宙项目，基于位图理论将区块映射为虚拟地块，Holder 超 25,000 超越 The Sandbox
+- [[sui]] — Move L1，Mysten Labs，游戏+DeFi 生态，NAVI $714M TVL
+- [[aptos]] — Move L1，Aptos Labs（前 Diem 团队），Block-STM 并行执行，企业级 Web2 友好，收购 HashPalette
+- [[world-network]] — Worldcoin→World Network，OP Stack L2+链上身份，Sam Altman
+- [[avalanche]] — Avalanche L1，Subnet 企业架构，C-Chain EVM 兼容
+- [[aztec-network]] — 以太坊首个私有 ZK-rollup，$1.19 亿融资（Paradigm+a16z），UTXO 架构+PLONK 证明+隐私抽象层
+- [[polkadot]] — Polkadot L0 跨链协议，中继链+平行链架构，国库自循环资助机制（4通道资金来源）
+- [[gavin-wood]] — 以太坊联合创始人、Polkadot 创建者、Web3 Foundation 创始人，2014 年重新定义 Web 3.0（"Less trust, more truth"），以太坊黄皮书作者
+- [[particle-network]] — 链抽象L1（Cosmos SDK）：UA/UL/UG三层堆栈/AggDA聚合DA/双重质押/2500万融资/测试网149万用户
+- [[near-protocol]] — NEAR L1，全栈链抽象：MPC账户聚合+DA+意图层+应用层，与Polygon合作zkWASM
+- [[polygon]] — Polygon L2/ZK生态，AggLayer ZK聚合链抽象方案，CDK支持互联L2部署
+- [[anoma]] — 意图中心L1，隐私+去中心化撮合+原子多链结算，最激进链抽象路径
+- [[berachain]] — POL 共识 L1，三币模型（$BGT 治理/$BERA Gas/$HONEY 稳定币），Polaris EVM+Cosmos SDK，$42M A轮，Curve 贿赂机制上链至 L1 共识层
+- [[ethereum]] — 以太坊 L1，以 Rollup 为中心的路线图，The Surge 目标 10 万+ TPS，DAS/Plasma/L2 证明三阶段/跨 L2 互操作
+- [[arbitrum]] — 以太坊最大 L2 生态：双产品战略（Arbitrum One + Orbit 48 条链），"数字主权国度"增长飞轮，Timeboost MEV 捕获，BoLD Stage 1 去中心化，ArbitrumDAO 财政 12.1 亿美元
+- [[optimism]] — OP Mainnet + OP Stack + Superchain 愿景，Bedrock 升级降费 77%+，Base/opBNB/Worldcoin/Zora 等基于 OP Stack
+- [[zksync]] — Matter Labs zkEVM L2，Hyperchain 超级扩展愿景，LLVM 多语言编译器，超级桥跨 L3 互操作
+- [[starkware]] — StarkNet/StarkEx，STARK 证明，分形扩展+Recursive STARKs，Cairo 编程语言
+- [[klaytn]] — 韩国元宇宙/游戏公链（Kakao 旗下），KLAY $43亿，三大游戏侧链，KakaoTalk 4500万用户；2024年与Finschia合并为Kaia，集成LINE 2亿用户
+- [[bnbchain]] — BNB Chain L1，"One BNB" 多链架构（BSC+opBNB+Greenfield），2024 年"AI First"战略；2025 年中 TVL $100 亿/跨链桥 $154 亿，DEX 市占率 80%，DAU 209 万/MAU 2779 万，稳定币活跃地址 36.7%/全网第一，Maxwell 升级 0.75 秒出块
+- [[tron]] — 波场 L1，孙宇晨创立，USDT 转账第一大链，Sun.pump Meme 平台带动链级复苏（Sundog $3亿），DPoS 共识；2025.6反向收购SRM借壳纳斯达克上市
+- [[cardano]] — Cardano L1（ADA），Charles Hoskinson 创立，早期"日本以太坊"，PoS，$SNEK Meme 龙头 $5亿市值，Snek.fun Meme 发射平台；RGB++ 同构绑定目标 UTXO 公链之一
+- [[mantle]] — Bybit关联以太坊L2（EigenDA数据可用性层），日活仅1万（Base的1/120）；年收入$210万/年亏损$1272万；MNT高度中心化（鲸鱼90%）；mETH在ETH质押占比仅1.2%
+- [[fuel]] — Fuel Labs 模块化执行层 L2，并行执行+FuelVM+Sway 语言，非 EVM 路线
+- [[gasp]] — 跨 Rollup 协议，无桥原生跨链交易+逃生舱口+ZK 证明，$1100 万融资（Polychain 孵化）
+- [[fogo]] — SVM极速L1区块链，Jump Crypto Firedancer唯一执行客户端，理论100万TPS，实际5.4万TPS，Echo平台融资$8M，Distributed Global种子轮$5.5M
+- [[initia]] — Cosmos SDK L1 + Rollup互操作层，Enshrined Liquidity（LP质押同时赚交易费+质押收益+治理权），VIP + Cabal治理飞轮，Vote Lock最高4倍投票权，"意见性堆栈"（3VM + 固定组件），JIT Gas抽象，主网进度78%，$3150万融资，Binance Labs投资
+- [[injective]] — 专注DeFi衍生品的Cosmos L1，Helix DEX代币化股票永续合约交易量超10亿美元(H1 2025)，支持25倍杠杆iAAPL交易，合成资产(iAssets)无需实物结算
+- [[snapchain]] — Farcaster专用L1区块链，9000+TPS/200万DAU容量，分片+数据修剪，主网2025.4.15上线；Merkle Manufactory $150M融资
+- [[succinct]] — ZK证明生成共享市场，解决ZK基础设施碎片化，合作伙伴Polygon/Celestia/Avail，$55M融资Paradigm领投
+- [[internet-computer]] — ICP，DFINITY去中心化计算平台，2023.4推出ckBTC（孪生Token BTC L2方案），铸币机+账本双部件架构
+- [[linea]] — ConsenSys zkEVM L2，原生集成 MetaMask+Truffle
+- [[linera]] — 低延迟 L1，FastPay/Zef 协议学术基础，$600 万种子轮（a16z 领投），创始人来自 Meta/Libra 团队
+- [[scroll]] — zkEVM L2，三层架构（Scroll Node/Roller Network/Bridge Contracts），原生 EVM 字节码执行，+ Huma PayFi 联合活动
+- [[taiko]] — zkEVM L2，目标完全 EVM 等效零迁移成本，Alpha-2 测试网已弃用
+- [[talus]] — Move 语言 AI 专用 L1，$300 万首轮（Polychain 领投，英伟达/IBM 天使），AI Agent 钱包分析/DeFi 优化/DAO 治理
+- [[corn]] — 以太坊 L2 以 BTCN（多签托管 BTC 映射）为原生 Gas，$6.7M 种子轮（Polychain+Binance Labs），ve 双代币模型（$CORN/$popCORN），Crop Circle BTC 收益生态
+- [[abstract-chain]] — 消费级 L2，Pudgy Penguins 母公司 Igloo 开发，zk stack + EigenDA，2025.01 主网上线，22 个生态项目以 NFT/游戏为主，Founders Fund 领投 $11M+
+- [[aleo]] — ZK 隐私 L1，$2.28 亿融资（SoftBank/Tiger Global/Samsung Next），$14.5 亿估值，可编程隐私+选择性披露
+- [[altlayer]] — RAAS 服务+信标层，社交分叉机制保障 Rollup 升级安全，验证器网络加速终局性，生态内互操作
+- [[caldera]] — 一键式模块化链部署 RaaS 平台，初期 Optimistic Rollup 起步，2023 年中已为主网游戏客户 Curio 提供生产部署
+- [[catalyst]] — 模块化链无需许可跨链流动性协议，连接以太坊和 Cosmos 两大生态
+- [[cosmos]] — Cosmos Hub/应用链蓝图平台，SDK+Tendermint+IBC+ICS，$2.74B ATOM质押安全性（2023.02），核心矛盾：技术架构优秀 vs ATOM 代币价值捕获长期缺失；ICS 是 Cosmos 2.0 失败后的共享安全替代方案
+- [[osmosis]] — Cosmos SDK 定制化 AMM DEX 应用链，开发者可自定义 AMM 策略和资产权重参数，原生 IBC 跨链，OSMO 代币通过节点质押+Gas费捕获链上价值
+- [[thorchain]] — Cosmos SDK 跨链原生资产 DEX 应用链，RUNE 作为兑换媒介（A-RUNE-B 二次兑换），无需包装代币实现 BTC↔ETH 直接兑换，2021年三次黑客攻击损失上千万美元
+- [[dymension]] — Cosmos 生态 RaaS Hub，RDK RollApps + IBC 中心-辐条架构，替代共识模块专为无验证者转换逻辑 Rollup 设计
+- [[saga]] — 弹性区块空间 RaaS 平台，按需部署去中心化 Chainlets，借助主验证器集合共享安全，极度聚焦游戏用例
+- [[hyperlane]] — 模块化链互操作协议，标准化安全层实现无需许可跨链，模块化安全给模块化链
+- [[suave]] — Flashbots 多域订单流聚合层，TEE 隐私保护+跨域 MEV 捕获+意图为中心基础设施+共享排序器
+- [[espresso-systems]] — 去中心化共享排序网络，HotShot共识+QC双层最终性
+- [[astria]] — 无需许可共享排序器，Leader Rotation+BFT双重轮换机制
+- [[spire-labs]] — Based Stack 基于 L1 的 Rollup 框架，使用以太坊 L1 作为排序层实现 L2 原子交互，预计 2025 Q1 上线
+- [[radius]] — PVDE加密内存池，排序-后解密无信任排序，从根本上消除MEV
+- [[metis]] — 首个去中心化PoS排序器L2，MPC多重签名+Tendermint共识+排序器轮换
+- [[witness-chain]] — Rollup 安全监测层，勤勉证明 (Proof of Diligence) 独立奖励机制确保每节点独立验证，Watchtower 网络
+- [[canto]] — Cosmos SDK L1，自带 DeFi 组件（分叉 Compound 借贷+分叉 Solidly DEX+NOTE 超抵押稳定币），填补 UST 崩盘后 Cosmos 生态 DAI 缺口
+- [[gear]] — Polkadot 生态 WASM 智能合约链，多语言支持（Rust/C/C++），Actor 模型并行通信，Gavin Wood 参投 $1200 万
+- [[iron-fish]] — PoW 隐私 L1，zk-SNARKs+Sapling 协议+可读密钥平衡隐私与合规（AML 可审计），a16z 领投 $2770 万 A 轮
+- [[pi-network]] — Pi Network 手机挖矿 APP，号称基于 Stellar，2019 年推出/6000 万用户/2025 年 2 月主网上线，"电子宗教"级社区信仰，免费+下沉市场获客范式开创者
+
+### 平台 & 公司
+- [[grayscale]] — Grayscale Investments，全球最大加密资产管理机构，GBTC发行方，$333.7亿AUM（2023.12），DCG子公司
+- [[hashkey-capital]] — 亚洲活跃 Crypto VC，2024年初公开发布14大赛道内部分析框架，覆盖 ZK/MEV/AA/Intents/DA/Rollup/DePIN 等；DejenDog（Tap-to-Earn小游戏/HSK空投渠道/300万+用户）
+- [[hashkey-chain]] — HashKey Group旗下RWA L2区块链，CPIC Estable MMF首日申购1亿美元/全球首对代币化货币市场ETF获批/超200家机构达成RWA上链合作
+- [[ant-digital-technologies]] — 蚂蚁数科，蚂蚁集团旗下区块链品牌，RWA基础设施（Jovay L2 10万TPS/两链一桥/DTVM开源虚拟机），完成首单2亿光伏RWA
+- [[jingdong-tech]] — 京东科技，计划发行港元稳定币JD-HKD（进入金管局沙盒），与天星银行合作跨境支付，布局新能源RWA
+- [[guotai-junan-international]] — 国泰君安国际，获SFC确认代币化证券分销及数码债券发行计划，涵盖结构性产品/基金/债券
+- [[广发证券（香港）]] — 广发证券（香港），中资券商，先后于2024年1月首发香港法代币化证券、2025年6月发行GF Token（每日可申赎代币化证券，USD/HKD/CNH三币种，锚定SOFR）
+- [[iosg-ventures]] — 加密原生投资机构，提出"牛顿摆"理论；撰文系统总结 Alliance DAO 消费者应用投资理念，提出 Web3 消费者应用三种范式和"应用工厂模式"策略
+- [[syncracy-capital]] — Ryan Watkins 创立的加密基金，"胖应用"论点提出者，重仓 HYPE（2024 Q4 建仓），以基本面驱动的研究型投资风格著称
+- [[three-arrows-capital]] — Three Arrows Capital（3AC），2012年创立的新加坡注册加密对冲基金，巅峰管理约100亿美元，因Terra/UST崩盘+过度杠杆于2022年7月清盘；其注册在新加坡/实际运营海外的模式成为MAS实施DTSP监管紧缩的关键催化剂
+- [[tiger-research]] — 亚洲 Web3 研究机构（Substack），4,000+ 订阅者，聚焦亚洲加密监管/税收/投资公平性分析，覆盖韩国/迪拜/泰国/香港等市场
+- [[affinidi]] — 去中心化身份基础设施公司（新加坡），运营 Affinidi Academy 推广 VC/DID 教育，发布《25 Real-World Use Cases of Verifiable Credentials》
+- [[oui-capital]] — 非洲金融科技风投机构，发布Africa‘s Cross-border Payment Landscape研报，专注非洲跨境支付市场研究
+- [[ferryboat-research]] — 加密研究机构（Alex/CIO），曾与Kaito同期开发Twitter社交数据分析产品，未获融资走向自用Alpha工具路线
+- [[artemis]] — 加密数据分析与研究平台，与 Castle Island/Visa/Dragonfly 联合发布稳定币支付自下而上研究报告
+- [[coinglass]] — 加密衍生品数据与分析平台，CoinGlass Derivatives Index (CGDI) 和 CoinGlass Derivatives Risk Index (CDRI) 自研指数，提供全球交易所未平仓合约/清算/市场深度等数据
+- [[cme]] — 芝加哥商品交易所（1898），全球最大传统衍生品交易所之一，2025上半年BTC期货OI 158,300枚BTC超越Binance成为最大BTC期货交易所
+- [[za-bank]] — 众安银行（ZA Bank），亚洲首家零售加密银行，2024年10月上线BTC/ETH交易，80万客户
+- [[silvergate-bank]] — Silvergate Bank（1986-2023），加密友好银行，SEN加密结算网络，FTX 暴雷触发挤兑→2023.3清盘，期限错配+利率误判
+- [[silicon-valley-bank]] — 硅谷银行 SVB（-2023），硅谷科技初创银行，$910亿MBS组合 → 利率飙升$150亿未实现亏损 → 2023.3挤兑被FDIC接管，触发USDC脱锚
+- [[binance]] — 全球最大加密交易平台（2017成立），800万+用户/13国16个服务中心，超级应用先行者；2024年提出CPT市场分析框架（资本/人/技术）；+ 2025年获阿布扎比 MGX 20亿美元注资（行业最大单笔），ADGM FSP+VARA迪拜合规
+- [[bithumb]] — 韩国第二大加密交易所，多起极端泡菜溢价事件发生地（$AVAIL 上市 1255% 溢价 / USDC 首登 165% 溢价）
+- [[upbit]] — 韩国最大加密交易所，散户山寨币交易主导，2024 Q1 韩元交易量超美元
+- [[bitkub]] — 泰国最大CEX（80%市占率），Bitkub Chain+泰铢稳定币，参与BOT支付沙盒测试
+- [[bitget]] — 2018年成立的衍生品交易所，以一键跟单为核心差异化产品，3000万美元控股BitKeep钱包，构建Web3集团生态（交易所+钱包+VC+媒体+孵化器）
+- [[bybit]] — 衍生品驱动型交易所，黑客事件前期货市占率28%→降至约4%；Web3钱包支持20+公链；关联Mantle L2、Mirana Capital和Davion Labs；MNT代币高度中心化（鲸鱼90%）
+- [[lbank]] — 加密交易所，2024年Meme币"新晋Meme King"，281个Meme上线/34%占比，MOODENG首发63倍/GOAT 299倍
+- [[mexc]] — MEXC，二线CEX，凭借快速Memecoin上线策略异军突起，Memecoin交易占比从5.9%升至25.9%（2024Q1→2025.1），$TRUMP当天上线即开放交易
+- [[coinbase]] — 上市加密交易所（COIN），费率 2.5%→1.4%、美元市占 60%→50%、USDC 净保留仅 34%、Base 周利润 $100 万/90% 毛利、SOTP $957 亿但护城河消退
+- [[kraken]] — 合规加密交易所，2024营业利润$4.54亿，以$15亿收购NinjaTrader获CFTC期货牌照
+- [[robinhood]] — 零佣金股票/加密交易平台/代币化股票新业务；收购Bitstamp获50+国合规许可；月活1490万/加密收入$1.6亿(25Q2)；GameStop轧空事件后FINRA罚款$7000万；SBF曾持股7.6%后遭查封回购；2025年市值突破$880亿
+- [[deribit]] — 全球最大比特币期权交易所，2025年被Coinbase以$29亿收购（加密史上最大并购）
+- [[okx]] — 全球前五CEX，Web3钱包Chrome下载超100万/年末用户增长991%；JumpStart累计融资$57亿；OKB 99%+受官方控制；UAE/MiCA合规布局；NFT市场峰值日交易$5000万
+- [[ftx]] — 已破产交易所（2019-2022），SBF创立，$320亿估值归零，Chainalysis链上用户分层案例
+- [[sam-bankman-fried]] — FTX创始人兼CEO（SBF），2022年以6.48亿美元买入Robinhood 7.6%股份，FTX崩盘后股份被查封，Robinhood以6.057亿美元回购
+- [[jesse-pollak]] — Base 创始人，Coinbase 八人核心高管，统领 Base + Coinbase Wallet
+- [[paypal]] — 全球支付巨头（4.31亿用户），PYUSD稳定币，Web3支付生态闭环
+- [[softswiss]] — 瑞士 iGaming 软件供应商（2013年入市），在线赌场平台+加密赌场解决方案+体育博彩
+- [[microstrategy]] — MSTR，最大上市公司BTC持仓（629K BTC/$74.6B），Michael Saylor，四种融资渠道+42B计划
+- [[bmnr-bitmine]] — BMNR ETH金库公司（115万ETH/$52.9亿），Tom Lee任董事会主席，PIPE 2.5亿+ATM 45亿美元
+- [[sbet-sharplink]] — SBET ETH金库公司（60万ETH/$27.6亿），Joseph Lubin任CEO，PIPE 4.25亿美元，单日涨650%/三日17.56倍后暴跌
+- [[stablecoinx]] — ENA积累工具，通过SPAC上市，PIPE 3.6亿美元
+- [[tom-lee]] — "华尔街神算子"，Fundstrat创始人，BMNR董事会主席
+- [[consensys]] — 以太坊生态基础设施公司（MetaMask/Infura/Linea），Joseph Lubin创立，2025年领投SBET PIPE
+- [[marathon-digital]] — MARA，第二大上市公司BTC持仓（40,435 BTC），矿企转型BTC国库公司，零息可转债融资模仿MSTR策略
+- [[cleanspark]] — CLSK，可持续能源矿企，算力50+ EH/s，自产12,500+ BTC，月产694 BTC
+- [[hut-8]] — HUT，北美最大能源基础设施矿企之一，10,273 BTC，财库$1.1B+
+- [[riot-platforms]] — RIOT，美国头部矿企，33.5 EH/s，18,221 BTC储备
+- [[bitdeer-technologies]] — BTDR，吴忌寒创立，SEALMINER自研芯片，1.6 GW电力容量
+- [[metaplanet]] — 日本最大BTC财库公司，从酒店转型比特币持有，详细融资机制（动态权证/零息债/期权创收），股价涨3000%，Q1 2025 BTC收益率170%，12,345 BTC计划2027年21万BTC
+- [[sharplink-gaming]] — SBET，最大上市企业ETH持有者（188,478 ETH），转型故事
+- [[bakkt]] — BKKT，ICE推出机构数字资产平台，拟筹$1B投资BTC
+- [[defi-technologies]] — DEFT/DEFI，Valour ETP发行商，持有208.8 BTC/14,375 SOL
+- [[mtn]] — MTN Group，非洲最大跨国电信运营商（22国/2.19亿用户），MTN MobileMoney是非洲使用国家最多的移动货币，Web3+移动货币普惠金融的潜在入口
+- [[m-pesa]] — Safaricom旗下肯尼亚移动货币平台（2007年推出），处理肯尼亚约60% GDP/覆盖90%+成年人，非洲移动支付先驱
+- [[safaricom]] — 肯尼亚最大电信运营商，Vodafone旗下，M-Pesa母公司
+- [[papss]] — 泛非支付和结算系统（2022年启动），实现非洲各国本币即时跨境支付，年省$50亿代理行费用
+- [[pavel-durov]] — Telegram/VK创始人，2024年8月法国被捕，面临多项刑事指控
+- [[telegram]] — 15亿用户即时通讯，TON+mini dApp Web3 分发基础设施
+- [[moonpay]] — 加密出入金龙头，估值35亿美元，160+国家，700万验证用户
+- [[alchemy-pay]] — 加密法币混合支付，ACH代币，线上线下支付一体化，1%手续费
+- [[shopify]] — 全球电商SaaS龙头（2006年），集成Solana Pay+USDC支付，推出Web3工具包，市场占有率<20%
+- [[stripe]] — 全球支付处理巨头（~$1,060亿估值/2025.11），Stablecoin Sandwich方案+ACP（Agentic Commerce Protocol, 与OpenAI联合推出）+Token Billing+Storage Balance，$11亿收购Bridge押注稳定币支付，2026年MPP协议+Sessions 288新产品
+- [[visa]] — 全球卡支付网络，Trusted Agent Protocol/Agentic Ready/Visa+Lightspark稳定币借记卡，x402基金会创始成员
+- [[mastercard]] — 全球卡支付网络，Agent Pay（已在三大洲上线），Verifiable Intent标准（与Google合作），Santander欧洲首笔受监管Agent支付，x402基金会创始成员
+- [[swift]] — 环球银行金融电信协会（SWIFT），全球最大银行间金融报文网络，连接200+国家11000+金融机构，正与Chainlink合作测试代币化资产结算方案，连接TradFi与DeFi
+- [[x402]] — AI Agent自主支付协议，Coinbase+Cloudflare基于HTTP 402创建，Linux基金会治理，22创始成员（AWS/Google/Microsoft/Visa/Mastercard等），69K活跃Agent/1.65亿笔交易
+- [[craft-ventures]] — David Sacks 联合创立 VC，累计募资超 $32.5 亿，加密投资 12 项目（dYdX/Lightning Labs 等）
+- [[lk-venture]] — 蓝港互动 (08267.HK) 旗下加密投资机构，前身共识实验室，投资 FTX/Polkadot/Filecoin 等 100+ 项目
+- [[foresight-ventures]] — Bitget 生态加密 VC（2021年成立），VC/二级/FOF 三线并行，AUM 超 4 亿美元，投资 Shardeum/Spaceandtime 等，DeSci 赛道发表 BIO Protocol 投资逻辑（Science=/=Knowledge 范式）
+- [[dragonfly-capital]] — 加密 VC，2022年募资 $6.5 亿（Tiger Global/KKR/Sequoia），EBOLA 批判对象
+- [[colosseum]] — Solana 生态加速器，运营 $60M 基金 + Solana 黑客松
+- [[a16z]] — Andreessen Horowitz，顶级 VC，a16z crypto 管理 $70 亿+，代表人物 Chris Dixon
+- [[guy-wuollet]] — a16z加密投资合伙人，前Protocol Labs研究员，斯坦福CS，DePIN系统性验证框架提出者
+- [[yoko-li]] — a16z 合伙人，开发者工具与 AI 基础设施领域，MCP/AI Agent 生态深度分析者
+- [[miles-jennings]] — a16z crypto 总法律顾问，代币分类框架联合作者，专注于去中心化/DAO/NFT/证券法
+- [[eddy-lazzarin]] — a16z crypto 首席技术官（CTO），负责人工程/研究/安全团队
+- [[scott-duke-kominers]] — 哈佛商学院教授，a16z crypto 研究合伙人，合著《The Everything Token》
+- [[okx-ventures]] — OKX交易所旗下战略投资部门，初始$100M资本，2024年7月出手7次并列最活跃加密VC
+- [[cms-holdings]] — 加密投资/交易机构，2024年7月出手7次与OKX Ventures并列第一，投资偏重BTC生态
+- [[bing-ventures]] — BingX交易所关联VC+研究机构（2021成立），Portfolio 50+项目（Avail/Berachain/Manta/Unisat/Solv Protocol），LP参与Hack VC/Bankless Ventures/Maven 11/IOSG/Figment Capital
+
+### 加速器 & 综合VC
+- [[y-combinator]] — 硅谷顶级创业加速器（2005年），孵化Stripe/Airbnb/Coinbase/Dropbox，W24批次2.7万+申请录260+项目（录取率<1%），AI项目占比~60%，CEO Garry Tan称AI创业=1995年互联网级别机会
+- [[multicoin-capital]] — 加密风险投资机构（2017年），Solana 最早期最大机构投资者之一（2019年$2000万融资轮），联合创始人Tushar Jain推动SIMD-0228通胀改革提案
+- [[junction]] — 跨链资产交易统一入口，创始人来自 Ledger/WalletConnect/Coinbase，Alliance 2025年5月批次毕业
+- [[seismic]] — 隐私保护支付方案，新型密码学技术，创始人斯坦福密码学背景+Google X/Apple研发，Alliance 2025年5月批次毕业
+- [[collectivescience]] — 去中心化同行评审工具，全球科学家年审稿费 $80 亿市场，团队来自剑桥/牛津/伯克利/哈佛，Alliance 2025年5月批次毕业
+- [[alliance-dao]] — Web3 消费者应用加速器，孵化 Pump.fun/Moonshot 等标杆项目，覆盖 48+ 应用，最新批次 (2025.05) 20 个项目转向支付/AI/亚非拉市场
+- [[castle-island]] — Castle Island Ventures，加密早期 VC，与 Artemis/Visa/Dragonfly 联合发布稳定币支付研究
+- [[delphi-digital]] — 加密研究与投资机构，创立 LLBA（Lockdrop + 流动性引导拍卖）代币发布模型，Delphi Labs 孵化多个 DeFi 协议，与 Messari/CoinMetrics 并列为加密研究第一梯队
+- [[aftership]] — 国际电商SaaS公司，2012年成立，查物流包裹起家，10万+客户，B轮$66M（老虎环球+高瓴）
+- [[teddy-chen]] — AfterShip创始人兼CEO（陈龙生），香港创业者，9岁丧父白手起家，SaaS创业"慢即是快"哲学代表
+- [[onlyfans]] — OnlyFans成人内容订阅平台，42名员工/66亿美元年营收（2023）/80%创作者分成/410万创作者+3.05亿用户，Leonid Radvinsky控股75%
+- [[cybersyn]] — 1970年代智利实时经济信息网络（Cybersyn Project）：人类历史上第一个覆盖全国的实时经济信息网络，控制论+社会主义结合的独特科技史案例，被CIA支持政变终结
+- [[sevenx-ventures]] — Web3 风险投资机构，专注数据赛道基础设施（Debank/Zerion/Footprint/Koii/RSS3/CyberConnect/Go+），5 维度项目评估框架
+- [[mgx]] — 阿布扎比投资机构（AIATC体系），Tahnoun bin Zayed Al Nahyan 掌舵，2025年3月向 Binance 注资 20 亿美元（加密行业最大单笔），此前投资 OpenAI/Anthropic，横跨 AI 与区块链
+- [[outlier-ventures]] — 伦敦加密原生VC+加速器（2014年），参与Chainlink 2017年ICO，定期发布Web3融资研报（与Messari合作）
+- [[flowdesk]] — 法国加密做市商（2020年），2025年Q1完成9180万美元C轮融资
+- [[yzi-labs]] — 币安风投/孵化器（前 Binance Labs），全资投资 Aster 等项目，2025 年支持 10X Capital 推动 BNB Treasury Company
+
+### 宏观 & 人物
+- [[alex-danco]] — Shopify 区块链团队负责人（2020-2022）/"系统和加密人"，代币化商业（Tokengated Commerce）概念主要推动者，"NFT不是商业输出而是输入"、"fit in and stand out"框架、"web3作为新标准共识环境"实用定义
+- [[peter-schroeder]] — Circle 员工，"The API Economy" newsletter 作者，专注稳定币+AI交叉
+- [[austin-federa]] — Solana 基金会前战略主管，DoubleZero Foundation 创始人，DePIN 分布式带宽项目融资 2800 万美元
+- [[mufeng]] — 慕峰：宏观研究者，再全球化/内需决定论/流动人口理论框架，通读《人口研究》四十年文献
+- [[dolarapp]] — 拉美跨境支付，USDC桥接比索-美元，Mastercard合作发卡
+- [[david-sacks]] — PayPal 黑帮核心成员、Craft Ventures 联创、白宫 AI 与加密货币事务负责人（2024.12）
+- [[chris-dixon]] — a16z crypto 创始人/负责人，管理 $70 亿+，著《Read Write Own》，"赌场文化 vs 计算机文化" 框架提出者
+- [[murad-mahmudov]] — Murad Mahmudov：前 Bitcoin Maxi→Cult Meme 教父，Adaptive Capital 创始人，TOKEN2049 meme 币超级周期演讲者
+- [[0xwizard]] — 0xWizard（巫师）：链上交易者/ACT 社区核心重建者，"牛市发动机三定律"提出者，Meme 币链上交易三策略框架
+- [[jack-levin]] — XEN Crypto 创始人，BRC-20 热潮中一人主导发行 5 币（PUSY/XUNI/EPIC/DRAC/VMPX），DRAC 谜题误导事件引发社区争议
+- [[james-wynn]] — James Wynn：匿名 degen 鲸鱼交易员，$210→$8000 万，$7K PEPE→$2500 万，40x 杠杆操作九位数仓位，Hyperliquid 核心用户
+- [[cult-dao]] — CULT DAO：2022年去中心化VC Meme币，颠覆传统投资机构叙事，KOL邮件冷启动，8天暴涨380倍，1亿美金阶段到顶（+ STEPPS名人效应/病毒营销六要素案例）
+- [[doge]] — DOGE/Dogecoin（狗狗币）：最早的 Memecoin，2013年由 Jackson Palmer 和 Billy Markus 创建，慈善+黑色幽默文化底色，马斯克深度绑定，1487天达$10亿市值
+- [[neiro]] — NEIRO/Neiro：DOGE原型Kabosu继任者Meme币，以太坊大小写双版本，币安上币乌龙事件（大写合约+小写现货），小写Neiro $15M→$720M（~50x）
+- [[moodeng]] — MOODENG/Moo Deng：泰国动物园侏儒河马Meme币，Solana+以太坊双链版本，V神捐款SOP模式成功案例（$1M→$100M+）
+- [[mira-network]] — 去中心化 AI 验证基础设施，多模型分布式共识验证框架（GPT-4o/Llama 3.1/Claude 3.5），复杂推理错误率降低 90%+，40 万+ 用户。注意：与 MIRA 代币（DeSci meme）完全不同
+- [[mew]] — MEW（cat in a dogs world）：Solana 猫主题 Meme 币，10% 空投分发，8+ CEX 上线（含 Upbit 韩元交易对），LOCUS Studio 3D 动画合作，目标成为全球文化 IP
+- [[pnut]] — PNUT（Peanut the Squirrel）：Solana 事件驱动 Meme 币，网红松鼠被政府安乐死→马斯克声援→美国大选舆论武器→11天达$1亿市值→Binance上币
+- [[spx6900]] — SPX（SPX6900）：以太坊 Cult Meme 币，Murad 最看好标的，$10M→$750M（75x），唯一被四位顶级 Meme KOL 共同喊单的币种
+- [[ansem]] — Ansem（@blknoiz06）：Solana 最知名 Meme KOL，SOL $1.5 喊单/BONK 80x/WIF 500x，近期转向 FTM 生态开拓，自称 Murad Team 成员
+- [[zachxbt]] — 独立链上侦探，通过公开链上数据追踪黑客/钓鱼团伙，揭露Monkey Drainer骗局，加密社区最高声誉安全研究者之一
+- [[pow-traderpow]] — POW（@traderpow）：链上 Degen KOL，Telegram 8万+追踪，偏好小市值短期 PVP 喊单，长线回撤 40%+
+- [[poe-poe-ether]] — POΞ（@Poe_Ether）：Degen KOL，Twitter 20万粉丝，多链（ETH/SOL/BASE/SUI）覆盖，喊单即时且数量多，邪教属性标的回撤较小
+- [[people-constitutiondao]] — People/ConstitutionDAO：苏富比拍卖美国宪法众筹DAO，去中心化精神象征，币安上线，Meme币承载政治理念的叙事模板先驱（+ STEPPS社交货币案例）
+- [[siqi-chen]] — 陈思琪，Runway CEO（a16z资助），前SandVR CEO/Postmates产品总裁，2024.12 MIRA 圣诞奇迹主角，Memecoin + 罕见病慈善范式开创者
+- [[stani-kulechov]] — Aave/Lens Protocol 创始人，赫尔辛基大学法学硕士，2017年创立 Aave
+- [[luo-xiang]] — 罗翔：中国政法大学刑法学教授，B站普法爆红，"法外狂徒张三"创造者，核心哲学：人的有限性/知行鸿沟/爱具体的人
+- [[leonid-radvinsky]] — Leonid Radvinsky（列昂尼德·拉德文斯基），乌克兰裔美国企业家，OnlyFans大股东（75%），2018年低价收购，2023年个人股息$4.72亿
+- [[michael-saylor]] — MicroStrategy创始人/执行主席，BTC企业级布道者，货币物理学框架和四级策略梯度提出者，2045年BTC价格$1300万预测
+- [[jameson-lopp]] — Jameson Lopp，Casa CTO，比特币工程师/Cypherpunk，区块空间经济学论文作者，2017年块大小战争理性声音
+- [[javier-milei]] — Javier Milei（哈维尔·米莱），阿根廷总统（2023.11当选），比特币支持者，2025年2月卷入LIBRA Meme币rug pull风波，发推后4小时删推称"不知情"，反对党弹劾威胁
+- [[justin-sun]] — Justin Sun（孙宇晨/孙哥），波场TRON创始人，通过反向收购SRM借壳纳斯达克上市（$100M），WLFI投资$75M+TRUMP榜首持有者，特朗普晚宴嘉宾，SEC诉讼被「暂停」
+- [[a-jian]] — 阿剑，前以太坊爱好者核心研究者（2017-2021），现BTCStudy内容负责人，经济学背景，系统论证PoW全方位优于PoS，EIP-1559最具影响力的中文反对声音
+- [[peter-yang]] — Peter Yang，CreatorEconomy.so 创作者经济分析师，前Facebook Login产品，以"像我五岁一样解释"加密入门系列影响2021年大众加密认知
+- [[王建硕]] — 王建硕（Wang Jianshuo），百姓网董事长/前微软eBay/1995年接触互联网/中文最早Blogger之一，2022年以"Web3小白"和"抬杠者"身份系统批判Web3/DAO/NFT/元宇宙等行业名词泛化现象
+- [[anshe-chung]] — Anshe Chung（Ailin Graef），Second Life虚拟房地产大亨，首个完全在虚拟世界中实现的百万富翁，拥有36平方公里虚拟土地，年收入逾$170万，登2006年《商业周刊》封面
+- [[kanav-kariya]] — Jump Crypto 首任总裁，26 岁上任；2017 年作为实习生加入 Jump Trading 构建加密货币交易基础设施；2021 年提出 Terra UST 秘密买入计划为 Jump 赚 10 亿美元，四个月内晋升为总裁；2024 年 6 月辞职
+- [[henry-shi]] — Henry Shi，Super.com（前Snapcommerce）Co-founder兼COO，年营收1.5亿美元，提出Seed-Strapping融资理论
+- [[super-com]] — Super.com（前Snapcommerce），AI消费平台，年营收1.5亿美元融资2亿美元，Henry Shi联合创立
+- [[starzq]] — starzq.eth，Web3Brand 主理人，中文 Web3 品牌战略分析者，核心框架：打造 web3 品牌灵魂三问、CC0 平台 vs 品牌、participate-to-earn 模型
+- [[forum3]] — Web3 品牌咨询公司，星巴克 Odyssey 背后的 Web3 顾问团队
+
+---
+- [[worldcoin]] — WorldCoin，Sam Altman 联合创立，虹膜扫描人类身份验证（Proof of Humanity），$WLD/$2200亿FDV，加密AI赛道最大单个项目
+- [[facetec]] — 3D人脸活体检测世界领先者，PAD五级攻击分类提出者，10万美元Spoof Bounty Program
+- [[render]] — 去中心化GPU渲染网络，$RENDER/$400亿FDV，计算资源子类别FDV最高，3D渲染+AI推理
+- [[ocean-protocol]] — 去中心化数据交易协议，$OCEAN/$5亿FDV，Compute-to-Data隐私计算，已与FET/AGIX合并为ASI联盟
+- [[oasis-protocol]] — 隐私保护L1区块链，$ROSE/$8亿FDV，TEE机密智能合约，隐私保护子类别FDV最高项目
+
+### 体育 & 娱乐
+- [[socios-chiliz]] — 体育粉丝代币平台（Chiliz/Socios），合作全球100+队伍（巴萨/PSG/AC米兰），球迷投票+VIP特权
+- [[nba-top-shot]] — 体育NFT标杆（Dapper Labs），NBA高光片段NFT，累计交易量破$10亿，NFL/UFC跟进
+- [[lvmh]] — LVMH（Louis Vuitton Moet Hennessy）：全球最大奢侈品集团，发起Aura区块链联盟（Prada/Cartier），区块链数字产品护照/e-warranty
+- [[tradelens]] — Maersk+IBM区块链物流平台（2018-2022），文档周转减少40%/300+机构入驻，因Maersk中心化治理失败，区块链治理>技术的经典案例
+- [[gsbn]] — 全球航运商业网络（香港非营利），GSBN电子提单处理数千批亚洲航运，成功继承TradeLens教训的中立治理典范
+
+### 音乐 & 媒体
+- [[ifpi]] — IFPI（国际唱片业协会），全球录制音乐产业最高行业代表机构，每年发布全球音乐报告（Global Music Report），1933年成立
+- [[btcstudy]] — BTCStudy，比特币思想中文集结地，阿剑主导，专注比特币技术原理/改进方向/生态技术方案，设"文化"标签栏目放置比特币精神脉络文章
+
+### 传统金融
+- [[renaissance-technologies]] — 文艺复兴科技（Jim Simons），量化交易/算法交易鼻祖，Medallion Fund 39% CAGR（1988-2018），硬科学博士团队，数据驱动决策的开创者
+- [[dominari-securities]] — 精品投行（纽约），策划孙宇晨$1亿反向收购SRM借壳上市，特朗普家族深度绑定（董事会+顾问委员会），办公室位于特朗普大厦
+- [[deutsche-bank]] — 德意志银行（1870年成立），在以太坊上与Matter Labs合作开发DAMA 2 L2扩容方案（ZKsync技术栈，新加坡MAS+24家金融机构联合倡议），传统银行自建公链L2的标志性案例
+
+### Public Crypto Vehicles (PCV)
+- [[gamestop]] — GameStop（GME），2025年4月发行$1.5B零息可转债，购入~4,710枚BTC，传统零售商向PCV转型的代表
+- [[trump-media-group]] — Trump Media & Technology Group（DJT），计划募集$2.5-3B建立BTC金库，政治关联性PCV
+- [[defi-dev-corp]] — DeFi Development Corp（DFDV），前Kraken高管收购转型SOL金库公司，持609,190 SOL/$9700万，4月10x+5月5x涨幅
+- [[trident-digital-tech]] — Trident Digital Tech（TDTH），新加坡数字转型公司，计划筹5亿美元建XRP储备，消息后股价从$0.45跌超50%
+- [[srm-entertainment]] — SRM Entertainment（SRM），孙宇晨$1亿反向收购借壳纳斯达克上市（$0.50/股控盘4.2亿股），更名Tron Inc.，Dominari Securities策划（特朗普家族关联），股价涨超10倍
+- [[habitat]] — Lucasfilm早期图形化虚拟世界（1986），首个使用Avatar（化身）、首个图形界面商业虚拟世界，"赛博空间由参与者互动定义"理念提出者
+- [[active-worlds]] — 首个大规模3D社交虚拟世界（1995，前身AlphaWorld），UGC+3D+开放式社交，出现数字资产所有权和社区自治雏形
+- [[second-life]] — 首个实现虚拟经济系统与法币兑换的虚拟世界（2003），Linden Dollar经济、Tringo游戏与Anshe Chung虚拟房地产帝国
+- [[solipsis]] — 最早提出去中心化虚拟世界概念的项目（2007，Joaquin Keller/Gwendal Simon），点对点架构，预判Metaverse需要互操作性协议
+- [[argent]] — Layer2 智能合约钱包，首创社交恢复功能消除助记词门槛，$4000万 B 轮（Fabric Ventures/Metaplanet/Paradigm），50万+用户
+- [[keplr]] — Cosmos SDK 生态专用钱包，10+ IBC 协议支持，Cosmos 标准钱包
+- [[onekey]] — 全平台硬件+软件钱包，Coinbase 唯一投资的硬件钱包，$2000万 A 轮（Dragonfly/Ribbit Capital），亚洲销量增长率第一
+- [[safepal]] — 去中心化加密钱包+加密支付卡，获Binance早期投资；战略投资瑞士合规银行Fiat24推出「卡+银行账户」模式，用户持有同名银行账户实现券商出入金/Wise跨境汇款闭环
+- [[infini]] — 加密支付卡+DeFi理财项目，2025.6.17关停Card服务（合规成本高/利润薄/运营沉重）；曾向OneKey取经，最终与OneKey U卡同样关闭
+- [[redotpay]] — U卡赛道项目，2025.3完成$4000万A轮融资（Lightspeed领投），同期Infini关闭但赛道仍获VC追捧
+- [[infrared-finance]] — Berachain 生态领先流动性质押协议（$20B+ TVL），提供 $iBGT（$BGT 流动性版本/可转移）和 $iBERA，通过 $siBGT 质押放大 $BGT 收益；PoL 飞轮运转的关键 DeFi 基础设施
+- [[safeheron]] — 亚洲唯一掌握 MPC+TEE 技术的自托管服务商，$700万 Pre-A 轮，20+ 客户/托管超$15亿/促成$40亿+交易
+- [[sapien]] — 去中心化AI数据平台：120万用户/165+国家/1亿+数据任务/27家Web2企业客户（Amazon/Toyota/Alibaba/百度/联想），SPN代币质押+链上声誉+同行评审保障数据质量，$1050万种子轮（Variant领投）
+- [[vara]] — 迪拜虚拟资产监管局（2022），全球首个全面虚拟资产监管机构，基于 DIFC 海洋法系，沙盒监管模式，VARA 牌照发效率高（Binance/OKX/Bybit/Huobi），伊斯兰合规指南（+ IFSB 合作 2023），The Sandbox 虚拟土地元宇宙总部
+- [[difc]] — 迪拜国际金融中心（2004），引入英国普通法独立于阿联酋本土民法，VARA 法务基础，全球首部《数字资产法》（2024），Dubai AI & Web 3.0 Campus 中东最大 AI 集群，FinTech Hive 孵化 584 家初创/10万+黄金签证
+- [[twenty-one-capital]] — 上市比特币财务公司（NASDAQ: XXI），Tether/Bitfinex/SoftBank支持，成立时持$3.6B BTC为全球第三大企业持有者
+- [[sec]] — 美国证券交易委员会：从Gensler"监管即执法"（2021-2024/Ripple/Kraken/Coinbase诉讼+SAB 121）到Uyeda协作模式（2025/Crypto Task Force/Peirce领导/撤销SAB 121）
+- [[gary-gensler]] — SEC前主席（2021-2024），MIT教授出身，"监管即执法"策略制定者，起诉Ripple/Kraken/调查Coinbase/Binance
+- [[mark-uyeda]] — SEC代理主席（2025起），亲加密立场，建立Crypto Task Force/撤销SAB 121/撤回关键诉讼
+- [[hester-peirce]] — SEC专员，"Crypto Mom"，2025年1月被任命领导Crypto Task Force
+- [[robert-shiller]] — 罗伯特·席勒，耶鲁大学经济学教授/2013年诺贝尔经济学奖得主/行为金融学与叙事经济学创始人，《非理性繁荣》《叙事经济学》作者
+
+
+## 综述与来源 (synthesis/) — 按年份分组
+
+### 2026年 (5 篇)
+- [[来源_2026-01_预测市场_做市_流动性_Odaily]] — 预测市场做市难度深度分析：订单簿vs AMM对比、事件驱动的跳跃性和单边行情特征、内幕信息劣势；Polymarket $1000万/Kalshi $900万流动性补贴、ICE $20亿注资Polymarket估值$80亿、Kalshi $3亿融资估值$50亿、SIG做市协议；Haseeb Qureshi预言90%产品将归零
+- [[来源_2026-05_NRA美股遗产税_离岸架构_港险对冲]] — 一位高净值个人十年跨境资产保护实践：NRA美股遗产税四防线（离岸公司+25-30%现金+联名账户+港险），LLM评为"前1%顶尖水平"
+- [[来源_2026-05_AI_Agent_支付狂飙十二个月]] — AI Agent 支付狂飙十二个月全纪录：x402从开源到Linux基金会11个月/五层支付光谱/Stripe/Coinbase/Google多角布局/Visa TAP/Mastercard Agent Pay/Circle Agent Stack/Step Finance $3000万攻击/身份验证四条路径；224行
+- [[来源_2026-06_去中心化排序器_Rollup_Sequencer_Lumoz]] — Lumoz 去中心化Rollup排序器技术分析：五大方案（Espresso HotShot/Astria BFT+轮换/SUAVE竞价/Radius PVDE加密/Metis PoS+MPC）技术拆解
+- [[来源_2026-06_Alpaca_94%25市场_币股竞赛_Odaily]] — Odaily报道Alpaca占据代币化美股94%市场份额：Binance/Bitget/Gate/Ondo/xStocks均为客户；Brokerage-as-a-Service模式；API First理念和先发优势；累计融资3.2亿美元、D轮估值~$11亿；"卖铲子"叙事；129行/10装饰图跳过；新建实体[[alpaca]] + 更新概念[[rwa]] + 更新实体[[binance]][[bitget]][[gate]][[ondo-finance]][[kraken]] + 更新 index + log
+
+### 2025年 (306 篇)
+- [[来源_2025-02_PI上线_社交裂变_资金盘_BlockBeats]] — Pi Network 2025年2月20日主网上线前的新闻综述：5000万注册用户/1800万KYC/6年跳票史/1000亿FDV估值(2%流通)/80个主网应用/三情景预测(30%/50%/20%)/台湾P2P$1 vs IOU$48.3；更新实体[[pi-network]] + 更新概念[[crypto-ponzi-models]]
+- [[来源_2025-09_链上预测平台_FootballFun_Limitless_BlockBeats]] — 2025年链上预测市场新一轮爆发：Football.Fun（Base链球员代币化/LamineYamal份额市值超$10M）、Limitless（超短期预测/数据造假争议）、Myriad Markets（内容原生预测/Backed by Decrypt+RugRadio）、Fantasy.top（SocialFi KOL卡牌/从Blast迁移Base）、Noise.xyz（注意力叙事交易/MegaETH）
+- [[来源_2025-09_预测市场_Memecoin_BlockBeats]] — Memecoin退潮→预测市场崛起：预测市场达Solana Meme交易量38%/DEX交易者不足峰值10%/Pump.fun盈亏集中在±$500/99%新Meme归零/Solana手续费降90%+；Kalshi监管突破/$1B选举夜/$1.97B年交易额/John Wang入职；Polymarket $200M融资/$2B估值/130万用户；赛道投资$3M→$370M
+- [[来源_2025-09_预测市场_Flirp_Polymarket_特朗普之子_PANews]] — 特朗普长子Donald Trump Jr.通过1789 Capital投资Polymarket数千万美元并加入顾问委员会；Flipr两月百倍社交预测市场；六大项目深度解析（UMA/Augur/Azuro/PNP Exchange/Hedgemony）
+- [[来源_2025-01_2024年空投149亿美元_Dropstab_PANews]] — Dropstab 2024年空投宏观数据：$149.1亿总量/Hyperliquid $13.4亿领衔/六大赛道分布（L2 $42.2亿28.3%居首/DeFi $33.1亿/L1 $26.3亿/游戏模因$22.8亿/流动质押$12.7亿/AI $3.73亿垫底）
+- [[来源_2025-01_AiFi生态版图_40+项目_Foresight_News]] — AiFi 40+项目全景：市场洞察/抽象层 (20+)、基础设施 (10+)、AI 加持 DeFi (9)，多数处于内测/概念期
+- [[来源_2025-01_DeFAI生态_AI_Agent交易_PANews]] — IOSG DeFAI赛道mapping：4分类+4阶段演进+Agent 6步工作流+抽象AI三强对比（Griffain/Anon/Slate）
+- [[来源_2025-01_Project89_argOS_ECS_Agent框架_深潮TechFlow]] — Project89/argOS：ECS架构Agent框架，System完全解耦+三层意识频率模型，第四种Agent Framework范式
+- [[来源_2025-01_DeepSeek_R1_霸榜AppStore_中国AI硅谷地震_深潮TechFlow]] — DeepSeek R1 纯RL推理模型对标o1，558万美元训练成本颠覆行业认知，MIT开源，引发全球AI圈地震
+- [[来源_2025-02_DeepSeek_误读与真相_经济观察报]] — 经济观察报系统拆解四大DeepSeek"爽点"误读：558万不含前期研发(Semi Analysis估25.73亿总GPU投入)、PTX属CUDA生态、R1"幻觉"更隐蔽、OpenAI o1闭源失误
+- [[来源_2025-01_Monad测试网_生态建设_参与策略_PANews]] — Monad 测试网前夕生态盘点：25+ Native 项目 7 大类，基金会成立，社区参与+空投猜测策略
+- [[来源_2025-01_MegaETH_Monad_Hyperliquid_高性能区块链对比_PANews]] — Three Sigma 三链横向对比：MegaETH（L2 极端低延迟/100K TPS）vs Hyperliquid（20万 TPS/金融市场专业化）vs Monad（1万 TPS/并行 EVM 平衡），核心结论"无单一方案主导所有用例"
+- [[来源_2025-03_MegaETH_实时区块链_StanfordReview]] — Stanford Blockchain Review 首发 MegaETH 技术深文：JIT 编译消除 EVM 解释执行瓶颈、全内存状态将磁盘 I/O 从 80%+ 降至约 10%、中心化出块 + 去中心化结算架构（引用 Vitalik Endgame）、14k 历史同步 vs 1k 实时同步分项量化数据
+- [[来源_2025-01_Solana_AI黑客松落幕_获奖项目详情_深潮TechFlow]] — Solana AI 黑客松 9 赛道 21 获奖项目：400+ 参赛/$275K 奖金/The Hive 冠军，含代币市值快照和赛道 taxonomy
+- [[来源_2025-01_BNBChain_AI_First_版图_ChainCatcher]] — BNBChain AI First 战略全景：50+ 项目"数据-算力-算法"闭环，MVB 孵化→币安上币 Pipeline，Greenfield 存储差异化
+- [[来源_2025-01_MSTR_微策略_比特币战略_IOBC]] — MSTR四种融资渠道完整分类/444,262 BTC持仓/42B计划测算/资产负债表安全边际/149主体BTC持仓全景
+- [[来源_2025-01_Fair_Launch_零售VC平衡_Tiger_Research]] — Tiger Research：Fair Launch 平台内在悖论（TGE狙击/Cabal/审查真空）、价值驱动参与者选择框架、Legion Score四维评估、AI-Pool TEE+AI Agent实验
+- [[来源_2025-01_Rei_Network_AI_Agent_区块链联动_深潮TechFlow]] — [[rei-network]] 四层认知架构（思考→推理→决策→行动）+ 三大支柱（Oracle/ERC数据标准/记忆系统），AI→区块链确定性转化框架，Unit00x0 量化分析师首个实例
+- [[来源_2025-01_AI_Agent_框架Meme应用_三阶段格局_深潮TechFlow]] — CGV Research：AI Agent "框架/Meme/应用" 三阶段格局、五大框架对比（G.A.M.E/Eliza/Swarms/Rig/ZerePy）、GOAT $13亿/Fartcoin $15亿、DeFAI 辅助 vs 自主两大方向
+- [[来源_2025-01_DeFAI未发币_6个潜力项目_PANews]] — 6个DeFAI未发币项目盘点：Wayfinder/Axal/Cod3x/Slate/Almanak/HeyElsa，千亿美元市值叙事
+- [[来源_2025-01_DeFAI_AI_Agent_新浪潮_深潮TechFlow]] — YBB Capital：DeFAI=意图新路径（AI Agent+Solver+Intent-Centric+DeFAI公式），15项目盘点，2025.1.14 DeFAI逆势涨38.73%，GRIFFAIN $457M+ANON $248M占赛道37.29%，AI金融化左右分叉（Game vs DeFi）
+- [[来源_2025-01_VIRTUAL生态_50亿市值_叙事解析_odaily]] — VIRTUAL $50亿阶段生态盘点：aixCB/TAOCat/Neurobro/Freya/Gekko AI/H4CK Terminal六个项目、"AI+其他领域"成新热点、VC通过投资开发商（a16z投Axal）布局Agent生态、Virtuals（应用层）vs Solana（基础设施层）叙事分化
+- [[来源_2025-01_Virtuals官方年度总结_五支柱战略_BlockBeats]] — Virtuals团队官方一周年总结：220K持有者/$20亿Agent市值/$6000万收入，五大战略支柱（Builder/公平投资/GAME/盈利模式/Luna），"AI Agent国家"终极愿景
+- [[来源_2025-01_新AI项目_早期研究_深潮TechFlow]] — Stacy Muur "Be Early"系列：7个新AI项目（Limitus/Soulgraph/Neur/Vaporware Fun/Almanak/Baos.fun/MyShell），市场下跌期反周期研究示例
+- [[来源_2025-01_CreatorBid_Bittensor_Olas_AI-Agent]] — CreatorBid AI Agent 发射台（Base）：2% 交易税→Agent 自有资金库、Olas mech Agent 间技能调用、"Agent 雇佣 Agent" 协作范式、Bittensor 子网作为 Agent 技能插件商店、$BID 2025年1月 TGE
+- [[来源_2025-01_DeFAI三大方向_0xJeff_BlockBeats]] — 0xJeff 原创 DeFAI 三分类框架（抽象层/自主交易代理/AI 驱动 dApp）：三大抽象层横向对比（Griffain/Orbit/Neur）、Cod3x cdxUSD 稳定币:alt LP 流动性创新、Almanak $100万 Legion 融资/TEE 策略验证、Slate 一手使用体验、ANON $10M→$130M 里程碑、Phala/Hyperbolic TEE+PoSP 验证基础设施定位、"2025 是 DeFAI Summer" 预言
+- [[来源_2025-01_战壕式交易策略_Meme_市值心理学_深潮TechFlow]] — arndxt 战壕式交易框架：市值三层漏斗（7-15k/50k/200k）、分阶段止盈（2x/5x）、PVP 博弈心态、AI 代币尽职调查、40-65% 胜率可盈利的实战验证
+- [[来源_2025-01_Jupiter收购时间线_DEX基建_深潮TechFlow]] — Jupiter 从 DEX 聚合器到基建狂魔的收购全景：SolanaFM/Coinhall/Sonarwatch/Ultimate Wallet/Moonshot/Meteora/PumpAI/Jupnet，构建"入金→数据→交易→资管"闭环
+- [[来源_2025-02_Jupiter_代币经济学_回购_BlockBeats]] — Jupiter 宣布 50% 协议费用回购 JUP 并锁仓 3 年、社区文化细节（PPP/行星会议/Uplink）、Jupnet+ADI+1A3C 新概念、ElizaOS/Virtual Protocol 合作、TRUMP 发行验证 LFG 技术栈；更新实体[[jupiter]]+概念[[tokenomics]]
+- [[来源_2025-01_DeFAI_入门_The_DeFi_Investor]] — The DeFi Investor 2025年1月DeFAI入门：HeyAnon/Sonic L1、Griffain已上线需Access Pass、Mode Network AI Agent生态（Modius/ARMA/AmpliFi+App Store）、maxAPY收益优化器赞助、Avalanche infraBUIDL(AI) $1500万资助、"95%项目会死"风险警告
+- [[来源_2025-01_AI代理游戏_The_Farm_Hyperliquid_深潮TechFlow]] — The Farm：Hyperliquid 上首个 GenAI 宠物游戏，Orchestrator AI 多代理架构（拒绝 SWARM），三阶段路线图（祖先→进化→战场），50% 协议收益回购销毁
+- [[来源_2025-01_AI叙事_加密交易策略_深潮TechFlow]] — terry（@terrytjw）AI 赛道交易策略框架：注意力 vs 基本面二分法、中曲线陷阱（$50M 无差异化项目风险最大）、行业 beta 押注（AI Agent $10B→$100B+）、每月交易复盘方法论
+- [[来源_2025-01_Solayer_社区发售_硬件加速_SVM_PANews]] — Solayer一年三次叙事转型（restaking→RWA→硬件加速SVM），LAYER社区发售（$1050万/15倍超募），InfiniBand RDMA技术方案，创始人Rachel Chu+Jason Li
+- [[来源_2025-01_Swarms生态项目_MCS_SPORES_BlockBeats]] — Swarms 生态四个项目深度介绍（MCS 医疗/$25M/SPORES 四代理集群/CREATE AI创作/$8.8M/IFSCI DeSci禁食/$3.5M），Marketplace 路线图 + 生态基金
+- [[来源_2025-01_TRUMP发行细节_SOL历史新高_PANews]] — PANews/Meta Era：TRUMP代币发行全复盘——提前一月购买域名/精控公告四层确认/Moonshot合法性信号/6家CEX 24h极速上架/集体诉讼豁免条款/80%内部持有/SOL突破$295 ATH
+- [[来源_2025-01_RTFKT关闭_耐克Web3失败_PANews]] — PANews/Zen：Nike 2021收购RTFKT到2024关停全历程，Clone X从$63K跌至0.24 ETH，DTC战略失败+CEO更替导致Web3实验被弃
+- [[来源_2025-01_Q1发币项目盘点_Berachain_Monad_OpenSea_PANews]] — Odaily核查：11个Q1 TGE/主网项目中仅Abstract和Nillion有官方确认，多数为社区传闻；OpenSea $4.2亿+融资居首但时间表最模糊
+- [[来源_2025-01_Hyperfy_AI_Metaverse_BlockBeats]] — Hyperfy 从元宇宙土地到 AI Agent 沉浸式空间：10h 市值 $280M/$80M 日交易量，ElizaOS V2 集成，AI 理事会/Stonk 交易所/互操作宠物三大场景，M3 社群背景，AI Agent 拯救元宇宙叙事
+- [[来源_2025-01_ELIZA_集市理念_大教堂与集市_ChainOfThought]] — ELIZA 深度分析：大教堂 vs 集市框架（Virtuals 中心化精确规划 vs ELIZA 去中心化协作即兴）、角色文件六要素系统、信任引擎双层安全架构、ai16z 估值四层驱动、开源货币化困境
+- [[来源_2025-01_Web3营销割裂_MKT策略_深潮TechFlow]] — SunnyZ 一线 MKT 从业者田野报告：产业链五方（VC/项目/MM/交易所/买盘）信息割裂、Infra vs Dapp 增长路径差异、Airdrop 悖论（活动越多筹码越稀释）、Web2 投流（小红书/TikTok）融合趋势、Grass Twitter 运营路径复盘
+- [[来源_2025-03_AI_Web3市场营销_品牌定位_深潮TechFlow]] — AI工具提升Web3营销效率实战指南：Monad测试网Banner AI设计全流程（Visual Electric+Jitter+Cursor等六工具）、12品牌原型在加密项目映射、品牌定位阴阳理论、定位四大问题、"思想病毒"传播概念、Hype Partners品牌定位方法论
+- [[来源_2025-01_USD0++脱锚_循环贷爆仓_Morpho清算_PANews]] — Usual USD0++脱锚事件完整分析：赎回规则修改、0.87保底价与Morpho 0.86清算线的精准爆破、循环贷杠杆机制、USUAL死亡螺旋、三大结构问题（用户不读文档/中心化决策/行业在吸取教训）
+- [[来源_2025-01_以太坊路线图_Pectra升级_DevCon_PANews]] — HashKey Capital：以太坊六大阶段/Pectra升级三大EIP参数（7702/7691/7251）/DevCon互操作性讨论（Based Stack vs 共享排序器）/Beam Chain约5年长期愿景/Tornado Cash制裁驳回
+- [[来源_2025-01_以太坊Gas限制之争_区块上限_验证器_MEV_深潮TechFlow]] — 2077 Research：Gas上限提高辩论（3000万→3600万→6000万）、EIP-7623/4444缓解方案、执行时间>4000ms重组率3x+、最坏区块大小2.58MB→1.2MB、MEV收入差距扩大风险
+- [[来源_2025-01_Plume_RWAfi_RWA专用链_深潮]] — RWAfi 概念：代币化→全生命周期赋能范式升级/Plume 首个专用 RWAfi L1 模块化架构（Arc/Passport/Nexus）/机构+DeFi 双轮驱动/2000 万美元融资/180+ 应用/375 万测试网用户/Katie Haun 监管背景
+- [[来源_2025-01_RWA代币化技术_四种方法_Aquarius]] — Aquarius/BlockBeats：RWA 代币化四种方法分类学（直接所有权/1:1资产支持/超额抵押/不足抵押）+ 数字增强 vs 数字原生资产区分 + 原子结算/AMM 技术机制
+- [[来源_2025-01_特朗普MEME币吸血_DeFAI抄底_50项目盘点_BlockBeats]] — TRUMP MEME币吸血AI赛道→DeFAI折扣入场：50项目六大子类（市场分析/抽象平台/交易代理/启动平台/DeFi优化/基础设施），诚实披露赛道护城河缺失和代币价值捕获薄弱两大结构性问题，MODE 1,684代理仅管$30.4万
+- [[来源_2025-01_特朗普上任_加密后市解析_BlockBeats]] — 特朗普就任前 BTC 市场全面解析：2024年走势复盘/巨鲸行为分化/ETF叙事vs特朗普叙事两种对立框架/日元Carry Trade宏观风险/链上数据（MVRV/稳定币/期货）偏乐观但短期博弈激烈
+- [[来源_2025-01_Trump加密图谱_七大类_Layergg]] — Layergg/深潮TechFlow：Trump加密利益关联七维图谱（直接代币/D.O.G.E/Solana/SEC/美国币/名人币/VC），人事-代币传导链条分析
+- [[来源_2025-01_Moonshot_超级周期_Shoal]] — Shoal Research Moonshot 深度案例：法币入金 Memecoin 交易平台垂直整合战略，$TRUMP 事件前后定量数据对比，手续费结构与推荐机制，竞争格局（ChainPro/Hype/Vector/Motion），Jupiter 收购战略意义
+- [[来源_2025-02_HIP_Vaults_Token模型_Hyperliquid_腾讯新闻]] — 仙壤GodRealmX解读Hyperliquid：HIP-2线性做市（0.3%间距/3秒更新/自动反向做市）、Vaults三层体系（HLP/Liquidator/User Vault）、HYPE 50%收入回购销毁、4节点闭源安全问题、资金费率雷同0.01%刷单争议。核心框架：所有设计统一服务于冷启动
+- [[来源_2025-02_Initia_内置流动性_深潮TechFlow]] — Initia 官方博文由深潮编译：Enshrined Liquidity（LP代币同时赚交易费+质押收益+治理权，Y单位INIT创造2Y价值）+ Vote Lock（锁定1-48月最高4倍投票权）+ VIP每两周投票分配Rollup激励，三位一体构建可持续的代币经济飞轮；261行/4外部URL不可用
+- [[来源_2025-02_Initia_德尔福_交织Rollup_StacyMuur]] — Stacy Muur 对 Delphi Digital Initia 研报的摘要+批注："Naked appchains"困境→ Initia 四大支柱（UX/互操作/意见性堆栈/VIP）→ Cabal 治理飞轮→"世界编排层"定位；Delphi Ventures参与 A 轮 3.5 亿美元估值；158行/7外部URL不可用
+- [[来源_2025-02_特朗普家族加密帝国_DL_News]] — DL News 2025.2.5 特朗普家族加密帝国全景：Meme币（$TRUMP峰值$150亿/80%内部持有）+ DeFi（WLFI销售$3.85亿）+ NFT（$730-820万收入）+ Truth.Fi，$156亿估值含极大水分
+- [[来源_2025-02_特朗普_加密政策_低估_PANews]] — PANews 2025.2.16 特朗普十大政策承诺逐条核查（大部分已落地/国家比特币储备待定）+ TRUMP Memecoin $145亿峰值后跌2/3/20万小额投资者亏损 + WLFI $10亿筹资增售81% + KOL观点两极分化；核心问题：加密市场表现低于预期，政策是否被低估？; 150行/5外部URL不可用
+- [[来源_2025-02_WLFI_深度分析_特朗普政治赋能_BitMart]] — BitMart研究院深度分析WLFI：$4.55亿募资细节/持仓表格（链上$3,779万+Coinbase Prime$2.89亿）/63.8% ETH占比/Macro Strategy宣布（2025.2.12）/75%代币销售收入归特朗普家族/批判性指出WLFI是政治募资工具而非真DeFi产品；171行/3外部图跳过
+- [[来源_2025-02_Kaito_Yap_社交飞轮_KOL图谱_PANews]] — PANews/Ferryboat Research CIO Alex 深度解析 Kaito：Twitter API 成本结构决定 ToB 必然性、数据清洗是核心壁垒、Yap 活动的数据绑定战略、KOL 图谱三种方向取舍、VC 背景歧视的创业者反思
+- [[来源_2025-02_YC春季创业指南_AI_Agent六大Web3赛道_BlockBeats]] — Defi0xJeff 基于 YC 2025 春季 RFS 梳理 Web3 AI Agent 六大赛道（开源软件/开发工具/垂直Agent/个人助理/应用商店/B2A），首次系统引入 B2A 概念，ElizaOS 14k stars 4,227 forks
+- [[来源_2025-02_ETH卷土重来_DeFi投资者]] — The DeFi Investor 2025.2.6：ETH本周期严重跑输（ETC都跑赢了ETH）、三大跑输原因（L2代币分流/100+条L2碎片化/Solana赶超）、六条改进建议、Ondo Summit同日举行（TVL>$5亿/BlackRock出席）
+- [[来源_2025-02_AMM_订单簿_意图_ThreeSigma]] — Three Sigma AMM 系列第二部：AMM 核心问题（IL/低资本效率/LVR 10-12%年化损失/三明治攻击）、CLOB vs AMM 对比、Vertex 混合 CLOB-AMM 架构（5-15ms 排序器 + xy=k AMM 降级保护）、意图架构三种代表（CoW Swap 批量拍卖/Aperture Finance AI+Solver DAO/Across 三层意图桥）、区块构建集中化风险（三家实体 95.3%）、新 AMM 方向（am-AMM/pm-AMM/sr-AMM）
+- [[来源_2025-02_Cryptorails_支付超导体_Archetype]] — Archetype 合伙人 Dan Berenzon 加密支付轨道全景综述：传统支付四层费用结构拆解（Interchange/Scheme/Settlement）、七大应用场景流程拆解（商户收款/汇款/B2B跨境/供应商付款/应收款/资金管理/外援/工资）、出入金市场结构分析（许可证/银行伙伴/做市商三层）、P2P 代理模式在通胀国家实战数据（汇率比银行便宜 7-25%）、20 个 5 年预测框架
+- [[来源_2025-02_比特币_区块空间经济学_Lopp]] — Jameson Lopp 区块空间经济学系统论述：比特币区块大小的 Goldilocks Zone（验证成本 vs 交易成本 vs 热力学安全硬权衡）、9 个 BIP 历史提案回顾与分析、动态区块空间调整机制提议（>99%满块则增加/<99%满块则减少以维持费率市场）、Michael Saylor "增块不道德"论点、主权使用下降信号（ATH价格+空mempool）
+- [[来源_2025-02_BSC扫链_监控_交易工具_BlockBeats]] — BSC 链上 meme 交易实操工具链：Four.meme 扫链、UniversalX/debot/gmgn/ave/OKX/DexScreener 六款链上工具对比、聪明钱发现与监控、安全检查工具组合、交易执行工具选择
+- [[来源_2025-02_Memecoin_CEX流动性_DEX竞争_TigerResearch]] — Tiger Research 分析 Memecoin 如何重塑 CEX-DEX 竞争格局：Raydium 27% DEX 份额超越 Uniswap、MEXC Memecoin 交易占比 5.9%→25.9%、Binance 新上 Meme 跌 75%+、CEX 策略三极分化（激进/滞后/保守）；120行/5外部URL不可用
+- [[来源_2025-02_TST_FourMeme_BSC复兴_深潮TechFlow]] — TST 狂飙背后：CZ 教程视频致测试币 TST 4天登陆币安、Four.meme "Pump.fun+Superteam"孵化定位、BSC 资产发行引擎叙事
+- [[来源_2025-02_DeFAI_DeFi_AI_Saurabh]] — Saurabh Deshpande 为 Decentralised.co 撰写的 DeFi+AI 深度分析：算法交易历史（Medallion Fund 39% CAGR）、DeFi 采用瓶颈（仅占 CEX 10-20% 交易量）、一手产品实测（Hey Anon/Orbit/AIXBT）、AIXBT 胜率 39%/平均回报 2% 的量化数据、DeFAI 三支柱框架与多 Agent 协作方向
+- [[来源_2025-02_DWF_Labs_AI代理_变革潜力_BlockBeats]] — DWF Labs系统性研究报告：AI代理从Truth Terminal起源、通过Pump.fun与Memecoin融合，到DeFAI自动化DeFi操作的完整演进路径；$19B巅峰市值（占AI项目94%）、Virtuals 17,000+代理数据；138行/9外链装饰图跳过；更新概念[[ai-agents]][[defai]][[memecoins]][[market-maker]] + 更新实体[[dwf-labs]][[virtuals]][[truth-terminal]][[pumpfun]]
+- [[来源_2025-02_Mode_Network_DeFAI_L2_深潮TechFlow]] — Memento Research Mode Network 深度研报：全栈 DeFAI L2 三层层级架构（交互/AI Terminal+App Store / 数据/Synth SN50 概率预测 / 基础设施/Forta 安全排序器+Superchain）、veMODE 代币经济和四赛季演进、7300+ AI 智能体生态数据、Giza ARMA/Amplifi/BabyDegen 三个案例研究
+- [[来源_2025-02_OKX_AI_Agent版图_上_深潮TechFlow]] — OKX Ventures 研报上篇：AI Agent 系统定义（感知/推理/决策/行动四要素）、五阶段代币演变路径（Meme→Social→Vertical→Infra→Data→DeFAI）、Web2 vs Web3 开发者数据对比（17x/4.3x/33.6x 差距）、五大框架挑战与五大未来方向预测
+- [[来源_2025-02_SynFutures_DeFAI_路线图_深潮TechFlow]] — SynFutures DeFAI三阶段路线图：单体AI Agent（Synthia交易/Alpha Hunter分析/社交交易）→ 开放AI Agent生态（Web3 AI Framework）→ Meta Agents；累计交易量近2500亿美元/手续费5848万/FDV 3.2亿 vs Virtuals 13.2亿；更新实体[[synfutures]] + 更新概念[[defai]]
+- [[来源_2025-02_VanEck_加密货币月度回顾]] — VanEck 2025年2月市场回顾：BTC跌17.5%/ETH跌33%/Meme跌41%、Bybit史上最大黑客($1.4B+)、以太坊收入份额55%→24%、Solana SIMD 096/0228、Sonic(S)+21%/FeeM返佣
+- [[来源_2025-02_华尔街开放经济_OndoFinance]] — Ondo Finance品牌宣言："华尔街2.0"概念（区块链是金融市场基础性升级而非颠覆）、"开放经济"使命、从稳定币到收益币的演进逻辑、三层受益者框架（投资者/资管人/开发者）
+- [[来源_2025-02_RWA_链上资产_BUIDL_OurNetwork]] — OurNetwork On-314 数读 RWA 赛道：代币化 RWA 规模突破 $172 亿、BUIDL 26%+ 资产流出以太坊、XAUt 黄金代币 $7 亿、Maple TVL $6 亿、Superstate $3 亿 AUM，297 行
+- [[来源_2025-02_预言机_机构信任_Chainlink]] — insights4.vc 三大预言机横向对比（Chainlink/Pyth/RedStone）：预言机作为区块链信任层、核心架构差异（推送 vs 拉取/联盟 vs 第一方/混合）、经济激励模型（质押/再质押/罚没机制）、融资与代币经济对比
+- [[来源_2025-02_预言机_RedStone_TGE_代币经济_深潮TechFlow]] — RedStone预言机五角度分析：模块化架构和EigenLayer AVS优势、极端行情性能数据（11.9万次更新/40次$ezETH更新 vs Chainlink 20次）、RED代币经济（10亿供应/48.3%社区/70%锁仓12月）/以Pyth $2B FDV为基准估值$2；238行/10外部URL图不可用
+- [[来源_2025-02_应用大模型_夸克_AI应用_深潮TechFlow]] — 深潮TechFlow：DeepSeek之外的应用型大模型路线，夸克"应用大模型"案例，AI in All vs All in One，Sensor Tower $12.7亿/170亿次，夸克7102万MAU/40%+留存，灵知大模型比肩o1，阿里AI To C加速
+- [[来源_2025-02_比特币挖矿_力量_Grayscale]] — Grayscale Research首份比特币挖矿专题报告：挖矿经济学（765 EH/s哈希率/2024年$150亿收入/$34-59k生产成本）、攻击成本量化（$5-20bn/1h 51%攻击）、环境数据（0.2%全球电力/50-60%清洁能源）、AI/HPC转型（Core Scientific/CoreWeave $35亿合同）及电网稳定贡献；129行/7外部CDN图不可用
+- [[来源_2025-02_传统大公司_以太坊_RWA_NFT_深潮TechFlow]] — Galaxy Research 副总裁 Christine Kim 系统调查：超过50家非加密原生公司在以太坊/L2上构建产品——55家公司中23家发行NFT、13家金融机构发行RWA；以太坊RWA总值是第二名Stellar的十倍；德意志银行DAMA 2 L2（ZKsync）、索尼Soneium（OP Stack）；Atari/Lamborghini/Lotte在Base/Arbitrum上开展链游；PayPal PYUSD/Robinhood USDG在以太坊首发；Stripe 10亿美元收购Bridge；以太坊稳定币供应量年增70%；121行/8外部URL不可用
+- [[来源_2025-02_Dapp报告_用户活动降温_AI增长_PANews]] — DappRadar 2025年2月报告：dUAW降8%至2400万；DeFi TVL从$217B降至$168B；NFT交易量跌50%至$4.98亿；AI dapp飙升16%成最快增长类别（Evermoon+988%/Fractal Visions+721%/UneMeta+551%）；Berachain TVL达$5.05B；Bybit黑客$1.5B；Abstract UAW+1093%；更新概念[[defi]][[nft]][[ai-crypto]] + 更新实体[[berachain]][[bybit]][[solana]][[abstract-chain]][[kaito-ai]]；139行/11外部URL图不可用
+- [[来源_2025-02_Milei弹劾_LIBRA回购销毁_BlockBeats]] — 阿根廷总统Milei发币后删推遭弹劾：LIBRA上线4小时交易量$12亿、内幕交易赚$2000万+、团队套现$1.07亿、顾问拟$1亿回购销毁、Solayer创始人"开盒"追查链上证据。继Trump TRUMP后又一政治人物发币rug pull；原始125行/3分析图/2装饰跳过；新建实体[[javier-milei]][[kip-protocol]][[kelsier-ventures]]；更新概念[[memecoins]][[solayer]]
+- [[来源_2025-02_Bybit被盗_Safe多签攻击_深潮TechFlow]] — SlowMist安全团队分析Bybit黑客（$14.6亿）：Safe前端被篡改而非合约漏洞、DELEGATECALL攻击手法、与WazirX/Radiant Capital/DMM Bitcoin工程化攻击模式一致、链上追踪过程、mETH Protocol回收15,000 cmETH；284行/23外部URL装饰图跳过；新建实体[[slowmist]]；更新实体[[bybit]][[lazarus-group]][[safe]]
+- [[来源_2025-02_Bybit黑客市场冲击_Glassnode]] — Glassnode Week Onchain Week 08 2025量化Bybit黑客事件市场冲击：$4.3B储备外流（BTC 21,248枚+USDT $1.76B）、$1.58B ETH补仓操作、STH-MVRV 0.95跌破成本基础5%、BTC-13.6%/ETH-22.9%/SOL-40%月度跌幅、空气间隙分析；152行/12外部URL图表不可用；新建实体[[glassnode]]；更新实体[[bybit]]
+- [[来源_2025-02_Berachain_生态项目_主网上线_PANews]] — Berachain 主网上线首周全景：Boyco 超 $3B 存款；Kodiak/D2/Ooga Booga/Dolomite/Infrared/Yeet/Beradrome/Smilee 等 DeFi 项目数据；bera.tv/Over/Under/Memeswap/Shogun/Honey Chat 非 DeFi 应用；PoL 尚未激活但已有 5 白名单金库；138行/11外部URL装饰图跳过；新建实体[[kodiak]][[ooga-booga]][[dolomite]][[beradrome]]；更新实体[[berachain]][[infrared-finance]]；更新概念[[defi]][[l1-competition]]
+- [[来源_2025-02_BNB路线图_生态潜力_BlockBeats]] — BlockBeats 2025年初 BNB Chain 生态全景：5亿地址/2025技术路线图（多代币Gas/赞助Gas/AI开发工具）/AI生态60+项目/MyShell IDO超募20倍/CaptainBNB 6小时破1000万/13000%涨幅/CZ发声"解绑"/反击MEV提案；154行/2外部URL图不可用；新建实体[[captainbnb]][[koma]][[bakery-swap]]；更新实体[[bnbchain]][[fourmeme]][[myshell]][[pancakeswap]][[thena]][[lista-dao]][[binaryx]][[chaingpt]][[cookie-dao]][[holoworld]]；更新概念[[l1-competition]][[memecoins]][[mev]][[defi]][[ai-crypto]]
+- [[来源_2025-02_DeepSeek_Agent泡沫_DeFAI_PANews]] — BlockBooster Kevin 系统分析 DeepSeek 对 Web3 AI 四层架构的影响（基础设施层/中间件层/模型层/应用层），提出"DeepSeek戳破Agent泡沫、DeFAI或成新增长点"判断；稀疏训练减少50%算力消耗、约70%项目调用中心化云仅15%用去中心化GPU、社区发射40-60%代币分发以1000万美元FDV启动等关键数据；121行/3外部CDN图不可用；新建实体[[blockbooster]]；更新概念[[defai]][[ai-agents]][[ai-suanli]][[fundraising]][[ai-crypto]]
+- [[来源_2025-02_DeSci_Pump_制药业_PANews]] — 从制药业困境（Eroom法则、修美乐百项专利墙）论证DeSci必要性，详解Pump Science绑定曲线众筹、Molecule IP代币化（BioDAO 3300万IPT）、Big Pharmai作为ai16z对应方AUM超100万、Bryan Johnson引述争议；128行/7外部CDN图不可用；新建合成[[来源_2025-02_DeSci_Pump_制药业_PANews]]；更新7页面（[[desci]][[pump-science]][[molecule]][[big-pharmai]][[bio-protocol]][[vitadao]][[yesnoerror]]）
+- [[来源_2025-02_PumpScience_新化合物_EGS_PANews]] — Pump.Science 2025年2月新发射平台机制（Bonding Curve 303 SOL门槛/动态费率抗狙击/Meteora流动性迁移）、$EGS"超募高退"预售事件（1223 SOL/退91.87%/100k开盘）、12新化合物完整清单；RIF/URO从高点跌95%+、BIO跌90%；66行/1外部CDN图不可用；新建合成[[来源_2025-02_PumpScience_新化合物_EGS_PANews]]；更新3页面（[[pump-science]][[desci]][[bio-protocol]]）
+- [[来源_2025-02_MyShell_IDO超募_代币经济_深潮TechFlow]] — 深潮TechFlow详解MyShell IDO超募42倍（计划募$80万BNB/4000万枚$SHELL/4%）、IDO估值$2000万 vs 私募估值$1.5-3亿、Binance HODLer空投第10期+现货上线、产品四层架构（AI聊天/工具市场/创作工坊/AIPP商店Bonding Curve）、$SHELL五类参与者+五大商业用途；207行/9装饰图跳过；新建合成页；更新实体[[myshell]]；更新概念[[ai-agents]][[ai-crypto]][[tokenomics]]
+- [[来源_2025-02_MyShell_AI_Agent_BSC_深潮TechFlow]] — 深潮TechFlow在MyShell IDO当天发布的产品导览：四层产品架构详解（AI聊天/20万Agent工具市场/创作工坊100+模型/AIPP商店Bonding Curve）、$SHELL总量10亿五类参与者+五大商业用途、"AI Agent在BSC上能否再火一把"视角；189行/3装饰图跳过；新建合成页；更新实体[[myshell]][[bnbchain]]；更新概念[[ai-agents]]
+- [[来源_2025-02_Shadow暴涨_Sonic_深潮TechFlow]] — 深潮TechFlow Penny 报道 Shadow Exchange 早期爆发：$SHADOW一周涨超500%（~$5M→$31.84M）、457个池/7日$5.57亿交易量、x(3,3)三层代币结构详解（xSHADOW/x33）、PvP Rebase退出惩罚机制、Sonic链冷启动数据（TVL 2个月从0→$5亿/$1.1亿外部净流入）；60行/5外部CDN图不可用；更新实体[[shadow-exchange]][[fantom]] + 更新概念[[automated-market-maker]]
+- [[来源_2025-03_新公链_稳定币_顶级项目_PANews]] — Ignas/PANews盘点5个即将上线的顶级项目：Initia（多VM L1/A轮$14M/$3.5B FDV）、Fogo（SVM+Firedancer/100万TPS/Echo $8M）、Succinct（ZK证明共享市场/$55M/Paradigm领投）、Resolv（USR+RLP双代币delta中性稳定币/$637M TVL）、Snapchain（Farcaster专用L1/9000+TPS/主网2025.4.15上线/$150M融资）；287行/10外部URL图片不可用
+- [[来源_2025-03_链抽象_间接影响_Shoal]] — Alex Nardi (Shoal Research) 链抽象间接影响综述：四个间接影响领域（用户/开发者/DeFi/游戏&VC），Universal Accounts/Liquidity/Gas 三大支柱+Intent 范式，明确区分 Intents 与 Chain Abstraction，四大挑战（安全MEV/去中心化权衡/监管/经济可持续性），Q4 2024 VC 融资环比+46%/$2.5B 桥攻击损失；⚠️ Particle Network 赞助内容
+- [[来源_2025-03_Meteora_DLMM_单边池_价格区间_深潮TechFlow]] — Meteora DLMM 单边池教程：Bin Step/Bin ID/Price Range 计算、Dev 通过单边池出货吸筹操作原理、钱包观察和链上数据两种查看方法、$TRUMP/$LIBRA 案例；创建实体[[meteora]]；更新概念[[automated-market-maker]]；297行/9外部URL图不可用
+- [[来源_2025-03_PerpDEX三大机制_Hyperliquid_Jupiter_GMX_PANews]] — WOO X Research 以鲸鱼攻击事件为引子对比三大 Perp DEX 机制：HLP/JLP/GLP 三种流动性供给模型、CLOB 订单簿 vs LP-to-Trader vs 预言机零滑点三种交易模型、小时级资金费率 vs 利用率借贷费 vs 小时借贷费三种费用机制；ADL 去中心化矛盾讨论；80行/3外部CDN图不可用
+- [[来源_2025-03_稳定币_耕作机会_HFA]] — HFA Research Charlie 盘点六种稳定币收益策略：HLP 18.61%（含清算事件单日暴涨和4天锁仓）、Sky Rewards 8.52%/Savings 6.5%、Ethereal Season Zero 15-20%、AO 14.37%、Berachain USDC.e/HONEY 13.79%（BGT）、Sonic Shadow Exchange 28.9-35.3%、Navigator NLP 35.60%+131.71% esNAVI；89行/8外部URL图不可用
+- [[来源_2025-03_稳定币支付_四层技术栈_深潮TechFlow]] — Foresight Ventures 稳定币支付全景：四层技术栈（应用层/支付处理商/资产发行商/结算层）+ 三代稳定币发行演进（静态储备→生息→收益共享）+ "稳定币三明治→原生经济"方向 + 30+ 支付赛道项目运营数据
+- [[来源_2025-03_SIMD-0228_Solana通胀_深层博弈]] — 0xDragon888：SIMD-0228提案深度分析——通胀从4.779%降至0.87%/质押率与通胀平方根函数公式/"漏桶效应"年流失$955M/验证者经济分化/MEV收入结构性转变/Multicoin Capital利益博弈
+- [[来源_2025-03_DEV链上操作_Cocoro_EVM_PANews]] — 以Cocoro meme代币为例，详解EVM链上操作追踪方法：OKX验证代币经济学、Basescan追踪dev操作链、Uniswap V3单边池NFT查看(LP Token ID 2256046/2256052)、impersonator.xyz模拟登录查池；创建实体[[cocoro]][[own-the-doge]]；更新实体[[base]][[uniswap]]
+- [[来源_2025-03_Solana验证器_Staking_Blockworks]] — Blockworks Research Solana验证者经济深度报告：收入构成（通胀76%/Jito小费14%/优先费9%）、运营成本（投票费$5K/月）、客户端多样性（Jito 92%质押）、LST市场结构（9-10%/Jito 17M SOL）、Marinade SAM拍卖机制、SIMD-96/123/228三大治理提案
+- [[来源_2025-03_DePIN构建指南_验证问题_a16z]] — a16z合伙人Guy Wuollet系统性DePIN框架：3大挑战（去中心化判断/市场推广/验证）、点对池vs点对点、自我交易分析、5种验证方法对比（随机抽样最适合DePIN，共识/ZK不可行，TEE/白名单适合启动）
+- [[来源_2025-03_代币经济学_代币化结构化产品_tokenomicsexplained]] — "代币=DeFi的结构化产品"元框架：ETF类比→代币将吞噬Tradfi（20万亿美元TAM）；下一代代币五大方向（收益型指数/杠杆比率代币/Delta中性稳定币/Flux时间锁/保险头寸）；[[index-coop]] ETH2xBTC/BTC2xETH杠杆比率代币；[[alchemix]] Flux代币时间锁代币化；[[mellow]]无许可LRT市场；dnUSD作为稳定币第四范式
+- [[来源_2025-03_AI_Layer1_Bittensor_Vana_Nillion_Sahara_Kite_BlockBeats]] — Biteye/Louis 五大 AI Layer1 项目深度解析：Bittensor dTAO Alpha代币机制/Nillion $25M融资+盲计算+7500万NIL空投/Vana YZi Labs+CZ顾问+Kite AI 195万钱包测试网+Sahara AI $43M融资+SIWA测试网
+- [[来源_2025-03_Bittensor_AI比特币_子网减半_PANews]] — Bittensor 与 Bitcoin 减半类比叙事：TAO 市值 29 亿美元/70 子网仅 7250 万美元/根子网 20.9 亿美元的结构失衡/动态 TAO 2.13 上线/首次减半 2025.11/12 个代理使用的早期应用层；164 行/10 装饰图跳过；新建合成页；更新实体 [[bittensor]]；更新概念 [[ai-crypto]]
+- [[来源_2025-03_Solana_Base_稳定币支付_Squads]] — Squads博客：Solana与Base稳定币支付公链对决——四大选型标准（性能/费用/需求/监管）、Solana本地费用市场和Firedancer优势、Base中心化排序器与USDC协同、可信中立性为核心分水岭；172行
+- [[来源_2025-03_DePAI_机器人_Web3_深潮TechFlow]] — peaq 团队 DePAI 概念全景：七层架构、XMAQUINA DAO、peaq L1 500K+ TPS、DePAI=DePIN+AI Agent+机器人学+空间智能融合；219行/2外部图不可用
+- [[来源_2025-03_代币分类_七种类型_a16z]] — a16z crypto三位核心成员（总法律顾问[[miles-jennings]]、研究合伙人[[scott-duke-kominers]]、CTO [[eddy-lazzarin]]）联合发表代币分类框架：7类代币（网络/证券/公司支持/游戏厅/收藏品/资产支持/模因币），以预期价值积累来源（source of value accrual）为决定性特征，详细分析每种代币的监管地位和与证券法关系；136行/2外部CDN图不可用
+- [[来源_2025-03_做市商_项目方_黑暗森林_深潮TechFlow]] — 做市商一线从业者自白：被动做市商（Token loan/Retainer两种模式）正常收益仅借币价值约3%，而看空代币时砸盘可获33倍收益；解释"腰部流动性枯竭"结构性矛盾（BTC/Memecoin两极挤压中间代币）；做市商作为交易所V8/V9客户享有隐私保护导致项目方监管黑盒；212行/1业务模式图分析/1装饰图跳过
+- [[来源_2025-03_Web3娱乐_TigerResearch]] — Tiger Research Web3娱乐研报：Modhaus（tripleS/ARTMS NFT fotocard+链上投票）、Yoake（秋元康×Soneium粉丝平台）、Alt.Town（虚拟艺人DNA代币化）三个粉丝经济案例分析，Web3三大变革方向（从爆款到可预测市场/去中心化融资/粉丝经济飞轮效应）；142行/7外部URL图不可用
+- [[来源_2025-03_Crypto_新秩序_机构化_华尔街_深潮TechFlow]] — Crypto从散户投机到机构资本主导的范式转换：BTC从四年周期转向宏观资产、胖协议理论崩塌（L1/L2 150-1000x PE零增长）、稳定币为唯一杀手级应用、开发者转向AI、全球监管转暖（美国/香港/阿联酋/EU MiCA）、OG套现机构接管；253行/4外部URL不可用
+- [[来源_2025-03_Berachain_POL上线_Bera生态_深潮TechFlow]] — Berachain PoL 正式上线后实战数据分析：年排放 54.52M BGT/84%流向奖励金库（约$740万/年）/Berapalooza 2 前24h $50万+贿赂承诺/验证者门槛前69名/$BGT赎回循环风险/Infrared Finance桥接角色；208行/8外部URL不可用；创建实体[[infrared-finance]]
+- [[来源_2025-03_Hyperliquid收入引擎_EverythingExchange_SyncracyCapital]] — Syncracy Capital（Ryan Watkins 基金）HYPE 投资论点深度剖析：$577M 年化收入、链上永续合约 60%+ 市占率、Everything Exchange 概念（交易所+智能合约平台融合）、HyperEVM 金融聚合战略、$1400亿+ 市场规模估算、渐进式去中心化 vs. 验证器中心化风险；134行/9外部CDN图不可用；创建实体[[syncracy-capital]]
+- [[来源_2025-03_AI_Agent_赛道潜力项目_深潮TechFlow]] — 2025年3月 AI Agent 赛道全景式分类框架（8大方向：Launchpad/DeFAI/GambleFAI/娱乐/基础设施/投资DAO/消费应用/InfoFi），含各细分方向头部项目清单和关键数据（ai16z 1.5万星标、Billy Bets 10%回报率、Aion 256 LLM竞争预测）；498行/1图；新建实体[[billy-bets]][[aion-prediction]][[indie-fun]][[quest-flow]]；更新概念[[ai-agents]][[defai]][[infofi]]
+	- [[来源_2025-03_AI代理创业_产品优先_TechFlow]] — 0xJeff 在 AI Agent 叙事降温期提出的"旧模式（框架代币/注意力驱动） vs 新模式（初创公司三层管理：核心产品+代币+代理）"商业模式批判框架，以 Kaito AI 和 Cookie DAO 为"先产品后代币"标杆案例；Aixbt 作为"代理即产品"极难复制的例外；171行/0图；更新概念[[ai-agents]]；新建合成页
+	- [[来源_2025-03_X推荐算法_运营策略_深潮TechFlow]] — 深潮TechFlow X推荐算法深度拆解：六阶段推荐流水线（数据收集→特征提取→候选来源→Heavy Ranker排序→规则过滤→混合输出）、各交互行为权重（互动延伸75.0/负面操作-74至-369）、四大引导策略和三大引流杠杆；174行/2外部URL图不可用
+- [[来源_2025-03_zkTLS原理_潜在应用场景_PANews]] — zkTLS技术原理详解：结合ZKP和TLS协议使链上合约无需信任第三方验证HTTPS数据真实性；对比传统预言机PoS共识的成本效率劣势；长尾资产定价、链上KYC/DID、GameFi等应用场景；109行/1内嵌图未找到；新建概念[[zk-tls]]；更新概念[[privacy]]；更新实体[[chainlink]][[pyth]]
+- [[来源_2025-03_Solana_BNBChain_MEME对比_PANews]] — Solana vs BNB Chain MEME养成路径四维对比（文化内核/构建逻辑/基建设施/市场时机）：Solana "野生"社区驱动（五大MEME类型/全民造币/全链条基础设施/Bonding Curve）vs BNB Chain "加工厂"模式（CZ驱动/精选Alpha/PancakeSwap依赖/Four.meme漏洞）；55行/1装饰图跳过；更新概念[[memecoins]]；更新实体[[solana]][[bnbchain]][[binance]][[fourmeme]]
+- [[来源_2025-03_MCP_去中心化_以太坊_brucexu]] — brucexu.eth（LXDAO 联合创始人）将 MCP 定位为"AI 的去中心化革命"：普通人参与 AI 经济（MCP Server 知识变现）、OpenMCP.Network（以太坊创作者激励层）、Slim LLM 架构（LLM 仅做语言处理/能力由 MCP Server 分布式提供）、d/acc 防御性加速；7行/0图；新建实体[[brucexu-eth]][[lxdao]]；更新概念[[model-context-protocol]][[ai-crypto]]
+- [[来源_2025-01_BIO_Protocol深度研报_币安_DeSci_PANews]] — PANews/共识研究院BIO Protocol深度研报：团队6人尽调/五层功能架构/代币经济学详解（总量33.2亿/分配/解锁）/第二批3个BioDAO/1月路线图/DeSci投资估值框架
+- [[来源_2025-01_解构BIO_Protocol_DeSci基础设施_BIO子网_PANews]] — Foresight Ventures ian：Science=/=Knowledge范式转换/五大基础设施功能/Curation策展机制/BioAcc奖励四场景/DeSci+AI碎片化知识共建终局
+- [[来源_2025-04_普吉岛加密沙盒_泰国_稳定币支付_Tiger_Research]] — 泰国普吉岛加密支付沙盒：三条资产路径可行性对比（BTC/政府稳定币/Bitkub私有稳定币）、SCB Rubie Wallet实战、10M+游客测试场、税收征管驱动
+- [[来源_2025-04_Circle_Payments_Network_稳定币支付网络白皮书]] — Circle 发布「稳定币支付网络」白皮书全文编译：区块链作为结算层，3类支付用例（商业/个人/机构间），对标SWIFT/VISA的开放网络模型，CCTP v2跨链结算，Circle作为治理机构+运营商的CPN架构
+- [[来源_2025-04_CEX_反脆弱_中心化交易所_BingVentures]] — Bing Ventures 2025年4月：四大CEX（Binance/Bybit/OKX/Coinbase）系统性业务分析——收入结构高度集中于交易费，Web3生态成效差异悬殊（Base 120万DAU vs Mantle 1万DAU），平台代币价值捕获分化（BNB+130% vs OKB持平），"流动性竞价战"和80%+产品同质化构成结构性危机，提出"盈亏共生交易生态"作为突破方向
+- [[来源_2025-04_加密货币_美国持有者_调查_PANews]] — 2025年全国加密货币协会（NCA）哈里斯民调：21%美国成年人（5500万人）持有加密资产，39%用于日常支付，76%认为生活积极影响，67%担心过度监管扼杀创新，81%渴望学习更多加密知识，3%经历负面事件；更新 concepts/nft concepts/crypto-taxation
+- [[来源_2025-06_Solana_RWA_全面概述_Helius]] — Solana RWA 生态完整全景：7 大赛道 20+ 项目详细拆解/R3-Corda 集成三能力/代币化股票三条路径（Opening Bell / xStocks / Ondo GM）/各协议具体链上发行量/312行/7外部图不可用
+- [[来源_2025-06_Web3社交图谱_投资论文_1kxnetwork]] — 1kxnetwork Jakub Rusiecki 论文：Web2社交图谱价值来源（Zynga/Facebook案例）、Web3社交图谱机会（用户所有权/可组合性/代币化）、三大瓶颈（慢增长/旗舰客户端主导/弱GTM）、1kx投资框架（应用先行/代币化/生态建设/GTM）；143行/6外部图片不可用
+- [[来源_2025-06_Web3游戏_Tiger_Research]] — Tiger Research Web3游戏产业分析：时间尺度错配理论（游戏长周期vs加密短注意力）/29/40头部公司布局Web3/Axie Infinity 2.7M DAU→96%崩盘/Kaia+LINE 2亿用户/MapleStory N & Overdare标杆期待
+- [[来源_2025-06_非洲跨境支付_稳定币_OuiCapital]] — Oui Capital非洲跨境支付版图：2025年市场$3290亿/CAGR 12%/三条路径成本对比/尼日利亚占撒哈拉以南非洲稳定币流入量40%/四大地区差异/M-Pesa覆盖肯尼亚90%成年人/PAPSS年省$50亿/金融科技降费50-80%
+- [[来源_2025-06_区块链重塑七行业_代币化_insights4vc]] — insights4vc 2025.06.05：7行业区块链全景综述——金融(Circle IPO $70亿市值/$1800亿稳定币)/科技(Google Cloud Node Engine/IBM Hyperledger)/能源(6协议/VPP $50亿→$166亿)/奢侈品(LVMH Aura/Walmart秒级溯源)/物流(TradeLens倒闭/GSBN成功)/体育娱乐(NBA Top Shot $10亿/Socios 100+队伍)/350行/4外部URL不可用
+- [[来源_2025-06_收益型稳定币_DeFi_AmberGroup]] — Amber Group 系统性报告：收益型稳定币全景（3种收益机制/代币化国债$60亿/Plasma链/与货币市场基金类比）；Ethena/Usual/Resolv/Unitas 等项目深度分析；324行/7外部URL不可用
+- [[来源_2025-06_VNX_非美元稳定币_监管_Messari]] — Messari付费报告：VNX列支敦士登FMA注册的非美元稳定币发行层，黄金锚定+1:1法币储备，VCHF累计1.123亿CHF交易量/VEUR处理120万笔/VGBP市场少见的英镑稳定币/VNXAU黄金代币；117行/2外部URL图表不可用
+- [[来源_2025-06_Artemis稳定币支付_深潮TechFlow]] — Artemis/Castle Island/Dragonfly 首次自下而上汇总 31 家稳定币支付公司交易数据：2023.1-2025.2 间 $942 亿可识别支付，B2B $360 亿年化居首，USDT ~90% 交易量，Tron 主导，五大区域采用差异 + 7 个案例（BVNK/Yellow Card/Bitso/Conduit/Reap/Binance Pay/Huma）
+- [[来源_2025-06_Circle_IPO_Coinbase_风险_Artemis]] — Artemis Kevin Li 在 Circle IPO 后系统性分析 Coinbase 结构性风险：交易费率 2.5%→1.4%、美元市占 60%→50%、USDC 净保留仅 34%、Robinhood 零售从 32%→76%、衍生品月交易 $3000 亿+、Base 周毛利润 $100 万/90% 利润率、SOTP 估值 $957 亿但护城河消退
+- [[来源_2025-06_CircleIPO_USDC经济_CoinMetrics]] — Coin Metrics Tanay Ved 分析 Circle IPO 估值与 USDC 经济：CRCL $630 亿市值(~37x P/S, ~401x P/E)、USDC 储备收入至 2029 年预测（$91.5 亿但 Circle 仅保留 $31.6 亿）、Coinbase 平台 USDC 占比从 5% 升至 22%
+- [[来源_2025-06_USDC供应_Circle估值_深潮TechFlow]] — Alkimiya 数据分析：USDC 资金速度是 USDT 的 2.81 倍、Solana 99.5% USDC 交易量份额、Arbitrum USDT:USDC 供应比从 2.03 降至 0.2、AR 模型 ±1.5% 预测精度、Circle 582 亿估值 USDC 供应量化模型
+- [[来源_2025-06_加密货币杠杆_Galaxy]] — Galaxy Research Q1 2025 加密杠杆全景：$39.07B借贷市场（CeFi+DeFi+CDP）/Tether $8.825B主导CeFi/$115.97B期货OI/Hyperliquid $9B OI增长175%/Strategy $8.214B债务/$12.7B BTC金库债务/220行/31外部URL
+- [[来源_2025-06_链上收益_DeFi隐形_机构入场_PANews]] — Artemis/Vaults.fyi 链上收益报告：DeFi走向"隐形"基础设施/机构采用实证（500亿TVL/40亿资管/70亿RWA国债）/加密原生资管四强格局(Gauntlet 31%/Steakhouse 27%/Re7 23%/MEV Capital 15.4%)/可组合性叠加收益/跨链利差(以太坊4.8% vs Polygon 5.6%)/Coinbase-Morpho $3亿借贷嵌入式金融/收益借记卡$1M+/周；190行/13外部CDN图不可用
+- [[来源_2025-06_链上鬼城_比特币网络活动_Glassnode]] — Glassnode Week 24 2025："价格高、链上冷"背离——交易量从73.4万笔/日降至32-50万笔/日、大额交易（>$100K）占比89%、链下成交量7-16x链上、$96.2B总OI但抵押品结构改善；183行/18外部URL不可用
+- [[来源_2025-06_Hyperliquid_生态系统_流动性_Decentralised]] — Decentralised.co Saurabh Deshpande：Hyperliquid 流动性基础设施框架、历史类比（丝绸之路/Rothschild/JP Morgan）、清算成本对比（$1500 vs <$5）、Builder codes 电力公共电网类比
+- [[来源_2025-06_Hyperliquid_Degen擂台_IOSG]] — IOSG 全面分析 Hyperliquid：636 行/JELLYJELLY 事件完整复盘/验证人 Foundation 65.3% 质押/"不可复制"四重护城河/HyperEVM 生态/30 天费用 $69.15M 排名第七/27 外部图不可用
+- [[来源_2025-06_稳定币_经济学_中金]] — 中金首席经济学家[[彭文生]]宏观经济视角分析稳定币：狭义银行模型/需求四驱动力/美元在位优势/微信支付宝即人民币稳定币/中国双轨政策建议
+- [[来源_2025-06_稳定币_DeFi收入_Keyrock]] — Keyrock 链上价值报告：稳定币贡献 >1/3 (~30.8%) DeFi 协议收入；四个驱动因素（供给/情绪/波动率/收益率）；跨链对比（以太坊 $127b vs Solana $13b AUM）；DEX vs 借贷赛道结构性差异；Base 稳定币供给从 $0.5b 增长至 $4.5b；110行/16外部URL图不可用
+- [[来源_2025-06_加密安全指南_社会工程学_深潮TechFlow]] — Presto Labs 编译：致加密用户的安全指南，系统归纳7大类个人攻击向量（社会工程学/电信接管/恶意软件/钱包漏洞/合约风险/市场操纵/基础设施攻击），案例覆盖 Atomic Wallet 1亿美元钓鱼、Monkey Drainer 430万美元窃取、Axie Infinity/Ronin Bridge 6.2亿美元社会工程学攻击
+- [[来源_2025-06_Yupp_AI模型评估_众包_深潮TechFlow]] — Yupp 种子轮 3300 万美元（a16z crypto 领投），推特前技术骨干创办的 AI 模型众包评估平台，超 500 个模型，积分激励+区块链信任层；150 行/6 CDN 图片不可用
+- [[来源_2025-06_DePIN_6用例_a16z]] — a16z合伙人Guy Wuollet横向覆盖六大DePIN应用领域（能源/电信/交通/AI/机器人/医疗），补充了机器人和DeSci交叉等新维度；81行/1装饰图跳过
+- [[来源_2025-06_以太坊_RWA_主导地位_TigerResearch]] — Tiger Research 分析以太坊在 RWA 市场 >50% 份额的结构性原因（先发优势/机构信任/深层链上流动性/去中心化），以及通用公链（Solana等）和 RWA 专用链（MANTRA/Maple/Centrifuge/Polymesh）的挑战者格局；代币化资产当前不到潜在规模 2%；164行/5 外部 URL 图片不可用
+- [[来源_2025-06_CEX进军DeFi_ByReal_TigerResearch]] — Tiger Research 分析三大 CEX CeDeFi 策略分化：Bybit ByReal（Solana 独立 DEX/RFQ+CLMM 混合/自托管资产）、Coinbase 双轨策略（App 内链上集成+Verified Pools 机构合规池）、Binance Alpha（零售导向主 App 内嵌/零钱包摩擦）；驱动因素（DEX 先发代币/用户行为迁移/监管延迟成本）、机构 1-3% 保守配置、交易所代币从打折券到核心资产进化；146 行/5 外部 Substack 图不可用
+- [[来源_2025-06_PCV_加密上市公司_insights4vc]] — insights4vc PCV全景综述：240行/Strategy 568-580K BTC($60B+)/GameStop $1.5B可转债/NAV溢价套利机制/三情景框架/PCV作为准ETF连接股权与加密市场的结构性分析
+- [[来源_2025-06_币股_美股炒作_深潮TechFlow]] — "币股"都在炒什么：Circle CRCL IPO定价31→199.81美元/+600%/42B市值/Coinbase Base TVL$5B+/Shopify USDC结账/Amex信用卡、MSTR 12→360美元/30x、GME 4710BTC→1.75B票据→2.25B可转债、DJT 25亿BTC金库→23亿融资、SBET ETH储备650%单日涨→17.56x→回吐、DFDV SOL金库609190SOL/$9700万、TDTH XRP储备计划–50%股价、SRM TRX储备+10x；144行/9外部图装饰跳过；创建 entities/defi-dev-corp trident-digital-tech srm-entertainment；更新 entities/microstrategy circle coinbase gamestop trump-media-group sbet-sharplink；更新 concepts/pcv stablecoins
+- [[来源_2025-06_买币财富密码_上市公司估值炼金术_BlockBeats]] — BlockBeats综合报道"买币=拉股价"叙事如何从MicroStrategy扩散到小市值垃圾股：SharpLink SBET通过4.25亿美元PIPE买163K ETH涨幅超500%；GameStop 5.126亿买4710 BTC反跌10.9%；Addentax市值450万美金欲花8亿买BTC+TRUMP（100倍+泡沫信号）；Jiuzi市值5000万买1亿BTC；两套"出圈"路径（稳定币美元霸权+公司资产负债表加密储备）；90行/0图；新建合成页；更新实体[[microstrategy]][[sbet-sharplink]][[addentax]][[gamestop]][[metaplanet]][[consensys]]；更新概念[[pcv]]
+- [[来源_2025-06_以太坊RWA_监管变局_BUIDL_Etherealize_BlockBeats]] — BlockBeats《GENIUS Act》后以太坊RWA全景：BUIDL 27亿美元领跑/月分红417万→790万/以太坊2024年4月单月RWA增26.6%/L2生态多样性不足（zkSync依赖Tradable/Arbitrum 43.7%靠BENJI+36.5%靠Spiko）/Etherealize路线图（Q2 SDK→Q3 Noir钱包→Q4国际化）/稳定币增长停滞/USDT 400→700亿后衰减/USDC 220→380亿/Genius Act双刃剑与美元霸权批判/182行/12外部图不可用
+- [[来源_2025-06_大陆企业_香港_RWA_BlockBeats]] — 加密沙律从合规律师视角解析大陆企业香港发行RWA：香港证监会"透视原则"/2023-2024监管文件时间线/"两链一桥"数据上链/QFLP/FDI/QFII资金通道/资产剥离SPV架构/朗新集团充电桩+华夏基金首支合规代币化基金标杆案例/180行/6图分析
+- [[来源_2025-06_叙事评分_加密货币_NarrativeScore]] — Ignas 提出 Narrative Score 公式：[(1.5x Innovation × Simplicity) + (1.5x Community × Simplicity) + (Liquidity × Tokenomics) + Incentives] × Market_Conditions 系统化评估加密叙事；Runes 69分 vs Memecoins 116分；创建 entities/ignas；更新 entities/hyperliquid/kaito-ai/ordinals/runes/pumpfun/velodrome/virtuals/olympus-dao/casey-rodarmor；更新 concepts/memecoins/tokenomics/infofi/restaking/socialfi/ordinals；265行/7外部URL不可用
+- [[来源_2025-06_Metaplanet_比特币_酒店转型_深潮TechFlow]] — Metaplanet从酒店公司到日本MicroStrategy的完整转型历程：2024年5月首次购买117.7 BTC，2025年5月持仓6,796 BTC；四大融资机制（动态权证766亿日元/零息债36亿日元/期权创收占Q1收入88%/酒店现金流）；BTC收益率170%（3个月=MSTR 19个月）；股价涨3000%；308行/7外部URL图不可用；更新实体[[metaplanet]][[microstrategy]]
+- [[来源_2025-06_HashKeyChain_广发证券_GF_Token_深潮TechFlow]] — HashKey Chain携手广发证券（香港）推出GF Token，首个由香港券商发行的每日可申赎代币化证券，支持USD/HKD/CNH三币种（美元锚定SOFR），HashKey Group全栈参与（NexaToken代币化/Tokenisation咨询/Exchange分销）；62行/1图分析；新建实体[[广发证券（香港）>；更新实体[[hashkey-chain]][[hashkey-group]]；更新概念[[rwa]]
+- [[来源_2025-06_Virtuals_Genesis_Launch_打新_撸毛_BlockBeats]] — Virtuals Genesis Launch 积分系统操作攻略：DAB和DDP两条路径，绿锁代币1.5倍加成，yapping for points社媒互动策略，大小玩家策略对比，14天积分过期机制；119行/3外部CDN图不可用
+- [[来源_2025-06_Bitcoin2025_大会_拉斯维加斯_BlockBeats]] — Bitcoin 2025 拉斯维加斯三天会议全景：Vance 承诺消除反加密规则战/Trump家族预测 BTC 2026 年底 $17 万/Cynthia Lummis 战略储备 1M BTC 获军方支持/Michael Saylor "21 Ways to Wealth" 90% 成功率演讲/Tether 10万+ BTC + $13B 年利润/Arthur Hayes ETH 看多 $5K/PSG 成首支持 BTC 足球俱乐部/英国 Nigel Farage 加密强国提案；102行/2外部CDN图跳过；新建实体[[jd-vance]][[arthur-hayes]] + 更新实体[[michael-saylor]][[tether]][[hester-peirce]][[cynthia-lummis]][[vaneck]][[david-sacks]] + 更新概念[[crypto-regulation]][[bitcoin-ecosystem]][[genius-act]][[lightning-network]]
+- [[来源_2025-06_Launchcoin_Believe_五大潜力项目_BlockBeats]] — $Launchcoin 300倍涨幅/市值回2亿美元/Believe生态5大AI+项目(Kled/Polycule/Knet/Jatevo/Fitted)/防狙击机制/ICM叙事/108行/12外部图不可用；新建实体[[kled]][[polycule]][[knet]][[jatevo]][[fitted]]；更新实体[[believe]]；更新概念[[memecoins]][[creator-economy]][[prediction-market]][[ai-crypto]]
+- [[来源_2025-07_特朗普_加密政策_Galaxy]] — Galaxy研究特朗普第一任期6个月加密政策全景：两道行政令（禁止CBDC/战略比特币储备）、SEC Crypto Task Force+5场圆桌+169次会议+撤销Coinbase执法、GENIUS Act参院68-30/众院308-122/7.18签署、OCC/FDIC/Fed撤销"Operation Chokepoint 2.0"、DOJ Blanche备忘录解散NCET、CLARITY Act众院294-134通过但参院仅40%概率
+- [[来源_2025-07_Arbitrum_双产品_Messari]] — Messari 2025.07：Arbitrum 双产品战略（One+Orbit 48链），数字主权国度飞轮，Timeboost/BoLD/STEP/AGV，机构RWA采用（BUIDL/BENJI），ArbitrumDAO 财政$12.1亿
+- [[来源_2025-07_Messari_Solana_RWA_赛道]] — Messari Solana RWA 全景：$4.18 亿 TVL (+140.6% YTD)/4大类别/国债占91%/代币化股票爆发/xStocks+Opening Bell/Ondo GM
+- [[来源_2025-07-13_稳定币四大未来方向]] — 深潮TechFlow：稳定币四大方向（支付/合规/FX/收益），YBS市值6x至$60亿，Aerodrome vs Wise便宜30bp，ConduitPay $100亿支付额，Gauntlet回测7.76% Alpha
+- [[来源_2025-07_Solana_H1_盈利增长_Helius]] — Helius Solana 2025上半年全景报告：REV 1月$5.5亿（以太坊3.31倍）/DEX交易量占81%/开发者增长83%超越以太坊/稳定币$117亿/Helium Mobile Q1+30万用户/RWA铀代币化/Hivemapper 5.4亿公里/90+% SOL ETF获批概率
+- [[来源_2025-07_Launchpad_八大平台对比_PANews]] — PANews编译8大主流Launchpad深度对比：Binance($1.33亿/80+发行)/CoinList(峰值1.5-6x)/DAO Maker(179次/$1.07亿/ROI 0.14x)/Seedify(历史ROI~8x)/ChainGPT Pad(35次6月/$1020万)/Virtuals(32x均值/最高128x)/CoinTerminal(1590%均值)/Fjord Foundry(LBP公平发行)；7大结构性趋势
+- [[来源_2025-07_代币化美股_现状前景_MintVentures]] — Mint Ventures 代币化美股全景：$3.21亿总市值/2444持有者/Dinari vs Backed模式对比/xStocks上线(200+产品/2025.06.30)/Robinhood+Coinbase+Ondo布局/SPI Project Open框架/衍生品替代方案；309行/10外部URL不可用
+- [[来源_2025-07_加密货币衍生品_BTC创新高_CoinGlass]] — CoinGlass 2025上半年加密衍生品市场全景报告：BTC突破$111K后稳居$100K，OI超$700亿，CME超越Binance成最大BTC期货交易所，BTC市场占有率超65%，ETH/BTC比率腰斩至0.017，Hyperliquid DeFi永续合约超80%份额；18张外部图不可用
+- [[来源_2025-07_Hyperliquid_CEX_衍生品格局_深潮TechFlow]] — 解析 Hyperliquid 与 CEX 衍生品格局六维度对比：HLP 金库 TVL $5亿+/夏普2.89/固定保证金 1% vs CEX 分级保证金/资金费率 4%/小时上限/无 ADL/非托管提现；291行/3外部URL装饰图跳过
+- [[来源_2025-07_上市公司加密布局_比特币财库_Odaily]] — Odaily/BlockBeats 全球44家上市公司加密布局全景：五大赛道（交易平台/稳定币/BTC财库/DeFi/矿企），MicroStrategy 58万BTC/股价涨4315%，SharpLink Gaming 1747.62%暴涨/Metaplanet 1.2万BTC/Circle IPO $10.5亿/国泰君安成首家香港中资券商虚拟资产交易
+- [[来源_2025-07_BNB_Chain_新叙事_200天_BlockBeats]] — BlockBeats 全景追踪 BNB Chain 2025上半年 200 天增长：DEX 市占率 80%、DAU 209 万/MAU 2779 万、PancakeSwap 74.6% 市占率/30天收入 $6.6 亿、Lista TVL 超 $12 亿、Four.meme 108 万用户、Aster Perp DEX 第二（24h $4.5B）、Maxwell 升级 0.75 秒出块、xStocks 上线/机构入场；177行/10外链图跳过
+- [[来源_2025-07_公链数据_以太坊_Base_Hyperliquid_PANews]] — PANews 盘点8大主流公链近3个月数据：以太坊ETF净增$50亿但TVL中ETH量降21%；Base日活+115%但净流出$56亿至以太坊；Hyperliquid TVL+202%排名稳定币第5；BSC日活+74.6%但净流出$9.5亿；Solana链上资金净流出$1.12亿、Pump.fun新币从9万降至4万/日；"资金先于生态"复苏判断；72行/6外链装饰图跳过
+- [[来源_2025-07_Shadow_x33_Sonic_深潮TechFlow]] — Shadow Exchange深度解析：Sonic链交易量/收入双料DEX龙头，总交易量破100亿美元，x(3,3)模型作为ve(3,3)的进化，三层代币结构（SHADOW/xShadow/x33）PVP Rebase/LST流动性释放；247行/16外链图不可用；创建实体[[shadow-exchange]] + 更新概念[[automated-market-maker/defi> + 更新实体[[fantom/solidly/andre-cronje>
+- [[来源_2025-07_亚洲Web3_Q2回顾_监管实践_TigerResearch]] — Tiger Research 亚洲七国Web3 Q2回顾：从监管铺路到业务落地，香港稳定币立法8月生效/韩国KRW稳定币大选议题/日本MetaPlanet 39倍回报驱动BTC财库/新加坡MAS全面禁止无牌离岸运营/越南合法化加密/泰国G-Tokens 1.5亿美元/菲律宾内容创作者监管；141行/5外部URL不可用
+- [[来源_2025-07_科技股_投资教训_技术浪潮_深潮TechFlow]] — 30年科技公司回报分析：65类/300+公司/$13万亿总价值（前7占50%），幂律分布/六条投资教训/消费品vs企业软件vs硬科技分类框架/技术浪潮（互联网→移动→云计算→AI）/市场规模误判教训/莫布森基准利率方法论；262行/6装饰图跳过
+- [[来源_2025-07_AI产品分发_48小时社交引爆_a16z]] — a16z 播客观点：AI 产品首发 48 小时内不引爆社交网络即宣判死亡；速度与分发取代技术成新护城河；鸽子论比喻；Lovable 2个月$10M ARR/Genspark 45天$36M ARR/Manus 4分钟演示50万+浏览/Bolt $100万黑客松；新建实体[[lovable]][[genspark]][[manus]][[bolt]][[anton-osika]] + 更新实体[[elevenlabs]] + 更新概念[[application-llm]]；112行/1装饰图跳过
+- [[来源_2025-07_代币化股票_市场规模_深潮TechFlow]] — Tiger Research研报：代币化股票市场规模5亿美元，1%代币化可达1.34万亿美元(2680倍)；四层市场结构(基础设施→发行方→预言机→交易所)；四个成功条件；主要参与者全景(Injective/Backed xStocks/Robinhood EU/Gemini/Securitize/Chainlink)；Solana生态月交易量涨566%；122行/3外部URL跳过；新建实体[[injective]] + 更新实体[[tiger-research]] + 更新概念[[rwa]]
+- [[来源_2025-07_SPAC_比特币财库_深潮TechFlow]] — 深潮TechFlow编译分析比特币财库企业为何偏爱SPAC上市：无实体业务公司（ReserveOne/ProCap/Twenty One Capital/Nakamoto Holdings）通过SPAC快速上市的动机、优势和风险，SPAC vs IPO vs ETF三种敞口方式对比，2025年《机构投资者数字资产调查》60%倾向ETF；88行/2外部URL装饰跳过；新建实体[[reserveone]][[procap-financial]][[nakamoto-holdings]] + 更新实体[[twenty-one-capital]][[microstrategy]] + 更新概念[[pcv]]
+- [[来源_2025-07_叙事经济学_加密市场_愿景_深潮TechFlow]] — 编译PANews：罗伯特·席勒叙事经济学在加密市场的应用，叙事作为市场引擎/生命周期（火花→蔓延→狂热→幻灭→退出或进化）/五案例验证（比特币数字黄金、以太坊世界计算机、DeFi之夏、NFT文化所有权、AI代币）、交易叙事方法论；186行/1装饰图跳过；新建实体[[robert-shiller]] + 新建概念[[narrative-economics]] + 更新概念[[memecoins]][[trading-system]]
+- [[来源_2025-08-17_WLFI估值分析]] — WLFI TGE前夕估值全景：场外$0.8-1/ALT 5 $0.20锚点/Polymarket 74% FDV>$130亿/USD1 $21亿+7.29脱锚/$5600万+对外投资/孙宇晨3亿枚成本<$0.015/"美式加密国家主义"定性
+- [[来源_2025-08_Jupiter_Hyperliquid_聚合器战争_深潮TechFlow]] — Decentralised.co 深度分析：DeFi 聚合理论三级跃升框架（价格发现→执行→分发控制）、Jupiter vs Hyperliquid 聚合器 vs 供应商哲学对立、流动性护城河双刃剑、"应用即新平台"对胖协议理论的挑战、创始人主导 M&A 策略
+- [[来源_2025-08_稳定币公链_分销_收益_Arc_Tempo_深潮TechFlow]] — 佐爷/深潮TechFlow：稳定币公链四线并行（Circle Arc/Stripe Tempo/Tether Plasma/Ethena Converge），竞争从"发行层"上移到"结算层"，GTM说一套做一套（合规话术+Crypto获客），技术壁垒接近零/分销网络是唯一壁垒
+- [[来源_2025-08_a16z_银行_资管_Fintech_区块链转型_深潮TechFlow]] — a16z为银行/资管/Fintech三类机构提供的区块链转型行动指南：代币化存款（JPMD/Citi Token）、代币化基金（BUIDL包装代币/BENJI原生代币/ACRED sACRED）、Fintech专属L2（Base/Ink/Unichain）、公链vs私链决策框架、零知识证明隐私方案
+- [[来源_2025-08_Figure_RWA_HELOC_深潮TechFlow]] — 深潮TechFlow Figure Technology 深度研报：链上HELOC之王、Provenance区块链+DART+Figure Connect三位一体/RWA全球份额42%/H1 2025营收$1.91亿扭亏为盈$2940万净利润/IPO申请(FIGR)/Mike Cagney 90%投票权治理风险；467行
+- [[来源_2025-08_美国政策_加密利好_BlockBeats]] — BlockBeats 2025.08.17：20天内4声明3法案2行政令政策组合拳全景梳理——GENIUS Act稳定币框架/GCLARITY Act市场结构/Anti-CBDC法案/ETF实物赎回/PWG 166页报告/SEC Project Crypto+CFTC Crypto Sprint/LST非证券声明/反窒息行动行政令/401(k)养老金改革；链上国债/链上信贷(Provenance $110亿)/链上美股/质押DeFi(Ethena-Aave-Pendle铁三角)/美国公链(SOL ETF)五大赛道红利分析；231行/6外部URL
+- [[来源_2025-08_价值功能性代币_估值方法_货币方程式_深潮TechFlow]] — Hash Global提出的"价值功能性代币"资产类别和基于货币方程式MV=PQ的估值框架：BNB案例（初始供应2亿枚/理论流通1.08亿枚/流转速率V=0.57/长期增长3%）；BNB销毁机制从"利润挂钩回购"转向"链上交易量自动销毁"以规避证券风险；MV=PQ叠加DCF的定量估值方法；250行/6外部URL
+- [[来源_2025-08_链上PreIPO_私募股权代币化_BlockBeats]] — BlockBeats 链上 Pre-IPO 赛道全景：Ventuals（Paradigm/Hyperliquid 衍生品模式，10x 杠杆）/Earlybird（Solana/Hyperspace 团队）/PreStocks（Republic，22 个实股标的）/Jarsy（团购模式，$10 起投）/Opening Bell（Superstate 变相 IPO）；Figma IPO 首日+250%；Dawson Partners 私募 25 年 3 倍于股市；156 行/10 外部 URL 不可用
+- [[来源_2025-08_Superp_链上永续合约_Meme_BlockBeats]] — BlockBeats Superp 深度报道：BSC Perp DEX 龙头，NoLiquidation Perp（万倍杠杆永不爆仓）+ Meme Perp（10分钟内做空）+ Alpha Perp，对标 Hyperliquid 的 Meme 垂直定位；199 行/11 外部 URL 不可用
+- [[来源_2025-08_券商_加密货币交易_TradFi_BlockBeats]] — 传统券商对加密原生的洗牌已经开始：Robinhood 24Q4加密收入占总净收入35%+（同比+733%至$3.58亿），嘉信理财/摩根士丹利/摩根大通/渣打2025年相继入场加密现货交易，CEX以币股作为防御手段，"小国牌照不算牌照"的合规鸿沟；181行/2外部URL装饰跳过；新建 entities/morgan-stanley entities/charles-schwab；更新 entities/robinhood/bybit/bitget/jpmorgan/standard-chartered/ftx；更新 concepts/cex
+- [[来源_2025-08_招银国际_基金代币化_CMBMINT_DigiFT_BlockBeats]] — 招银国际首次基金代币化CMBMINT：Solana首个代币化公募基金/跨司法管辖区（香港-新加坡互认）/OnChain Token-2022转账钩子合规架构/DigiFT持牌发行/多链部署（Solana→以太坊→Arbitrum→Plume）；新建 entities/digift entities/onchain entities/cmb-international；更新 concepts/rwa entities/solana entities/plume entities/nervos-ckb；108行/7外部图片装饰跳过
+- [[来源_2025-08_ALT5_15亿美元_WLFI财库_BlockBeats]] — ALT5 Sigma 15亿美元注册直接发行+私募配售启动WLFI财库战略；Zach Witkoff任ALT5主席/Eric Trump任董事/Zak Folkman任观察员；BigStrategy Inc.储备超200万枚WLFI成第二家财库公司；Nick Tomaino/Vitalik对加密财库模式的批判；ALT5股价暴涨31.78%后暴跌；102行/1关键图+4装饰图跳过；新建实体[[bigstrategy-inc]] + 更新实体[[alt-5-sigma]][[world-liberty-financial]] + 更新概念[[pcv]]
+- [[来源_2025-10_Robinhood_加密资产第二曲线_国盛证券]] — 国盛证券研报：Robinhood加密收入从20Q2/$500万（营收2%）至25Q2/$1.6亿（16%）；月活1490万为Coinbase 1.8倍但交易量仅为12%；收购Bitstamp获50+牌照；欧盟200+代币化美股上线；OpenAI公开否认合作+立陶宛央行质询；283行/40张外部图不可用
+- [[来源_2025-01_Mira_Network_测试网_去中心化AI验证_深潮]] — Mira Network 测试网上线：多模型（GPT-4o/Llama 3.1/Claude 3.5）分布式共识验证框架，AI输出错误率降低90%+，40万+用户/日20万次推理调用，5机构节点运营商
+- [[来源_2025-06_AI概念币_十大盘点_深潮TechFlow]] — 深潮TechFlow编译2025年6月AI概念币市场快照：10个项目覆盖基础设施（Bittensor/Render）、Agent平台（Virtuals/Fetch AI）、Meme（Fartcoin/Turbo/GOAT）和L1（Casper Network），AI板块总市值$412.2亿，提供各代币价格和市值横截面数据；139行/2装饰图跳过；新建实体[[goatseus-maximus]][[casper-network]][[volt-inu]]；更新概念[[ai-crypto]][[memecoins]]
+- [[来源_2025-06_AI代理链上主导地位_资本规模_PANews]] — PANews编译2025年H1行业快照：AI链上主导地位从1月9%升至6月19%（仅次Gaming的20%），日活跃用户450万；AI代理项目融资13.9亿美元（较2024全年增9.4%）；AI代币市值59亿美元（较高点166亿跌64%）；Virtuals上线17,124个代理；Matchain以190万DAU领跑AI dApp使用率；欧洲26.2%/亚洲21.9%/北美15.8%为AI dApp主要区域市场；91行/2外部URL图跳过
+- [[来源_2025-06_DEX_去中心化交易所_灰度]] — 灰度研究首份DEX系统报告：DEX占全球加密交易7.6%（2023年仅3%），现货份额约25%，DEX spot费用12 bps vs CEX 15 bps，Hyperliquid占perp DEX 80%日均量，前十大DEX合计$22bn市值；163行/8外部URL图不可用
+- [[来源_2025-06_MEV_伸缩限制_垃圾机器人_Flashbots]] — Flashbots 官方论文论证 MEV 是扩容极限：垃圾机器人消耗 >50% Gas 却仅付 <10% 费用、650 倍效率差距、有效吞吐量指标、TEE+显式竞拍解决方案
+- [[来源_2025-06_波场上市_借壳买币_孙宇晨_BlockBeats]] — 孙宇晨反向收购SRM Entertainment实现TRON借壳纳斯达克上市（$100M/$0.50转股/控盘4.2亿股），Dominari Securities策划（特朗普家族深度绑定），全景展示BTC/ETH/SOL/XRP/TRX多资产"借壳买币"资本狂欢；139行/3图分析；新建实体[[justin-sun]][[dominari-securities]] + 更新实体[[tron]][[srm-entertainment]][[world-liberty-financial]][[trump-token]][[sbet-sharplink]] + 更新概念[[pcv]]
+- [[来源_2025-05_DePIN_投资逻辑_IOSG_PANews]] — IOSG Ventures分析师Jiawei从零梳理DePIN投资逻辑：Infra与Consumer交汇点论证、四维投资框架（方向/产品/硬件/团队）、硬件四环节摩擦力分析（Grass最优冷启动）、Helium降本75%数据、Telefonica拉美合作、Grass 1.09亿IP/250万用户；156行/9外部图不可用
+- [[来源_2025-05_DePIN_值得关注_SubQuery]] — SubQuery Network 官方 DePIN 赛道入门文章：DePIN 定义/四组件架构/2025 三大驱动力/Helium+Render+io.net+SubQuery 四个核心项目；SubQuery 近 300 链数据索引和去中心化 RPC 新服务；205 行/4 外部 URL 图不可用
+- [[来源_2025-05_VanEck_Strategy_溢价_资本结构]] — VanEck 研究系统解构 MSTR 溢价驱动因素（+112% NAV溢价/总收益贡献96.5%）、42/42计划扩展（840亿美元）、STRK/STRF资本工具结构缺陷分析、BTC收益KPI规模递减效应，数据更新至2025年5月
+- [[来源_2025-05_稳定币支付_基础设施_Fireblocks]] — Fireblocks《State of Stablecoins》第一方行业报告：处理全球15%稳定币量/86%企业基础设施就绪/监管信心从80%视为障碍降至不足20%/四区域差异化模式（拉美100%行动vs北美39%）/速度>成本（48% vs 30%）/Zeebu 57亿美元结算案例/194行
+- [[来源_2025-05_稳定币_数字美元_花旗_深潮TechFlow]] — 花旗GPS 2025年稳定币研报编译：基准2030年$1.6T稳定币供应量/加密交易90-95%→成熟期50%/B2B 20-25%/汇款10-20%/GENIUS Act vs STABLE Act双轨监管/世界银行FundsChain+Promissa公共部门区块链实践/公共部门五大用例
+- [[来源_2025-05_Ondo_RWA龙头_代币估值_深潮TechFlow]] — Mint Ventures 深度研报：Ondo产品矩阵全面分析（OUSG/USDY/Flux/GM/Nexus/Ondo Chain）、竞争格局（17.01%市占率第二/vs Securitize/Centrifuge/Polymesh）、团队背景（高盛数字资产）、政府关系（SEC会谈/McHenry/WLFI合作）、估值泡沫分析（P/E>300x/通胀64%/价值捕获缺失）
+- [[来源_2025-05_Alliance毕业季_20加密初创_深潮TechFlow]] — Alliance DAO 2025年5月批次20个毕业项目全景：9个AI驱动+5个稳定币/支付+4个链上交易/DeFi+2个科学文化，覆盖亚洲/非洲/拉美新兴市场，反映加密孵化方向从纯链上向真实世界经济需求转型
+- [[来源_2025-05_加密并购_买现成还是自己建_PANews]] — Saurabh Deshpande撰文系统分析风投锐减70%后加密并购三波浪潮/四种收购模式/70-75%失败率与加密特殊优势/Coinbase Deribit $29亿/Kraken NinjaTrader $15亿/Polygon ZK $10亿等案例
+- [[来源_2025-05_链游停运_17款_PANews]] — PANews 2025年5月盘点17款Web3游戏停运：2025年Q1链游投资骤降71%至9100万美元，市值下降19.3%至223亿美元，日均活跃钱包580万（环比降6%）；Nyan Heroes百万玩家仍关闭；揭示链游行业结构性困境
+- [[来源_2025-05_迪拜_VARA_加密监管_BlockBeats]] — 迪拜加密生态全景：Binance获MGX 20亿美元注资（行业最大单笔），VarA沙盒监管/伊斯兰合规指南/DIFC数字资产法，1400+区块链企业/272.5亿美元GDP占比4.3%，迪拜诈骗园区/洗钱中心争议，幻觉与资本并存的去中心化帝国分析
+- [[来源_2025-05_45家加密上市企业_深潮TechFlow]] — 45家已上市加密企业全景盘点：Coinbase首支进入标普500（2025.5.19）、24家挖矿企业半数以上但同质化严重、CoreWeave/Core Scientific从挖矿转型AI计算、Twenty One Capital持$3.6B BTC为第三大企业持有者、Bybit推出USDT交易美股CFD打通加密与传统市场
+- [[来源_2025-05_Visa_Mastercard_稳定币支付_四大支柱]] — 4Pillars.io (100y) 系统性对比 Visa 和 Mastercard 2025.04 稳定币/区块链战略：Visa四大支柱（USDC结算$2.25亿+/VTAP/Visa Direct/稳定币卡）vs Mastercard端到端方案（MetaMask Card/Crypto Credential/MTN代币化平台）；作者判断区块链不影响支付市场份额；124行/1外部URL装饰图不可用
+- [[来源_2025-05_发币平台_竞争_MemeLaunchpad_BlockBeats]] — Meme Launchpad赛道竞争格局：Pump.fun 800万代币发行/累计收入2.23亿美元/340万SOL卖压/日交易额腰斩/市占率降至57%；Raydium LaunchLab 1%费率/85 SOL门槛/RAY回购；Believe社交发币/Scout激励/18亿美元交易额
+- [[来源_2025-05_AI赛道重拾热度_潜力项目_BlockBeats]] — CryptoAI 市场复苏全景：FARTCOIN "三无产品"2周3亿→11亿美元市值领涨/Virtuals VPN+ACP+Genesis熊市Build/Bittensor dTAO流动性优势及SN28治理争议/AI框架纷纷转型LaunchPad/dev.fun AppFi模式近13,000个App；157行/16外链图不可用；新建entities/dev-fun；更新实体[[virtuals]][[bittensor]][[zerebro]][[fartcoin]][[theoriq]][[ai16z]][[arc]][[griffain]][[cookie-dao]]；更新概念[[ai-agents]][[ai-crypto]][[memecoins]][[defai]]
+- [[来源_2025-05_香港链上化_RWA_京东_蚂蚁_PANews]] — PANews综述香港RWA竞赛：京东JD-HKD进入金管局沙盒/蚂蚁数科Jovay L2(10万TPS)/2亿光伏RWA/国泰君安获SFC确认代币化证券/HashKey Chain 200+机构合作/CPIC MMF首日1亿美元；新建entities[[jingdong-tech]][[ant-digital-technologies]][[hashkey-chain]][[guotai-junan-international]]；更新concepts[[rwa]][[stablecoins]]；72行/1装饰图不可用
+- [[来源_2025-05_加密支付卡_乱纪元_生意经]] — 深潮TechFlow Web3农民Frank分析加密支付卡"乱纪元"：纯U卡资金池风险（用户充值Crypto流入二级发卡商资金池，额度本质是对平台的债权而非真实存款）、SafePal&Fiat24「卡+银行账户」模式打通券商出入金/Wise跨境汇款闭环、Bybit 10%+高返现接近极限、OKX Pay标志2025年Web3支付从2B向2C叙事转折；新建 entities/safepal entities/infini；更新 concepts/payfi entities/bybit entities/bitget；241行/8外部URL不可用
+- [[来源_2025-05_企业比特币购买_BlockBeats]] — BlockBeats盘点2025年5月5家企业比特币购买计划：H100 Group AB（瑞典健康科技，$220万可转债/Adam Back领投/24.57 BTC）、DDC Enterprise（中国服装物流，5000 BTC）、Addentax/ATXG（中国纺织，8000 BTC）、DigiAsia/FAAS（印尼金融科技，$1亿+50%净利润）、Basel（新加坡骨科医疗，1万 BTC）；Jim Chanos做空MSTR/做多BTC套利交易（"1美元入BTC/2.5美元出MSTR"）；新建entities[[h100-group-ab]][[ddc-enterprise]][[addentax]][[digiasia]][[basel-singapore]][[jim-chanos]]；更新concepts[[pcv]]entities[[bitcoin]][[microstrategy]]；86行/1装饰图跳过
+- [[来源_2025-04_A2A_MCP_Web3死亡盲区_PANews]] — 链上观分析Google A2A和Anthropic MCP协议落地Web3 AI Agent的三大结构性障碍（应用成熟度断层/基础设施缺失/差异化需求），认为协议不能直接套用，空缺的infra是Builder机会；34行/1装饰图跳过；新建概念[[a2a-protocol]] + 更新概念[[model-context-protocol]][[ai-agents]][[defai]]
+- [[来源_2025-04_MCP_起源_架构_未来_深潮TechFlow]] — MCP 创造者 Justin Spahr-Summers 和 David Soria Parra 在 Latent Space 播客深度访谈：LSP 灵感起源/三大原语设计哲学/MCP vs OpenAPI 互补关系/Statefulness 争议/开放治理/多公司参与现状
+- [[来源_2025-04_Remote_MCP_Server_开源托管_Higress]] — 阿里云 Higress（AI 原生 API 网关）开源 Remote MCP Server 托管方案：OpenAI 正式支持 MCP、Anthropic 2025-03-26 新协议细节（Streamable HTTP）、Local vs Remote MCP Server 对比、Wasm 插件扩展、协议版本卸载、MCP 市场生态；创建 entities/higress；更新 concepts/model-context-protocol entities/openai entities/anthropic
+- [[来源_2025-04_MEV_底层市场_关键中立性_Paradigm]] — Paradigm 对 SEC 的正式政策回函：MEV 法律分析（不构成证券欺诈/内幕交易/最佳执行违规）、PBS 四步流程详解、三层 MEV 分类、"基座市场关键中立性"论点
+- [[来源_2025-04_DePIN_代币经济_报告_Fluence]] — Fluence 联合创始人 Tom Trowbridge 撰写的 DePIN 代币经济学深度报告：buy/burn 标准化在 80%、USD 计价奖励（Storj $1.5/TB/月、Fluence $10/核/月）、Geodnet 80% buy/burn 以 $3M ARR 成唯一 2024 年创 ATH 代币、令牌经济学分类框架（发行/使用 x 质押/奖励/治理/支付）
+- [[来源_2025-04_比特币生态_RWA赛道_Web3全景_PANews]] — Infinity Labs全景扫描：BTC生态(BRC20 55%/Runes 30%/BRC420 TVL $8B/Taproot Assets+闪电网络/UTXO vs EVM双阵营)、基础设施(ChainLink 65%市占/Pyth高频数据/Solana 8亿日交易/TON 9亿用户)、NFT(Blur 35%/OpenSea 45%/BitsCrunch AI检测)、Meme(PUMP.FUN $3.5B日交易/80万代币)、RWA(Ondo $5B/$1600亿稳定币)及DApp五大赛道962行全景数据
+- [[来源_2025-04_Memecoin_全球市场_文化叙事_KOL_深潮TechFlow]] — JE Labs 全球六市场（美国/中国/韩国/欧洲/日本/俄罗斯）Memecoin 地域对比：各国生态特征、KOL 运营模式差异、Murad $SPX $98K→$7.89M 后半月缩水45%、0xWizard 筛选五标准、韩国600万投资者/Upbit 80%份额、俄罗斯TG封闭社群+制裁限制
+- [[来源_2025-04_Web3消费者应用_投资理论_IOSG]] — IOSG Ventures 综述：Alliance DAO 28个消费者应用/7大分类/投资偏好演变（2021-2023 Games→2023下半年起Crypto投机/SocialFi），三种范式（技术优化/加密资产策略/Web3原生服务）及其难点，"应用工厂模式"策略，FM评估框架（用户数据+转化数据+团队判断），四类最有PMF潜力的方向（Web3社交/链上交易工具/支付/DeFi）
+- [[来源_2025-03_Web3消费者应用_三种范式_PANews]] — PANews/马里奥看Web3 综述 Web3 Consumer Application 三种范式：技术优化/加密资产策略/Web3原生服务，分析了每种范式下的机会点与难点，认为"Web3原生用户工具化产品"是最有潜力的方向。与IOSG文章内容重叠，可视为该主题的入门版本
+- [[来源_2025-04_AI应用公司_福布斯AI50_深潮TechFlow]] — 福布斯 AI 50 榜单中 31 家 Web2 AI 应用公司全景（Perplexity/Anysphere/Harvey/Abridge/Midjourney 等），红杉两大趋势判断（AI 从聊天走向执行 + 企业级 AI 工具成为主角），验证"AI 代理三阶段进化"框架的 Phase 2
+- [[来源_2025-04_Virtuals_Web3AI_DeFAI_深潮TechFlow]] — 从 Virtuals 进化看 Web3 AI 格局：InfoFi 定义、DeFAI Path-finder 多 Agent 协作方向、ACP 协议三元组、Frodobots 具身 AI 数据采集
+- [[来源_2025-03_Virtuals代理发射_开发者指南_深潮]] — 从开发者实操视角提供 Virtuals AI Agent 发射全流程指南：bonding curve 42k $VIRTUAL 阈值/1% 交易税分配/固定 10 亿供应/实名开发与透明度原则/发射时机 UTC13:00/空投策略/发射后运营最佳实践；247行/1装饰图跳过；更新实体[[virtuals]] + 更新概念[[ai-agents]]
+- [[来源_2025-08_币股_机构趋势_深潮TechFlow]] — 从"币股"角度分析加密货币机构化趋势：VC融资趋缓、合规明确、Circle IPO+Coinbase入选标普500，四种融资工具(PIPE/SPAC/ATM/可转债)，BMNR/SBET/StablecoinX/ATA等ETH及ENA金库公司案例
+- [[来源_2025-08_佳士得_加密房地产_RWA_深潮TechFlow]] — 佳士得国际地产2025年7月成立全球首个加密房产部门，标志传统奢侈地产入场RWA。补充RealT/Milo/Lofty运营数据、GENIUS/CLARITY法案作为加密房地产合规基础。新建实体[[christies-international-real-estate>；更新概念[[rwa]][[genius-act]][[clarity-act]]；106行/10外部URL不可用
+- [[来源_2025-07_Treehouse_TGE_TREE空投_深潮TechFlow]] — 深潮TechFlow报道Treehouse TGE（Gaia）：TREE总量10亿/TGE流通18.6%/超1/3社群分配/预存金库50-75% APR；协议转型固定收益层，核心产品tAssets（tETH 3.5-5%）+ DOR利率共识机制；TVL $5.5亿/43K用户；137行/6装饰图跳过；更新实体[[treehouse-finance]] + 更新概念[[defi]]
+- [[来源_2025-07_Maple_Finance_机构资本_链上资产管理_TigerResearch]] — Tiger Research 分析 Maple Finance 的链上资产管理定位、三项核心产品（Blue Chip/High Yield/BTC Yield）、差异化风控、2025年 TVL $4B+/Cantor $2B 合作
+- [[来源_2025-04_加密货币借贷_Galaxy]] — Galaxy Research Zack Pokorny：CeFi/DeFi加密借贷全景（含CDP稳定币纳入借贷分析框架），总市场$36.5B（-43%峰值），CeFi三强（Tether/Galaxy/Ledn）89%集中度，DeFi借款$19.1B（+959%底部），CeFi四巨头（Genesis/Celsius/BlockFi/Voyager）崩塌机制拆解，OTC/Prime/Onchain Private Credit三层CeFi结构，DeFi利率曲线/kink点/健康因子技术细节；204行/30+外部URL图表不可用
+- [[来源_2025-04_链上借贷_低抵押贷款_Reflexivity]] — Reflexivity Research 全景：链上借贷演进（MakerDAO→Compound→Aave→$200亿超越CeFi）+ 低抵押信贷四模式（Maple 1600%增长/TrueFi $17亿/Goldfinch $1.1亿+20市场/Wildcat纯链上实验）+ DeFi在CeFi崩溃中的偿付证明 + $400亿预测；119行/2装饰图跳过
+- [[来源_2025-04_Q1风险投资_美国内部_加密货币交易_Insights4VC]] — 2025年Q1美国VC交易总额$915亿（AI占比71.1%），加密VC $48亿（2022年底以来最高）；Kraken-NinjaTrader/Ripple-Hidden Road等$10亿+并购；StepN $1亿GMT回购/币安$20亿稳定币结算投资；退出低迷但二级市场升温
+- [[来源_2025-04_山寨ETF_加密ETF申请_PANews]] — 2025年山寨币ETF申请全景：SOL(6家/75%概率/$3-6B预期流入)、XRP(11家/65-81%概率/$4-8B)、LTC(90%最高概率)、DOGE(75%)、ADA(65%)、AVAX/APT/SUI/MOVE低概率、TRUMP/BONK/PENGU Meme币ETF；Grayscale 5个信托转ETF；PENGU若获批将成首个NFT ETF
+- [[来源_2025-04_贝莱德_发家史_11.5万亿_ChainCatcher]] — 贝莱德完整发家史：从拉里·芬克发明CMO/1亿美元亏损/阿拉丁系统诞生，到2008年受美联储委托清算贝尔斯登/AIG/花旗、收购巴克莱资管安硕主导ETF市场，管理11.5万亿美元资产的"资管之王"成长路径；150行/1外部URL不可用
+- [[来源_2025-07_Ethena_合成美元_市场份额_A1Research_深潮TechFlow]] — A1 Research数据驱动报告：Ethena 68.1%→70.6%市场份额/8.23波动率（20个受测协议最低）/87.25%压力留存/3-6周恢复速度（快37.5%）/$4亿+累计收入全分配/收益效率0.000027%/幂律赛道分布/衍生品结构性支撑；445行/27外部URL不可用
+- [[来源_2025-07_美股代币化_三种模式_Robinhood_xStocks_BlockBeats]] — BlockBeats 美股代币化三种路径对比：第三方合规发行(Backed/xStocks)、持牌券商自营闭环(Robinhood)、CFD模式(Bybit)，Robinhood vs Coinbase路线之争（牌照驱动vs基础设施驱动），Backed团队DAOstack争议；116行/7外部URL不可用
+- [[来源_2025-07_结构障碍_未来发展_美股代币化_BlockBeats]] — 同一作者（柯基Kokii）深度分析："四大问题"框架（为啥发/怎么发/怎么卖/怎么用）、Robinhood(MiFID衍生品合约+白名单) vs xStocks(瑞士DLT SPV+优先担保债)法律结构深层对比、四条结构性障碍（需求模糊/流动性困境/做市风险/权利不完整）、两条未来路径（主流化基础设施 vs 离岸创新平台）；112行/4图片
+- [[来源_2025-07_Robinhood_草根到6000亿_深潮TechFlow]] — Robinhood完整企业叙事：零佣金革命/PFOF商业模式/GameStop轧空危机（37亿美元保证金/FINRA罚款7000万美元）/SBF持股事件/加密转型（Dogecoin贡献62%加密营收）/Bitstamp收购/Robinhood Chain L2；272行/7外部URL不可用
+- [[来源_2025-04_加密VC投资网络_联合投资_Decentralised]] — Decentralised.co的加密VC网络图谱分析：A16z 33%后续融资率 vs 底层7%的极端幂律分布、联合投资习惯（Polychain-Nomad 9次/Coinbase Ventures-Polychain 37次/Paradigm-Robot Ventures 3/10）、大型基金联合投资网络日益集中（仅~50家基金可投>$2M Series A）、联合投资以合伙人个人关系而非基金为单位的学术发现；156行/8外部URL不可用
+- [[来源_2025-05_Outlier_Q1融资报告_L1基建_深潮]] — Outlier Ventures 2025 Q1 Web3融资全景：77亿美元/603笔交易，战略轮102笔占25亿美元，Seed中位440万美元（2年低点），Token融资反弹至16亿美元，Networks类别中位4510万/Developer Tooling 290次投资者交易但中位仅310万；151行/5外链图不可用
+- [[来源_2025-05_去监管_美股RWA_代币化股票_深潮TechFlow]] — 代币化股票四阶段历史（STO→合成资产→CEX托管→RWA合规）、当前市场$445.40M（EXOD占96.5%）、sTSLA仅798次交易证伪合成资产PMF、Backed CSPX $10M/COIN $3M发行量、三大优势与两大不确定性框架（监管速度+稳定币采用度）；新建 entities/exodus-movement + 更新 entities/backed/ondo-finance/synthetix + 更新 concepts/rwa/stablecoins/defi；102行/7外部URL不可用
+- [[来源_2025-04_SEC政策转变_亚洲影响_TigerResearch]] — Tiger Research分析SEC从Gensler"监管即执法"转向Uyeda协作模式，及对亚洲零售投资者/VC/监管机构的三重影响；新建实体[[sec]][[gary-gensler]][[mark-uyeda]][[hester-peirce]] + 更新实体[[coinbase]][[ripple]][[a16z]][[galaxy]][[tiger-research]] + 更新概念[[stablecoins]][[etf]]；109行
+- [[来源_2025-04_Web3叙事退潮_明星项目_深潮TechFlow]] — Stacy Muur 分析 Web3 叙事退潮现象：FriendTech(2024.9关闭)/Virtuals(Base预测→AI Agent平台转型)/Pump.fun(革命→基础设施降级)/Farcaster(DAU 2-5万静默复利)/Blast(MAU 90万→12万)/Scroll(MAU 120万→11.1万)/Starknet($16亿→$3.9亿桥存款)/Renzo(MAU 15.5万→<1.9万)/Sushiswap($113亿→$2亿交易量)；新建实体[[blast]][[starknet]][[renzo-protocol]] + 更新实体[[friend-tech]][[virtuals]][[pumpfun]][[debank]][[farcaster]][[banana-gun]][[unibot]][[maestro-bot]][[grass]][[scroll]][[sushiswap]] + 更新概念[[web3]][[socialfi]][[memecoins]][[ai-agents]]；161行/5外部URL图跳过
+- [[来源_2025-04_PayFi_Huma_暴雷风险_PANews]] — PANews/Odaily Huma Finance 深度分析：$3.9B 交易量/$46M+融资/$19.92 亿 Arf 授信/Huma 2.0 在 Solana 上线（Maxi/Classic 双模式/首周+$1221 万存款）/HUMA 代币计划（Jupiter LFG）/P2P 风险专题分析（9 类风险披露/4 条低风险论据）/DePIN 设备贷款（Roam 合作）；53 行/8 外部 CDN 图不可用；更新实体[[huma]] + 更新概念[[payfi]][[rwa]]
+- [[来源_2025-07_CLARITY法案_a16z_BlockBeats]] — a16z撰写的CLARITY法案深度分析：众议院294-134通过、7项去中心化成熟度标准、与GENIUS法案的互补关系（稳定币基础设施安全真空）、相比FIT21的四项改进、DeFi豁免条款、9月底前完成立法目标
+- [[来源_2025-07_Robinhood_股票代币化_Odaily]] — Robinhood 2025年7月股票代币化产品发布：200+美股代币（1欧元起投/0.1%外汇手续费/24/5交易）、三阶段路线图（收据代币→Bitstamp→可组合性）、Cortex AI投资平台、收购Pluto AI、赠送SpaceX/OpenAI代币；山寨流动性将被挤压；130行/Odaily/CryptoLeo
+- [[来源_2025-06_AI投资_风投概览_深潮TechFlow]] — 2025年上半年全球AI风投概览：Q1融资$600-730亿/超2024全年一半/占全球VC 58%/美国占99%+/OpenAI $400亿+Anthropic $35亿吸纳60%资金/95%+资金集中于基础模型和基础设施；206行/3外链URL不可用
+- [[来源_2025-02_UniswapV4_Hooks_LVR_2077Research]] — 2077 Research 出品：Uniswap V4 完整技术深度解读——Singleton 架构（池部署成本降低 99%+）、Flash Accounting（EIP-1153 瞬态存储，Gas 从 20,000 降至 100）、Hooks 编程模型（10 个生命周期节点）、LVR 解决方案（Arrakis Diamond Protocol 抵押品约束 / Sorella Angstrom AVS 拍卖）、代币发行范例（Flaunch Fair Launch / Doppler 荷兰拍卖+动态绑定曲线）
+- [[来源_2025-11_NOFX_AI加密交易系统_技术演进]] — NOFX开源AI加密交易系统深度拆解：Go+React全栈/LLM自主交易币安合约/三类风控/自我进化机制(复盘20笔历史交易自动调整策略)/多Agent竞赛(DeepSeek vs Qwen)/MIT协议
+- [[来源_2025-11_ACP_Stripe_Agent支付]] — Stripe 联手 OpenAI 发布 ACP（Agentic Commerce Protocol），Agent 支付战略全景，基于 Emily Glassberg Sands 深度访谈
+- [[来源_2025-04_关税冲击_加密市场_避险_深潮TechFlow]] — Binance Research宏观研报：2025年关税冲击下加密市值蒸发近1万亿、BTC跌19.1%/波动率超70%、BTC-标普500相关性升至0.47、滞胀风险与美联储两难
+- [[来源_2025-03_Ethena_合成美元_深潮TechFlow]] — Ethena 深度科普：合成美元 USDe 机制、Delta 中性对冲、OES 多重签名托管（Copper/Ceffu/Cobo）、iUSDe 面向 TradFi 产品、团队与融资细节（Guy Young/Luna 后创业/$119.5M 三轮/三大领域投资人网络）、ENA 解锁时间表（5月 7800万+/月/OTC 0.25U）、Bybit 黑客冲击（$1.2亿赎回/$19亿 Liquid Stables 缓冲）、生态项目 Ethereal/Derive、"币圈联储"定位框架；184行/8外部URL图不可分析
+- [[来源_2025-05_Ethena_链上金融_PANews]] — Tindorr 分析 Ethena 超越稳定币定位的链上金融引擎叙事：USDe+USDtb 双稳定币跻身前十、sUSDe 扩张引擎（Pendle/Aave/Hyperliquid/TON）、Converge+Ethereal 两个里程碑、$ENA 从治理到价值捕获代币转型、对标 BNB 飞轮效应；170行/7装饰图跳过；更新实体[[ethena]] + 更新概念[[stablecoins]][[rwa]][[delta-neutral]]
+- [[来源_2025-06_Ethena_四大增长领域_Telegram_Converge_PANews]] — Ethena 四大增长支柱框架：Telegram 集成（10亿+用户/16周18%APY）、Converge L1（+Securitize $100B TVL/AUM）、DeFi 协议联盟（Pendle $2.6B/Aave $2.2B）、CEX 抵押品扩张（Bybit >$7B余额/若达10%份额可释放$50-60B）；157行/6外链URL不可用；更新实体[[ethena]][[converage]] + 更新概念[[stablecoins]][[defi]][[rwa]][[delta-neutral]]
+- [[来源_2025-10_x402_PING_金狗_BlockBeats]] — x402 协议详解：$PING 像铭文的 30 倍金狗，协议如何运作？x402 首个代币 $PING 铸造案例、铭文类比机制、协议工作流图解、首次大规模压力测试（15 万笔/14 万美元）、生态项目概览；142 行/12 外链图不可用；更新实体[[x402]] + 更新概念[[memecoins]][[ai-agents]]
+- [[来源_2025-06_滑点_Pumpfun_Bitquery]] — Bitquery 对 Pumpfun 交易滑点定量分析：4,844 笔有效交易中位滑点 0 bps、~45% 负滑点、catwifmask 最差 +5000 bps、moonpig 最稳 14.5 bps；三明治攻击时序证据；197行/3外链图不可用
+- [[来源_2025-03_加密营销_新用户增长_深潮TechFlow]] — Hype CMO Emily Lai 的加密营销实战分析：三大困境（竞争加剧/受众碎片化/信任受损）、七类加密受众分类、营销三大建议、创始人故事为核心资产。8,700+ L1/5,200+ L2/日增50k代币供过于求的市场背景；392行/26外链图不可用
+- [[来源_2025-07_以太坊十年_世界计算机_PoS转型_BlockBeats]] — 以太坊十年叙事回顾（2015-2025）：The Merge（能耗降99%/发行降90%）、Dencun/EIP-4844、L2分流致主链价值捕获被侵蚀（渣打估Base"拿走"500亿市值）、Tron USDT超800亿枚超越以太坊、Lido 25%/币安8.3%/Coinbase6.9%质押市场份额、112万+验证者/3611万ETH质押/29.17%质押率、ETH日销毁不足50枚创新低、EF 2025年7月四大支柱改革；189行/8外链图不可用
+- [[来源_2025-07_加密犯罪年中报告_被盗资金_Chainalysis_深潮TechFlow]] — Chainalysis 2025 年中加密犯罪报告：上半年被盗超 21.7 亿美元（比2022年同期高17%）、Bybit 15亿美元为史上最大单次盗窃案（占服务平台被盗 69%）、个人钱包被盗占比持续上升至 23.35%、85亿美元滞留链上未洗钱、扳手攻击与 BTC 价格正相关、洗钱溢价从 2.58 倍升至 14.5 倍、菲律宾 Anson Que 绑架案区块链追踪实例；222行/12图；更新实体[[chainalysis]][[bybit]][[lazarus-group]][[jameson-lopp]] + 更新概念[[privacy]]
+- [[来源_2025-10_x402_实干派_BlockBeats]] — x402生态「实干派」项目全景盘点：PayAI 2730万美元市值/13.78% x402成交笔数/Kite AI 3300万美元融资/PayPal Ventures领投/Questflow 800万美元两轮融资/Heurist HEU代币10亿供应/x402路线图2026年ERC-8004集成；224行/0图；新建实体[[payai]][[heurist]][[daydreams]] + 更新实体[[x402]][[kite-ai]] + 更新概念[[ai-agents]][[b2a]]
+- [[来源_2025-10_ERC-8004_AI_Agent_信任层_深潮]] — ERC-8004 AI Agent 链上信任层深度剖析：三注册表设计（身份 ERC-721 NFT / 声誉 / 验证），x402 解决支付 vs ERC-8004 解决信任的互补关系，受益项目三层分类（Taiko/EigenLayer/S.A.N.T.A/Unibase/Virtuals），Devconnect Trustless Agents Day 催化剂；220行/8外部URL不可用；新建概念[[erc-8004]] + 新建实体[[davide-crapis]] + 更新实体[[taiko]][[eigenlayer]][[virtuals]] + 更新概念[[ai-agents]][[decentralized-identity]][[ai-crypto]][[b2a]]
+- [[来源_2025-07_2025Q2_DApp市场报告_AI代理_RWA_NFT_深潮TechFlow]] — DappRadar 2025 Q2 DApp 市场报告：日均活跃钱包2430万（-2.5% QoQ/+247% vs early 2024）；AI代理DApp登顶活跃度榜首；DeFi TVL $200B（+28%）但融资$483M（-50%）；NFT交易额$867M（-45%）/交易量14.9M（+78%）；RWA NFT+29%/Courtyard成第二大市场；Guild of Guardians超越BAYC和CryptoPunks；黑客损失$6.3B（+215%）/Mantra $5.5B内幕抛售；新建实体[[guild-of-guardians]][[courtyard]][[nobitex]] + 更新实体[[mantra]][[cetus]][[opensea]][[hyperliquid]][[virtuals]] + 更新概念[[nft]][[rwa]][[defi]][[gamefi]][[ai-agents]][[infofi]]
+- [[来源_2025-07_Sapien_Web3_AI_数据平台_深潮TechFlow]] — 去中心化AI数据平台Sapien：$1050万种子轮（Variant领投）／120万用户/165+国家/1亿+任务/27家Web2企业客户（Amazon/Toyota/Alibaba/百度/联想），SPN代币质押+链上声誉+同行评审保障数据质量；Cookie DAO合作分配0.5% SPN供应；168行/10外部URL装饰跳过；新建实体[[sapien]] + 更新概念[[ai-crypto]][[tokenomics]] + 更新实体[[cookie-dao]]
+- [[来源_2025-03_BitVM_欺诈证明_ZK_Fraud_Proof_PANews]] — BitVM背景知识科普
+- [[来源_2025-03_传统金融与链上金融_DeFi交汇_深潮TechFlow]] — 2025年初DeFi全景综述：机构采用加速（现货比特币ETF获批、HSBC/Citi Aave外汇实验、Swift-Chainlink合作）、监管演变（MiCA生效、SEC终止Uniswap调查）、L2/跨链技术突破（Arbitrum/Optimism TVL达数十亿美元、以太坊Gas费降98%）、新兴用例（RWA代币化、NFT抵押、DeFi保险、去中心化身份）；新建实体[[hsbc]][[swift]] + 更新概念[[defi]][[rwa]][[layer2]][[cross-chain]][[etf]]；90行/4装饰图跳过
+- [[来源_2025-05_币安_BNB_赚钱策略_深潮TechFlow]] — Biteye核心贡献者Viee撰写的币安四大打新挖矿活动实操指南：Alpha空投/TGE、Launchpool、HODLer空投、Megadrop；Alpha积分15天滚动过期规则（余额最高4分/日+交易量翻倍递增）；HODLer空投BERA APY 328.5%；TGE参与所有项目总收益约2,933u（上线当天）；刷200分月成本40u预期收益540-600u；三大策略（稳健BNB/刷Alpha/两者结合）；221行/8外部URL不可用；更新实体&lt;binance&gt; + 更新概念&lt;cex&gt;
+- [[来源_2025-03_币圈盈利者_CEX_MEV_做市商_深潮TechFlow]] — 梭教授说撰写的币圈16类盈利者全景分析：CEX利润（年超15亿美元）、DEX/LP（2024年总交易量2.2-2.5万亿美元）、MEV（年利润超25亿美元）、高频Bot、做市商、稳定币发行商、SEC罚款（Binance 40亿+/OKX 5亿+）、Memecoin阴谋集团工业化收割等；321行/11装饰图跳过；更新概念[[cex]][[market-maker]][[mev]][[memecoins]][[stablecoins]][[restaking]][[liquid-staking]][[vc-venture-capital]][[etf]]
+- [[来源_2025-03_早期代币持有者_链上分析_Glassnode]] — Glassnode 四项链上指标框架追踪早期代币持有者行为：Early Holder Balance、Herfindahl Index、NUPL、CBD 热力图，以 SHIB 为主案例分析。SHIB 早期持有者积累超 20% 总供应后在高点抛售；PEPE 早期持有者在首次价格上涨后立即清仓；创建实体 [[shib]]；更新概念 [[memecoins]] [[tokenomics]]；149行/1装饰图跳过/7外部URL不可用
+- [[来源_2025-03_Jump恢复加密业务_黑历史_BlockBeats]] — Jump 在 Terra/FTX 双重打击后全面恢复加密业务：2021年 Terra UST 秘密买入赚 10 亿美元/Kanav Kariya 火箭晋升/FractureLabs DIO 代币诉讼/$6.77 亿链上资产（47% SOL）/做市商影子银行体系/Tai Mo Shan 以 1.23 亿美元 SEC 和解；158行/4外部URL不可用；创建实体[[tai-mo-shan]][[kanav-kariya]]；更新实体[[jump-crypto]][[terra]]；更新概念[[market-maker]][[etf]]
+- [[来源_2025-06_BNB_Chain_财富密码_Binance_Alpha_深潮TechFlow]] — BNB Chain五月DEX交易量1,782亿美元全链第一/稳定币月活1,530万/MGX 20亿美元投资USD1/Binance Alpha超70%代币为BNB Chain/100M基金AI优先/区块速度0.75秒；创建实体[[usd1]]；更新概念[[stablecoins]][[memecoins]][[l1-competition]][[perp-dex]]；更新实体[[bnbchain]][[binance]][[world-liberty-financial]]
+- [[来源_2025-07_CryptoWeek_三大加密法案_深潮TechFlow]] — 美国众议院Crypto Week三项法案全景：GENIUS Act（稳定币，参院68:30通过，众院程序性投票196:223受阻+特朗普介入）/CLARITY Act（数字资产分类，结束SEC/CFTC监管混乱，设"成熟区块链"类别）/Anti-CBDC Act（禁止美联储发行CBDC，强化BTC去中心化叙事）；ETH现货ETF单周净流入8.5亿美金创纪录；150行/4外部URL图不可用；新建合成页；更新概念[[genius-act]][[clarity-act]][[stablecoins]][[privacy]]
+- [[来源_2025-07_ETH储备公司_四家企业_深潮TechFlow]] — 深潮TechFlow盘点SharpLink/BitMine/BTCS/Bit Digital四家ETH储备上市公司：四家均濒临退市/连续亏损，通过ETH储备策略股价暴涨（BitMine月涨3000%/BTCS单日翻倍）；Joseph Lubin/Samir Tabar/Thomas Lee等关键推手复盘；幕后资本网络（ConsenSys/ParaFi/Pantera/Galaxy/Founders Fund/H.C. Wainwright/贝莱德）重叠联动；165行/6外部URL图不可用；新建实体[[bit-digital]][[btcs]] + 更新实体[[sbet-sharplink]][[bmnr-bitmine]][[tom-lee]][[consensys]][[pantera-capital]][[galaxy]][[ethereum]] + 更新概念[[pcv]]
+- [[来源_2025-07_WLFI_解锁上线_估值_BlockBeats]] — BlockBeats报道WLFI解锁前估值全景：技术团队（Rich Teo/Corey Caplan/Bogdan Purnavel）；特朗普持股60%→40%；Justin Sun以$0.01/枚（六六折）入场；Aqua1 Fund $1亿投资；DWF Labs $2500万；USD1 Sahara AI IDO（$7400万超募/79%来自USD1）；WLFI vs TRUMP对标；投资者全景；147行/0本地图；新建实体[[aqua1-fund]] + 更新实体[[world-liberty-financial]][[usd1]] + 更新概念[[stablecoins]]
+- [[来源_2025-07_xStocks十问_美股代币入门_BlockBeats]] — 10个问题详解xStocks运作流程：IBKR Prime→Clearstream→Solana 1:1铸造、3家托管方（Maerki Baumann/InCore Bank/Alpaca Securities）、赎回费用结构（0%管理费，买卖0.50%最低$100）、61种代币、Backed团队DAOstack归零争议（$GEN ICO募资$3000万后放任归零）、无发币计划；129行/8外部URL图不可用；新建合成页；更新实体[[backed]]；更新概念[[rwa]]
+- [[来源_2025-07_Zora_经济飞轮_SocialFi_深潮TechFlow]] — Zora SocialFi Instagram式链上社交网络拆解：创作者币+$ZORA双层飞轮、3%费用、代币经济学（100亿供应/$800M FDV/35% TGE解锁）、团队Coinbase背景、融资$50M/估值$6亿、与Virtuals飞轮类比；200行/11外部URL图不可用；更新实体[[zora]][[virtuals]] + 更新概念[[socialfi]]
+- [[来源_2025-07_加密市场宏观展望_币股策略_深潮TechFlow]] — IOBC Capital 2025下半年加密市场宏观展望：弱美元周期（美元指数110→96.37）、美联储谨慎降息（全年1-2次）、GENIUS/CLARITY法案"阳光监管"转型、MSTR三重飞轮框架（股币共振/股债协同/币债套利）、35家上市公司合计持有92万BTC/148万ETH/291万SOL；113行/4外部CDN图不可用；新建合成页；更新概念[[genius-act]][[clarity-act]][[crypto-regulation]][[stablecoins]][[pcv]] + 更新实体[[microstrategy]]
+- [[来源_2025-04_CoinGecko_Q1加密货币行业报告]] — CoinGecko 2025 Q1行业报告：加密总市值跌-18.6%至$2.8万亿；BTC主导地位升至59.1%（2021年最高）；ETH暴跌-45.3%至$1,805抹去2024年涨幅；Pump.fun日部署从7.2万降至3.1万（-56.3%）；前10 CEX交易量$5.4万亿（-16.3%）；多链DeFi TVL降-27.5%至$1286亿；Solana DEX份额39.6%达$2937亿；Berachain上线后TVL$52亿；149行/1封面装饰图
+- [[来源_2025-04_ETHGlobal_Taipei_黑客松8项目_PANews]] — ETHGlobal Taipei 2025黑客松8个决赛项目全景：Signals（BTC多结果预测）/Ethereum Fighter（FHE隐私对战游戏）/cellfi（SMS离线USDC支付）/AskCiaShen（AI投资组合优化）/Solva（无钱包Venmo替代）/How Doxxed Am I（链上隐私检测）/DynaVest（DeFAI跨链聚合）/Nomadia（World ID P2P货币兑换）；188行/1外部CDN图不可用；更新概念[[defai]][[prediction-market]][[ai-agents]][[privacy]]
+- [[来源_2025-03_RWA流动性_生态资本框架_BlockBeats]] — 叶开/BlockBeats RWA流动性设计专题：接化发模式/RWA生态资本框架四层架构/一级转二级转协议资本飞轮/凯德置地产业资本标杆/BTC质押6-8%基础+DeFi借贷8-10%周转→18-20%综合收益/USDT套利10-20%/meme文化作为流动性来源的合规张力；新建实体[[yekaimeta]]；更新概念[[rwa]]；更新实体[[ondo-finance]]；159行/1分析图
+- [[来源_2025-05_RWA_陷阱_真相_BlockBeats]] — 邵嘉碘律师（曼昆区块链法律服务）尖锐警示：披着RWA「财富自由」外衣的陷阱，揭露10大残酷真相（合规产品内地散户不可及、资金盘伪装、发行成本被低估、二级市场缺失等）。为RWA概念页提供重要风险警示维度；87行/0图
+- [[来源_2025-06_银行_代币化_JPMD_深潮TechFlow]] — 摩根大通 JPMD 存款代币深度分析：从 JPM Coin（私有链 $1.5T 处理量）到 JPMD（Base 公链）的战略转变，存款代币 vs 稳定币的监管定位差异，Circle IPO 竞争背景，许可链 vs 公链路径争议；145 行；更新实体 [[jpmorgan]][[base]][[circle]]；更新概念 [[stablecoins]][[rwa]][[genius-act]]
+- [[来源_2025-06_新加坡_Web3_DTSP监管_TigerResearch]] — Tiger Research 分析新加坡Web3监管转向：PSA时代漏洞→DTSP框架（2025.6.30生效）紧缩的全过程，Terra/3AC崩盘作为催化剂的监管视角；新加坡从"亚洲特拉华"转向要求实际合规运营能力；批准率<10%/超500份申请/94行/1外链图不可用；创建实体[[three-arrows-capital]] + 创建概念[[crypto-regulation]] + 更新实体[[tiger-research]][[terra]] + 更新概念[[web3]]
+- [[来源_2025-06_7大工具_新协议_潜力股_深潮TechFlow]] — Ignas（DeFi Research）新协议发现方法论与7大工具详解：Kaito/Dexu AI/0xPPL/Nansen/DeBank/DeFiLlama/Coincarp；三个评估维度（心智份额/链上采用/智能账户覆盖）；Multipli/Time.Fun/Steer Protocol/LAGOON/Turtle Club案例；Low circ+High FDV空投策略；261行/11外链装饰图跳过；新建实体[[dexu-ai]][[0xppl]]coincarp]] + 更新实体[[nansen]][[debank]][[kaito-ai]] + 更新概念[[infofi]]
+- [[来源_2025-09_RWA中国选择_新浪财经]] — 中国首席经济学家论坛研究院Web3研究中心视角的RWA分析：全球RWA市场至$257.5亿（2025.8）、中国RWA三大风险（适配性差/合规风险/跨境流动成本高）、庞氏骗局警示（300%+ vs 合规5%）、香港RWA 11个案例全表、离岸人民币CNH稳定币双轨制政策建议（去SWIFT化+亚非拉渗透）；70行/0图片；更新概念[[rwa]][[stablecoins]][[crypto-regulation]][[crypto-ponzi-models]]；新建合成页
+- [[来源_2025-06_Reborn_DePAI_人形机器人_PANews]] — Hypersphere Ventures 合伙人拆解人形机器人数据瓶颈与 Reborn DePAI 飞轮：ReboCap 5000+设备/16万MAU + Roboverse 仿真平台 + RFM 基础模型；最大机器人数据集仅 240 万交互 vs GPT-4 15 万亿 Token 的数量级差距；中国人形机器人市场占全球 32.7%；Reborn 尚未发行代币；120行/5外部URL图不可用；新建实体[[reborn]]；更新概念[[depai]]
+- [[来源_2025-06_Infini_Card关闭_U卡_合规_吴说]] — 吴说区块链分析 Infini Card 突然关闭：to C card 占99%时间成本贡献0收入（合规成本高/利润薄）；U卡七层生态利益分配不对称；@knowyourself518拆解电诈滥用风险；Coinbase运通联名卡+RedotPay $4000万A轮；FinTax指U卡避税不可行(Visa/MC记录+CRS)；44行/1外部URL图不可用；创建实体[[redotpay]]；更新实体[[infini]][[onekey]]；更新概念[[crypto-regulation]][[stablecoins]]
+- [[来源_2025-02_Sui_MEV_PANews]] — Sui Network 官方详解 Sui MEV 四机制：SIP-19 软捆绑/SIP-45 共识放大/PGA 外部成员驱动前置保护 + Mysticeti 快速路径 MEV 理论风险；Sui 对象模型下的独特 MEV 治理路径对比 Ethereum PBS 和 Solana Jito；146行/2外部CDN图不可用；更新实体＜sui＞+ 更新概念＜mev＞
+- [[来源_2025-03_Manus_AI_Web3_自主执行_PANews]] — Manus AI 全链路自主执行架构（MCTS/记忆/工具三模块 + 多智能体协同）及其 Web3 融合启示（DeFi 交易决策/多签名安全/社区管理/跨链协同）；195行/6外部CDN图不可分析；新建合成页；更新实体 [[manus]]；更新概念 [[ai-agents]] [[defi]]
+- [[来源_2025-10_拒绝进化_山寨季_Odaily]] — hitesh.eth 观点：单一全民山寨季已死，市场分裂为碎片化叙事战壕（Meme/AI/DeFi/隐私），旧时代持币者死守上周期资产（DOT/MATIC/GameFi）持续亏损，新一代通过撸空投和 Meme 币交易链上轮换；Zcash 约 $80 时 Naval 公开谈论为典型交易信号；110行/8外部URL图不可用；新建实体[[zcash]] + 更新概念[[memecoins]][[gamefi]][[trading-system]] + 更新 index + log
+- [[来源_2025-02_Meme交易_庄家_血亏_深潮TechFlow]] — 99%的Meme交易者亏损：Meme vs赌场EV对比，三重成本（手续费/滑点/内幕交易），2.5% MEV成本/BNB Chain>5%，$LIBRA $1.07亿rug，1/25,000百倍概率；174行/6分析图；更新概念[[memecoins]][[mev]]
+- [[来源_2025-04_MEME打金_信息差_钱包对比_深潮TechFlow]] — 深潮TechFlow提出的MEME交易四步闭环框架（安全审查/趋势判断/入场时机/离场策略），以及四款钱包在MEME交易场景的横向对比：Bitget Wallet（全链路最全面）/Coinbase Wallet（Base原生适配）/Trust Wallet（基础功能/路径分散）/Phantom（Solana高度适配/多链能力弱）；251行/6外部URL图不可用；新建实体[[trust-wallet]] + 更新实体[[bitget]][[coinbase]][[phantom]] + 更新概念[[memecoins]]
+- [[来源_2025-03_YieldBasis_BTC收益层_BlockBeats]] — Curve创始人Michael Egorov新项目Yield Basis（5000万美元估值/募资500万），BTC真实收益五大来源分析，YB「AMM内嵌AMM」最小化无常损失，历史模拟平均20% APR；156行/2外部CDN图跳过；新建实体[[yield-basis]]；更新实体[[curve]][[pendle]][[sevenx-ventures]]；更新概念[[bitcoin-ecosystem]]
+- [[来源_2025-03_名人Meme币_TRUMP_流动性枯竭_PANews]] — PANews/BlockBeats盘点2025年1-2月15+名人/机构发币潮：TRUMP $82→$13.23（-83.9%）、37万人爆仓$10亿损失、MELANIA -93.3%/$100亿FDV 4小时崩70%、LIBRA -97.3%/团队套现$1亿+、除TRUMP和STONKS外跌幅均超90%；130行/1分析图；新建实体[[libra-token]]；更新实体[[trump-token]]；更新概念[[memecoins]][[tokenomics]]
+- [[来源_2025-05_Seed-Strapping_创业革命_深潮TechFlow]] — Henry Shi提出AI时代第四种创业融资模式：Seed-Strapping（$10-100万种子轮+盈利优先），对比Bootstrapping/VC/Boot-Scaling四种模式，量化VC股权稀释（C轮仅剩15%），论证AI降低创业成本（$300万→$10万）；187行/10外部URL图不可用；新建概念[[seed-strapping]] + 新建实体[[henry-shi]][[super-com]] + 更新概念[[fundraising]][[vc-venture-capital]]
+- [[来源_2025-02_Crypto营销_叙事编写_深潮TechFlow]] — Crypto Marketing 101叙事实操指南：好的叙事标准（又简单又大+哲学高度→市梦率），以Sign为案例演示完整叙事搭建流程（产品→关键词→哲学关联→slogan），Sonic(Solana Layer2/TikTok链)和Notion("We shape our tools")叙事案例；243行/9外部URL图不可用；新建实体[[sign-protocol]] + 更新概念[[web3]][[vc-venture-capital]] + 更新 index + log
+- [[来源_2025-07_Stripe_L1_传闻_深潮TechFlow]] — 深潮TechFlow编译的Stripe L1传闻系统分析（2025年7月），在Tempo正式公开前预言并探讨了Stripe自建L1的可能性和用例场景（稳定币支付/商户结算/直接支付绕过卡网络/微流订阅/短期存款DeFi）；170行/3外部URL图不可用；更新实体[[stripe]][[tempo]] + 更新概念[[l1-competition]]
+- [[来源_2025-07_NAV_mNAV_加密股票_深潮TechFlow]] — 深潮TechFlow科普NAV/mNAV加密股票估值方法论：NAV传统公式、加密资产NAV波动性放大、MSTR NAV≈$248/股/实际$426/mNAV=1.83、BMNR mNAV=6.98/BTCS mNAV=1.53对比、反身性飞轮→死亡螺旋框架；162行/9外部URL图不可用；新建合成页；更新实体[[microstrategy]][[bmnr-bitmine]][[btcs]] + 更新概念[[pcv]]
+- [[来源_2025-06_香港Web3政策宣言2.0_稳定币RWA_PANews]] — PANews报道香港《政策宣言2.0》LEAP框架、稳定币8月1日发牌制度、RWA产业方向、40家持牌机构格局；重点数据：11家VATP、40家机构、HashKey 300亿港元交易量、国泰君安200%暴涨；68行；新建实体[[hashkey-group]][[china-amc-hong-kong]] + 更新实体[[hashkey-chain]][[guotai-junan-international]][[ant-digital-technologies]] + 更新概念[[crypto-regulation]][[stablecoins]][[rwa]] + 更新 index + log
+- [[来源_2025-06_稳定币10年_USDT点对点现金_深潮TechFlow]] — Odaily Wenser综述稳定币10年发展史：USDT农村包围城市三步走战略、Circle合规路线与IPO驱动、GENIUS法案四大战略目的、稳定币实现中本聪点对点电子现金遗愿的讽刺性结论；90行/1外部URL图不可用；新建合成页；更新概念[[stablecoins]][[genius-act]]；更新实体[[tether]]
+- [[来源_2025-04_危机公关_Web3舆论_深潮TechFlow]] — JE Labs 的 Web3 危机公关方法论：三类危机（谣言/产品Bug/团队风波）、三段式回应机制（1-3h/24h/3-7d）、三层长期机制（预防/响应/善后）；109行/1外部URL装饰图跳过；新建实体[[je-labs]] + 更新概念[[blockchain-governance]][[web3]] + 更新 index + log
+- [[来源_2025-04_Crypto估值_梅特卡夫_DCF_深潮TechFlow]] — IOBC Capital的Crypto估值方法论综述：公链采用梅特卡夫定律（ETH V=3000*N^1.43）、CEX平台币采用盈利回购&销毁模型（BNB累计销毁约5952.9万枚/BEP95每区块销毁10%奖励）、DeFi采用DCF（Raydium案例DCF估值~$1.002B vs市值$1.16B）、比特币采用挖矿成本+黄金替代模型（仅10%时间低于挖矿成本/BTC市值占黄金7.3%）；158行/6外部URL图不可用；更新概念[[tokenomics]][[defi]][[cex]] + 更新实体[[ethereum]][[bitcoin]][[raydium]][[bnbchain]]
+- [[来源_2025-05_解析OndoFinance_美国RWA玩法_曼昆律师_PANews]] — 曼昆律师解析Ondo Finance美国RWA模式：三层架构（资产/应用/基础设施）、Flux Finance许可制借贷、合规双轨策略（海外vs美国本土）、"包裹型证券代币"SEC提案、三条实务建议；119行/5装饰图跳过；新建合成页 + 更新实体[[ondo-finance]] + 更新概念[[rwa]]
+- [[来源_2025-04_华人VC_暂停_ABC_ChainCatcher]] — ChainCatcher 念青报道华语加密VC收缩全景：ABCDE停止新投资和中止二期募资；17家VC出手数据（3家0笔、9家1-5笔）；VC向孵化器/二级/投研转型；LP沦为"最惨的存在"；103行/1装饰图跳过；新建实体[[abcde-capital]][[continue-capital]][[ld-capital]][[bixin-ventures]][[mint-ventures]][[defiance-capital]][[matrixport-ventures]] + 更新概念[[vc-venture-capital]][[fundraising]] + 更新实体[[lk-venture]][[sky9-capital]][[sevenx-ventures]][[iosg-ventures]][[okx-ventures]][[hashkey-capital]][[animoca-brands]][[niu-fengxuan]] + 更新 index + log
+- [[来源_2025-08_Appchain_胖应用_胖协议_IOSG]] — IOSG Weekly Brief #288《叛离与独立：重新审视应用链论点》：Unichain $1B TVL/100+ 应用构建 + HyperEVM $2B+ TVL；Uniswap $6.4B 价值创造中<1%归协议/$2.7B流向以太坊；2025年应用收入占比80%逆转胖协议；Appchain并非普适方案；114行/5关键图分析+3装饰图跳过；新建实体[[unichain]] + 更新概念[[fat-protocols-fat-apps]][[l1-competition]] + 更新实体[[hyperliquid]][[uniswap]][[iosg-ventures]]
+- [[来源_2025-03_情绪底部_Meme选币策略_PANews]] — @Ga__ke 的 Meme 币底部埋伏策略：六类代币分类法（纯 meme/名人/艺术/AI/Web2社区/新闻推文）、三种催化剂判断框架（社区扩张/团队状况/主流媒体）、Pump.fun 时代竞争壁垒消失与仓位管理风险；74行/2外部URL图片不可用；新建合成页；更新概念[[memecoins]] + 更新 index + log
+- [[来源_2025-06_TheBlockchainGroup_比特币财库_PANews]] — PANews Weilin报道法国上市公司The Blockchain Group（ALTBG）股东大会通过100亿欧元融资授权、转型比特币财库公司：持仓1,471 BTC/$1.6亿、均价$102,507、浮盈5.21%；Adam Back参与融资；Alexandre Laizet比特币"iPhone时刻"与银行拥抱预判；2033年目标17-26万BTC；87行/3外部URL图不可用；新建实体[[the-blockchain-group]] + 更新实体[[microstrategy]][[metaplanet]][[cynthia-lummis]] + 更新概念[[pcv]] + 更新 index + log
+- [[来源_2025-05_融资周报_Perpl_Dragonfly_PANews]] — PANews融资周报：5.12-5.18公开融资事件13起/0.925亿美元，Perpl获Dragonfly领投925万美元构建基于Monad的永续DEX，a16z领投KYD Labs 700万美元区块链票务，The Blockchain Group完成超2200万欧元融资推进比特币战略；81行/1装饰图跳过；新建实体[[perpl]] + 更新实体[[dragonfly-capital]][[a16z]][[monad]][[the-blockchain-group]] + 更新概念[[fundraising]]
+
+### 2024年 (196 篇)
+- [[来源_2024-01_BTC_L2_新形态_五类扩容方案_BlockBeats]] — BTC扩容五类方案全景：侧链/状态通道/客户端验证/铭文/Rollup，所有BTC L2均无法继承主网安全性
+- [[来源_2024-01_比特币_现货ETF通过_新篇章_BlockBeats]] — BTC现货ETF获批历史时刻：11支ETF全名单/Galaxy三年$140/270/390亿流入预测/黄金ETF类比/8.8x市场影响倍数/两次乌龙事件
+- [[来源_2024-01_比特币现货ETF_合规产品现状_DigiFT]] — ETF获批前合规产品格局：五大发行方AUM比较/物理vs合成担保/GBTC信托结构缺陷/ETN vs ETF vs 信托法律结构对比
+- [[来源_2024-01_数据可用性_科普_Avail]] — Avail 官方 DA 基础科普：DA 定义/Rollup 依赖/以太坊 DA 成本 $1300-$1600/MB/DAC 信任风险/Validium+Optimium 术语
+- [[来源_2024-01_HashKey_Capital_Web3投资赛道全解析_PANews]] — HashKey Capital 2024年14大赛道内部分析全公开：ZK/MEV/AA/Intents/DA/Rollup/Cosmos/Security/AI/DeFi/Gaming/Institutional/Bitcoin/DePIN
+- [[来源_2024-01_比特币ETF预期_十大比特币生态项目_BlockBeats]] — 2024.1.9 ETF获批前夜BTC生态横截面：STX/ALEX/T/ICP/BSV/RIF/BADGER/MUBI/BSSB/ORDI十个项目价格/市值/赛道全景，BTC当日$47,000
+- [[来源_2024-01_Runes协议_RuneAlpha_COOK_BlockBeats]] — Ordinals一周年之际：Rune Alpha先行项目解析（部署方$2/mint收费模式/PSBT交易技术/COOK ~$79.2M市值/矿工激励对齐），预判符文赛道百亿市值
+- [[来源_2024-02_Telegram_Bot赛道_链上券商_Web3应用]] — Telegram Bot赛道全景（上）：Unibot 100x/BonkBot日活35,700/三大风险(私钥安全+代码审计+低忠诚度)，链上券商类比
+- [[来源_2024-02_Telegram_Bot赛道下_Banana_BonkBot_Unibot_BTCBot_BlockBeats]] — Telegram Bot赛道（下）：Banana Gun估值模型(PS $10.12-$10.37)/五大项目费用结构对比/BTCBot.pro BRC-20创新/SolTradingBot崛起
+- [[来源_2024-02_Portal_Binance_Launchpool_Web3游戏_BlockBeats]] — Portal（Binance Launchpool #47）：LayerZero跨链游戏平台/病毒式营销（Crystal Dash）/Stake-to-Scale/$3400万种子轮/10亿PORTAL
+- [[来源_2024-02_Runes协议细节_Casey_Hellmoneypod]] — Casey 在 hellmoneypod 首次详述 Runes 技术：UTXO 原生/蚀刻 Commit-Reveal/OP_Return 转账路由/名称渐进释放/前 10 个 Runes 硬编码 Open Mint
+- [[来源_2024-02_BTC衍生协议_正统性_炒作分析]] — BTC 衍生协议正统性全景评估：BTC Wizard 三原则框架、Ordinals/BRC20/ARC20/Rune/Pipe/闪电/Taproot Assets/RGB 逐一评级、正统性 vs 炒作潜力的核心矛盾
+- [[来源_2024-02_比特币二层Layer2_基础知识体系_BlockBeats]] — 付少庆（SatoshiLab）系统化BTC L2认知框架：三层路线分类（链式/分布式/中心化）+冯诺依曼类比+L1-L2连接技术+已有/新兴项目全景+入场者三类分析
+- [[来源_2024-03_Bittensor_市值40亿_AI以太坊_meme工厂_BlockBeats]] — BlockBeats：Bittensor $40亿市值双重面孔——"AI届以太坊"vs"meme新工厂"，子网注册$200→$700万百倍增长，散户被排斥催生5天10个TAO寄生型土狗，dTAO双代币提案试图降门槛，87% TAO质押/前5验证者>65%集中度
+- [[来源_2024-03_Merlin_Chain五个生态项目_BlockBeats]] — Merlin Chain五大核心生态项目：[[merlinswap]](DEX/DaaS/$MP)、[[dragonverse-neo]](MOBOX 3D开放世界+L3)、[[unicross]](铭刻工具/LaunchPad)、[[surf-protocol]](衍生品/MVB/50x)、[[bitsmiley]](超额抵押稳定币/MakerDAO+Compound模式)
+- [[来源_2024-03_并行EVM四杰_Monad_Sei_Neon_Eclipse_Foresight]] — Foresight News/GCR：四大并行 EVM 横向对比——Monad（L1 全栈+最强社区）/Sei V2（Cosmos 升级+先发叙事弱）/Neon EVM（Solana 兼容层+无人需要困境）/Eclipse（ETH L2 SVM+叙事融合极致）
+- [[来源_2024-03_Eclipse_5000万_A轮_测试网交互_BlockBeats]] — BlockBeats：Eclipse $50M A 轮（Placeholder + Hack VC 领投），累计 $65M，主网计划 2024 Q2，测试网交互指南（OpenBook DEX + Clone Markets）
+- [[来源_2024-04_加密融资周报_BlockBeats]] — 2024年4月首周融资快照：37笔/$153.6M，基础设施42.58%主导，Gomble Games/Cellula/XION/Zeus Network等
+- [[来源_2024-04_YC_W24_166个AI项目全览_硅兔]] — YC W24 166个AI项目：垂直AI 31% > 水平工具 26%，仅1个Crypto项目(TokenOwl)，主流AI与Crypto AI严重脱节
+- [[来源_2024-04_Twitter分析_推文参与度_15个统计数据]] — Twitter Analytics 15个关键数据指标：六种参与类型(转发/喜欢/链接点击等)/覆盖率=印象÷关注者/视频完成率/导出最多3200条推文数据
+- [[来源_2024-04_加密货币交易所Q1_交易量市场份额_TokenInsight]] — Q1 2024加密交易所全景：Top 10总交易量$17T(+72.5% QoQ)，BTC ATH $73,737.94，Binance~50%市场份额，衍生品占77%，GT/BNB/BGB跑赢BTC
+- [[来源_2024-04_Runes协议_技术实现_深蓝]] — 开发者深蓝基于 Go 自实现后的 Runes 协议技术详解：四大数据结构（Etching/Edict/Runestone/Cenotaph）、基数-26 名称编码、TapScript Commitment、Commit-Reveal 6 区块间隔、Delta 编码、Cenotaph 5 类触发条件
+- [[来源_2024-04_RGB_RGB++协议设计_同构绑定_VICOINDAO]] — VICOINDAO RGB/RGB++ 协议设计白皮书通俗解读：同构绑定机制详解、CKB/Cardano/Fuel 作为 BTC 验证层和 DA 层、交易折叠、RGB 与 RGB++ 的隐私 vs 便利性兼容切换关系
+- [[来源_2024-04_链抽象细分_六模块_主要参与者_SevenX]] — Rui (SevenX) 将链抽象拆解为六大功能模块（统一地址/签名聚合/状态同步/单一Gas/区块构建中继/统一流动性），点名 Particle Network/Light/Burnt/NEAR 为 2024 年统一前端方案主要参与者
+- [[来源_2024-05_Web3游戏行业趋势_JLab]] — Web3游戏四阶段演化：GameFi→X2E→AAA→Metaverse，2024 Q1 >2M日活钱包，资本转向平台生态
+- [[来源_2024-05_偶像_音乐节_Web3明星效应_BlockBeats]] — BlockBeats/深潮TechFlow：明星+Web3两大失败模式（受众错配+运营断层）、MEET48的Web2→Web3转化漏斗（20M+互动/1M+链上交互/200K用户）、Fansland音乐节+NFT票务的Web2.5路径
+- [[来源_2024-05_Lumoz_zkProver_zkVerifier_EigenLayer_ChainCatcher]] — Lumoz 基于 EigenLayer 推出 zkProver/zkVerifier AVS 计算层：ZKP生成节点+分布式验证网络+再质押经济安全，扩展 AVS 服务类别
+- [[来源_2024-06_io.net_去中心化GPU_Binance_Launchpool_链茶馆]] — io.net 2024年6月Binance Launchpool上币前夕最系统的中文介绍：六组件产品架构（IO Cloud/Worker/Explorer/SDK/Tunnels/Network）+双代币经济模型完整参数（$IO+$IOSD）+团队背景+$3000万A轮投资人全名单+五大挑战
+- [[来源_2024-06_Delphi_TON游戏炒作]] — Delphi Digital TON游戏深度：Facebook→WeChat→Telegram社交游戏分发史，Notcoin $1B FDV/Catizen $10M+ IAP/Hamster Kombat 2亿用户，TON代币经济学，移动游戏CPI趋势，微信vs Telegram Bear/Bull Frame
+- [[来源_2024-06_绿电_DePIN_AI_RWA最佳资产标的_BlockBeats]] — 叶开：绿电+DePIN+AI是RWA最佳资产标的/绿电SaaS存储即服务/三大核心算法协议（入池+定价+交易）/标准光储充AI节点投资模型/"绿电+算力"是未来二十年金融底层/全球80%产能在中国
+- [[来源_2024-06_YC一年260家AI公司_播客拆解_十字路口]] — 十字路口×屠龙之术播客串台：260+家YC AI公司（跨批次5h30m播客+50min总结+PPT+Bilibili+飞书表格）
+- [[来源_2024-07_CPT框架_加密货币市场驱动力_币安研究院]] — 币安CPT框架（资本/人/技术三维度）：稳定币供应停滞+PvP零和博弈、$1,550亿解锁压力、低流通高FDV结构性困境、基建过剩应用不足、ETH ETF+降息+大选+减半四重催化剂
+- [[来源_2024-07_RWA前世今生_真实资产崛起_PANews]] — Trustless Labs RWA全景科普：三阶段发展史(2017-2024)/四大赛道/三大代表项目深度拆解(Centrifuge/Ondo/BUIDL)/稳定币作为RWA论述/TVL 63亿美元同比增长6000%
+- [[来源_2024-07_链抽象_Thanefield研报_深潮TechFlow]] — Thanefield链抽象研报：三层堆栈(AA→互操作意图→应用层)/Safe~1000万钱包$900亿/ERC-4337 550万钱包/EIP-7702/近300条链
+- [[来源_2024-07_Pumpfun_币圈快手_直播发币_BlockBeats]] — Pump.fun直播功能与"币圈快手"现象：Mikol自焚事件/117万代币$5000万收入/PGA→UGA转变/快手类比下沉市场注意力经济
+- [[来源_2024-07_点赚小游戏_内冷外热_TGE延迟]] — 2024年7月Tap-to-Earn全景：5项目合计4亿+用户（Hamster Kombat 239M/TapSwap 60M/Pixelverse 50M），集体TGE跳票，机器人问题+留存困境，Banana证明"点赚"不需要Web3
+- [[来源_2024-07_Solana聪明钱包_胜率分析_PvP_odaily]] — Odaily南枳：1080个Solana Meme前排钱包定量画像，胜率与盈利相关性最强(0.610)，出手次数与结果零相关，前10高手63.55%胜率/总盈利均值$980K
+- [[来源_2024-07_pumpfun仿盘_创业思考_meme4fun]] — meme4fun创始人@0xmeme4fun创业思考：Content/Asset二象性、creator激励100倍差距（vs NFT）、做盘vs做creator生态、毕业率1%/rug率99%、PVP是feature
+- [[来源_2024-07_Solana_Blinks_22个用例_BlockBeats]] — Blinks推出7天22+用例枚举：预测市场/多签/空投/NFT/付费留言/私信交易/支付结算/Meme工具/验证者质押/GitHub打赏/YouTube/Telegram/Apple NFC，"聊天即交易"范式
+- [[来源_2024-07_Notcoin详解_NOT代币_Decrypt]] — Decrypt 官方入门指南：3500 万玩家/600 万 DAU/NFT 凭证场外定价机制/$140 亿 Binance 质押/Netflix for games 平台战略
+- [[来源_2024-08_AIxCrypto_三层框架_Foresight_Ventures]] — Foresight Ventures AI x Crypto 系统性报告：三层框架（基础设施/模型/应用），io.net vs AWS 5.4x成本优势，前四大AI代币年涨522%，应用层仍处婴儿期
+- [[来源_2024-08_Particle_Network_链抽象_通用账户]] — Particle Network链抽象堆栈深度案例：UA/UL/UG三层架构/Cosmos SDK模块化L1/AggDA聚合DA/双重质押(PARTI+BTC)/Zee Prime"没有产品链抽象就不能真正解决实际问题"
+- [[来源_2024-08_Ronin生态图谱_DPoS迁移_MarsBit]] — Ronin游戏L1全景：DPoS共识迁移/$43B NFT交易量/12+游戏生态/zkEVM路线图/$6亿黑客攻击后王者归来
+- [[来源_2024-08_各链PumpFun仿盘_跨链对比_ForesightNews]] — Foresight News跨链Meme发行平台全景：7链10+仿盘/Pump.fun累积收入超$1亿/Sun.pump带动Tron链级复苏(Sundog $3亿)/平台百花齐放但增量流动性缺失致PvP加剧/"代币是新内容购买键是赞按钮"
+- [[来源_2024-08_FourMeme空投积分成本精算_Odaily]] — Odaily/南枳：Four.meme空投积分成本精算（0.007 USDT/分）/三类路径拆解/积分修改事件（5.2亿→1700万）/空投价值量化框架/$10M乐观假设下日均需$23M交易额/Top 100占比19%积分集中度/最终结论盈亏比不足
+- [[来源_2024-08_Aerodrome_ve33收入机制_100%回馈持有者_MarsBit]] — Aerodrome ve(3,3)深入分析：$1亿年收入/100%回馈持有者/Base上79% DEX份额/早期锁仓48x ROI/Coinbase共生关系
+- [[来源_2024-08_Blackbird_Pay_特洛伊木马_加密支付_Web3Brand]] — Web3Brand深度分析Blackbird Pay特洛伊木马策略：2%费率+FLY双飞轮/借鉴AmEx $1700亿闭环模型/消费类公司变支付公司增长飞轮
+- [[来源_2024-08_meme币交易实战_链上冲狗_Pump.fun_BlockBeats]] — 5位meme玩家访谈：3-5 SOL本金月赚7-8万/500K市值收网线/CTO套路化博弈/分钟级交易节奏/GMGN-Bullx-NFTSniper三工具实战对比/策略不定期失效的无限游戏
+- [[来源_2024-08_Banana_Gun_EOF_Titan_PBS_深潮TechFlow]] — Banana Gun与Titan Builder独占订单流协议揭露：TG Bot利用PBS漏洞截留用户贿赂/验证者损失4279 ETH
+- [[来源_2024-08_二级OTC市场_买方市场_锁定代币_STIX]] — 二级OTC市场系统性阐述：锁定代币场外折价50-70%/三大卖方（项目团队/VC/基金会）与两类买方（Hodlers/对冲者）动机分析/STIX创始人Taran判断买方市场持续到2025年
+- [[来源_2024-08_黑天鹅_MAX_高FDV_终结序章]] — MATR1X $MAX低FDV发行转折点：1.6亿FDV vs VC币10亿+/盘前燃烧2亿/12月锁仓+5年解锁/300万真实用户；OKX创始人公开批评高FDV模式后推动低FDV上币改革
+- [[来源_2024-08_链上流动性_AMM_OpenRug]] — 开源镰刀Open Rug第18期：链上流动性四层供给结构（DEX LP/JLP-GLP/机器人/散户）、AMM vs 订单簿本质差异（确定性流动性 vs 庞氏互助盘）、Bonding Curve机器人流动性护城河（Pump仿盘失败根因）、15-20%市场流动性已从CEX迁移至链上
+- [[来源_2024-08_以太坊VC基建痴迷_EBOLA_Solana_BlockBeats]] — Yash Agarwal：EBOLA概念/VC基金经济学→基础设施泡沫→应用层受害；Solana低启动成本优势；私募市场vs公开市场结构性错配
+- [[来源_2024-08_Berachain_POL_流动性证明_深潮TechFlow]] — Berachain POL 共识机制深度技术解析：三币模型/贿赂博弈嵌入 L1/Fat Bera 理论/验证者权力集中风险
+- [[来源_2024-08_Corn_BTCN_Gas_以太坊L2_深潮TechFlow]] — Corn 以太坊 L2 以 BTCN（多签托管 BTC 映射）为原生 Gas，$6.7M 种子轮（Polychain+Binance Labs），ve 双代币模型（$CORN/$popCORN），Crop Circle BTC 收益生态
+- [[来源_2024-08_Babylon主网上线_BTCFi赛道再思考]] — Babylon 主网第一阶段 1000 BTC（1.27 万用户）上线即满 + BTCFi 赛道盘点（BounceBit/Solv/Yala）+ PoW+PoS 共享安全模型三层质疑
+- [[来源_2024-08_BTC生态_重大变化_Odaily]] — Odaily 2024 年 8 月下旬 BTC 生态多协议同步成熟快照：Fractal 主网即临/Babylon 质押开放/RGB 首次空投/闪电网络稳定币落地/AVM Beta/符文交易 50%+ 主导地位
+- [[来源_2024-08_Fractal_Bitcoin_深潮TechFlow_入门介绍]] — 深潮TechFlow/Dr.DODO Fractal Bitcoin 入门科普+Cadence Mining详解+批判视角：质疑BTC功能化公链真实需求，指出Merlin/B²等BTC L2均未获真实玩家青睐
+- [[来源_2024-08_财政赤字_土地收入_房屋养老金]] — 中国2024年1-7月财政数据与政治寓言：狭义赤字缺口近2万亿/土地收入较2021年跌57.1%/房屋养老金争议/三种治理技术（间接税中间人/舆论放风/驯化智库）/核心资产不是房子而是房子里的人
+- [[来源_2024-08_MemePVP_DeFi业务转型]] — 深潮 TechFlow：The Arena（Marginfi）+ dumpy.fun（Solend）推出 Meme 杠杆做多/做空，DeFi 借贷协议从传统金融服务转向 Meme PVP 杠杆基础设施
+- [[来源_2024-08_7月加密融资反弹_OKX-Ventures-CMS_RootData]] — RootData 2024年7月加密融资单月快照：$1.01B（+36% MoM），112笔；基础设施占~1/3；最活跃VC为OKX Ventures和CMS Holdings（各7次）；Galaxy/Bitrue/Auros三家新基金募资；NFT/DAO赛道几乎冻结
+- [[来源_2024-08_Maker机制详解_RWA战略_白话区块链]] — Artemis深度研报：Maker三类拍卖机制(剩余/抵押品/债务拍卖)/PSM+DSR三重锚定系统/年收入$2.74亿拆解(80%来自RWA)/Endgame四阶段SubDAO架构/2024机构RWA繁荣顺风
+- [[来源_2024-08_永续合约DEX_应用模式_生态概览]] — 永续合约DEX全景科普：四种定价模式（预言机/vAMM/链下订单簿+链上结算/全链订单簿）、HLP社区金库+跨链聚合两大新流动性范式、方差永续/RWA永续/预测市场等五种创新产品
+- [[来源_2024-08_各链预测市场现状_Polymarket_Azuro_PredX_MarsBit]] — 2024年多链预测市场全景：Polymarket 龙头地位 + BET/PredX/Azuro/DuelNow 多链竞争 + Vitalik 社会认知工具定位
+- [[来源_2024-08_Saylor_比特币革命_数字资本_个人公司国家策略_Followin]] — Michael Saylor Bitcoin2024纳什维尔演讲：货币物理学(资产寿命公式)、比特币数字资本(1000-100000年寿命)、2045年$1300万预测、个人→公司→机构→国家四级策略梯度、MSTR 48个月1300%增长活证据
+- [[来源_2024-08_三大公链收入可持续性_Ethereum_Solana_Tron_odaily]] — Ethereum/Solana/Tron 收入结构横向对比：ETH 最均衡（DeFi 60%/转账 12%/MEV 8%）、Solana 高度依赖 Meme 币（80%交易/玩家月亏$110M）、Tron 以 USDT 支付刚需为护城河（94.51%链上活动）
+- [[来源_2024-08_Vessel_Finance_ZK_DEX_红杉融资]] — Vessel Finance ZK 驱动 DEX：L3 + VAELOB（订单簿+AMM 融合）+ 三组件架构（Sequencer→Prover→Smart Contract），红杉等参投 $1000 万
+- [[来源_2024-08_Jupiter_Launchpad社区失望_BlockBeats]] — Jupiter LFG Launchpad三期表现惨淡（ZEUS跌76%/Sanctum空投争议）、DAO投票被VC背书左右、ASIANMOM暴雷、PPP叙事被PVP市场证伪、市场份额被Raydium超越
+- [[来源_2024-08_黑神话悟空_GameFi破局_游戏科学_MarsBit]] — YBB Capital Zeke：以游戏科学/冯骥14年历程反思GameFi困境——"矿洞"隐喻、Token/NFT与游戏开发不可调和矛盾、3A链游商业逻辑无法闭环、区块链赋能独立游戏众筹路径
+- [[来源_2024-08_LP盈利_DEX存活_LVR_深潮TechFlow]] — DEX LP 盈利能力是 DEX 存活关键：LVR（损失与再平衡）量化 LP 充当套利者对手方的持续成本；CoW AMM 批量拍卖内化 MEV 消除 LVR；Bunni V2 用 Uniswap V4 钩子将闲置流动性部署到借贷协议；价值内部化+利润再分配是 DEX vs CEX 的独特价值主张
+- [[来源_2024-08_做市商视角_85急跌_Jump背锅侠_odaily]] — 做市商匿名采访：85暴跌宏观因素（日央行加息+美联储降息预期）为主因非Jump抛售，做市资金与自有持仓严格区隔（做市资金不质押），牛市预计2025年上半年回归，底部信号=交易量持续数日成倍放大
+- [[来源_2024-08_Propy_RWA房地产代币化_PANews]] — PANews专栏：房地产RWA明星项目Propy深度介绍——三大产品线/$50亿+交易量/268K链上地址/PRO上线Coinbase/2024年Chainlink+Parcl合作/BCG预测2030年RWA $16万亿
+- [[来源_2024-09_AAVE币价翻倍_TVL回归_老牌龙头复苏_GreenLightCapital]] — Green Light Capital/Odaily：AAVE 80→170 翻倍、四大催化剂（收入分配/贝莱德BUIDL/Solana/品牌信誉）、加密借贷$110亿 vs 传统金融$8000亿 80倍差距、AAVE几乎完全解锁
+- [[来源_2024-09_AI算力三大担忧_资本开支_回报率_国盛通信]] — 国盛证券：英伟达财报后市场三大担忧（capex可持续性/ROI/下游爆款），"投资不足风险>过度投资"的军备竞赛逻辑
+- [[来源_2024-09_大模型泡沫分析_腾讯科技]] — 腾讯科技AI泡沫辩论（乐观派系统论述）：美联储紧缩限制泡沫上限/七巨头现金流覆盖军备竞赛/Rule of X估值合理/Acemoglu悲观论逐点反驳/AI成本两年降100x/约等于1995年互联网
+- [[来源_2024-09_Fractal_Bitcoin_深度研究_RyzeLabs]] — Fractal Bitcoin 上线后深度研报（Ryze Labs/Odaily）：合并挖矿占BTC算力40%+/详细代币经济学（FB总量2.1亿/六大分配）/OP_CAT治理投票/6个生态资助项目/BTC devs 1,071 vs ETH 7,864
+- [[来源_2024-09_运行自己链的成本_L2经济学_RaaS_深潮TechFlow]] — L2 运营成本基准：EIP 4844 前 L1 成本占 98%/后降 90%+；RaaS 月费 optimistic $3-4K/ZK $9.5-14K；L2 技术栈收入分成（OP 2.5%/15% vs Arbitrum 10% vs ZK 免费）；Celestia DA 替代节省数个数量级
+- [[来源_2024-09_Web3_Mass_Adoption_Web2.5_深潮TechFlow]] — JamesX 分析 Web3 Mass Adoption 四条路径：Privy 300万用户 Web2.5 登录、Clusters 全链域名、Farcaster 开放社交协议、PYUSD $10亿 PayFi
+- [[来源_2024-09_Huma_Finance_3800万融资_PayFi_ChainCatcher]] — Huma $3800 万融资（Circle/ParaFi/Hashkey/Fenbushi等）+ Arf 收购（1-6天周转/50+次/年/2%保证金/Senior-Junior分级）+ $4T 跨境支付预付资金痛点 + Scroll 联合活动
+- [[来源_2024-09_Balance_Web3游戏平台_E-PAL陪玩_a16z领投_MarsBit]] — Balance：从陪玩巨头E-PAL（420万活跃用户/45万Epals）进化至Web3游戏平台+zkEVM L2，a16z+Galaxy领投$3000万，EPT代币10亿总供应，AI生成智能合约降低开发者门槛
+- [[来源_2024-09_Orderly_Network_流动性中央厨房_ChainCatcher]] — Orderly Network 深度分析："流动性中央厨房"B2B2C模式/$2500万融资/$800亿+交易量/60%收入以USDC回馈质押者/20+DEX生态
+- [[来源_2024-09_Story_Protocol_详解_IP乌托邦_代币经济学]] — 100y/mirror，金色财经翻译。Story能力边界（不能防止反乌托邦/只能加速乌托邦）、9层级术语体系、漫威-迪士尼端到端示例、$IP代币经济学6项功能提议、LAP版税政策
+- [[来源_2024-09_风投家_VC结构_LP_GP_2-20_Route2FI]] — 加密VC创业入门手册：LP/GP/创始人三方结构、2/20费用模型、6阶段投资框架、投资评估六大指标、熊市启动VC的战略优势
+- [[来源_2024-09_TON生态LSD赛道_Tonstakers_Bemo]] — Odaily：TON LSD五项目全景对比（Tonstakers/Bemo/Stakee/Ton Whales/Hipo），赛道TVL $4.08亿/渗透率11.5%
+- [[来源_2024-09_八大Babylon生态流动性质押协议_odaily]] — Odaily：Babylon 生态八大 BTC LST 协议全景对比，Babylon 第一阶段质押委托分布（Bedrock 297.8 BTC 30%/Solv 250 BTC 25%/Lorenzo 129.36 BTC 12.9%），SatLayer BVS 再质押层
+- [[来源_2024-09_DePIN专题_370代币_Helium_深潮TechFlow]] — OurNetwork/深潮TechFlow DePIN专题：370+代币/Solana 7/10规模化主导/EV3 ARR预期$50-100M/Helium 11.4万用户/Glow $1.6M ARR/Livepeer AI+1005%/IoTeX 33万用户/TADA 10万+司机
+- [[来源_2024-09_DePIN_双重曲线_价值网络_深潮TechFlow]] — Waterdrip Capital分析师Evan：DePIN双重曲线理论（硬件收入第一曲线+数据价值网络第二曲线）、BME/SFA代币模型选择逻辑、中间件基础设施（DePHY/Swan Chain/Parasail）衔接角色、AI数据枯竭论证DePIN传感器价值
+- [[来源_2024-09_币安_TON生态项目_上币预测_ChainCatcher]] — 2024年9月TON生态快照：币安累计上线6个TON项目/Moonbix(币安自研740万用户)/Blum(6000万用户)/DejenDog(HashKey)/Yescoin(1570万)/Gatto/Fanton/Vana Data Hero 7大候选项目全景
+- [[来源_2024-09_币安疯狂上线TON生态_原因与走势_吴说播客]] — 吴说播客：币安连续上线5个TON生态代币的拉新逻辑、Notcoin/Dogs/Catizen/Hamster项目差异分析、公开联赛运作机制（每期$300万奖池）、TON链上承载瓶颈（4000万用户→仅几十万持币）、Web2.5定性、俄语区KOL社群、对波场USDT威胁、Memecoin vs TON代币三维对比
+- [[来源_2024-09_L2_Solana_Appchain_应用部署选择_Web3Caff]] — The Rollup/Web3Caff：开发者部署三选项对比（通用L2/Solana/Appchain），应用链通过模块化堆栈与单体L1竞争，链抽象和互操作性是模块化未来的前提条件
+- [[来源_2024-09_EigenDA如何变革Rollup经济学_金色财经]] — EigenDA定价策略与收入模型：按需0.015 ETH/GB降低rollup DA成本~99%，Tier 1年费70 ETH，月收入目标$160K，Celestia实际费用收入仅$21K-$35K
+- [[来源_2024-09_OP_CAT_BIP347_比特币智能合约_ChainCatcher]] — OP_CAT 闪电网络后 BTC 最大叙事：BIP347 软分叉/Fractal Bitcoin 实现/闪电核心开发者集体站台/StarkWare $100 万研究基金/CAT20 Gas 5000+
+- [[来源_2024-09_持续盈利项目_代币炒作_商业模式_深潮TechFlow]] — Darshan Gandhi/Blockcrunch：投机驱动vs实用驱动代币经济系统性对比，DePIN/DeFi/社交/启动平台四大赛道盈利项目分析，Friend.tech/Axie/STEPN失败案例，GEODNET $2-3M ARR/Helium 756K用户/Across 60%+桥接份额/Kamino $14M ARR
+- [[来源_2024-09_Solana生态系统全景_融资历史_技术机制_深潮TechFlow]] — Insight VC尽调级报告：$3.59亿融资历史（种子至ICO 7轮）、通胀四情景量化模拟、PoH/Tower BFT/Turbine/SVM技术架构拆解、FTX $10亿+SOL遗产风险、生态项目五大类别
+- [[来源_2024-09_PayFi_五大Web3支付项目_Followin]] — dpycm.eth/深潮TechFlow：PayFi 五大项目全景——Ondo（$5.56亿TVL）/Karrier One（DePIN电信）/Huma（$9亿支付融资/0%违约）/Sphere Pay（0.3%费率）/Loopcrypto（企业支付自动化）；稳定币$20M→$170B市值/Tether迪拉姆+Circle NFC+PYUSD第六大
+- [[来源_2024-09_OnlyFans_66亿美元营收_奥运冠军擦边_科技每日推送]] — 科技每日推送：OnlyFans 42人团队/66亿美元年营收/80%创作者分成/410万创作者+3.05亿用户/奥运冠军涌入，Web2创作者经济验证+AI为三大威胁之一
+- [[来源_2024-10_Solana去中心化程度_中本聪系数_验证者分布_Helius]] — Solana六维度去中心化量化：NC=19/4,514节点/37国/Jito 88%客户端集中度/Hetzner 2022压力测试
+- [[来源_2024-10_牛市赚钱_交易系统构建_4Alpha_PANews]] — 4Alpha Research：交易系统七要素框架/盈亏比评价标准（3=70分 4=80分 5=90分）/格兰维尔八法/周期判断驱动的仓位策略
+- [[来源_2024-12_中欧经贸_再全球化_内需_房地产]] — 慕峰座谈发言：德国汽车产业破坏式创造/再全球化框架/内需决定论/3.8亿流动人口/新加坡组屋路线
+- [[来源_2024-10_Base创始人Jesse答社区100问]] — Jesse Pollak AMA：Base 2025路线图(无抵押信贷/本地稳定币/链上社交)/隐私升级/钱包整合/Farcaster
+- [[来源_2024-10_GOAT_三大叙事_meme新标杆_Followin]] — ChopTradoor：GOAT 坐拥文化（新兴宗教）+ meme 学 + AI 三大叙事叠加，OPUS LLM 不可复制性是护城河，澄清 a16z 仅个人赠款非投资，Murad 新兴宗教框架应用
+- [[来源_2024-10_AI发Meme_叙事正确_仿盘龙二难出_Followin]] — 三方需求分析（买家叙事耗尽/VC"孔乙己长衫"/供给端监管套利）、AI Bot 贿选制度、仿盘全景（SHEGEN/Medusa/Lily/Child AI 均未达 GOAT 体量）
+- [[来源_2024-10_a16z_Chris_Dixon_Crypto未死_Read_Write_Own]] — Chris Dixon "Read Write Own"框架/赌场文化vs计算机文化/Web3未死/$70亿+a16z crypto/3-5年互联网危机预测
+- [[来源_2024-10_GOAT_小编_250倍盈利_发现方法论_深潮TechFlow]] — 深潮 TechFlow 编辑第一人称：聪明钱监控→社媒搜索→深度调研→小额下注的普通人可复制meme发现流程，GOAT 250倍盈利案例
+- [[来源_2024-10_GOAT_Truth_Terminal_AI_Meme病毒_深潮TechFlow]] — GOAT完整起源：Infinite Backrooms→Truth Terminal→$4亿Meme币，LLM模拟器论/LLMtheism/AI对齐/Meme病毒四大框架
+- [[来源_2024-10_Hyperliquid技术架构_CEX对标_深潮TechFlow]] — Hyperliquid TGE 前技术全景：HyperBFT 20万订单/秒、HLP 去中心化做市金库、HIP-1/HIP-2 现货标准、与币安 2-3% 交易量对比、第二季积分 5106 万分、"800 美元/积分" meme 起源
+- [[来源_2024-10_Murad_Cult_meme_超级周期_BlockBeats]] — Murad个人档案：Princeton→高盛→Bitcoin Maxi→Adaptive Capital破产→Cult Meme教父，筛选标准（500万-2亿/6月+/2次70%暴跌）、meme币=宗教
+- [[来源_2024-10_meme喊单王_KOL对比_WOO_Research]] — WOO Research 四位顶级 Meme KOL（Murad/Ansem/POW/POE）喊单绩效横向对比：Murad最稳/SPX $10M→$750M/Ansem转FTM/POW+POE擅长短期PVP/"邪教属性"为共识特征
+- [[来源_2024-10_Murad_Token2049_Memecoin超级周期_微信]] — 微信全文转载Murad Token2049演讲：五大核心主张（资产至上/代币即产品/Memecoin反击VC币）、$1万亿市值预测、链上侦探公开的11个钱包地址
+- [[来源_2024-10_MEME流动性博弈_多方获利_PANews]] — 五层获利结构全景分析（头部玩家/发射平台/Dev与CTO/公链/工具提供商）：Pump.fun $1.5亿累计收入/Neiro部署者5169x/SHAR内部人抛售96%暴跌/Ethereum+Solana MEME合占63.1%市场
+- [[来源_2024-10_Meme炒作大小写之争_捐款V神_Cult复兴_PANews]] — 2024年Q4 Meme三大炒作新范式：大小写之争（NEIRO 50x vs NEIRO -50%）、V神捐款SOP（MOODENG $1M→$100M+）、Cult复兴（SPX 20x/GIGA 200%/POPCAT 90%）
+- [[来源_2024-10_Pepe_Buldak_BUL_预售百万_开放加盟_BlockBeats]] — 韩国 K-Meme Pepe Buldak（$BUL）：预售 $100 万/"开放加盟"模式将代币质押与实体餐饮门店扩张绑定/加盟商需质押 100M $BUL+NFT/10,000 家门店目标/总供应 4.2 万亿枚（PEPE 的 1%）/团队零保留
+- [[来源_2024-10_AI一小时研报_支付赛道_5个Prompt_Web3Brand]] — Web3Brand starzq：5个Prompt驱动Claude生成4000字研报，传统vs稳定币支付完整对比（授权/清算/手续费三层），Bridge $11亿收购
+- [[来源_2024-10_World-Liberty-Financial_特朗普OEM_WLFI_金色财经]] — 金色财经/0xjs 深度调查：特朗普家族 World Liberty Financial 是 OEM 产品——DT Marks DEFI 75%净收入分成 vs AMG(Chase Herro/Zak Folkman) 25%，操盘团队 Dough Finance $2M 黑客前科，WLFI 不可转让纯治理代币规避 SEC 监管，公售首日仅 $1000万/$3亿目标
+- [[来源_2024-10_AI_Waifu_OnlyFans_Virtuals_协议_BlockBeats]] — AI Waifu深度拆解：AI虚拟伴侣>$1000亿市场/OnlyFans 14.5%份额转移/三阶段路线图（角色扮演→VR/可穿戴→全潜入）/25万用户/社区400+UGC角色
+- [[来源_2024-10_幽灵代币经济学_内幕交易_0xLouisT_Odaily]] — 0xLouisT 提出"幽灵代币经济学"：公开 Tokenomics 只是上限，真实分配通过链下协议达成；六种内幕交易类型（顾问份额/做市对冲/CEX上币费/KOL轮/TVL租赁/质押奖励提前获利）
+- [[来源_2024-10_五大交易所新币表现_山寨币流动性枯竭_MarsBit]] — 五大交易所新币量化分析：中位数 -14.71%（超半数亏损），高FDV+低流通=最差表现，"先合约再现货"模式加剧抛压；同期BTC涨15%
+- [[来源_2024-10_daos_fun_ai16z_pump_fun_Odaily]] — Odaily 对 daos.fun 首次系统介绍：三阶段机制（募资/运行/赎回）、ai16z 58倍溢价、DAO代币定价脱离基金经理实际业绩，本质仍是叙事驱动投机
+- [[来源_2024-10_DePIN经济模型_核心要素_PANews]] — ChainUp Investment 2024.10：存储/计算/AI/其他四条赛道13个DePIN项目系统对比，量化揭示需求赤字（Livepeer $30万收入 vs $8,000万激励/Filecoin 3%燃烧率 vs 27%通胀率），Helium Mobile成唯一BME成功案例
+- [[来源_2024-10_The_Surge_以太坊扩容_Rollup_Vitalik]] — Vitalik The Surge 完整愿景：DAS/数据压缩/Generalized Plasma/L2 证明三阶段/跨 L2 互操作/L1 扩展；关键数据 Dencun 后 ~173-607 TPS，中期目标 58,000 TPS
+- [[来源_2024-11_Virtuals_Protocol_代币化_智能合约_金色财经]] — Virtuals深度技术拆解：AgentFactoryV3五组件架构/三层蜕变创建机制/IP贡献者分润/LUNA链上经济循环
+- [[来源_2024-11_扫链指南_meme土狗_0xoooooyoung]] — 一线交易者扫链方法论：GMGN/BullX工具、五大金狗叙事判断、七类meme赛道、翻倍出本、RUG识别、20+术语
+- [[来源_2024-11_以太坊_Solana_Staking商业模式差异_MintVentures]] — ETH vs SOL质押生态商业对比：三种收益框架/swQoS机制/内源性vs外源性AVS/Lido战略放弃restaking/Eigenlayer受基金会约束/Etherfi空白地带/Solana质押市场更大
+- [[来源_2024-11_BIO_Protocol_Binance_Labs_DeSci_深潮TechFlow]] — Binance Labs首次DeSci投资（BIO Protocol）、CZ个人态度背书、双轮Genesis拍卖（英式+荷兰式）、a16z同步入场DeSci对比
+- [[来源_2024-11_MSTR_戴维斯双击_双杀_Followin]] — MSTR戴维斯双击/双杀框架：正溢价飞轮数学本质、Delta对冲股价反馈环、Saylor被迫卖BTC触发条件
+- [[来源_2024-11_Pumpfun深度解密_估值分析_MarsBit]] — Pump.fun深度解密：欧洲团队/CTO中学学历、Alliance/Qiao Wang 1000倍回报、217天$1亿收入里程碑、DCF估值10.68亿 vs SecondLane 15亿、SOL卖出113.7万枚/$2.06亿
+- [[来源_2024-11_Pumpfun_Meme运作机制_直播注意力_PANews]] — PANews/岳小鱼：联合曲线数学原理（早期慢+后期杠杆）、四步流程（创建/募资/达标/上市）、精确币量分配+上币价14.64倍、"Meme+直播=注意力经济"框架/"有毒流量"批判
+- [[来源_2024-11_Binance_AI_Agent_报告_深潮TechFlow]] — Binance Research AI Agent 赛道系统性报告：Agent vs Bot 五大维度区分/ToT→IAO→daos.fun 三阶段/Chris Dixon "大器初显常若玩物"
+- [[来源_2024-11_加密网络经济_三类进化_深潮TechFlow]] — 1a35e1/深潮TechFlow：三类网络经济（固定机制/可调参数/AI自治）+卡尔达舍夫等级类比+Ostrom公地八项原则
+- [[来源_2024-11_Hadron_Tether_RWA_深潮]] — Tether Hadron 资产代币化平台发布：4步发行流程/完全非托管/多资产类型/比特币 Liquid+RGB 集成/2024 Q3 净利润 $25 亿
+- [[来源_2024-11_USDe代币经济学_ENA估值情景分析_PANews]] — USDe 代币经济学 P&L 拆解：年化 $6200 万/单位利润 $0.04/Ethena 银行式息差模型/三情景 ENA 估值（$2.25→$5）/催化剂清单
+- [[来源_2024-11_Memecoin市场图谱_1200亿资产类别_ChainCatcher]] — Eli Nuss：Memecoin六大类别框架（狗狗币/加密文化/互联网文化/自我意识AI/殉道者/名人政治），Meta轮动方法论，"自我意识AI"将成增长最快类别
+- [[来源_2024-11_DIN_AI数据预处理_Crypto击球区_web3brand]] — 千亿规模的AI数据赛道为何进入Crypto击球区：DIN作为首个模块化AI原生数据预处理层，xData(70万DAU)+Chipper Node(3万+持有者),$8M融资;对比ScaleAI $138B估值/Grass $3.1B FDV
+- [[来源_2024-11_稳定币格局_散户参与_万亿赛道_BlockBeats]] — Ruisnakes/BlockBeats：八大机遇框架/三大市场分类（原生加密2.9万亿+银行化400万亿+欠银行化）/Tether影子美元经济/传统vs链上支付效率对比（6.25%→0.15%）/稳定币身份危机（货币vs金融产品）
+- [[来源_2024-11_0xWizard_ACT_社区拯救_深潮TechFlow]] — 0xWizard 深度访谈：ACT 社区重建全过程/币安选币四要素/"AI文艺复兴"框架/牛市发动机三定律/链上交易三策略
+- [[来源_2024-11_链上入门指南_从二级到链上_0xWizard]] — 0xWizard 从二级到链上完整入门教程：钱包配置→GMGN交易全流程/六大基本概念（滑点/MEV/AMM/rugpull/貔貅盘/收割盘）/三种寻标方式/meme标的三种分级（热点盘/潜力标的/蓝筹）
+- [[来源_2024-11_PNUT_Binance_网红松鼠Peanut_政治运动_BlockBeats]] — 网红松鼠被DEC安乐死→马斯克声援→美国大选舆论武器→PNUT 11天达$1亿市值(6600x)→Binance上币(+120%)，部署者仅赚$7.3万/聪明钱$164万(3668%)/散户错失百万
+- [[来源_2024-11_迪拜_Web3游戏_DPG33_DMCC_Tiger_Research]] — Tiger Research 迪拜 Web3 游戏政策分析：DPG33 2030 年 GDP 40 亿/27,000 就业/DMCC 100+ 游戏公司/"负面光环效应"/AI Agent 协同，"从国家产业政策维度补充 GameFi 供给侧分析"
+- [[来源_2024-11_按时解锁_代币经济_需求驱动释放_BlockBeats]] — Dr Daoist：论证"低流通高FDV"仅为表象，真正根因是时间驱动代币解锁造成供需脱节与利益冲突，提出需求驱动释放方案
+- [[来源_2024-11_AI_Agent_DeFi_全景_ThreeSigma]] — Three Sigma AI Agent x DeFi 全景：60+ 项目清单/三级自动化分类（Workflow/Agentic/Autonomous）/ai16z 虚拟信任市场机制/$LUM Agent 间自主协作案例/$14万亿服务经济宏论
+- [[来源_2024-12_比特币矿工_AI数据中心_Galaxy]] — 比特币矿工→AI数据中心转型：估值套利6-12x→20-25x EV/EBITDA，pure-play crypto×AI投资
+- [[来源_2024-12_TON生态研报_链上交易量_Telegram双赢]] — TON首年合作复盘：3步战略/链上交易量增30倍/钱包39倍/Telegram首次盈利$10亿/IPO倒计时
+- [[来源_2024-12_TON大规模铸造历史_四阶段演进]] — TON Foundation官方：Inscriptions→Notcoin/Mass Sender→DOGS/TokenTable→Hamster Kombat/Mintless Jettons四阶段技术演进，1000万链上持有者/DOGS宕机/三种费用模型对比
+- [[来源_2024-12_DePIN现在与未来_中间件_应用层_PANews]] — Coinspire/PANews：DePIN五步运行模型/中间件+应用层四板块/规模化四大掣肘/BME+SFA四层赋能/金融化三路径
+- [[来源_2024-12_ArkStream_Ethena投资逻辑_深潮TechFlow]] — ArkStream $500万投资Ethena的Trump政策催化逻辑/USDtb+Securitize联合开发/三维评估框架/10%市场份额预测
+- [[来源_2024-12_AI_稳定币_三阶段采用_Peter-Schroeder]] — Peter Schroeder (Circle)：稳定币+AI Agent 三阶段采用框架，Chamath "AI无情"洞察，Coinbase 首笔 AI-to-AI USDC交易
+- [[来源_2024-12_AI_Agent_发展全景图_Meme_Utility_MarsBit]] — MarsBit：AI Agent 四层生态全景（框架/IAO/Agent/Meme），GOAT→$8亿、VIRTUAL $20亿ATH，差异化是 Agent 唯一出路
+- [[来源_2024-12_AI_Agent_14种热门用例_Gaia_深潮TechFlow]] — Gaia 团队：14 种 AI Agent 应用场景（Meme/VC/交易/治理/预测/社交/社区/审核/Hackathon/开发/分析/客服/DAO财务/媒体订阅），需求侧用例分类与供给侧生态层级互补
+- [[来源_2024-12_AI_Agent链化_CEX选币策略_PANews]] — 链化=AI Agent 叙事第五阶段，五大基建（TEE/DA/Oracle/zkVM/链抽象），链化先行→AI Platform 后至的递进逻辑，CEX 小市值技术型项目选币策略
+- [[来源_2024-12_AI_Agent框架_波粒二象性_PANews]] — BlockBooster Kevin："波粒二象性"分析框架（"波"=Memecoin/"粒"=行业预期），Agent引擎 vs Agent框架区分标准，Eliza/ZerePy/Rig/Swarms 四大框架教程走读与对比，GitHub Stars 数据（Eliza 6200/Swarms 2100/Rig 1700/ZerePy 191）
+- [[来源_2024-12_ai16z生态项目全景_BlockBeats]] — BlockBeats：ai16z 生态 13 项目全景盘点（Degenai/Eliza/ropAIrito/Degen8ball/aiko/Ezsis/Project89/SPORE/Kira/SNAI/Swarms），Shaw 宣布 L1 后 24h 涨 37% 至 $19 亿，Swarms Shaw FUD 事件 $65M→$10M→$95M
+- [[来源_2024-12_四大AI框架横向对比_Eliza_GAME_Rig_ZerePy_BlockBeats]] — 四大AI框架量化对比：市占率(Eliza 60%/G.A.M.E 20%/Rig 15%/ZerePy 5%)，板块$17亿→$200亿，"AI框架=新L1"
+- [[来源_2024-12_Bankless_15个加密AI_Agent项目]] — Bankless 15个AI Agent项目全景：Virtuals生态占6/15，功能分化（交易/艺术/游戏/播客/偶像），GOAT $13亿、Luna自设$400.9亿目标、Botto苏富比个展
+- [[来源_2024-12_Bankless_十大AI_Meme代币]] — Bankless推荐10个AI Agent代币(GOAT/VIRTUAL/AI16Z/ZEREBRO/BULLY/CLANKER/LUNA/nothing/FAI/VADER)，从纯Meme到功能性平台的投资光谱
+- [[来源_2024-12_MARA比特币持仓_近40亿美元_Bankless]] — MARA 40,435 BTC 持仓（2024/12），零息可转债融资$11亿加仓，矿企向BTC国库公司转型的代表案例
+- [[来源_2024-12_Memecoin超级周期_深潮TechFlow]] — 2024年Memecoin叙事四种分类框架/基础设施全景(Pump.fun→仿盘→TG Bot→Web2法币入金)/主流接纳($2300亿总市值/5000万用户)
+- [[来源_2024-12_Memecoin三阶段演进_一体两面_投资辨别框架_Followin]] — Followin：Memecoin三阶段演进（DOGE奠基→文化表达→新模态）、一体两面辩证分析、六维度投资评估框架、巴赫金狂欢理论跨学科视角
+- [[来源_2024-12_Memecoin五个用例_无用即有用_CoinTelegraph]] — CoinTelegraph：Memecoin五个用例框架（监管套利/政治投机/慈善特洛伊木马/AI Agent融资/VC-Free公平发行）；"无用即有用"的Howey测试规避逻辑；Daniel Drescher "brandcoins" 框架；Mei "memecoin让技术变酷" 论述
+- [[来源_2024-12_Solana节点运营_MEV盈利_Jito_Raydium_PANews]] — 吴说播客/Leo自述：Solana MEV与ETH根本不同(比拼低延迟非gas)、Jito收入分配(90%+给staker/5%基金会)、Memecoin LP可持续盈利(MOTHER年化36,500%/蓝筹LP日收益0.5%-3%)、Sonic L2游戏设计
+- [[来源_2024-12_David_Sacks_白宫加密负责人_投资组合_BlockBeats]] — 特朗普任命 David Sacks 为白宫 AI 与加密负责人：PayPal 黑帮背景/Craft Ventures 12 个加密投资项目/dYdX 消息后涨 24.53%/SOL Maxi
+- [[来源_2024-12_RWA赛道未发币潜力项目_odaily]] — RWA 赛道再升温扫描：Lingo/Compute Labs/Redbelly/Plume/Huma/Avalon 六个未发币项目，特朗普当选驱动合规叙事
+- [[来源_2024-12_亚洲加密货币税收_Tiger_Research]] — Tiger Research：亚洲六大市场加密税制横向对比（免税/累进/统一/过渡/交易税五种类型），瑞典1986年60%交易量外逃教训
+- [[来源_2024-12_ZA_Bank_亚洲首个零售加密银行_Tiger_Research]] — ZA Bank 亚洲首家零售加密银行：BTC/ETH交易/0.8%费率/80万用户，香港监管框架竞争优势
+- [[来源_2024-12_Farcaster_AI_Agent代币发射器_BlockBeats]] — Farcaster 代币化社区三阶段演进 + 五大 AI Bot 代币发射器（Clanker/LarryBot/Onsenbot/Heyterminal/Launcher）+ 狙击问题与 Launcher 长期主义设计
+- [[来源_2024-12_DePayFi_智能美元_PayFi堆栈_IOSG]] — IOSG DePayFi 全景：智能美元/不可能三角破解/五大支柱（Huma/Fun/Morpho/Offramp/Bridge）/两大产品方向
+- [[来源_2024-12_Solv_Protocol_链上微策略_BTC_生息_BlockBeats]] — Solv「链上微策略」：Buy and Earn 范式，25,000+ BTC 锁仓（ETF 第 7/企业第 6/国家第 5），SAL 四角色架构，15 链 50+ 协议，~15% APY，即将公布代币经济模型
+- [[来源_2024-12_Usual_Money_USD0++_流动性蜜罐_PANews]] — Usual Money散户风险警示：USD0++ 4年期锁定的六方利益不对称分析，精英吃RWA收益散户承担久期风险
+- [[来源_2024-12_MEW_猫主题Meme_Cult文化IP_BlockBeats]] — MEW 猫主题 Meme 币深度案例：公平空投/全平台传播/8+ CEX/LOCUS Studio 3D 动画/Cult Meme 框架验证
+- [[来源_2024-12_Spore_fun_自主AI进化_PANews]] — Spore.fun：marvin_tong/Phala创始人撰文，AI Agent 自主繁殖/自然选择/AGI孵化器实验，Eliza + pump.fun + TEE三件套
+- [[来源_2024-12_Swarms逆市速通_暴力洗盘_深潮TechFlow]] — 深潮 TechFlow 记录 $swarms 代币诞生初期完整价格过山车（$6K→$74M→$6M→$40M）、Shaw 指控 Kye Gomez GitHub 抄袭引发 92% 暴跌、Kye 发 $MCS 失误后直播锁仓一年的危机应对、@tmel0211 ELIZA→RIG→Swarms 三框架技术演化递进逻辑
+- [[来源_2024-12_SynFutures衍生品OysterAMM_BlockBeats]] — SynFutures V3 Oyster AMM：三版迭代/26,666x资金效率/Base 68%份额/Perp Launchpad/2024-12-06 TGE/F代币100亿总量12%初始流通
+- [[来源_2024-12_Virtuals_经济飞轮_Decacorn_LongHash]] — LongHash Ventures 投资论点：四步经济飞轮机制、12.05数据快照（10K+代理/$120M交易量）、团队BCG/帝国理工/MIT/哈佛背景、三阶段AI进化框架（被动→主动→集体）、AI代理$9.3B vs DeFi $135B市场对比
+- [[来源_2024-12_Virtuals生态_AI项目扫描_Odaily]] — Virtuals 生态中腰部项目扫描（VaderAI/sekoia/Seraph/Agent YP/nftxbt），"半数疑似骗局、半数想成为各自领域的AIXBT"，跨链工具降低参与门槛
+- [[来源_2024-12_BTNS协议_BTNS420_代币铸造_CG]] — BTNS比特币广播型元协议详解：广播信号+链下索引，零存储占用，创始人jdogresorg曾参与Stamp后独立创建，龙头SAT（2.1万张/市值460万$）
+- [[来源_2024-12_Crypto_AI_去中心化计算_算力为王_Teng_Yan]] — Teng Yan：Crypto AI论文P2，去中心化计算（GPU市场/训练/推理），"错过NVIDIA"引子，需求端=真正瓶颈，推理=AI的CDN
+- [[来源_2024-12_Web3市场操纵_洗售交易_拉高出货_慢雾科技]] — 慢雾科技整理Web3六大市场操纵手段（洗售交易/幌骗/空头袭击/FUD/卖单墙/拉高出货），95%未受监管交易所BTC交易量为伪造，FBI 2024年代币镜像行动钓鱼执法2500万美元拉高出货计划
+- [[来源_2024-12_Abstract_Chain_22个生态项目_PANews]] — Abstract Chain 消费级 L2 主网倒计时：22 个项目入驻（NFT/游戏/DeFi/AI），Founders Fund 领投 $11M+，DOGAMI/Seedify/Mintify 为代表
+- [[来源_2024-12_Quantum_Biology_DAO_QBIO_深潮]] — Quantum Biology DAO 代币拍卖超募 1344%（$6.88M/635地址人均$10,840），QBIO 代币经济学（1+8年团队解锁/55%金库），三层生态+多元收入模型
+- [[来源_2024-12_Zerebro_自由化AI_深潮TechFlow]] — Zerebro 项目深度介绍（⚠️ 赞助内容）："自由化 AI"训练策略/五方向路线图/Pump.fun $4亿代币/Genesis 专辑 2万+播放
+- [[来源_2024-12_MIRA_Web3水滴筹_DeSci_meme_BlockBeats]] — MIRA 圣诞奇迹：Siqi Chen 为女儿罕见脑瘤筹款，$MIRA 代币 3h 60x/50%捐赠，Shaw 捐 $10万 degenai，Bio Protocol 视为 DeSci 叙事催化剂
+- [[来源_2024-12_DRUGS_500倍_daos_fun_打新_BlockBeats]] — DRUGS 500倍涨幅：Big Pharmai/daos.fun vs pump.fun 三阶段对比/7082人白名单/ai16z $10亿天花板/Pump Science支持
+- [[来源_2024-12_RIF_URO飙升_Molecule三大引擎_BlockBeats]] — Molecule三大引擎架构（Catalyst→BIO→pump.science）、IP-NFT/IPT机制、RIF($190M)+URO($97M)市值/实验成本梯度($300-$60K)、BIO代币分配细目
+- [[来源_2024-12_Roblox亏损原因_UGC经济模型_GameLook]] — Matthew Ball深度分析：Roblox 3.8亿MAU为何亏损-38%？成本结构（应用商店23%+开发者26%+研发44%）+会计方法+盈利路径
+- [[来源_2024-12_AI_for_Science行业解析_Biotech_Top50]] — AI for Science 万字解析：DeepMind AlphaFold 2 诺奖/Anthropic Dario 5-10年压缩预测/Pear VC Biotech Top 50量化（MOIC 7.5/退出4.7年/创始CEO 46岁/湾区+波士顿中心）
+- [[来源_2024-12_XRP_500亿市值飙升_Ripple_RWA_ETF_insights4vc]] — insights4.vc：XRP 一周暴涨 60%/$1335 亿市值/RWA 代币化（Archax+Abrdn 38 亿英镑 MMF）首登 XRPL/四家 ETF 申请 / RLUSD NYDFS 审批 / SEC $1 亿法律辩护费 / XRPL 联邦共识中心化争议
+- [[来源_2024-12_LBank_Labs_Meme赛道研究_破圈新生_千亿赛道]] — 2024年Meme赛道全景：$1,168亿市值/279.8%表现/四大叙事类型/CEX上币竞争/Pump.fun-Moonshot-SunPump平台对比/机构态度从批判到布局
+- [[来源_2024-12_老牌公链狂拉_MEME发射平台_百倍机会_BlockBeats]] — 老牌公链复兴：EOS/XLM/XRP/ADA大涨，Four.meme/First Ledger/Snek.fun/SunPump四大老牌公链Meme平台全景，Four.meme加速器模式差异化
+- [[来源_2024-12_AI_Agent_年度回顾_2025展望_深潮TechFlow]] — 0xJeff 2024年AI Agent回顾与2025年展望：十类Agent形态（对话/3D/音乐/直播/动漫/影视/交易/DAO/DeFi/抽象层）、五大叙事框架、去中心化AI六层基础设施架构（可验证性→群体智能协调）、Virtuals $30亿Agent总市值占77%份额
+- [[来源_2024-12_六个次新AI项目_SwarmNode_neur_AlphaArc_YesNoError_Soulgraph_Scoutly_Odaily]] — Odaily 第四期新生AI项目扫描：六个项目（SwarmNode/neur/AlphaArc/yesnoerror/soulgraph/Scoutly）覆盖无服务器Agent部署/自然语言DeFi/Web3数据AI化/DeSci论文审查/Agent人格记忆/AI体育预测六方向，$12.6M-$55M市值区间，筛选标准"千万级+无中文报道+推出<两周"
+- [[来源_2024-12_Hyperliquid生态_链上赌场_淘金指南_PANews]] — TGE 后 Hyperliquid 生态繁荣实操指南：蓝筹资产（PURR 3.7 亿/HFUN 10 天涨 1500%）、荷兰拍上币飞轮（12.8 万→48 万）、GCR 持仓数据、HyperEVM 八项目清单、验证者中心化风险
+- [[来源_2024-12_PENGU代币经济学_Solana发行_PudgyPenguins]] — PENGU 代币作为自 2022 年 APE 以来首个顶级 NFT 项目发币：88.9 亿总供应/88 天申领期/Solana 首发/24% 分配给 500 万外部钱包（vs 26% 给 1.5 万持有者）/4% 公共利益/玩具消费者 Pudgy World 分发管道/"文化代币"定位模糊 meme 与实用型边界
+- [[来源_2024-12_PENGU空投资格_财富效应_ForesightNews]] — PENGU 实际上线实录（12.17）：多层级空投分配明细（Pudgy Rods Mythic 690 万枚最高/主系列 170 万枚)、首日极端盈亏（$836 万盈利 vs $1 万→$5 秒归零）、无快照机制致地板价 36→16 ETH（-55%）、$17.2 亿首日市值、Solana OG/Abstract Elite/外部 NFT 社区等多维度空投资格
+- [[来源_2024-12_寻找AI_Agent龙头_十种方法_Foresight_News]] — 周舟（Foresight News）提出寻找 AI Agent 龙头的十种方法论：链上收入法/GitHub stars/KOL 粉丝/领军人物/破圈/上币效应/公链/社区/赛道细分/本源法，覆盖平台型（Virtuals/Clanker）、框架型（Eliza）、KOL 型（ToT/aixbt）三类 Agent
+- [[来源_2024-12_DeSci_Meme价值之争_PANews]] — BlockBooster Kevin 批判性分析：BIO四层嵌套商业模式（Launchpad+无收益staking+激励+拆分盘）、Pump.Science"Rif圣诞节"20天20个代币、DeSci vs AI共识建立速度对比、"买入DeSci需忍受无人问津"的清醒判断
+- [[来源_2024-11_178个加密AI项目全景_DimaKhanarin_PANews]] — Dima Khanarin/PANews：Devcon后178个加密AI项目全景，三层分类（应用31/中间件106/基础设施41），$20亿融资/$6300亿FDV，WorldCoin$2200亿FDV居首，作者诚实诊断"资金不足/难敌中心化/应用未成熟"
+- [[来源_2024-11_Thena_币安HODLer空投_ve33_DEX_MarsBit]] — 火星财经：Thena BNB Chain ve(3,3) DEX 超级应用（现货+永续270交易对60x+社交交易+Launchpad），三代币经济（THE/veTHE/theNFT），初始周排放260万枚每周递减1%，币安HODLer空投项目
+
+### 2023年 (93 篇)
+- [[来源_2023-01_公链运营三大维度_差异化_PANews]] — 深潮TechFlow & SuiWorld：公链运营三板块框架（Developer/Ecosystem/Community）、BNB Chain Migrate存量争夺、Aptos vs Sui社媒策略对比、Polkadot国库自循环资助
+- [[来源_2023-01_Web3融资71亿美元_游戏占比62_PANews]] — PANews转载Metaverse Post：2022年Web3融资$7.17B（+$4.8B YoY），游戏$4.49B(62.5%)/元宇宙$1.82B(25.4%)，基础设施仅$208M/AI仅$136.5M——2022年赛道占比快照，与2023-2024年基础设施/AI主导形成鲜明对比
+- [[来源_2023-01_NFT_2022_造神结束_BlockBeats]] — BlockBeats 2022年NFT市场年终回顾：月线记录/交易平台竞争（Blur崛起/版税之争/OpenSea遭遇挑战）Free Mint投机小周期/CC0大讨论/NFT金融化起步/传统品牌入场。关键数据：市值峰值$34.9B/持有者+161%/集合数+475%/Blur年底市占率>60%
+- [[来源_2023-02_游戏数值设计_价值信用_机核]] — 机核GCORES：价值信用/系统人/价值二重性框架，时间价值公式Q=T/K，相对与绝对角色强度，难度通关率目标线划定，数值设计的哲学基础
+- [[来源_2023-02_加密货币交易优势_10种工具_Route2FI]] — Route2FI：信息速度型交易工具链（三层架构：Twitter列表+机器人→Telegram/Discord推送→Tradingview实时排序），动量策略的永续合约全量监控，爆仓数据作为反向信号，BLZ 8分钟15%涨幅案例
+- [[来源_2023-02_Cosmos共享安全_模块化区块链_数据可用性_DecentralPark]] — Decentral Park Research：ICS共享安全模型（$2.74B ATOM/消费者链可脱离Hub成为主权链）、模块化区块链三大功能分离打破不可能三角（100x-10,000x效率提升）、DAS数据可用性采样机制（轻节点随机采样+置信度阈值）、模块化叙事可能催生"以太坊中心化"未来（ETH $27.7B质押/2.8x第二名）
+- [[来源_2023-02_Rollup_ZKRollup_Optimistic_Arbitrum区别_Future小哥哥]] — Future小哥哥入门科普：Rollup/ZK Rollup/Optimistic Rollup/Arbitrum四概念区别，VIP签名块与代表推荐制类比，ZK四特点（Succinct/Non-Interactive等），OP与ZK本质差异（信任性验证 vs PoW认证）
+- [[来源_2023-02_足球_链游_竞品分析]] — 足球类链游垂直子类别完整竞品分析（下篇）：覆盖MonkeyLeague/Football World/TopManager/Goals等7项目，从开发进度、官网流量、社交媒体、IP资源、投资机构五维对比；Sorare 170万用户/245俱乐部、TopGoal 9位传奇球星IP、CZ参与直播、世界杯热度周期判断
+- [[来源_2023-03_区块链游戏复兴_亚洲市场_CoinVoice]] — Xangle/CMCap联名：亚洲55%玩家/韩国链游最前沿/两种战略(L1生态 vs IP试水)/MIR 4 140万CCU/Netmarble A3收入7x/Wemade Netmarble Com2uS Nexon Kakao Square Enix/2023关键发布管线
+- [[来源_2023-03_花旗RWA_代币化_区块链十亿用户]] — 花旗GPS报告：RWA 5万亿/游戏+区块链最大消费者入口/32亿玩家/花旗私人链/艺术品NFT信任层
+- [[来源_2023-03_Arbitrum详解_Optimistic_Rollup_火币研究院]] — Arbitrum 技术架构（多轮欺诈证明/Nova/Nitro/Stylus）+ ARB代币经济（100亿总供应/2%年通胀）+ DeFi飞轮（GMX 4.96亿TVL→Jones DAO）+ 奥德赛活动20.7万新增地址
+- [[来源_2023-03_强人工智能_区块链_安全性_外部约束]] — GPT-4发布时的AGI安全性哲学论述：AGI本质上不安全且无法通过自我约束驯化，区块链作为唯一无root角色的计算系统是外部约束AGI的唯一机制。"效率vs公平"文明级二元框架，2006 Hinton突破与2008中本聪白皮书的历史共时性
+- [[来源_2023-03_空投价格表现研究_31个代币_Hashed]] — Hashed团队31个代币空投量化研究（UNI→EVMOS,1.5年）：中位空投分配7.5%/74%项目100天后低于发行价/200天中位价格0.44x/最佳卖出窗口第1-5天/最佳买入窗口第5-6个月（0.33x,-67%）
+- [[来源_2023-03_比特币NFT交易体验_OrdinalsWallet_MagicEden_BlockBeats]] — BTC NFT交易实操（2023.03）：PSBT无信任交易、内置钱包（Ordinals Wallet）vs外置钱包（Magic Eden+Hiro Wallet）两类范式、三个未解决问题（无智能合约/市场碎片化/数据缺失），体验已接近OpenSea
+- [[来源_2023-03_Web3品牌_星巴克_NFT_starzq]] — starzq 11条推文集锦：星巴克Odyssey"participate-to-earn"/打造web3品牌灵魂三问/Azuki品牌路线/CC0平台vs品牌/Porsche NFT失败警钟/Amazon NFT四大领域布局
+- [[来源_2023-03_zkSync_Lite_Era_交互指南_MingoAirdrop]] — zkSync Lite/Era 空投交互实操指南：Lite 激活、跨链桥、DEX 交易、NFT 铸造、生态项目推荐（SyncSwap、Nexon Finance、Mes Protocol、Mute、OnChain.Trade）
+- [[来源_2023-04_AI入侵Web3_陀螺研究院]] — 陀螺研究院2023.04时间切片：GPT-4发布后AI+Crypto叙事切换关键时刻，Web3融资同比-47.98%/NFT销售额较峰值-94.93%/资本转向AIGC，"打不过就加入"策略转向
+- [[来源_2023-04_Bankless_五大新兴L2项目_交互指南]] — Bankless：Base/Fuel/Linea/Scroll/Taiko五大新兴L2测试网阶段快照+交互指引，记录zkEVM叙事爆发期竞争格局
+- [[来源_2023-04_LayerZero_全链野心_应用场景_BixinVentures]] — Bixin Ventures：OFT/ONFT全链代币标准+Stargate统一流动性桥+全链DeFi五大应用场景（Pendle/Rage Trade/Radiant Capital/Sushiswap/Trader Joe）
+- [[来源_2023-04_Web3确定性_金字塔分析框架_The_Quibbler]] — The Quibbler：金字塔分析框架（公链→开发者→应用→用户→市场规模），2023年初Web3各层确定性评估，交易是唯一被验证的真实需求
+- [[来源_2023-04_Web3用户增长_市场周期_新叙事_CoinVoice]] — 新火科技Loki：三层周期驱动框架/VC幸福指数/L1黄金时代终结/L2崛起/PoPW(DePIN早期)/Web3用户增长五大方向
+- [[来源_2023-04_Ordinals_比特币NFT_铭文_BinanceAcademy]] — Binance Academy 入门科普：Ordinals 协议机制、6级稀有度系统参数、与以太坊 NFT 技术差异、Taproot 前提
+- [[来源_2023-04_RWA_大机构布局_币安高盛_ChainCatcher]] — 2023年4月RWA升温切面：币安/高盛/Hamilton Lane/西门子密集布局，DeFi vs 美债收益率利差驱动链上美债，私人信贷vs公共债券细分，Maple 5200万坏账暴露清算困境
+- [[来源_2023-04_Bitget崛起_衍生品起家_控股BitKeep_自成生态_深潮TechFlow]] — 深潮TechFlow：Bitget 崛起复盘——从2018年衍生品跟单起家到2023年构建Web3集团生态；梅西代言近1亿人民币/2年、默克尔树储备率231%、熊市逆周期扩张
+- [[来源_2023-04_Silvergate_SVB_银行危机_深潮TechFlow]] — Silvergate/SVB双银行暴雷机制分析：期限错配+利率误判，加密友好银行$143亿存款→FTX暴雷挤兑→清盘，SVB $910亿MBS→$150亿未实现亏损→FDIC接管，触发USDC脱锚
+- [[来源_2023-04_Sei_Network融资_生态版图_MarsBit]] — Sei Network 2023年4月快照：3000万美元估值$8亿融资+$1.2亿总生态资金/Twin Turbo共识500ms区块/120项目生态版图/前V2时代CosmWASM DeFi特化定位
+- [[来源_2023-04_职场吊打上司_议价权_网红转型]] — 成都员工公开揭露上司五大问题后离职上热搜，作者分析职场三类主管框架（不懂+不拿人当人/很懂+不拿人当人/假装拿人当人），核心洞见：议价权来自维度差异化，建议当事人趁热搜转型情绪类网红——"第一次也是唯一一次有了与众不同的议价权的机会"
+- [[来源_2023-04_反女巫_资金归集_空投农场_zksyncc]] — zksyncc.eth 发布于 Mirror.xyz 的实操教程：通过 ThirdWeb 铸造 1 亿枚自定义代币 + Excel 批量空投 + Uniswap LP 作为资金混淆层，实现反女巫的多地址资金归集与分发
+- [[来源_2023-05_币安研报_BTC生态_潜在机会]] — 币安研报系统性扫描 Ordinals 热潮前后的 BTC 生态：铭文累计费用超 150 BTC、平均块大小 1.2→2MB+、L2 TVL 仅占 BTC 市值 0.06%、闪电网络/Stacks/RSK/Liquid/Rollkit L2 方案横向对比、社区"硬通货 vs 新用例"争论完整记录
+- [[来源_2023-05_meme币底层逻辑_投资方法论_STEPPS模型_BlockBeats]] — BlockBeats：STEPPS病毒营销六要素模型（社交货币/诱因/情绪/公开性/实用价值/故事）应用于meme币分析，MEME估值=叙事+数字公式，meme币市值六阶段里程碑框架（100万→10亿+美金），信息传播四阶段分批买卖策略，People/Cult DAO/Bonk/Dogeking案例
+- [[来源_2023-05_RGB_vs_Ordinals_Kernel_Ventures]] — Kernel Ventures 深度对比 RGB vs Ordinals 五维度（安全/速度/隐私/费用/可扩展性），4 种 BTC 智能合约方案总览，RGB 生态 4 项目，Tether USDT 迁移至 RGB
+- [[来源_2023-05_Circles_UBI_项目介绍_金色百科]] — 金色百科：Circles UBI项目介绍——个人加密货币+社交信任图谱实现全民基本收入，信任分决定代币发放量，1:1固定汇率传递性支付
+- [[来源_2023-05_比特币NFT_BRC20_Ordinal_科普_TokenInsight]] — 2023年5月5日TokenInsight微信科普文，用明星纪念卡类比Ordinals/BRC20：ORDI突破1美元、四千多种已Mint、BTC NFT≠ETH NFT（Satoshi基础价值不可归零）、BRC20整数交易限制、作者直言"全部是Meme"
+- [[来源_2023-05_BRC20_玩转指南_BlockBeats]] — 2023年5月 BRC-20 实操教程：ORDI $1.2→$2.83、TVL $62M、Deploy/Mint/Transfer JSON 格式、Unisat 钱包买卖流程、4月代码漏洞详情
+- [[来源_2023-05_BTC_Ordinals生态_代币协议_全景指南]] — 2023年5月 BTC 代币协议全景对比（BRC-20、ORC-20、BRC-721、Generative BRC-721、SRC-20、LTC-20/DRC-20、ARC20、Rune/PIPE、Taproot Assets）加钱包/市场/工具导航
+- [[来源_2023-05_BRC20_闪电网络_RGB_扩容_ChainCatcher]] — BRC-20热潮引出的比特币扩容三路径科普：闪电网络（1.6万节点/7.3万通道/5376 BTC锁仓/$0.0001单笔费）、RGB协议（DIBA/Iris Wallet/Bitmask早期项目）、侧链对比（Stacks/OmniLayer/Liquid/RSK）；第一次系统记录Strike和Lightspark实体
+- [[来源_2023-05_Ordinals是什么_TokenInsight]] — TokenInsight 技术详解：铭文代码实现示例、Ordinal 理论先进先出追踪规则、35万Ordinals铸造数据、Yuga Labs TwelveFold 735 BTC拍卖、作者判断"基础设施>个人项目"、Ordinals=2018年8月以太坊NFT类比
+- [[来源_2023-05_聪时代_Ordinals_闪电网络_LKVenture]] — LK Venture研报，提出"聪计价时代"概念：Ordinals发布4个月（160万铭文）、BRC-20诞生两周（4473种代币/$4000万市值/$ordi两天全量Mint）、闪电网络（1.6万节点/7.5万通道/5379 BTC/$1.52亿）、Strike跨境汇款/Shopify商户支付商用案例；163行/6图
+- [[来源_2023-05_BTC生态重点项目盘点_Biteye]] — Biteye 核心贡献者 Lucky 的 BTC 生态早期全景盘点：Ordinals NFT 六大头部项目（Bitcoin Punks/Bitcoin Frogs/Pixel Pepes/DeGods/DogePunks）地板价、BRC-20/ORC-20/SRC-20/BRC-721 标准对比、Stacks 日活不足 4k 及 Alex 占链上 TVL 94%、闪电网络/RSK/Liquid 侧链介绍；219行/0图（WeChat 内嵌图不可访问）
+- [[来源_2023-05_Ordinals家族_BRC20_协议对比_BlockBeats]] — "Ordinals家族"全景：稀有度六层精确供应量、BRC-20 JSON字段详解、ORC-20增强特性、BRC-21/42跨链方向差异、BRC-721 Trait/IPFS/ERC-721兼容、Generative BRC-721特征拆分机制（OrdiBots案例）、SRC-20 UTXO优势与24x24限制、LTC-20/DRC-20分叉与减半叙事；153行
+- [[来源_2023-05_BRC-21_跨链_ODAILY]] — ODAILY Azuma 报道 Interlay 创始人 Alexei Zamyatin 提出的 BRC-21 跨链代币标准 V 0.1：通过起始链智能合约/自定义索引器/比特币中继器三个组件实现去中心化跨链，字段变更细节（删除 lim/新增 src 和 id），核心用例为将去中心化稳定币（DAI、RAI）部署至闪电网络；56行/3外部CDN图不可用；新建实体[[interlay]] + 更新概念[[brc-20]][[lightning-network]][[cross-chain]] + 更新 index + log
+- [[来源_2023-05_推特KOL_BRC赚钱_BlockBeats]] — Odaily/BlockBeats纪实BRC-20早期Meme狂潮：KOL造富神话与散户现实落差、14,690种代币仅4种百万美元成交量、Jack Levin 5币发行与DRAC谜题争议、NALS截取单词后半成赛道第二、TURBO ChatGPT概念暴涨、西坦币骗局与虚假发币横行、DOGE ATH后暴跌历史警示；116行/4图不可用；新建实体[[jack-levin]][[nals]] + 更新概念[[brc-20]][[memecoins]] + 更新实体[[brc20]][[ordi]][[doge]][[turbo]][[unisat]] + 更新index + log
+- [[来源_2023-06_Sui生态现状_数据分析_链上基本面]] — Sui主网上线一月生态快照：TVL仅$19m/日活2.2万/活动由IDO驱动/Cetus一股独大/六项基建建议（LST/跨链桥/原生稳定币/手机钱包/数据可视化/Let It Ride）
+- [[来源_2023-06_用户分层_CEX价值贡献_Chainalysis]] — Chainalysis CEX用户6层分群框架：晚期机构23.6%流入/0.1%用户 vs 晚期零售11.4%流入/75.8%用户；FTX案例：散户周均$700 vs 机构$200万；流失率早期零售15.7%/周 vs 晚期零售0.4%/周
+- [[来源_2023-06_X-to-Earn经济模型判断框架_veDAO_BlockBeats]] — veDAO研究院：X to Earn经济模型分类框架（单币/双币/VCT三币）、评估三要素（供应/需求/价值捕获）、Uniswap vs Sushiswap吸血鬼攻击案例、Opensea不发币被Blur蚕食教训
+- [[来源_2023-06_NFT白名单_Allowlist工具_PREMINT_Lanyard_Bueno]] — Bankless教程：三种NFT白名单工具（PREMINT平台化抽签/Lanyard开源Merkle root跨平台互操作/Bueno无代码表单），代表白名单基础设施三范式
+- [[来源_2023-06_去中心化资管_Debank_链上资产工具_深潮TechFlow]] — 链上资产追踪工具三剑客（[[debank]]/Zapper/Zerion）竞品分析：产品模式/商业模式/融资对比，去中心化资管六大改进，AI+RWA协同展望
+- [[来源_2023_MEV_PBS_Flashbots_投资]] — 中文教育视角的 MEV 全面指南：概念演化（PoW→PoS）、五种表现形式（含CeFi-DeFi MEV和跨链MEV）、PBS 角色分离架构、Flashbots 全线产品（Auction/Protect/MEV-Boost/SUAVE）、MEV Searcher 项目投资四维评估框架；更新 [[mev]] [[flashbots]] [[suave]]
+- [[来源_2023-06_全链游戏_Chainlink科普]] — Chainlink 官方全链游戏科普：定义全部游戏逻辑和数据在链上、四大挑战（速度/透明/机器人/随机数+自动化）、四大优势（可组合/永久性/低风险试验场/多前端），将 Chainlink VRF/Automation/预言机定位为 FOCG 基础设施
+- [[来源_2023_移动货币_Web3_普惠金融_维斯曼笔记]] — 柳叶惊鸿/维斯曼笔记：移动货币+Web3在非洲的普惠金融——SIM卡绑定钱包获取去中心化账户、USDC规避本币贬值、RWA资产保值、MTN 2.19亿用户 对比 Web3 无许可网络
+- [[来源_2023-06_Taproot_Assets_比特币本地代币_公众号]] — Taproot Assets"本地代币（native）vs 客户端验证"二分框架：矿工通过Taproot交易间接验证Taproot Assets安全性/BRC-20将主链当"硬盘"；2014年OP_RETURN历史（80→40字节）；Bitcoin Core开发者背书；ERC-20功能差距认知
+- [[来源_2023-07_跨链DeFi_Chainlink_CCIP]] — 跨链DeFi范式科普+Chainlink CCIP产品推广：四大痛点（流动性割裂/资产孤立/资金效率低/无法扩展）+四种跨链DeFi应用类型+CCIP三大功能模块
+- [[来源_2023-07_RWA代币_全面指南_BeInCrypto]] — RWA代币化完整入门框架：五步流程/代币标准选择/三大工作阶段/BCG $16万亿预测：五步流程/代币标准选择/三大工作阶段/BCG $16万亿预测
+- [[来源_2023-07_全览RWA赛道_10大头部项目_20个早期项目_BlockBeats]] — 2023年中RWA全景：10大头部项目半年进展/7大细分赛道20个早期项目/国家队入场/MakerDAO RWA占资产45%贡献52%收入
+- [[来源_2023-07_RWA_底层资产_业务结构_潜在机遇]] — Colin Lee：底层资产五维评估框架/MakerDAO RWA Foundation+SPV架构/三层风险管理/套利者15-20% vs 全球股票5%收益对比/加密余额宝长期路径
+- [[来源_2023-07_RWA底层资产_业务结构_发展路径_Followin]] — Followin RWA漫谈：六类底层资产/五维评估/MakerDAO SPV架构/三层风险管理/用户风险偏好结构性分析/监管作为机遇/短中长期发展路径
+- [[来源_2023-07_Oasys_游戏公链_育碧_世嘉]] — Oasys 游戏公链全解析：Hub+Verse 模块化架构/育碧世嘉首款链游/零Gas费/28款游戏/三种代币标准
+- [[来源_2023-07_GameFi玩家洞察_增长黑客_CubeLabs]] — Cube Labs基于Clique数据：Web3玩家购买力4x/游戏时长4x/Bartle四分类（社交型67%）/两条获客路径对比/游戏性>Tokenomics
+- [[来源_2023-10_DeFi发展史_Uniswap之前_BlockBeats]] — DeFi 2013-2018 完整考古：Counterparty/EtherDelta/Bancor/AMM 起源/Vitalik Reddit 帖子/MakerDAO/Compound/dYdX
+- [[来源_2023-10_全链游戏_FOCG_深度解析_LKVenture]] — LK Venture FOCG 研报：MPG/UGG 双分类框架、五维公链评估、三阶段路线图（GameFi→ZK-Rollup→链上社会）、全链游戏谱系学修正（起点为 2012 SatoshiDice 比特币博彩而非 2017 CryptoKitties）
+- [[来源_2023-10_加密支付卡_发卡即服务_BlockBeats]] — 加密支付卡2023年爆发逻辑（出金安全+GPT订阅）、"发卡即服务"技术提供商模式、四方盈利模型（交易所/技术商/发卡方/卡组织）
+- [[来源_2023-10_DWF业务逻辑_二级交易策略_LD-Capital]] — LD Capital 拆解 DWF 做市/OTC/投资四类业务本质："困境项目OTC拿币→拉盘→出货"操盘周期，合约持仓+费率+链上转账三信号交易框架
+- [[来源_2023-10_BitVM_比特币计算_图灵完备_BlockBeats]] — BitVM 白皮书发布（2023.10.9）：三位资深开发者第一手评价——BobBodily"更慢更贵但无需升级"/Sam Parker"比特币早已图灵完备"/Eric Wall"矿工合谋攻击模型"；182万浏览量创BTC生态最大热点
+- [[来源_2023-11_Morpho_Aave_借贷赛道_MintVentures]] — Morpho 利率优化器 + Morpho Blue 无许可借贷基础层深度分析：P2P 匹配机制/$10 亿存款/借贷赛道竞争格局（Aave vs Compound vs Radiant）
+- [[来源_2023-11_去中心化AI_Bittensor_TAO_TengYan]] — Teng Yan 以 Altman 被解雇为引子：Bittensor 是"商业模式创新"而非纯技术突破，聚焦下游推理而非上游训练，TAO 仿比特币经济模型（2100万硬顶/公平启动/无VC），定位为企业API基础设施
+- [[来源_2023-08_全链游戏_7款盘点_响指研究所]] — 7款FOCG横向对比：Dark Forest zkSNARKs战争迷雾/Isaac无限游戏哲学/2023年普遍回避代币先行
+- [[来源_2023-08_全链游戏_价值链拆解_产业链全景_PSE_Trading]] — PSE Trading全链游戏价值链四层拆解：游戏引擎MUD/Dojo/Argus/Curio竞对、ARC链上ECS通讯结构、分发三道路、Wax 86.56%交易量但叙事焦点在Starknet
+- [[来源_2023-08_RWA实现路径_OffChain-OnChain_美债代币化]] — RWA两条实现路径(Off→On vs On→Off)：U本位RWA与ETH本位LSD对称框架
+- [[来源_2023-08_FriendTech运作原理_套利策略_隐私风险_Bitget]] — Friend.tech bonding curve机制（y=x²/16000）/套利策略数学边界/隐私泄露双层攻击面技术分析
+- [[来源_2023-08_FriendTech_SocialFi_LD_Capital]] — LD Capital 视角 Friend.tech 早期全景：62.6K 交易/4.4 万买方/1.6 万卖方/Base 链 TVL 第 9/Cobie 空投 $55 万/融资传闻/积分经济模型/不可持续性预警
+- [[来源_2023-08_L2进化趋势_Superchain_L3_Hyperchain_币安研究院]] — 币安研究院L2进化报告：三大路线(Superchain/L3/Hyperchain)、五大玩家横向对比(Arbitrum $5.9B/OP $2.2B/zkSync $625M+)、Bedrock降费77%、Recursive STARKs、软件可定制性/排序器/治理代币三维竞争
+- [[来源_2023-08_币安研究院_Telegram_Bot赛道前景及风险_BlockBeats]] — 币安研究院TG Bot报告：$1.9亿累计交易量/$2870万赛道收入/Unibot收入86%来自代币税/8亿MAU流量池/Maestro DAU 2000-3000领先
+- [[来源_2023-09_FriendTech_Ponzi_社群设计_Sukie]] — 社群运营者FT Ponzi设计手册：囚徒困境博弈/三层社群框架/动态bonding curve/FT社交硬伤诊断（一对多→群死亡），预判发币后无持续激励
+- [[来源_2023-09_模块化区块链_7个神话_Avail]] — Avail 官方博客逐条反驳模块化 7 大误解：复杂性/性能/成本/实验空间/拥堵/垂直整合/硬分叉，DAS+递归证明组合威力
+- [[来源_2023-Q3_比特币生态DApp盘点_DeFi_NFT_基础设施_钱包_BlockBeats]] — Q3 2023 比特币生态 DApp 全景盘点：DeFi 14个/基础设施 15个/NFT 17个/钱包 8个/其他 9个共 63 项目，揭示 BTCFi DLC+PSBT 技术路径 vs ETH 智能合约范式差异
+- [[来源_2023-12_AI与加密交汇_潜力未发币项目_BlockBeats]] — 2023年底7个未发币AI+Crypto项目盘点：io.net/BP-FLAC/Gensyn/MyShell/Kaito/Aethir/Ritual，可作为时间胶囊检验早期识别质量
+- [[来源_2023-12_以太坊铭文_ETHS_Ethscriptions_Facet_深潮TechFlow]] — ETHS技术批判：资产归属判定标准/Facet桥单signer安全硬伤/Rollup全面比对，结论为金融炒作非产品革新
+- [[来源_2023-12_FacetSwap_铭文交易平台_教程_BlockBeats]] — FacetSwap 上线教程与四种创世铭文代币（FacE7/18684900/PAMP/ETHX）：gas 费十分之一、五天锁定期、35 个池子
+- [[来源_2023-12_ORDI_比特币生态_BRC-20_L2_RGB_BlockBeats]] — Jademont 三阶段框架（短期BRC-20/中期L2+Nostr/长期RGB+BitVM）；ORDI 13800倍涨幅；BTC L2 vs ETH L2 100倍估值差；RGB终局最优论
+- [[来源_2023-12_三盘模型_庞氏第一性_MarsBit]] — @thecryptoskanda 三盘模型框架：分红/互助/拆分三盘归约、矿币分红盘正循环（1份拉盘→5倍矿机销量）、Helium Mobile 案例、万物皆盘论断
+- [[来源_2023-12_Aevo_去中心化衍生品_Ribbon_BlockBeats]] — RBN→AEVO 1:1 代币迁移案例，sAEVO 质押治理代币设计（3个月锁定期+2倍投票权）
+- [[来源_2023-12_Dencun升级_以太坊_EIP-4844]] — Dencun升级（Cancun+Deneb）深度解析：EIP-4844 Blob替代Calldata、L2四大受益赛道、Danksharding路线图、ETH ETF预期双催化剂
+- [[来源_2023-12_铭文狂热_BTC_L2_Tectum_BEVM]] — 2023 年底铭文狂热推动 BTC L2 叙事升温：STX 周涨幅 93.6%/Rif 38.7%；Tectum（SoftNote 票据系统，零费用即时转账）和 BEVM（EVM 兼容 BTC L2，BTC 为 Gas）首次系统报道，"体验优先于正统性"
+- [[来源_2023-12_Web3游戏平台_价值解密_掘金指南_Followin]] — 2023年末Web3游戏平台生态快照：七大平台横向对比（Galxe/DeGame/Zealy/QuestN/RabbitHole/HyperPlay/TaskOn），揭示"任务平台赛道拥挤"的结构性现象及游戏分发基础设施分层雏形
+- [[来源_2023-12_Nostr_Assets_Fair_Mint_复盘_BlockBeats]] — [[nostr-assets-protocol]] 首次 Fair Mint 复盘：BTC区块哈希抽奖统计偏差/双T价格周期/NOSTR OTC价格/链上随机性机制陷阱
+- [[来源_2023-12_LD_Capital_BRC20基建盘点_BlockBeats]] — LD Capital BRC20五大赛道全景盘点（DEX/借贷/稳定币/Launchpad/跨链13项目）：PSBT技术核心/DotSwap先发优势/借贷清算瓶颈/Bounce+Turtsat双Launchpad格局
+- [[来源_2023-12_多Rollup世界_基础设施_SevenX]] — SevenX Ventures 多 Rollup 世界四大基础设施支柱：安全基础（L2 交易生命周期四阶段信任假设/RPC/排序器/DA/结算）、可定制性与互操作性（结算中心简化拓扑/Hyperlane/Catalyst）、成本分析（DCF 模型/证明者市场/NEBRA UPA）、共享安全性（EigenLayer 三类信任 vs Babylon vs ICS vs Mesh Security）
+- [[来源_2023-12_DePIN赛道全景_一图尽览_PANews]] — PANews PA图说系列最早DePIN赛道全景图（2023.12）：~70个项目分物理/数字资源网络两大维度+7个子赛道，标注IoTeX+Solana为DePIN概念公链，底部$DPR +171%周涨幅数据，作为2023年末赛道早期快照具有历史参照价值
+- [[来源_2023-07_Rollups即服务_RaaS全景指南_BlockMagnates]] — 2023 年中 RaaS 全景地图：四大阵营（OG/ETH Maxis/Cosmonauts/Celestians）20+ 项目；游戏/DeFi/创作者经济三大 dApp 链需求；百万链未来受制于组合性丧失/基础设施不成熟/流动性碎片化
+- [[来源_2023-05_Ordinals_BRC20_技术生态数据_Biteye]] — Biteye 2023年5月 Ordinals 技术原理详解 + BRC-20 热潮巅峰数据（1.4万种代币/8亿美元总市值/单日37万笔交易/61%矿工费占比创历史新高/仅约1万参与者）；更新概念[[ordinals]][[brc-20]][[bitcoin-ecosystem]]+实体[[casey-rodarmor]][[domodata]][[ordi]]
+- [[来源_2023-06_BTC_L2_闪电网络_Stacks_RGB]] — 2023年中BTC L2生态全景扫描：前四大L2仅$352.65M TVL（BTC市值的0.06%）；介绍闪电网络/Stacks/RSK/Liquid/RGB/Rollkit/OmniLayer七大方案；关键数据包括LN 4000万+TPS/$0.0001每笔、RSK 40-50%矿工合并挖矿、Liquid 60成员联盟/3556 L-BTC；创建实体[[omnilayer]]；更新实体[[liquid-network]]；更新概念[[layer2]][[lightning-network]]
+- [[来源_2023-05_比特币生态_项目工具_ODaily]] — Odaily 2023年5月比特币生态项目全景盘点：24个项目涵盖钱包/市场/工具/DeFi/域名/DAO五大赛道，记录 Ordinals/BRC-20 热潮初期的项目快照（Ordinals Wallet/Hiro Wallet/Xverse/UniSat/btswap/ALEX/BTCDomain等）；193行/1装饰图跳过；新建实体[[hiro-wallet]][[xverse]][[btcdomain]] + 更新概念[[ordinals]][[brc-20]][[bitcoin-ecosystem]] + 更新实体[[stacks]][[unisat]][[magic-eden]][[alex]]
+- [[来源_2023-05_比特币地址_隔离见证_转账手续费_知乎]] — 知乎科普三种地址类型（1传统P2PKH/3 P2SH+Nested SegWit/bc1 Native SegWit）技术原理和手续费差异：bc1比1节省35%、比多签节省70%；2023年不足1% BTC在bc1地址；157行/4装饰图；新建合成页 + 更新实体[[bitcoin]] + 更新概念[[bitcoin-ecosystem]]
+
+### 2022年 (109 篇)
+- [[来源_2022_iGaming定义_在线赌博产业_SOFTSWISS]] — SOFTSWISS 官方科普 iGaming 产业全景：定义（狭义/广义）、历史（1994-2013）、全球监管格局、区块链/VR/5G 驱动力，为理解 GameFi 赌场基因提供产业史参照
+- [[来源_2022_Web3_100工具_初创公司指南]] — Julian Ivaidy 整理的 Web3 创业 100 工具清单，涵盖 9 大类别（团队招聘/管理/图形设计/社区/产品开发/安全/推广/人脉/资金管理），确认 Alchemy 2022 年 100 亿美元估值和 Web3Career 2.3 万开发者匹配数据；173行/1装饰图跳过
+- [[来源_2022-01_智能合约开发工具_十大工具_Medium]] — 2022年初智能合约开发者工具全景：10类工具（语言/预言机/框架/钱包/浏览器/节点/前端/帮助/安全/监控），Hardhat/Brownie/DappTools三大明星框架，Solidity占约90%市场，预言机安全关键性论述
+- [[来源_2022-01_链游经济模型_水槽机制_1kx]] — Terry Chung (1kx Network) 从Web2游戏"水槽"经济设计角度审视链游：6类已验证货币回流机制（公共设施/税收/铸造/质押/内容解锁/社区活动）和3类Web3特有机制（孵化MOD/社区燃烧/基础设施收费），核心洞见：P2E开放经济中"水槽"更难生效；269行/3图分析
+- [[来源_2022-03_聚合理论_Web3_去中心化]] — Decentralised.co Joel John 将 Ben Thompson 聚合理论映射到 Web3，核心论点：区块链降低验证和信任成本，使 Web3 聚合器能以低于 Web2 的成本建立；Gem（$4亿交易量）、Instadapp（$50亿管理资产）、Zerion、Nansen 等案例分析；提出"超金融化即服务"概念
+- [[来源_2022-03_Web3_漫游指南_全面解读]] — Web3.0漫游指南2022完整篇，系统性Web3领域全景指南（1948行），覆盖数字货币、多链争霸、DAO、DeFi、NFT与元宇宙、全球监管政策、创投方法论七大主题。提出WAGMI核心理念和NFT投资"五星标准"，是知识库中Web3整体导论的重要历史截面参考
+- [[来源_2022-03_DAO冷启动_工具清单_实践者自述]] — 15人学习型DAO的冷启动实操记录：从Syndicate选型理由、Telegram vs Discord权衡、Telegram Polls治理到Gnosis Safe金库管理和Utopia Labs薪酬工具，完整呈现"渐进式去中心化"的从零到一路径；与DAO大败局的批判视角形成对照
+- [[来源_2022-03_代币供应量_流通估值_排放_NatEliason]] — Nat Eliason代币供应端分析实战框架：MC/FDV比率诊断（MC=10% FDV+1年解锁→需要1000%增长）、流通量被Coingecko低估（Crypto Raiders实际16%流通vs报告6.7%）、排放曲线解读（JonesDAO月通胀率1.36%→3%翻倍）、起始流通比例对通胀感知的放大效应、批量解锁事件可预测性（Convex 17周锁仓周期）；新建 entities/convex-finance entities/jones-dao；更新 concepts/tokenomics
+- [[来源_2022-04_Web3.0_范式_技术栈_生态_张浩]] — Web 3.0 概念全景科普：三代互联网范式对比（只读→读写→价值）、L0-L4 五层技术栈架构、Tim Berners-Lee 语义网 vs Gavin Wood 去中心化区块链两个定义版本、六大生态板块（Web3应用/DAO/DeFi/稳定币CBDCs/隐私/创作者经济+GameFi）、2026年回看"代码即法律"愿景尚未实现
+- [[来源_2022-04_代币补偿_Web3初创_LiquiFi]] — LiquiFi × Dragonfly Capital：Web3代币补偿完整指南（代币 vs 股权的八大差异、17.5%团队代币分配均值、Vesting Schedule四种方案、锁定期策略、离职回收机制）；更新实体 [[liquifi]] + 概念 [[tokenomics]]
+- [[来源_2022-04_Mavia_土地_GameFi]] — Mavia Land：AAA MMO 策略链游（受 Axie 和部落冲突启发）。三类 NFT 功能分层（土地/英雄/雕像）、双币模型（RUBY+MAVIA）、Mavia-Match 匹配质押。Binance Labs 融资 800 万美元。183行/6外部URL不可用；新建实体 [[heroes-of-mavia]]
+- [[来源_2022-04_服务DAO_前景挑战_1kx]] — 1kxnetwork 服务 DAO 生态调研：采访多家 DAO 运营商，梳理三大核心优势（所有权/开放贡献/DAO2DAO理解）、四大挑战（人员/运营/外部/法律）、众包解决方案（Coordinape/Sourcecred/Donut/smartinvoice.xyz 等）；208行/9外部图片不可用；更新概念 [[dao]]（新增服务DAO子类别）+ 实体 [[1kx]]
+- [[来源_2022-05_NFT_代币协议_元数据存储_匿名达摩院]] — 拆解NFT构造：ERC协议家族（721A/721R/998/809/1155）、BEP-721 vs SPL跨链对比、IPFS/Arweave/中心化三种存储方案费用与机制对比、Atomic NFT概念；383行/30+外部图不可用
+- [[来源_2022-05_SOLANA_NFT图腾_OkayBears_匿名达摩院]] — Okay Bears 投研报告：Solana 上的 PFP NFT 标杆项目，24h 销售超 1,200 万美元，被称为"Solana 上的 BAYC"；提供系统性的 PFP NFT 分析框架（画风/叙事/品牌路线/头像使用率/稀有度经济学）
+- [[来源_2022-05_代币商业_Shopify_NotBoring]] — Not Boring x Alex Danco（Shopify区块链负责人）深度对话：NFT不是商业输出而是输入、"fit in and stand out"作为社会成就文件格式、代币合作将排他性转为互惠包容、web3实用定义（智能合约地址+tokenID+钱包地址）；394行/20外部URL不可用
+- [[来源_2022-05_代币分配_LLBA_BanklessDAO]] — Paul Hoffman (BanklessDAO) 全面解析代币公平发行的三要素（法律框架/正确的人/价格发现）和三种分配模型（VC/空投/LLBA），重点介绍 Delphi Digital 开发的 Lockdrop+流动性引导拍卖模型三阶段机制，包含 YFI/Solana/ENS/DeFi Kingdoms 等案例；265行/5关键图不可用
+- [[来源_2022-05_Web3数据赛道_数据索引_SevenX]] — SevenX Ventures FC 撰写：Web3 数据赛道四层架构全景（数据来源/获取/查询索引/分析应用），Alchemy $10.2B/Dune $1B/Nansen $750M/Chainalysis $4.2B 等独角兽数据，数据索引垂直化趋势与去中心化声誉体系展望；269行/2外部URL图片不可用
+- [[来源_2022-05_Gamefi_经济模型_非货币性收益_ForesightResearch]] — Foresight Research GameFi 经济模型设计框架：大前提（非货币性收益产出）+七大核心设计要点（玩家数量控制/概率化奖励/双货币+储蓄物/核心资产换代/用户画像分层/公会双刃剑/经济租赁化），以Stepn（健康）和Axie（纯投机）对比；181行/11外部URL图片不可用
+- [[来源_2022-05_Luna崩盘_虚市值_江卓尔]] — 江卓尔从资金易手角度分析Luna/UST归零的数学机制：虚市值概念、Do Kwon通过虚市值铸造套现40亿UST（约34亿美元BTC）、UST/Luna市值占比40%即进入死亡倒计时、皮尔曲线证明无救市、做空UST而非Luna的正确套利方向；355行/26外部URL图片不可用；更新实体[[terra]] + 概念[[stablecoins]]
+- [[来源_2022-05_做多应用层_WEB3华人创业者]] — 2022年5月中文社区早期挑战"胖协议"的声音：协议和应用是"前和后"不是"胖和瘦"；L1成为Beta，应用层才是Alpha；超级应用分叉协议的推演(被Unichain/HyperEVM验证)；华人创业者执行力优势(STEPN 4个月完成1.5年工作量)；WEB3消除文化壁垒；145行/1外部URL图片不可用
+- [[来源_2022-06_周期_加密市场_下一轮_tolks]] — tolks 加密市场周期性与下一轮展望：65% web3 开发者 2021 年加入、VC 涌入（近 $15B）但部分掠夺、SOL 被列为非 ETH L1 首选、ZK Rollup 长期最优解、NFT 进入流动性和金融化阶段、Helium 826k 热点、预测 Q3/Q4 2022 反弹（事后看过于乐观）；243行/12外部URL不可用
+- [[来源_2022-06_NFT_PASS_类别_赋能_BBNews]] — 哔哔News 57个NFT PASS项目系统分类：5大类型（俱乐部/合作/Alpha社区/工具/其他）和2大赋能（连接初代后代NFT/标记早期参与者）；Proof Collective持仓数据（148 CryptoPunks/817 BAYC/499 Meebits/5288 Art Blocks）；金铲子框架；144行/6SVG+6外部图不可用；新建实体[[proof-collective]] + 更新概念[[nft]] + 更新实体[[bayc]][[moonbirds]]
+- [[来源_2022-06_韩国链游生态图鉴_Klaytn_Foresight_News]] — 韩国链游生态横截面：80%归属游戏生态/70%链改/60% MMORPG，Klaytn $43亿，三大巨头 WEMIX/MARBLEX/NEOPIN
+- [[来源_2022-06_StepN_死亡螺旋_六一资本]] — 六一资本"场内玩家"视角逐帧还原StepN从Solana可控增长到BSC失控爆发的全过程："深圳老哥"神秘资本力量与项目方的量价博弈、Mint数学（4天回本指数裂变）、技术团队问题加速崩盘、永远再走35天回本的Web3健身年卡悖论；227行/5外部URL不可用
+- [[来源_2022-06_Twitter算法_Web3运营指南_lightness]] — 2022年Web3中文社区Twitter运营指南：Twitter推荐算法规则、内容策略（有趣/有用/多连接）、发布时间频率（3小时间隔/下午1-3点最佳/周末+17%互动）、个人品牌建设、30+中文KOL推荐，lightness.eth
+- [[来源_2022-06_dYdX_应用链_DApp造链_Medium]] — dYdX 2022.06.23宣布从以太坊StarkEx迁移至Cosmos应用链，DApp造链早期系统阐述：Cosmos SDK vs Avalanche Subnet vs Polkadot Substrate三大造链基础设施技术对比，Osmosis/THORChain/Ronin/Compound Gateway/DFK Chain案例，假想UniChain推演（Gas费+MEV内化协议价值捕获）；175行/1外部URL图不可用；新建实体[[osmosis]][[thorchain]] + 更新概念[[fat-protocols-fat-apps]] + 更新实体[[dydx]][[cosmos]]
+- [[来源_2022-06_Dune_Analytics_入门指南]] — gm365.eth 的 Dune 零基础极简入门教程：SQL 语法(select/from/where/order by/group by/sum/count)、可视化图表、Dashboard 组装、Fork 大神代码技能、以太坊单位换算 wei→ETH；355行/15外部截图不可用；更新实体[[dune-analytics]]
+- [[来源_2022-06_AnimocaBrands_链游生态_GameFi]] — Animoca Brands 链游生态全景：8款游戏/12+子公司的并购扩张模式；$SAND/$REVV/$LYM 三大代币生态；$PRIMATE 跨7种代币互联；Hockenheimring 赛道NFT收入分成；Phantom Galaxies 7734 NFT/1930万美元私募；Benji Bananas 5000通行证2分钟售罄；169行/3图表+8装饰图；新建实体[[revv-racing]][[phantom-galaxies]][[darewise-entertainment]]；更新实体[[animoca-brands]][[the-sandbox]]；更新概念[[gamefi]]
+- [[来源_2022-07_GameFi二十代币经济_Web3游戏设计_IncubaAlpha]] — Incuba Alpha Labs 十问十答：GameFi 1.0"不可能三角"失败分析、三币/四币代币系统（消费币+治理代币+调控币+可选积分）、MMORPG最适合Web 3.0化改造、游戏调控币（超额抵押稳定币）设计方案、GameFi 2.0 Free-to-Play/Skill-to-Earn转型路径；309行/8外部URL不可用
+- [[来源_2022-07_NFT流动性_NFTFi_ViewDAO]] — ViewDAO系统研究NFT流动性：2021年市场规模$170亿/210倍增长/9种提升措施+4种定价机制+9个NFTFi项目全景/核心结论"定价预言机是关键瓶颈"/自研定价模型基于稀缺度分类+时间加权均价；899行/28外部图不可用
+- [[来源_2022-07_音乐NFT_入驻策略_WaterMusic]] — Water & Music 团队深度研究：12个音乐NFT平台入驻策略——艺术家驱动获客、做无法规模化的事情（1-on-1入驻/教育）、法币入金是核心工具、平台vs协议差异、精选vs开放权衡、数据驱动策略优化；281行/3外部URL不可用
+- [[来源_2022-07_StarkWare_80亿美元估值_以太坊扩容]] — web3caff 拆解 StarkWare：双产品 StarkEx+StarkNet、"扩容即服务"商业模式、dYdX 占 90% 收入的依赖风险、Cosmos 迁移事件、P/S 160x / $8B 估值、四大竞争对手量化对比、去中心化云计算估值框架；487 行/37 外部图不可用
+- [[来源_2022-07_Danksharding_以太坊分片_PBS_Mtyl]] — Danksharding 核心技术详解：RS 编码线性代数原理 + KZG 多项式承诺 + 2D RS 编码重构方案 + PBS 角色分离与 MEV 价值再分配 + CrList 抗审查清单 + Proto-danksharding (EIP-4844) 规划；写于 Dencun 升级前 20 个月的前瞻性华语科普，293 行
+- [[来源_2022-07_虚拟存在_VTuber_虚拟影响者]] — Justin McAfee (1kxnetwork) 系统定义虚拟存在(Virtual Beings)四分类(VTuber/虚拟影响者/分布式角色/自治实体)，分析VTuber经济(16,000+活跃/月15亿观看)、虚拟影响者商业(Lil Miquela $12M年收入/参与率3x真人)、初音未来分布式模式($1.2亿总收入)、链上AI代理(Alethea AI/$478.8K苏富比iNFT与ASM)及Web3赋能；248行/10外部图不可用
+- [[来源_2022-07_加密牛市_十大叙事_CGV]] — CGV Research 预判下一个加密牛市的10大叙事：SBT/ZKP/模块化/超自动化/外部性市场/X to Earn 2.0/NFTFi/虚拟不动产/加密手机/加密ETF；关键数据（NFT信贷渗透率1-3% vs 传统50%+/艺术品10%、US ETF $7.19T vs 股市$68.9T、BITO上市）；299行/2装饰图跳过；更新概念(privacy/etf/layer2/nft/metaverse/gamefi/decentralized-identity) + 实体(solana/stepn/ftx)
+- [[来源_2022-07_去中心化身份三层架构_DID_Mirror]] — 不确定思维（nigdaemon）从用户体验角度提出DID三层架构（外显身份/代理身份/主权身份），区分钱包/账户/身份概念，讨论ERC-4337/Web3Auth/UniPass/Gnosis Safe等实现路径；370行/1外部URL示意图不可用；创建实体[[unipass]] + 更新概念(decentralized-identity)
+- [[来源_2022-07_DeFi风险溢价_Treehouse]] — Treehouse Finance 系统提出 DeFi 风险溢价分层框架（L0基础设施/L1链生态/L2协议/市场风险），对比 TradFi 风险溢价类型；提出稳定币脱钩风险的双代理定价法（资金费率+保险保费）；计算 AAVE USDT 池"真实"无风险利率约 -6% APY；InsurAce.io UST赔付 $1,170 万（当时最大 DeFi 保险赔付）；364行/17外部URL不可用；创建实体[[treehouse-finance]][[nexus-mutual]][[insurace-io]] + 更新概念(defi/liquid-staking/stablecoins)
+- [[来源_2022-07_Celestia_模块化区块链]] — @JizhouW 著于 Feishu 的 Celestia 架构全景：模块化区块链 vs 组件的边界界定（ETH Rollups/Avalanche 子网/Polkadot 平行链均非真正模块化）、DAS 纠删码概率验证（第 7 次抽样 < 1% 漏检率）、主权 Rollup 概念、8 种核心属性框架、3+1 费用结构、与 Cosmos/Tendermint 的继承关系；395行/27 外部 Feishu 图不可用；更新实体[[celestia]] + 更新概念[[data-availability]]
+- [[来源_2022-07_ETH合并_正向灰犀牛_投资机会]] — Crypto33 写于 Merge 前（2022年7月）的前瞻分析：ETH合并后日发行量从14,500降至1,800 ETH（-90%）、合并后质押收益率可达7.5%、二级卖压减少95%+、Lido三重利好、"正向灰犀牛"叙事框架；331行/17外部URL不可用；更新概念(mev/liquid-staking) + 实体(ethereum/lido)
+- [[来源_2022-07_加密衍生品_CeFi_DeFi_Web3Caff]] — 2022年加密衍生品全景扫描：6月交易量$2.75T占总交易66.1%、永续合约CEX占比从7.45%飙升至50.35%、dYdX宣布迁移Cosmos、去中心化衍生品仅占总量1%、Jump Crypto三大趋势判断、Bybit/FTX/Bitget三强格局；326行/10外部URL不可用；新建实体[[kine-protocol]] + 更新概念(defi/cex/perp-dex) + 更新实体(dydx/synthetix/lido/opyn/jump-crypto)
+- [[来源_2022-07_10个新Layer1_熊市布局_Odaily]] — 2022年熊市初期Odaily星球日报盘点的10个尚未发币的新兴Layer1全景（Aptos/Sui/Linera/Canto/Gear/Celestia/Aleo/Anoma/Iron Fish/Monad），涵盖融资规模、技术叙事、团队背景；a16z和Polychain Capital在7/10项目中作为领投方出现；展现这些项目在主网上线前的原始状态——至2026年回看仅半数项目成功突围；186行/10分隔符图跳过；准备创建实体[[canto]][[gear]][[iron-fish]] + 更新7实体(aptos/sui/linera/celestia/aleo/anoma/monad) + 更新概念(l1-competition/data-availability)
+- [[来源_2022-07_NFT市场营销_7策略_Seedao]] — Ash B 系统论述 NFT 营销 7 条策略（共同创造者、使命驱动、品牌大使、实用性、KOL合作、社交增长、指标监控），Bradford Stephens "让客户成为所有者"引述，BAYC/Meta Angels/CPG/Surge Women案例；329行/1外部图不可用
+- [[来源_2022-07_以太坊_L2_Rollup扩容方案_综述]] — 2022 年中 L2 赛道全景：Rollup 四分类（验证方式 x DA）、Optimistic vs ZK 路线对比、各项目 TVL/估值/生态数据（Arbitrum $10.6B/OP $2.56B/StarkWare $8B 估值/zkSync $58M 融资）、Vitalik 对 ZK 长期胜出的判断、RaaS 叙事早期形态、Layer2 工具清单；256行/10外部URL不可用；新建实体[[offchain-labs]][[matter-labs]] + 更新实体(arbitrum/optimism/starkware/zksync/metis) + 更新概念(layer2/data-availability/sequencer)
+- [[来源_2022-07_Aave_V3_多链扩张_GHO_Web3Caff]] — Web3Caff 陈默拆解 Aave V3：双段斜度利率模型（波动资产 UU 45-60%/R2 可达 300%）/门户跨链借贷/隔离市场/eMode 三大功能/GHO 稳定币促进者机制与 stkAAVE 折扣；闪电贷"达摩克利斯之剑"风险分析；210行/9外部URL不可用；更新实体[[aave]] + 更新概念[[defi]]
+- [[来源_2022-07_可验证数字凭证_VC_应用场景_Affinidi]] — Affinidi 原文/zCloak Network 编译：可验证数字凭证（VC）Issuer-Holder-Verifier 三方模型，30 个应用场景（就业背书/驾照/贷款/教育/医疗/选举/签证/Covid检测/保险/租金/房产/难民/游戏等），覆盖金融/政务/医疗/出行/消费；286行/1装饰图跳过；新建实体[[affinidi]][[zcloak-network]] + 更新概念[[decentralized-identity]]
+- [[来源_2022-07_NFT项目评估_8角度_Web3Caff]] — NFT Labs提出8维度NFT项目价值评估框架（效用、社区、团队、价格流动性、权益、美学、路线图、愿景）；社区评估标准（Discord成员:NFT约2:1）；BAYC著作权授权（李宁/绿地联名案例）；Azuki创始人丑闻致价格下跌；多数项目Mint价降低甚至Free Mint；161行/15外部URL图片不可用；更新概念[[nft]]
+- [[来源_2022-07_Libra新势力_Aptos_Sui_Linera]] — Meta(Facebook)Diem解散后三支团队分别创立Aptos/Sui/Linera的全景对比：三项目均获a16z领投（Aptos超3.5亿美元/Sui 3600万A+3亿B/Linera 600万种子轮）、Move语言五大特性、SUI 100亿供应上限、Aptos理论TPS 16万+多币种Gas、Linera FastPay/Zef协议低延迟定位；159行/4图；更新实体(aptos/sui/linera/meta)
+- [[来源_2022-07_小狐狸钱包技巧_区块浏览器_maik2hello]] — maik2hello 撰写的 MetaMask 实操教程：滑点调节（1%-3%区间减少无常损失）、nonce 自定义解决卡链、EVM Box (networks.vercel.app) 自动添加网络、区块浏览器查持币地址分布和大户动向；140行/15截图；更新实体[[metamask]]
+- [[来源_2022-08_SaaS创业本质_AfterShip_极客公园]] — AfterShip创始人Teddy Chen深度访谈：SaaS四阶段论/融资纪律/创业反人性/全球化复杂度/人效重于规模
+- [[来源_2022-08_罗翔_哲理名言_正和岛]] — 罗翔100条金句汇编：五板块（认知/管理/社会/爱/生活），核心哲学"人的有限性"，知行鸿沟，爱具体的人
+- [[来源_2022-08_Web3参考架构_三层模型_路线图_登链社区]] — Eugene Zaid/登链社区翻译：Web3 三层参考架构（渠道/应用/基础设施与工具），强调链上链下交叉依赖，七个待解决领域（互操作/可扩展/信任/身份/可观察性/设计模式/UX）
+- [[来源_2022-08_GameFi周期_发展展望_Reid]] — GameFi首个完整周期的一线观察（2022年8月）：GameCP三维分类框架、STEPN成功三要素拆解、代币设计分类、地域性演变分析、未来两极分化预测
+- [[来源_2022-08_NFTfi_NFT借贷_市场全景_火币研究院]] — 火币研究院NFTfi全景分析：P2P vs P2POOL借贷（NFTfi 2.25亿放款/BendDAO 1.1亿TVL死亡螺旋风险）、三大流动性方案（分数NFT/众筹/流动性池）、聚合器竞争（Gem超越Genie/OpenSea和Uniswap分别收购）、三种定价机制（聚合/博弈/AI预言机）、NFT衍生品早期探索；407行/19外部URL不可用
+- [[来源_2022-08_NFTfi赛道_XResearchDAO]] — X Research DAO 推特线程精简版：NFTfi五大赛道划分、P2P/P2Pool借贷对比、Sudoswap Bonding Curve AMM、"Uniswap V3之于V2"定位、BendDAO 48小时强平保护、金融衍生品早期探索；92行/3装饰图跳过
+- [[来源_2022-08_虚拟地产_所有权_MetaCat]] — MetaCat撰写的虚拟房地产（VRE）完整演化史：文本MUD时代（1978）→图形时代（Ultima Online/Entropia/Second Life）→区块链NFT时代（Decentraland），核心论点为进化方向不是图形质量而是所有权和代币化的增强；170行/6外部WeChat CDN图片不可用
+- [[来源_2022-08_NFT版权_许可类型_Galaxy]] — Galaxy Research 系统性分析 NFT 版权四种类型（商业/有限商业/个人使用/CC0），揭示几乎所有顶级 NFT 项目(Yuga/Azuki/Doodles/Moonbirds/WoW)均不转移知识产权，持有者只获得可随时撤销的 Web2 式许可。附 CC0 内在矛盾与元宇宙 IP 悖论；160行/3外部URL图片不可用
+- [[来源_2022-08_NFT版税改革_行业重塑_starzq]] — starzq.eth 深度分析 2022 年 8 月 NFT 版税改革：Punk6529"版税是社会惯例非技术惯例"、x2y2可选版税事件细节、不同类型 NFT 项目版税策略差异、Yuga Labs $5.5亿收入中版税仅占13%、版税改革四个重塑方向、EIP-2981 标准化；261行/3外部URL图片不可用
+- [[来源_2022-08_技能与运气反馈循环_ejorgenson]] — 技能与运气的正反馈循环框架：每次小胜利暴露于更多运气，每次运气突破积累更多技能；与交易系统、融资、庞氏飞轮形成跨域对照
+- [[来源_2022-08_跨链桥_五大维度_评估框架]] — Joel John (Decentralised) 提出跨链桥可靠性评估的五大维度框架：安全性/性能/MEV/连接性/能力，满分70分10桥最高仅52分；2022年Ronin($7亿)/Nomad($1.9亿)安全事件背景；116行/8外部图不可用；更新概念[[cross-chain]][[mev]] + 更新实体[[ronin]]
+- [[来源_2022-08_ETH_PoW_分叉_正统性_0xTodd]] — 0xTodd从技术分叉角度分析ETH PoW正统性缺陷：两种分叉（网络同步/版本分歧）+ 硬分叉vs软分叉分类 + ETH PoW和ETH PoS都是原始PoW链的分叉，原始链因难度炸弹消亡；130行/10装饰图；更新概念[[blockchain-governance]] + 更新实体[[ethereum]] — Joel John (Decentralised) 提出跨链桥可靠性评估的五大维度框架：安全性/性能/MEV/连接性/能力，满分70分10桥最高仅52分；2022年Ronin($7亿)/Nomad($1.9亿)安全事件背景；116行/8外部图不可用；更新概念[[cross-chain]][[mev]] + 更新实体[[ronin]]
+- [[来源_2022-08_链上基金_DeFi资管_iZUMi]] — iZUMi Research 系统梳理 DeFi 链上基金赛道：22个项目按主动/算法/被动三类策略分类，深层拆解 Ribbon Finance（期权结构化产品）、Umami Finance（GLP+杠杆代币对冲）、iZUMi Finance（固收/双币/IL保险）三个代表性项目，涵盖链上基金优势缺陷与未来趋势
+- [[来源_2022-08_Tokies代币化故事_NFT]] — 提出"Tokies"（代币化故事）概念的五阶段生命周期模型（初始IP→Drop→社区文化→创世项目→网络飞轮），三大支柱（去中心化/社区/代币）；BAYC/Yuga Labs 作为主要案例；Jenkins The Valet 481 ETH+1200万美元 A16Z 融资；CC0模式（Loot/Nouns）与宗教类比；241行/25+外部URL图片不可用
+- [[来源_2022-08_YugaLabs_IP生态_品牌_ForesightNews]] — Yuga Labs IP 生态全景地图：近 80 个品牌/创作者/项目/艺术家，涵盖 Gucci/Tiffany/Adidas 等时尚合作、音乐 (Eminem/Snoop Dogg/Timbaland)、玩具、食品饮料、全球线下俱乐部、播客教育、工作室公会；ApeCoinDAO 资助 Boring Security 和 Bored Ape Gazette；431行/64外部URL图片不可用
+- [[来源_2022-08_王建硕_Web3名词泛化_链捕手]] — 王建硕对话链捕手：Web3"雷锋和雷峰塔的关系"本质批判、行业语言垄断分析、DAO=塑料袋而非爱马仕、NFT合法赌场论、区块链=1993年互联网；177行/3微信CDN图片
+- [[来源_2022-08_Web3投资创业_云九资本_牛凤轩]] — 云九资本合伙人牛凤轩专访：区块链两大价值（可组合性+统一数据库）、Web3数据金矿三层结构、应用层创新需新机制而非Web2+钱包、熊市创业生存指南；122行/8外部微信CDN图片不可用
+- [[来源_2022-08_Gallium_Studios_Will_Wright_区块链游戏]] — Gallium Studios简介：传奇游戏设计师 Will Wright（Sims/SimCity/Spore）与 Lauren Elliott 联合创立，首批项目 VoxVerse（Gala Games）和 Proxi（AI记忆模拟游戏）均整合区块链技术，$6M 融资由 Griffin Gaming Partners 提供；16行/1装饰图跳过；新建实体[[gallium-studios]][[will-wright]] + 更新实体[[gala-games]] + 更新概念[[gamefi]] + 更新index + log
+- [[来源_2022-09_PoW_PoS_阿剑_ForkIt]] — 前以太坊爱好者阿剑全面论证PoW优于PoS：PoS安全性存在权益研磨/长程攻击/旧私钥攻击/弱主观性等根本缺陷，共识验证开销更大、finality更慢(6.5min vs 4min)；以太坊Merge本质是大区块路线；L2方案仍依赖主链资源；EIP-1559治理失败导致核心研究者迁移至比特币；455行/0图片
+- [[来源_2022-09_机构投资者访谈_火币研究院]] — 火币研究院2022年熊市20+机构投资者深度访谈：ZK、新L1链、中间件最受关注；DeFi保持观望但衍生品市场有机会；SocialFi和GameFi被指模型不清晰/不可持续；IOSG Ventures "牛顿摆"理论（基础设施与应用周期轮换框架）；310行/6外部URL不可用
+- [[来源_2022-09_DID赛道全景_灵魂三问_A&T]] — DID赛道全景梳理+DID灵魂三问：三层结构（应用场景/身份/凭证）、Reputation vs Relationship分类、SBT/VC/PoP凭证对比、To C信用借贷伪命题论、"应用先于协议"投资排序；444行/9外部WeChat CDN图片
+- [[来源_2022-09_灵魂绑定代币_SBT_ArkStream]] — ArkStream Capital 灵魂绑定代币（SBT）深度研报：OSI模型三层分析框架（信息收集→传输存储→绑定）、15+项目全景、可编辑隐私（access/editing/cashflow三层权益）、链上信用借贷替代KYC、绑定机制的重置成本理论；318行/9外部微信图不可用
+- [[来源_2022-09_加密钱包_千亿平台_7OClockCapital]] — 7 O'Clock Capital 2022年9月加密钱包赛道全景扫描：八大细分赛道（移动/公链生态/交易平台/资产托管/硬件/多链/身份/Web3钱包）/四大发展阶段/五大未来价值方向（DID身份/Web3网关/公链衔接器/Web3支付宝/元宇宙硬件）；353行/18外部URL不可用
+- [[来源_2022-09_GameFi模型发展_外循环_web3caff]] — W Labs x Footprint Analytics：外循环/内循环框架、三种生命周期形态（蓝筹Axie/强背景BinaryX/资金盘CryptoMines）、StarSharks模型解剖（SEA 90%销毁）、三条未来路径（3A/X2E/Fi）、横向+纵向延伸设计框架；265行/0图片（18外部URL不可用）
+- [[来源_2022-09_thirdweb_NFT用例_milkroad]] — Thirdweb 赞助文章提出 NFT 四个核心用例（超级粉丝奖励/数字收藏品/会员身份即资产/游戏资产）；VeeFriends 首周 $51M、Pak $300M+、Fewocious $25M、芝加哥公牛队 NFT 拍卖等案例；Thirdweb 无钱包/信用卡/gasless 降低门槛；147行/5外部CDN图不可用
+- [[来源_2022-09_NFT协议图谱_协议层_ATCapital]] — A&T Capital盘点NFT协议全景：三层模型（应用/协议/结算层）、ERC721/ERC1155/ERC998/ERC875/ERC1523/EIP1948/EIP2981标准详解、租赁协议分类（EIP2615/EIP4907/EIP5006）、Unicly流动性协议、DNFT跨链协议；170行/3外部CDN图跳过；新建实体[[dapper-labs]][[enjin]] + 更新概念[[nft]]
+- [[来源_2022-10_品牌NFT三大目的_五步手册_PeterYang]] — Peter Yang 品牌 NFT 操作手册：三大目的（接触新受众/奖励忠实客户/新产品收入）+ 五步执行框架（识别受众/组建团队/交付实用/建立社区/长期承诺）+ Nike RTFKT vs Adidas BAYC 案例对比；172行/7外部URL图不可用；更新概念[[nft]] + 更新实体[[rtfkt]][[peter-yang]]
+- [[来源_2022-10_OTC冻卡_银行卡冻结_福禄寿OTC]] — 福禄寿OTC实战经验：净网行动/断卡行动下中国OTC USDT冻卡全景，3天紧急止付vs6个月司法冻结，处理策略与案例分析
+- [[来源_2022-10_元宇宙_文明自由_哲学思辨]] — VION Williams/Web3Caff：十本书视角的元宇宙哲学深度剖析——Snow Crash起源/Cybersyn智利科技史/CryptoAIGC+Loot原生叙事/DAO批判（精英傲慢）/无限游戏心态/文明冲突与宇宙观重构；436行/14外部URL不可用
+- [[来源_2022-10_NFT常用工具_PANews]] — 2022年NFT工具生态全景快照：铸造监控/交易工具/自动化Bot/数据分析/域名服务五大类别20+工具；222行/21装饰图/无分析深度
+- [[来源_2022-10_代币模型_治理代币_veToken_Bankless]] — Bankless/Lucas Campbell对比三类代币模型（治理/生产/投票托管）在2022年熊市的实证表现：veToken平均最差（CRV-71%/FXS-84%/BAL-61%），生产性代币最好（SNX仅-35%）；结论"基本面>代币模型"，veToken高通胀（Curve年化>100%）是结构性缺陷；178行/5外部图不可用；更新概念[[tokenomics]] + 更新实体[[curve]][[synthetix]][[frax]]
+- [[来源_2022-10_LayerZero_21生态项目_发币教程]] — zflab.eth/Mirror 2022.10.14：LayerZero 发币前夕生态快照——21个已集成项目全清单（Stargate/Hashflow/Radiant Capital/SushiXSwap/OmniBTC/Rage Trade/Holograph 等）及空投交互教程；ZRO 代币首次在代码中现身；融资完整时间线（种子 $2M→A $6M→A+ $135M）及估值 $1B→$3B；约 5/21 项目当时已发币；更新实体(layerzero) + 更新概念(cross-chain)
+- [[来源_2022-11_Telegram_Discord社区运营工具盘点_BlockBeats]] — Telegram/Discord Web3 社区管理 bot 实操全书：Rose/Combot/Mee6/Guild.xyz/TicketTool 等配置指南
+- [[来源_2022-11_Web3支付赛道全景_ZONFF_Research]] — ZONFF Research 2022年Web3支付全景：四方模型→加密支付映射，SCP协议原理，三股竞争势力，拉美/非洲地域差异化机会
+- [[来源_2022-11_web3用例_使用场景_0xShah]] — 0xShah 2022年web3用例框架：原则/构念/产品/用例四层区分，五大已验证用例（投机/稳定币/借贷/DAO/智能合约保险），十个未验证方向
+- [[来源_2022-11_抢占SocialFi先机_Web3社交_资本布局_PANews]] — 2022年底SocialFi五层架构全景（基础设施/社交图谱/社交凭证/去中心化通信/内容分发），10+项目融资数据
+- [[来源_2022-11_加密钱包完整指南_Bitizen]] — Bitizen Wallet 出品：托管/非托管→冷/热→多签→无密钥钱包完整分类，MPC/DKG技术原理，私钥/助记词单一故障点剖析
+- [[来源_2022-11_代币经济设计_问题清单_jojonas]] — @jojonas_xyz 从"设计者"视角提出的 39 个代币经济设计前检查清单，覆盖 General/Token Supply/Token Demand/Governance 四大集群，持币动机三分类（实用/被动收益/情感）
+- [[来源_2022-11_V神更新以太坊路线图_Scourge阶段_BlockBeats]] — 2022年11月 Vitalik 发布更新版以太坊路线图（六大阶段正式成型）：新增 The Scourge 应对 MEV、The Verge 重新定义为"完全 SNARK 化的以太坊"、单槽确定性列为 Merge 第二阶段里程碑
+- [[来源_2022-11_梦幻西游_经济系统_半佛仙人]] — 半佛仙人深度拆解梦幻西游经济系统：以点卡为价值锚定、生产-消费金字塔分层、藏宝阁双轨定价、收编工作室、20年运行不崩的长期主义范式；与EVE/WOW/DNF对比分析
+- [[来源_2022-11_Lens深度体验_Web3社交_PANews]] — PANews 2022年11月Lens Protocol深度体验：FTX Ventures投资（7天后FTX崩盘）、93,900 Profiles/86,422持有者/92%唯一率/76.8%低交互率、月活1-2万、生态8款产品（Lenster/Lenstube/ORB/Phaver等）、用户一个月赚$12.5万+、Profile注册开放争议 — 揭示了白名单制下"看起来繁荣但用户没来"的真相
+- [[来源_2022-11_NFT_玩法_设计_运营_Web3Caff]] — 项目方视角的NFT系统设计实操手册：5大概念玩法分类（Art/Identity/RealNFT/Brand/Game）+5大发售方式（Mint/ERC20 Mint/Blind Box/Whitelist/Airdrop）、Moonbirds Azuki Zerion三案例拆解、盲盒Metadata更新原理、合成NFT制作工具与ThirdWeb无代码部署
+- [[来源_2022-12_Lens_Protocol_社交图谱_FirstVIP]] — First.VIP 项目研报：Lens Protocol完整技术架构（Profile/Publication/Follow NFT+模块系统），2022年底10万Profile/65万posts/115个应用生态，社交图谱6家竞品对比（CyberConnect/Atem/Relation/5Degrees/DeSo/BBS）
+- [[来源_2022-12_胖应用_Fat_App_范式转移_BlockBeats]] — ZeePrime Capital 胖应用理论：价值从协议层向应用层转移，应用链/超级应用/木马中间件三条路径
+- [[来源_2022-12_Web3身份堆栈_去中心化身份_DID_Web3Caff]] — Web3身份七层堆栈架构：DID/VC/W3C标准/隐私基元，代币激励将DID推向数亿用户
+- [[来源_2022-12_Oasys_EVM兼容_零手续费_游戏公链_PANews]] — PANews 2022年12月 Oasys 游戏公链主网上线早期全貌：3 Verse/11款游戏、Republic Capital $2000万领投、OAS 100亿总量/五种效用、三代币标准（vFT/oFT/exFT）、21个机构验证节点
+- [[来源_2022-12_GameFi代币经济学_BinanceResearch]] — Binance Research GameFi代币经济学深度报告：好游戏七根支柱、单币vs双币模型选择、死亡螺旋风险、通胀控制/用户引导/收益分配/团队激励等系统化设计建议
+- [[来源_2022-12_Forte_Ultra_GameFi开发商]] — 区块链游戏基础设施提供商 Forte（累计融资超$9亿/合规优先/套利盈利模式）和游戏分发平台 Ultra（UOS代币/$11.38M融资/跨平台SDK）项目详解，以及2022年十大GameFi开发商全景扫描；97行/1图片文件缺失跳过
+- [[来源_2022_DAO大败局_去中心化自治_定慧]] — 国人DAO实践失败的根本原因剖析：权威投射、人际影响力马太效应、阶层固化等四大阻碍，及提案制/Facilitator引导师/Coordinape主观打赏等8种实操方法论
+- [[来源_2022_Xterio_GameFi_游戏开发商_融资]] — Xterio 早期介绍：FunPlus/EA/动视暴雪等顶级工作室团队背景，$4000万融资（FunPlus/Makers Fund/XPLA领投），目标服务30亿游戏玩家
+- [[来源_2022_PlayerOne_元宇宙_多链沙盒_visioncap]] — PlayerOne 多链元宇宙沙盒平台全貌：四个编辑器产品矩阵（RoleEditor/SpaceEditor/VoxelEditor/GameEditor）、LayerZero 七链原子级跨链互操作、RarityScore 反女巫 P2E 机制、O2E 经济模型、社区 DAO 和创世大陆规划
+- [[来源_2022_Metaverse_元宇宙_巨头对比_MatthewBall]] — 基于 Matthew Ball 框架的元宇宙 Big Tech 巨头对比（Unity/Epic Games/Roblox/Meta/苹果/微软），提供 8 层堆栈框架和六大公司的横向比较
+- [[来源_2022-12_TreasureDAO_TheBeacon_链游_PANews]] — TreasureDAO 生态全景：从 Loot 衍生项目发展为 Arbitrum 上最大的链游生态，MAGIC 代币经济模型（每年减半/流动性池 NFT 化/NFT 治理），孵化现象级游戏 The Beacon（上线 9 天 2 万+ 玩家）；130行/6图片不可用
+- [[来源_2022-12_Pi_Network_电子宗教_BlockBeats]] — @thecryptoskanda 深度拆解 Pi Network：电子宗教四要素框架（教义/教仪/经验/社区）/无入金非庞氏/2019年3月推出/2022年3500万用户/6000万（2025）/广告日收入$10,200/KYC控盘+锁仓+不上IEO策略/三盘框架作者实操应用案例
+- [[来源_2022-09_DeFi重要词汇_清算_无常损失_价值捕获]] — Ai_姨 撰写的 DeFi 核心概念科普：清算机制（MakerDAO 150% 质押率）、无常损失（Bancor 研究 V3 LP >50% 亏损）、价值捕获（最大化 vs 最小化框架）、资金效率（Uniswap V3 集中流动性 vs V2 0.5%）、TVL、APY 陷阱 vs APR、主动/被动做市（Uniswap V3 vs DODO PMM）；268行/0图
+- [[来源_2022-07_Web3_收入_价值捕获_FutureMoney]] — FutureMoney Research 2022 Q2排名：前17名Web3协议半年总收入超100亿美元，Ethereum（46亿）Opensea（18亿）领跑；提出四层收入分析框架（Total/Supply-side/Protocol/Token Revenue）；揭示三种Protocol Revenue审计漏洞；211行/9外部URL不可用：Optimism交互式欺诈证明技术详解（OutputRoot/MIPS VM/32位2^27地址28层Merkle Tree内存/FDG两级GameTree交互二分法）、ZK Fraud Proof作为混合方案（OP懒惰验证+ZK单轮挑战）、BitVM2演进/比特币脚本实现ZK验证/Bitlayer/Citrea/BOB/Fiamma/GoatNetwork实现；146行/13外链图不可分析；更新实体[[bitvm]][[optimism]] + 更新概念[[layer2]]
+- [[来源_2022-07_Web3_DAO_基础设施_控制权]] — 以"组织形式 (DAO)、基础设施 (存储/计算/处理/通信)、控制权 (财产与数据自拥有)"三元框架定义 Web3；Bear 市中基础设施收入仅降 10% vs 市场估值降 76%；PartyDAO 作为 DAO 理想样板 vs ConstitutionDAO/CultDAO 作为困境案例；Filecoin/Livepeer/The Graph/Helium/Ceramic 等具体数据；108行/5外部URL图不可分析；创建实体[[party-dao]]；更新概念[[dao]][[web3]]；更新实体[[filecoin]][[livepeer]][[the-graph]][[helium]][[ceramic]][[akash]][[arweave]][[storj]][[syndicate]][[people-constitutiondao]][[cult-dao]][[utopia-labs]]
+- [[来源_2022-07_NFT定价_炼金术_同行定价_预言机_IOSG]] — IOSG Ventures 将 NFT 定价分为两大范式四种策略：同行定价（主体评估/Taker vs 流动池博弈/Abacus）和预言机定价（TWAP/BendDAO vs 链下AI计算/Banksea），揭示 NFT 金融化的核心定价瓶颈；150行/4图分析；新建实体[[taker]][[upshot]] + 更新实体[[bend-dao]][[banksea]][[abacus]] + 更新概念[[nft]]
+- [[来源_2022-09_NFT_Gas_War_拍卖机制_a16z]] — a16z crypto Scott Duke Kominers & Tim Roughgarden 拍卖理论视角分析NFT铸造Gas War：市场出清价格不可避免，降价拍卖与限制需求两大策略路径，Tally Labs混合机制案例；95行/1装饰图跳过；更新概念[[nft]]；更新实体[[scott-duke-kominers]][[a16z]][[jenkins-the-valet]]
+- [[来源_2022-05_DAO_拆分VC单位经济_1kx]] — 1kx 提出"通过 DAO 拆分风险投资单位经济学"的论文：三代 DAO 进化路径（投资DAO→孵化DAO→服务DAO），服务 DAO 将 VC 从捆绑销售（10%代币）拆分为精细定价（单项服务1%代币）；"资本本身是充裕的，有价值的服务却不是"；美国35%就业用于建立信任；158行/7外部URL装饰图跳过；更新概念[[dao]][[vc-venture-capital]] + 更新实体[[1kx]] + 更新 index + log
+- [[来源_2022-06_a16z链游布局_12项目_GameFi]] — a16z 2022年上半年链游/元宇宙投资全景：12个项目/9.5亿美元（行业占比15%）；分类覆盖发行商/平台/开发商三大赛道；单笔从480万到4.5亿美元；同时推出2支共51亿美元的Web3基金；238行/4装饰图跳过；新建合成页；新建实体[[sky-mavis]][[improbable]] + 更新实体[[a16z]][[yuga-labs]][[axie-infinity]] + 更新概念[[gamefi]][[metaverse]] + 更新 index + log
+
+### 2021年 (10 篇)
+- [[来源_2021-03_加密游戏_困局_突破_NatEliason]] — Nat Eliason 2021年3月发表的 GameFi 最早系统性批判：七大问题（NFT/DeFi坏先例、收益不可持续、进入成本过高、伪工作、资本碾压时间、P2E错误期望）和八大解决方案，提供 BAYC Otherside 土地经济 $10B 市值分析、Crypto Raiders 实践经验和 DOTA 2 参考模式
+- [[来源_2021-03_DAO入门_初学者指南_LindaXie]] — Linda Xie (Scalar Capital) 的 DAO 初学者指南：DAO 定义（透明/低门槛）、典型案例（The DAO $150M募资/$60M被盗、MakerDAO、Curve CRV锁定、FlamingoDAO $762K CryptoPunk、ESD DAO $180K年薪、Moloch DAO ragequit）、工具生态（Aragon/DAOStack/DAOhaus/Snapshot/Deep DAO/投票借贷Automata）及潜在问题
+- [[来源_2021-07_Uniswap_V3_生态全景_链闻]] — Uniswap V3上线三个月生态全景：43个项目/21个流动性管理器/NFT化LP头寸/三链部署
+- [[来源_2021-09_加密初学者指南_PeterYang]] — Peter Yang(CreatorEconomy.so)的"像我五岁一样解释"加密入门三部曲：Web3/区块链/代币/NFT/DAO概念+实操购买指南+钱包安全指南；记录2021年加密主流化高峰期的典型大众叙事；BAYC $115K/CryptoPunks $292K/Axie Infinity $16B市值等标志性数据
+- [[来源_2021-09_DAO_Tooling_组织乐高]] — 1kxnetwork 的 DAO 工具生态全景地图：以"组织乐高"框架系统梳理贡献管理、薪酬、决策、资金库、分析和 DAO 框架六大类别；提出从刚性框架向模块化可组合工具演进的判断；Snapshot/Coordinape/Gnosis SafeSnap/Kleros 等工具详解
+- [[来源_2021-11_DLC_谨慎日志合约_比特币隐形智能合约_btcstudy]] — DLC（Discreet Log Contracts）技术科普：Tadge Dryja 2017年发明，七步合约流程+断言机适配器签名，链上不可见的BTC条件支付。美元远期合约/保险/预测市场应用，lit闪电网络执行环境，四大局限性
+- [[来源_2021-11_去中心化身份_DID_通行证_AmberGroup]] — Amber Group 2021年 DID 生态系统全景报告：W3C标准/DIF四层模型(标准→基础设施→凭证→应用)/ENS营收$2000万+$84亿峰值市值/Metamask $4000万/月互换收入+21M MAU+Ceramic IDX协议+BrightID 30K用户；更新概念(decentralized-identity+DIF四层模型) + 实体(ens/metamask/ceramic/brightid/consensys)
+- [[来源_2021-11_DAO_国库多元化_OTC_1kx]] — 1kx 系统性地总结 DAO 金库 OTC 多元化出售的完整实操框架：四种稳定币筹集方式（OTC/二级市场/条件订单/衍生品）、交易结构六要素、Forefront 与 Index Coop 两笔实战案例；更新概念(dao, fundraising) + 实体(1kx, index-coop, forefront)
+- [[来源_2021-07_元宇宙_虚拟世界发展史_rctAI]] — rct AI撰写虚拟世界五阶段发展史（MUD→Habitat→Active Worlds→Second Life→Solipsis），1978年-2010年代的技术演进全景，Roblox CEO Metaverse八要素，未来方向：区块链+DAO/AIGC/Virtual Being
+- [[来源_2021-11_Layer2介绍_ZK_OP_Rollup_Wayne]] — Wayne 2021年11月L2科普文：ZK Rollup vs Optimistic Rollup通俗类比/Plasma失败史/数据可用性核心问题/Arbitrum 3M tx vs Optimism 200K竞争格局/StarkEx $10亿+ TVL/ImmutableX Validium与Volition设计；195行/7外部URL装饰图跳过
+
+- [[来源_2025-03_ETH卷技术_Solana卷代币_LaoBai]] — Lao Bai（ABCDE投研合伙人）X/BlockBeats对比分析：ETH卷Native Rollup/Based Rollup技术扩容，Solana卷SIMD-0228通胀治理/Token Extension应用扩展；两者在Ephemeral Rollup技术路线上汇合；7行原始stub+WebFetch全文补全；新建实体[[magicblock]][[lollipop]] + 更新概念[[layer2]][[l1-competition]][[blockchain-governance]][[tokenomics]][[rwa]][[account-abstraction]] + 更新 index + log
+- [[来源_2025-02_OndoGlobalMarkets_华尔街DeFi]] — Ondo Global Markets 官方发布公告（2025年2月5日）：1:1资产支持/类稳定币自由转移/分发层合规模型/1,000+ 证券覆盖（NYSE/NASDAQ）/24/7/365即时铸销/仅非美国投资者；raw 文件因地区锁定仅 11 行；更新实体[[ondo-finance]] + 更新概念[[rwa]] + 更新 index + log
+- [[来源_2025-03_TradFi_DeFi_机构采用_Paradigm]] — Justin Slaughter（Paradigm 政策主管）与 Allium Labs 联合发布"TradFi Tomorrow"报告：66% TradFi 已参与 DeFi，五大方向（代币化/稳定币/DEX/预测市场/借贷），监管清晰度为关键驱动力；新建 synthesis + 更新实体[[paradigm]] + 更新概念[[defi]][[crypto-regulation]] + 更新 index + log
+- [[来源_2025-03_六大叙事_资金流向_Game]] — Game (X @game_for_one) 2025年3月加密市场六大叙事观察清单：ETH质押复兴（LDO/RPL/贝莱德Larry Fink推动）、大型代币ETF（LTC/HBAR/XRP/买预期卖事实）、Buyback Club回购反身性（Hyperliquid $6亿/Jupiter $2.5亿/MKR 200%/AAVE 30%）、RWA代币化（PLUME/AERO/SYROP）、机器人/AI 2.0（Figure AI/基础设施是真正交易）、主权国家参与；7行原始stub + ChainCatcher全文补全；更新概念[[narrative-economics]] + 更新 index + log
+- [[来源_2025-04_Web3_AI_Agent落地场景_Haotian]] — Haotian (CryptoInsight) 挑战主流叙事认为交易非 AI Agent 原生场景：AI 模糊推理与交易精准性天然相悖，主张 Infra > Application、A2A > MCP，数据清洗/意图解析/决策助理三层渐进路径，预测 2025 H2 为分水岭；7行原始 stub + ChainCatcher 全文补全；更新概念[[ai-agents]][[ai-crypto]][[defai]][[a2a-protocol]][[model-context-protocol]] + 更新 index + log
+- [[来源_2025-03_MCP_去中心化_以太坊_brucexu]] — brucexu.eth 从"加密原教旨"视角解读 MCP：解决普通人参与 AI、AI+Ethereum 双赢、AI 去中心化三个核心问题；提出 OpenMCP.Network、Slim LLM 架构；8行/0图；新建实体[[brucexu-eth]][[lxdao]] + 更新概念[[model-context-protocol]] + 更新 index + log
+- [[来源_2022-08_CC0_许可证_NFT_所有权]] — CC0许可证短篇科普：CC0 = Creative Commons"无权利保留"；"所有权≠控制权"核心区分；"副本会增值原件吗"元问题；Kevin Rose对Moonbirds CC0转换的辩护原文；42行/0图
+- [[来源_2022-05_Web3阅读清单_资源集合]] — Web3 核心概念与阅读资源集合：43 行/3 外部 CDN 图不可用；"拥有一部分互联网的能力"财产权定义 + a16z 2022 State of Crypto 报告引用 + 四大资源阅读进度标注；更新概念[[web3]] + 更新实体[[a16z]]
+- [[来源_2022-05_InfiniGods_区块链游戏_Pantera]] — InfiniGods区块链游戏工作室：Web2老兵（Facebook/Zynga）转型Web3，$900万种子轮由Pantera Capital领投，4X神话题材策略游戏，48行/1装饰图跳过；新建实体[[infinigods]] + 更新概念[[gamefi]] + 更新实体[[pantera-capital]]
+- [[来源_2021-07_CryptoTwitter增长_0到7k关注者_covduk]] — Crypto Twitter 增长实操指北：从 0 到 7k+ 关注者仅用 1 个月；一致性输出、实验性内容、主动曝光、写作作为 Web3 简历获取 8+ 工作机会；CT 头部 KOL 仅约 20 万粉丝窗口期；89 行/0 图
+- [[来源_2021_DAO入门_关键参考_Syndicate投资]] — DAO 关键参考笔记：指向 future.com 的 DAOs Canon 清单 + Syndicate 项目（A16z 领投 $2000万 A 轮/Coinbase Ventures 参投）；16行/0图；新建 synthesis + 更新实体[[syndicate]] + 更新概念[[dao]] + 更新 index + log
+- [[来源_2025-02_Clara_AO_AI_Agent_协议_PANews]] — PANews NingNing 分析 Clara：RedStone 基于 AO 开发的 AI Agent 通信协议，类比互联网 TCP/IP 时刻；三组件（Marketplace/Channel/标准化消息协议）；AO 并行计算突破传统链限制；Arweave 永久存储支持 Agent 信誉系统；65行/1装饰图跳过；新建实体 [[clara]]
+- [[来源_2025-02_Yap-to-Earn_BERA空投_PANews]] — 用户视角的 Yap-to-Earn 实操指南：通过社交传播（Yapping）获得代币空投的方法论，以 Berachain 的 BERA 空投为案例，介绍 Sanctum 5% CLOUD 分配、Kaito Yapper 排行榜、Kaito Connect 投票机制以及 Yaps 汇率约 1.5-2；169 行/6 装饰图跳过
+- [[来源_2025-03_山寨币失血_VC退出期_PANews]] — L1D投资合伙人0xLouisT分析VC退出期导致山寨币市场"失血"：2021年VC泡沫（部分基金20-100倍账面回报）→LP涌入→Luna/3AC/FTX暴雷→LP要求退出→VC被迫短期抛售代币；提出VC未动用现金/TOTAL2比值作为周期判断指标；Q4 2022约$48B未动用现金已至少减半；21行/4外部装饰图跳过；新建合成+更新概念[[vc-venture-capital]][[fundraising]]+更新实体[[ld-capital]]+更新index+log
+- [[来源_2025-03_Hyperliquid_HYPE估值_三级火箭_PANews]] — PANews 系统估值框架分析：Hyperliquid 三级火箭收入模型（衍生品70%+/现货拍卖$1.4亿年化/HyperEVM）、HYPE PS 5.8/PEG 0.27 显示低估、DCF目标价 $48.2（2025末）/$79.5（2026）、VCC 0.59 为行业2倍、"三位一体新物种"定位（CEX效率+DEX透明性+L1扩展性）；128行/6外部CDN图不可用
+- [[来源_2022-08_DAO补偿_Coordinape_Hedgey]] — 2022年 DAO 薪酬设计全景：Coordinape 被 100+ DAO 用于同行贡献评估，85% 未锁定原生代币付款立即抛售导致均价 -6% 冲击；Yearn 薪酬改革（稳定币+折扣 YFI 锁仓）；混合薪酬模型（Hedgey NFT 锁仓代币保留投票权）被 ShapeShift/DAOhaus/DXdao 实践；Lido 83 人/20 工作流；MakerDAO 仅 MKR 补偿；193行/2分析图+3装饰图
+- [[来源_2022_NFT创作者_10工具_无代码_Medium]] — Tropee撰写的NFT创作者10大工具营销盘点（中文翻译）：Twitter ITO/Discord 1.4亿用户/NiftyKit订阅取代持币/Webflow 35万客户/VoxEdit骨架系统动画/Bueno等待名单/Tropee NFT实用性；91行/1装饰图跳过。核心观察：3D NFT工具选择反映2022年过度乐观预期，Tropee作为赞助商产品排在末尾压轴
+- [[来源_2022-03_WalletConnect_窄腰协议_1kx]] — 1kx 发布 WalletConnect 投资论文：142行/7外部CDN图不可用。以TCP/IP沙漏模型类比WalletConnect为Web3"窄腰协议"，连接任意钱包与任意DApp；900%+ npm增长/200+ DApp/100+ 钱包/2000万+安装量；V2新增多链/推送/Waku中继
+- [[来源_2022-09_3A游戏_楼花_Web3_BlockBeats]] — Simon@IOSG Ventures 从 3A 游戏研发成本危机视角分析 Web3 解决方案：RDR2 $9.44 亿成本/每 5 年 x10 增长；三大方向（NFT 预售回笼资金/玩家持股计划/内容资产化）；以 1950 年代香港地产"楼花"预售制度类比 web3 游戏 NFT 预售；180 行/12 外部装饰图跳过
+- [[来源_2022-09_Cosmos_介绍_区块链互联网]] — Cosmos入门概述：Tendermint + SDK + IBC 三件套，"区块链互联网"核心理念，"基于功能的安全性"安全哲学，Peg-Zones跨链机制；64行/3外部/不可用图跳过
+- [[来源_2025-05_BinanceAlpha_上币机制_定价权_BlockBeats]] — BlockBeats深度分析Binance Alpha在150天内从钱包功能演变为结构性上币机制：项目方主动调整策略（Puffer 300万美元空投成本）、社区背刺案例、散户心理学（仅22%可自然达标）、与OKX在钱包赛道的竞争；"to流动性"取代"to VC"成为新上币范式；153行/3分析图
+- [[来源_2025-04_熊市_早期项目_申请_PANews]] — PANews转载Odaily星球日报盘点10个早期项目 waitlist 申请机会：Codex PBC（OP Stack稳定币L2，$15.8M Dragonfly领投）、Chaos Labs（AI加密分析，$75M累计融资）、Neutrl（合成美元协议）、Concero（跨链/104+链）等；a16z CSX参投至少5个项目；98行/1装饰图跳过
+- [[来源_2025-04_LaunchLab_Raydium_Pumpfun_深潮TechFlow]] — Raydium于2025年4月16日官宣LaunchLab正面反击Pump.fun：JustSendIt模式85 SOL毕业/1%费率三部分分配（50%社区+25%$RAY回购+25%运营）/推荐拉新0.1% SOL/cook.meme/$TIME $5.6M/GMGN合作/$RAY涨20%；三方利益相关者分析；112行/6装饰性外部CDN图跳过
+- [[来源_2025-06_Tether_比特币战略_PANews]] — PANews系统揭示Tether在比特币生态的全景布局：从黄金+比特币双轮储备（10万BTC/50吨黄金/137亿年净利）到拉美三国5亿美元挖矿基地，从Twenty One Capital合资（Tether注入3.7万BTC/42.8%股权）到全栈式技术文化嵌入；同时呈现Jacob King的"终极纸牌屋"阴谋论批评；57行/3外部URL图不可用
+- [[来源_2025-07_美债_稳定币_债务永续]] — 从大国债务战略视角分析稳定币：美国"借短还长"策略 + 稳定币作为"暗发"短债工具，美债发行上限从"市场信心"转变为"稳定币交易规模"，实现债务永续的"阳谋"；10行
+- [[来源_2023-02_ImmutableX_NFT_扩容_深潮TechFlow]] — Immutable X 全面介绍：9000 TPS/零 Gas/StarkEx Validium/IMX 代币三功能/45万+ Gods Unchained 玩家/30万+ GoG $2400万NFT销售额/~9亿美元 2022 年融资领先 L2 游戏生态
+- [[来源_2023-05_BTC_DeFi_ALEX_Arkadiko]] — Stacks DeFi 微观快照：ALEX 占链上 94.3% TVL（26.7M/28.31M），Arkadiko 超额抵押 STX 铸造 USDA/TVL 6.9M，仅 7 交易对 3 借贷资产；29行/0图；新建实体[[arkadiko]] + 更新实体[[alex]][[stacks]] + 更新概念[[bitcoin-ecosystem]][[defi]] + 更新 index + log
+- [[来源_2025-03_稳定币_耕作机会_HFA]] — HFA Research Charlie 盘点六种稳定币收益策略：HLP 18.61%（含清算事件单日暴涨和4天锁仓）、Sky Rewards 8.52%/Savings 6.5%、Ethereal Season Zero 15-20%、AO 14.37%、Berachain USDC.e/HONEY 13.79%（BGT）、Sonic Shadow Exchange 28.9-35.3%、Navigator NLP 35.60%+131.71% esNAVI；89行/8外部URL图不可用
+- [[来源_2025-12_TGE巅峰_新币虚假繁荣_SolusGroup]] — Solus Group 113个2025年TGE代币实证分析：84.7%代币FDV低于发行时（中位数跌71%），融资/社群/上币等传统筛选标准相关性为零，GameFi/DeFi/AI赛道表现分化，提出2026年六项生存原则；254行/9装饰图跳过/9外链图表不可用；新建合成 + 新建实体[[solus-group]] + 更新概念[[tokenomics]][[fundraising]][[vc-venture-capital]][[gamefi]][[defi]][[ai-crypto]] + 更新index + log
+- [[来源_2023-03_出名OrdinalsNFT_六大项目]] — 盘点 6 个早期（2023 年初）知名比特币 Ordinals NFT 项目：TwelveFold（Yuga Labs 盲拍 1650 万美元/300 件/288 名中标者）、Bitcoin Punks（10,000 件/2023-02-09 铸造）、Taproot Wizards（4MB 区块/Udi Wertheimer 发起）、Pixel Pepes（Meme 空投）、Bitcoin Rocks（1,000 Rocks/致敬以太坊 Rocks）、Ordinal Punks（前 650 铭文/dingaling 211 ETH 购 7 个）；51行/6装饰图跳过；更新概念[[ordinals]][[nft]] + 更新实体[[yuga-labs]] + 更新index + log
+- [[来源_2025-04_WLFI持仓代币_投资损益_BlockBeats]] — WLFI 投资组合盈亏分析：整体亏损 $428 万，MOVE 亏损 $210 万（-50%+），8 种主动持仓盈亏分化，Eric Trump 推广 ETH 的利益冲突，DWF Labs $2500 万投资；130行/7外链图不可用/1装饰图跳过
+- [[来源_2025-09_DeFi稳定币_支点_USDH_HyperLiquid]] — 从 HyperLiquid USDH 竞标看 DeFi 稳定币真正支点：四大路径（DAI/GHO/crvUSD/frxUSD），四大成功要素（内生场景/流动性/可组合性/收益），113行/5CDN外部URL跳过
+- [[来源_2026-01_Polymarket_共享订单薄_YES_NO_Dfarm]] — DFarm 详解 Polymarket 共享订单薄镜像机制和 YES + NO = 1 的数学强制约束，打假 KOL 伪套利策略
+- [[来源_2026-03_Polymarket赢家复盘_三种赚钱方式_BlockBeat]] — Polymarket 40个顶级地址/10万笔交易策略解剖：方向型（体育信息优势）、结构型（Crypto做市/做庄）、认知型（低频高确信度）；kch123失速（1035万累计→30天亏47.9万）；<8%钱包盈利；70%套利利润被<100ms延迟bot拿走；开源做市bot因无定价能力不盈利
+- [[来源_2025-02_Sui流动性激增_稳定币_深潮TechFlow]] — Sui稳定币一年增长100倍，DeFi与游戏驱动的新L1崛起，Suilend/SZNS/对象模型/鲸鱼集中度
+- [[来源_2025-07_12国稳定币监管_政策竞速_深潮TechFlow]] — 12 国稳定币监管政策横向对比：美国 GENIUS 法案签署生效/香港《稳定币条例》8.1 生效（首批仅 3-4 张牌照）/欧盟 MiCA 全面实施（53 家牌照）/韩国银行联盟发行韩元稳定币/泰国国家级加密沙盒/日本 PSA 修订
+- [[来源_2025-07_稳定币_全球信贷改革_substack]] — 稳定币与全球信贷改革：非洲采用数据（尼日利亚 $590 亿/31% GDP、埃塞俄比亚 180% 增长）、全球信贷配置者推演、新兴市场资本外流、三阶段 RWA 代币化框架
+- [[来源_2025-03_Solana_DePIN帝国_DoubleZero_Roam_BlockBeats]] — Solana DePIN 生态全景：78 项目/250 亿市值/DoubleZero 2800 万融资/Roam 全球 WiFi 230 万用户
+- [[来源_2025-05_香港稳定币条例_监管架构_BlockBeats]] — 香港《稳定币条例》全解读：牌照十项最低标准、指明稳定币定义、金管局准司法调查权、域外管辖权、禁止付息、1:1储备资产隔离、人民币稳定币政策缓冲带
+- [[来源_2025-04_稳定币_收益策略_综合指南_Mirror]] — JacobZhao 八大稳定币收益策略分类系统：借贷(牛20%+/熊2-4%)、流动性挖矿、市场中性套利(资金费率/期现/跨所)、RWA美债、期权结构化(Sell Put/Shark Fin)、收益代币化(Pendle五种叠加)、一篮子产品(Ether.Fi USD Pool)、AO DAI质押
+- [[来源_2025-04_稳定币_资金流向_山寨币_PANews]] — PANews 稳定币数据透析：$1300亿→$2350亿（+80.7%），每$1新稳定币仅撬动$1.5山寨币（缩水82%）；USDT流向交易所（+169%），USDC沉淀DeFi（Sky持有48亿USDC/+229倍）；5+2工作日/周末波动规律揭示机构主导；渣打Zodia $40亿USDC/Lemon $1.37亿等新场景；128行/7图
+- [[来源_2025-03_七大生息稳定币_风险回报_深潮TechFlow]] — 七大收益型稳定币横向对比：Ethena sUSDe/Sky sUSDS/Usual USD0++/Frax sfrxUSD/Resolv USR/Ondo USDY/Level slvlUSD，收益率与市场情绪联动实证分析
+- [[来源_2025-06_收益型稳定币_总清单_StacyMuur]] — Stacy Muur 2025 YBS 总清单：$7.19B总市值/77%双寡头集中度/YPO $603M真实收益/YBS四引擎分类/三档市值分级
+- [[来源_2025-05_稳定币_越南_平行金融系统_Tiger_Research]] — Tiger Research 越南稳定币深度研报：3.35%年溢价/7.8%汇款占比/Binance P2P+Telegram OTC自建金融轨道/新加坡泰国菲律宾监管对比/自下而上政策建议；133行/6外部URL图不可用
+- [[来源_2025-05_稳定币赛道_USDT_1500亿_PANews]] — PANews 2025年5月稳定币赛道全景扫描：USDT首次突破1500亿美元（1506.63亿，62%份额），主导地位从70%降至62%；Circle IPO、Stripe Bridge、Meta创作者支付、Visa/Mastercard卡、PayPal PYUSD 3.7%、银行入局等全景动态；106行/1装饰图跳过
+- [[来源_2025-06_Web2_业务_稳定币_深潮TechFlow]] — ParaFi投资人Josh Solesbury Web2稳定币应用高阶指南：四类商业模式分步实施方案（ToC金融科技银行/商业银行B2B/薪资平台/卡片发行商），DolarApp美墨通道$3/笔10-20%渗透率，Robinhood周末结算，Chime $10亿交易收入
+- [[来源_2025-06_Stripe收购Privy_稳定币钱包_深潮TechFlow]] — Stripe收购Privy（嵌入式钱包，7500万+账户/1000+团队），融合Bridge（101国稳定币账户/Visa稳定币卡）形成三层Fiat&Crypto堆栈：法币通道(Bridge)→场景构建(Stripe)→链上自托管(Privy)；预测三个方向（数字资产牌照/非美元支付/链上金融）；209行/3CDN外部URL跳过
+- [[来源_2025-08_稳定币_发行成本_合规门槛_BlockBeats]] — BlockBeats 拆解合规稳定币发行真实成本：三大基础工程（合规+储备+技术系统）年支出千万美元级别；香港 VASP 牌照 2000-5000 万港币；USDT "反向推广"策略（0.1% 手续费、10 万美元最低赎回门槛）；USDT Bitfinex 深度绑定分销网络 vs USDC Coinbase 渠道依赖；153行/4外部CDN图跳过
+- [[来源_2025-05_良性货币_去中心化稳定性_深潮TechFlow]] — 货币四阶段生命周期理论：吸引价值→规模发展→稳定机制→经济效用；批判Bitcoin/Ethereum固定供应模型在前两阶段成功但阻碍后续阶段；协调问题的指数级增长/最后手段功能缺失；良性的货币需要自适应供应+最后手段+生产性储备利用+借贷市场基础+透明健康指标；125行/1装饰图跳过
+- [[来源_2025-03_以太坊_Solana_BNBChain_三链对比_深潮TechFlow]] — 超级公链死与生：以太坊/Solana/BNB Chain 三链对比。Vitalik BDFL悖论、Solana 阴谋集团定位、BNB Chain 交易所思维困局。浏览器发展史类比
+- [[来源_2025-03_交易生命周期_以太坊_Solana_Aptos_PANews]] — 交易生命周期五步法对比Aptos/以太坊/Solana：乐观并行vs确定性并行的技术分化、Aptos RWA/PayFi叙事基础
+- [[来源_2025-03_特朗普2.0_上任8周_加密监管_PANews]] — PANews逐周盘点Trump上任8周加密监管全面转向：SEC撤诉+Crypto Task Force、战略比特币储备、GENIUS Act、24州加密储备法案、人事任命
+- [[来源_2025-08_美国政策_通证化_Chainlink]] — Chainlink Labs分析美国通证化三大监管挑战（资产分类标准缺失/跨链互操作性政策滞后/零售用户准入受限）与三项解决方案；86行/3装饰图跳过
+- [[来源_2025-02_DePAI_Messari_深潮TechFlow]] — Messari/Dylan Bane 于 2025 年 2 月提出 DePAI 概念（DePAI Ex Machina 报告），将 NVIDIA 黄仁勋「物理 AI」理念与去中心化基础设施结合，构建数据采集层（Frodobots）→空间智能层（Auki Posemesh）→投资 DAO（XMAQUINA）的 DePAI 堆栈；此为 DePAI 概念的起源文档（比 peaq 版本早约三周），未包含 peaq 版本的七层架构模型
+- [[来源_2022-06_游戏规则_机制_玩法]] — 游戏机制理论框架：规则-机制-玩法三层次分析、22+类机制分类体系、元素机制化创新路径（RCT/微信公众号 2022.06）
+- [[来源_2025-06_黄金_大多头_Incrementum]] — Incrementum 黄金大多头报告：影子黄金价格/布雷顿森林体系III/新60/40组合(25%黄金+大宗+5%BTC)/2030年底目标$4,800-$8,900/BTC为黄金市值的8%
+### 其他 (3 篇)
+- [[来源_2018_应用先行_基础设施_胖协议_USV]] — USV（联合广场基金）反驳"胖协议"论的核心文章，提出"应用程序=>基础设施=>应用程序=>基础设施"迭代循环框架，认为突破性应用永远先于基础设施出现；122行/5外部WeChat CDN图不可用；创建实体[[usv]]；更新概念[[fat-protocols-fat-apps]]
+- [[clarity-act]] — 数字资产市场澄清法案（HR 3633）：基于控制的成熟度框架、7项客观去中心化标准、数字资产从SEC向CFTC管辖权过渡、DeFi豁免与消费者保护
+- [[来源_未知_ServerFi_GameFi_代币经济模型_耶鲁]] — 耶鲁大学 ServerFi 论文中文摘要（bocaibocai.eth/Mirror）：熵增理论诊断 GameFi 代币经济失败/Axie Infinity SLP 通胀案例分析/ServerFi 碎片合成→NFT 质押→服务器私有化模型/500次模拟验证长期可持续性优于持续奖励高留存玩家模型
+
+- [[来源_2025-02_Consensus香港_Web3稳定币_RWA_深潮TechFlow]] — OKG Research报道Consensus 2025首次登陆香港：RWA代币化为最热概念（摩根士丹利John Cahill断言"不是趋势而是必然"）；港元稳定币双轨竞争（渣打合资公司/Circle HKDCoin）；6只香港虚拟资产现货ETF百余天获批，截至2024年底总AUM超30亿港元（0.66%市场份额）；金管局Ensemble项目30+机构参与；香港OTC市场年交易量近百亿美元；数码港近300家Web3企业/融资超4亿港元；香港证监会CEO Julia Leung强调"监管与创新的平衡"；56行/6装饰CDN图跳过；新建合成页 + 更新概念[[rwa]][[stablecoins]][[crypto-regulation]][[etf]] + 更新 index + log
+- [[来源_2022-07_三箭危机_雷曼兄弟_对比_huangxiaocong]] — 将三箭资本崩盘对比2008年雷曼危机：触发机制（高杠杆+抵押品流动性不足+系统性风险误判）和扩散逻辑（死亡螺旋/追加保证金-清算循环）高度相似；关键区别在于规模小且无政府兜底；美联储鲍威尔2022年6月22日称加密下跌未产生明显宏观影响；87行/5装饰图跳过/2外部URL不可用；更新实体[[three-arrows-capital]] + 更新概念[[crypto-regulation]] + 更新 index + log
+- [[来源_2025-06_Coinbase_加密市场三大主题]] — Coinbase机构研报2025下半年三大主题：宏观回暖（GDP从-0.2%上修至3.8%）、企业持币潮（228家上市公司共82万枚BTC）、监管明朗化（GENIUS Act参议院通过/CLARITY Act提出/SEC审理80项ETF提案）；131行/4装饰图跳过未下载；更新概念[[clarity-act]][[genius-act]][[pcv]][[etf]][[crypto-regulation]] + 更新实体[[coinbase]]
+- [[来源_2025-07_山寨币ETF_72份_价值投机_深潮TechFlow]] — 106行/深潮TechFlow深度分析山寨币ETF热潮：比特币ETF 1070亿美元流入/1330亿AUM/123万BTC（流通量6.2%），以太坊ETF仅40亿美元（BTC的3%），Sygnum预测山寨币ETF总流入数亿至10亿美元（BTC的1%）；质押成差异化核心（SOL 50-70%质押，净收益1.9-2.2%）；费率战（0.15-1.5%至零费率产品）；哲学问题：真实价值还是监管外衣；3外部CDN图不可用；更新概念[[etf]] + 更新实体[[solana]]
+- [[来源_2025-07_BNB财库_PIPE融资_华尔街入口_BlockBeats]] — 90行/BlockBeats报道BNB金融化进入第三阶段：CEA Industries完成5亿美元PIPE融资+7.5亿美元权证，逾140家机构认购（Pantera/Arrington/GSR等）；YZi Labs/CZ&何一支持的结构代理人角色；Nano Labs购入12万枚BNB/长期5-10%流通量；Windtree 6000万美元BNB财库；BNB-centric PCV新类别；90行/4外部CDN图不可用；新建实体[[cea-industries]][[10-x-capital]]nano-labs]] + 更新实体[[yzi-labs]][[binance]] + 更新概念[[pcv]]
+- [[来源_2025-06_加密并购_五大收购案_RobinhoodBitstamp_深潮TechFlow]] — 150行/深潮TechFlow盘点2025上半年加密行业5大重磅收购案：Robinhood收Bitstamp（$2亿）、Stripe收Bridge（$11亿）、Coinbase收Deribit（$29亿）、Kraken收NinjaTrader（$15亿）、Ripple收Hidden Road（$12.5亿）；88宗交易总值82亿为2024全年三倍；"退出与入场双向奔赴"；2装饰图跳过；新建实体[[bitstamp]][[ninja-trader]] + 更新概念[[crypto-m-and-a]] + 更新实体[[robinhood]]
+- [[来源_2025-07_Coinbase_Wallet_Base_App_Web3超级应用_深潮TechFlow]] — 121行/深潮TechFlow报道Coinbase Wallet正式更名为Base App：Base Pay（USDC即时支付+Shopify合作+4.1% APY）、Flashblocks（200ms区块时间）、Base Build（100万开发者计划）、Farcaster社交集成（发帖/链上动态/Mini Apps/内置聊天）；采访多位相关方分析投资标的（AERO/UNI/BRETT/COIN/CRCL）；7外部URL图不可用；新建synthesis + 更新实体[[base]][[coinbase]][[farcaster]] + 更新概念[[payfi]][[socialfi]]
+- [[来源_2025-06_万事达卡_链上买币_Chainlink_PANews]] — PANews Nancy报道Mastercard与Chainlink战略合作打通链上买币通道（Swapper Finance/Shift4 Payments/ZeroHash/Chainlink/XSwap多层级服务），2025三大战略聚焦（出入金/Crypto Credential/稳定币应用），密集稳定币产品布局（USDG/PYUSD/FIUSD/MoonPay/OKX）；55行/2外部CDN图跳过；新建合成页 + 更新实体[[mastercard]][[chainlink]] + 更新概念[[stablecoins]][[payfi]]
+- [[来源_2025-03_DeSPIN_空间智能_8项目_深潮TechFlow]] — 深潮TechFlow系统介绍DeSPIN（去中心化空间智能网络）概念及8个协议项目：Hivemapper/NATIX/FrodoBots/JoJoWorld/PrismaXAI/OpenMind AGI/MeckaAI/Xmaquina DAO；123行/2外部URL图不可用；新建synthesis + 新建实体[[jojoworld]][[prismaxai]][[openmind-agi]][[mecka-ai]] + 更新实体[[hivemapper]][[natix]][[frodobots]][[xmaquina]] + 更新概念[[depin]][[depai]] + 更新 index + log
+- [[来源_2025-02_加密ETF_机构持仓_贝莱德_深潮]] — PANews Nancy整理的15家机构2024年Q4加密ETF持仓全貌：累计持仓近140亿美元，高盛/Millennium/SIG/Brevan Howard均达数十亿美元；IBIT最吸金（多家机构持仓占比超75%）；机构以太坊ETF持有率从4.8%跃升至14.5%；Mubadala为IBIT第七大持有者（4.4亿美元）；SWIB持仓环比增长109.7%；99行/1装饰图跳过；新建实体[[goldman-sachs]][[millennium-management]][[sig-susquehanna]][[brevan-howard]] + 更新实体[[blackrock]][[grayscale]][[mubadala]][[multicoin-capital]] + 更新概念[[etf]]
+- [[来源_2025-02_KGeN_玩家证明_游戏激励_Delphi]] — Delphi Digital 研报：KGeN PoG 引擎五大验证维度（人类/参与/技能/消费/社交网络）和 eCAC 有效用户获取模式；992% 数据属性增长/13M账户/4.4M MAU/840亿美元反bot浪费；197行/13外部CDN图不可用；新建实体[[kgen]] + 更新实体[[delphi-digital]] + 更新概念[[gamefi]]
+- [[来源_2023-02_抽税制_Web3游戏_Folius]] — Folius Ventures 提出"抽税制"作为Web3游戏第三条商业化路径：基于经济体量持续征收交易税替代一次性内购；10条设计建议+虚拟游戏Foliseum框架；功能型设计vs数值型设计、多元混合币制；113行/1装饰图跳过/13外部URL图不可用；新建合成页；更新实体[[folius-ventures]] + 更新概念[[gamefi]][[game-monetization]][[game-design]][[tokenomics]] + 更新 index + log
+- [[来源_2022-07_模块化执行_Fuel_UTXO_并行交易]] — Foresight News 全面介绍 Fuel 模块化执行层：最早以太坊 Optmistic Rollup、UTXO 模型并行执行、V1 仅<$10 TVL/21 笔交易早期失败、V2 模块化定位、John Adler 双联合创始人（Fuel+Celestia）、SwaySwap 原生资产 DEX；89行/5外部URL图跳过；新建合成 + 更新实体[[fuel]][[celestia]] + 更新概念[[layer2]] + 更新 index + log
+- [[来源_2025-06_ZKJ_KOGE_闪崩_流动性收割_BlockBeats]] — BlockBeats复盘Binance Alpha 刷分最优代币对 ZKJ/KOGE 双双闪崩：三个地址 40 分钟内接力撤 LP/换币/抛售完成系统性收割，KOGE/USDT 深度不足致退出路径单一，Binance 宣布取消 Alpha 代币间交易对积分计算；115行/4外部CDN图不可用；新建合成 + 更新实体[[binance]] + 更新概念[[cex]][[market-maker]] + 更新 index + log
+- [[来源_2025-02_空投市场_三大矛盾_深潮TechFlow]] — 0x老董分析2024空投市场的三大矛盾：项目方（造泡沫vs清泡沫）、参与者（不撸一定没有vs撸了不一定有）、项目方与撸毛党（一损俱损vs一荣俱荣）；100项目数据分析/LayerZero 80.3万女巫/Linea 40%女巫/SCR 200积分门槛/32项目查女巫；148行/2外部URL图跳过；新建合成页；更新实体[[layerzero]][[linea]][[starknet]][[zksync]][[scroll]][[eigenlayer]][[blast]][[berachain]][[fuel]] + 更新概念[[tokenomics]][[fundraising]]
+- [[来源_2025-06_加密IPO_Circle_华尔街_PANews]] — PANews盘点加密IPO季：Circle股价$199.59/市值$444亿/涨595%/日成交6300万创历史；13家加密机构排队赴美上市（Kraken/Gemini/Bullish/FalconX/TRON/Animoca/BitGo等）；Arthur Hayes警告IPO潮将以EOS式结局告终；66行/2数据图分析；新建synthesis + 新建实体[[gemini]] + 更新实体[[circle]][[kraken]][[arthur-hayes]] + 更新概念[[genius-act]][[crypto-regulation]] + 更新 index + log
+- [[来源_2022-08_VRGDA_可变利率_NFT发行_Paradigm]] — Paradigm 提出 VRGDA（Variable Rate GDA）机制，作为 GDA 的泛化支持自定义 NFT 发行时间表，通过价格信号自适应调节发行速度；提供线性/平方根/Logistic 三种时间表模板；专为 Art Gobblers 和 0xMonaco 设计；179行/5外部URL图跳过；新建合成 + 更新实体[[paradigm]] + 更新概念[[nft]] + 更新 index + log
+- [[来源_2025-06_稳定币价值实现层级_USDC_USDT_BlockBeats]] — 提出"稳定币价值实现的层级体系"框架：西方市场优先可编程性(Circle)，新兴市场优先无需许可(Tether)；Circle赢在工具属性，Tether赢在生存刚需；101行/4外部URL图跳过；新建合成 + 更新实体[[circle]][[tether]] + 更新概念[[stablecoins]] + 更新 index + log
+- [[来源_2022-03_StepN_新手入门_打金攻略_0xPineapple]] — StepN小白新手入门实操指南：鞋子类型与品质选择、能量系统、四维属性加点策略（Efficiency>Resilience）、E+R/售价量化选鞋标准、宝石与插槽系统（基础属性+属性加成双重机制）、不同打金流派插槽组合（GST流EERR/宝箱流ELLR/GMT流CCCR）；203行/8图不可用；新建合成 + 更新实体[[stepn]] + 更新 index + log
+- [[来源_2022-08_PFP_IP_叙事_Web3Caff]] — Shrimpwen系统论述PFP本质是IP新范式而非收藏品：熊市双重困境诊断（空投赋能叙事不可持续+文化叙事未发展）、Web3社区共创价值转移模型、PFP应以Pokemon式IP授权经济取代版税；143行/7外部URL图不可用；新建合成 + 更新概念[[nft]][[narrative-economics]][[creator-economy]][[web3]] + 更新 index + log
+- [[来源_2025-05_10个Launchpad平台_Solana发射中心_PANews]] — PANews盘点10个新兴Launchpad平台（MEME/AI Agent/SocialFi三赛道，Solana为主链）：LaunchLab/Raydium 24,916代币/0.84%毕业率、auto.fun双池回购ai16z、Time.fun 396代币/$2亿+交易额、Genesis Launches 11.2万VIRTUAL起步、Swarms 20Agent/$150万；新建合成+新建实体[[time-fun]]+更新概念[[memecoins]][[ai-agents]][[socialfi]]+更新实体[[raydium]][[virtuals]][[ai16z]][[believe]]+更新index+log
+- [[来源_2025-07_私募股权代币化_Jarsy_Republic_Tokeny_深潮TechFlow]] — 深潮TechFlow介绍私募股权代币化三大平台：Jarsy（团购代币化/$10起投/Jarsy 30指数81%回报/Breyer Capital领投$500万）、Republic Mirror Tokens（rSpaceX债务跟踪器/$50起投/Solana/$3500亿估值）、Tokeny（ERC-3643合规/MiFID II欧洲/Kerdo合作）；RWA竞争从链上技术转向法规+标准化+多地发行通道；新建合成+新建实体[[republic]]+更新实体[[jarsy]][[tokeny-solutions]]+更新概念[[rwa]]+更新index+log
+- [[来源_2025-04_Solana_DePIN_月收入_PANews]] — PANews编译Syndica报告：Solana生态DePIN赛道4月收入45.8万美元(+33% YoY)创年内新高；Helium Mobile订阅用户+125%/收入25万美元创纪录；Roam新增53.5万节点逼近400万；Grass数据收集3450万GB创新高；14个项目分项表现；新建合成+新建实体[[dabba-network]][[xnet]][[wingbits]][[sourceful-energy]][[ambios-network]]+更新实体[[helium]][[grass]][[hivemapper]][[roam]][[nosana]][[natix]][[shaga]]+更新概念[[depin]]+更新index+log
+- [[来源_2018-10_囤比特币_基本价格模型_ahr999]] — ahr999提出比特币供需弹性框架（供给零弹性+需求负弹性），从囤币者视角解释减半暴涨根本原因；97行/3图外部URL不可用；更新实体[[bitcoin]]+更新概念[[bitcoin-ecosystem]]+更新index+log
+- [[来源_2025-06_JPMD_存款代币_摩根大通_PANews]] — PANews报道：摩根大通JPMD存款代币Base试点、Emma Lovett"过度拥挤"稳定币市场言论、白皮书对比存款代币vs稳定币、GENIUS Act参议院68-30通过；70行/2装饰图跳过；新建合成 + 更新实体[[jpmorgan]][[base]] + 更新概念[[stablecoins]] + 更新index + log
+- [[来源_2022-02_Axelar_跨链覆盖网络]] — Axelar 通用跨链覆盖网络方案：使用 Cosmos SDK + 无需许可 PoS 验证器集进行跨链消息身份验证，声称新链集成仅需约 10 分钟；AXL 代币总量 10 亿枚，Genesis 分配公司 29.5%/支持者 29.54%/社区销售 5%/社区项目 35.96%；2022 年 2 月主网启动首批支持 Ethereum/Avalanche/Terra；新建实体[[axelar]] + 更新概念[[cross-chain]] + 更新 index + log
+- [[来源_2025-06_生产型社会_消费型社会_转型]] — 生产型社会必然要转向消费型社会：地方政府同质化竞争浪费转移支付（补贴生产端而非消费端）、企业主动压利润率至3%防竞争、KPI从GDP转向福利、核心命题从"规模"转"利润率"；122行/0图；新建合成 + 更新概念[[narrative-economics]][[re-globalization]] + 更新index + log
+- [[来源_2025-03_MCP_AI_Agent代币_下跌_PANews]] — 链上观分析 AI Agent 代币下跌与 MCP 协议爆火的逻辑关联：Manus + MCP 揭露第一阶段 Web3 AI Agent（ElizaOS 等）的"web2 化"本质；提出五个 Web3 原生创新方向（DID/Oracle/DA/ZKP/跨链互操作性）；73行/1装饰图跳过；新建合成 + 更新概念[[ai-agents]][[ai-crypto]][[model-context-protocol]] + 更新实体[[ai16z]] + 更新index + log
+- [[来源_2022-09_恐惧贪婪指数_NFGI_NFT]] — Ai_姨系统介绍恐惧与贪婪指数（FGI）从股票市场到数字货币再到NFT市场的三层演变：股票7指标/数字货币6指标/NFGI不同方案（NFTGo/Origins NFT/Reddit帖子方案）；64行/6本地图不可用；新建合成 + 更新概念[[nft]][[trading-system]] + 更新index + log
+- [[来源_2022-07_Web3_三大起飞条件_VentureBeat]] — Emma Cui (LongHash Ventures CEO) 提出 Web3 主流采用三条件：用户→所有者思维、投资者→社区协作、项目方→可持续代币设计；Q1 2022 区块链游戏投资 25 亿美元 / 18,000+ 活跃开发者；60行/0图；新建合成 + 更新概念[[web3]][[tokenomics]][[blockchain-governance]] + 更新 index + log
+- [[来源_2023_GameFi_NFT_资源目录]] — GameFi/NFT资源索引页（非原创分析），收录2022-2023年间GameFi项目追踪、链游经济模型系列文章、NFT教程及工具资源；101行/0图；新建合成 + 更新概念[[gamefi]][[nft]] + 更新 index + log
+- [[来源_2025-02_CARV_DATA框架2.0_DeepSeek_深潮TechFlow]] — CARV D.A.T.A. 框架 2.0 升级：集成 DeepSeek 推理模型和 ERC-7231 CARV ID，使 AI 代理具备可验证链上数据、认知推理、经济自感知和代币驱动智能；66行/1外部URL图跳过；新建合成 + 新建实体[[carv]] + 更新概念[[ai-agents]][[ai-crypto]] + 更新实体[[deepseek]] + 更新index + log
+- [[来源_2022-05_Sunflower_Land_种田链游_Polygon]] — Polygon 链上农场 P2E 项目：种田/砍伐/采矿/养殖多玩法递进，SFL 代币无预挖/按参与人数递减产出（1-10万地址0.02U→500-1000万0.001U），提款滑动税率（30%-10%），铸造 NFT 销毁 SFL；113行/0可分析图/8外部CDN图不可用；新建实体[[sunflower-land]] + 更新概念[[gamefi]] + 更新实体[[polygon]] + 更新index + log
+- [[来源_2025-02_上币信息采集_币安_API爬虫_DFarm]] — DFarm 上币信息采集教程：4个信息来源渠道/TG+官网+推特+API、币安英文公告比中文提前约1分钟发布的发现、Python requests-html爬虫代码、封装检测循环实现自动化监控；76行/7装饰图跳过；新建合成 + 更新实体[[binance]] + 更新概念[[cex]]
+- [[来源_2025-03_社区共同治理_投票上币_币安公告]] — 币安2025年3月公告新增"社区共同治理"机制：投票上币（Vote to List）和投票下币（Vote to Delist）；0.01 BNB投票门槛；第一期9个BNB Chain Alpha代币候选/选2个上线；103行/1装饰图；新建合成 + 更新实体[[binance]] + 更新概念[[blockchain-governance]][[cex]] + 更新index + log
+- [[来源_2026-07_Web3资源招聘工具清单]] — 个人整理的 Web3 资源目录（无原文链接/无日期），覆盖区块链招聘/任务平台/赏金平台/NFT无代码工具/代币归属自动化/做市商/碳交易市场/PinkSale启动板/Pitchtalk Demoday等10余个类别；90行/0图；新建合成 + 新建实体[[pinksale]][[pitchtalk]] + 更新实体[[klimadao]][[flipside-crypto]][[galxe]] + 更新概念[[carbon-market]] + 更新index + log
+- [[来源_2025-03_zkVM_安全_性能_a16z]] — Justin Thaler（a16z crypto 研究合伙人）提出的 zkVM 安全性和性能分阶段评估框架：证明开销当前约 1,000,000x 慢于原生执行；安全三阶段 ≥2 年/≥4 年；性能三阶段 100,000x/10,000x/1,000x；内存二阶段 <2GB/<200MB；预编译是"拐杖"；53行/1关键图通过WebFetch分析；新建合成 + 新建概念[[zkvm]] + 新建实体[[justin-thaler]] + 更新实体[[a16z]] + 更新index + log
+- [[来源_2022-08_Gallium_Studios_Will_Wright_区块链游戏]] — Gallium Studios简介：传奇游戏设计师 Will Wright（Sims/SimCity/Spore）与 Lauren Elliott 联合创立，首批项目 VoxVerse（Gala Games）和 Proxi（AI记忆模拟游戏）均整合区块链技术，$6M 融资由 Griffin Gaming Partners 提供；16行/1装饰图跳过；新建实体[[gallium-studios]][[will-wright]] + 更新实体[[gala-games]] + 更新概念[[gamefi]] + 更新index + log
+
+- [[来源_2022_新公链_Layer1_概述_多链接]] — 2022年新 L1 导航式汇编：12条未发币 L1（Aptos/Sui/Linera/Canto/Gear/Celestia/Aleo/Anoma/Iron Fish/Monad/zkSync）多源链接索引，以"不可能三角"为框架的组织结构，反映2022年中文市场以技术路线为核心叙事；47行/0图；新建合成 + 更新概念[[l1-competition]] + 更新实体[[aptos]] + 更新index + log
+- [[来源_2025-04_OM崩盘_最初三分钟_PANews]] — PANews/Tim编译链上分析：OM代币2025年4月14日约19:30 UTC闪崩约95%/首小时约90%/55亿美元蒸发；机构级HFT交易者以每5秒~$100万在币安永续合约打压订单簿为触发者；OKX巨鲸1分钟后挂200万OM卖单；448天前质押/6天前首次取奖励的可疑钱包指向内幕操作；"死亡螺旋"理论未证实；34行/10外部CDN图不可用；新建合成 + 更新实体[[mantra]] + 更新概念[[market-maker]][[crypto-ponzi-models]] + 更新index + log
+- [[来源_2025_AI搜索_意图导向_场景分发]] — 微信公众文章："AI搜索，本质上就是对用户的问题进行更好的意图理解，然后帮助用户完成任务"；提出AI搜索应根据不同意图（寻址/研究/内容消费/医疗建议）进行场景分发；Web2信息孤岛vs Web3信息共享对比；22行/0图；新建合成 + 更新概念[[intents]][[application-llm]][[web3]] + 更新index + log
+- [[来源_2023-05_ORC20铸造教程_Crypto七头_Twitter]] — Crypto七头 2023年5月29日 ORC-20 铸造教程 Twitter 推文存档；6行推特链接；展示 ORC-20 作为"暴富技能"向散户推广的历史侧面；更新概念[[brc-20]] + 更新index + log
+- [[来源_未知_跨链桥_资源汇总]] — 跨链桥项目极简资源索引（13行）：Earndrop空投Alpha通知页面和Mirror上70+跨链桥全览两条外链，归纳跨链桥三大技术方案（锁定铸造/资金池/原子置换）和四发展趋势（NFT跨链/跨链聚合/资金池参与DeFi/专注特定生态）。外链均已不可达，但三条要点可作为2022年前后跨链桥核心叙事的行业共识切片。更新概念[[cross-chain]]
+- [[来源_2025-03_Delphi_DePin生态项目_DelphiDigital]] — Delphi Digital 在 X 推文中将 DePin 项目分为互联网网络（DoubleZero/Helium）和计算网络（Akash/Phala/Fluence）两大类别，附有 DePin 生态系统图；7行/0图；新建合成 + 更新实体[[doublezero]][[helium]][[akash]][[phala-network]][[fluence]] + 更新概念[[depin]] + 更新 index + log
+- [[来源_2025-09_CryptoNews合集_Avantis_Base衍生品]] — Crypto News 搜集待整理索引，链接 2025/2026 CSV 格式新闻合集，核心指向 Base 生态 Perp DEX Avantis (AVNT) 完整分析文章；7+64行/4外部URL图；AVNT 上线币安/Upbit 24 小时涨近翻倍；累计交易量 220 亿美元；风险分层 Vault 模型；1200 万美元总融资（Pantera/Founders Fund）；新建合成 + 新建实体[[avantis]] + 更新概念[[perp-dex]] + 更新实体[[base]][[flowdesk]][[pantera-capital]] + 更新 index + log

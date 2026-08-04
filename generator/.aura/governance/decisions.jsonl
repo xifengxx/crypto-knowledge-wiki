@@ -1,0 +1,13 @@
+{"ts":"2026-08-04T07:43:08.447Z","file":"/Users/mac/knowledge/generator/src/wikilinks.js","category":"general","lines":59,"summary":"import { resolveTarget } from './indexer.js';"}
+{"ts":"2026-08-04T07:44:13.542Z","file":"/Users/mac/knowledge/generator/src/render.js","category":"general","lines":62,"summary":"import MarkdownIt from 'markdown-it';"}
+{"ts":"2026-08-04T07:44:30.968Z","file":"/Users/mac/knowledge/generator/src/render.js","category":"general","lines":89,"summary":"import MarkdownIt from 'markdown-it';"}
+{"ts":"2026-08-04T07:44:47.640Z","file":"/Users/mac/knowledge/generator/src/page.js","category":"database","lines":144,"summary":"import { relHref, staticSitePath, pageSitePath } from './fs-utils.js';"}
+{"ts":"2026-08-04T07:45:22.627Z","file":"/Users/mac/knowledge/generator/assets/style.css","category":"general","lines":151,"summary":"============ 设计变量：暖纸亮色 + 暗色自适应 ============ */"}
+{"ts":"2026-08-04T07:46:40.789Z","file":"/Users/mac/knowledge/generator/src/home.js","category":"database","lines":117,"summary":"import { layout } from './page.js';"}
+{"ts":"2026-08-04T07:47:03.185Z","file":"/Users/mac/knowledge/generator/src/listings.js","category":"database","lines":96,"summary":"import { layout } from './page.js';"}
+{"ts":"2026-08-04T07:48:02.062Z","file":"/Users/mac/knowledge/generator/src/search.js","category":"general","lines":44,"summary":"import { layout } from './page.js';"}
+{"ts":"2026-08-04T07:48:43.081Z","file":"/Users/mac/knowledge/generator/assets/app.js","category":"general","lines":173,"summary":"站点前端：全文搜索（中文包含匹配 + 拉丁前缀）· ⌘K 命令面板"}
+{"ts":"2026-08-04T07:50:22.075Z","file":"/Users/mac/knowledge/generator/src/graph.js","category":"general","lines":79,"summary":"import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide } "}
+{"ts":"2026-08-04T07:53:12.187Z","file":"/Users/mac/knowledge/generator/assets/graph.js","category":"general","lines":230,"summary":"知识图谱前端：Canvas 力导向图渲染与交互"}
+{"ts":"2026-08-04T08:09:00.594Z","file":"/Users/mac/knowledge/.github/workflows/deploy.yml","category":"auth","lines":60,"summary":"name: Build & Deploy to GitHub Pages"}
+{"ts":"2026-08-04T08:09:06.149Z","file":"/Users/mac/knowledge/README.md","category":"general","lines":49,"summary":"知识图谱 · 个人知识库"}

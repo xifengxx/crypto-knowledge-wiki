@@ -1,0 +1,2 @@
+{"ts":"2026-06-28T11:03:05.359Z","event":"tool_failure","tool":"Bash","error":"Exit code 1\nls: /Users/mac/Downloads/: Operation not permitted","input_keys":["command","description"]}
+{"ts":"2026-06-28T11:03:34.986Z","event":"tool_failure","tool":"Bash","error":"Exit code 1\nditto: /Users/mac/Downloads/43541dd1-b16e-4754-863e-589481ab0cab_ExportBlock-8eab940e-4934-49aa-b8b8-e415074b272c.zip: Operation not permitted","input_keys":["command","description"]}

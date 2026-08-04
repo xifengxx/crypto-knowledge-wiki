@@ -1,0 +1,138 @@
+{
+  "version": "1.0",
+  "updated": "2026-06-28T10:15:04.325Z",
+  "patterns": [
+    {
+      "id": "pattern-001",
+      "category": "auth",
+      "language": "javascript",
+      "description": "extract-pdf.js — auth 패턴 (javascript)",
+      "score": 80,
+      "success_count": 11,
+      "failure_count": 0,
+      "tags": [
+        "auth",
+        "javascript"
+      ],
+      "created": "2026-06-28T09:58:49.946Z",
+      "updated": "2026-06-28T10:10:46.614Z"
+    },
+    {
+      "id": "pattern-004",
+      "category": "api",
+      "language": "unknown",
+      "description": "stablecoins-reshaping-finance.md — api 패턴 (unknown)",
+      "score": 77,
+      "success_count": 10,
+      "failure_count": 0,
+      "tags": [
+        "api"
+      ],
+      "created": "2026-06-28T10:01:19.182Z",
+      "updated": "2026-06-28T10:11:24.300Z"
+    },
+    {
+      "id": "pattern-003",
+      "category": "ui",
+      "language": "unknown",
+      "description": "circle.md — ui 패턴 (unknown)",
+      "score": 62,
+      "success_count": 5,
+      "failure_count": 0,
+      "tags": [
+        "ui"
+      ],
+      "created": "2026-06-28T10:01:07.124Z",
+      "updated": "2026-06-28T10:04:42.607Z"
+    },
+    {
+      "id": "pattern-002",
+      "category": "deploy",
+      "language": "unknown",
+      "description": "CLAUDE.md — deploy 패턴 (unknown)",
+      "score": 62,
+      "success_count": 5,
+      "failure_count": 0,
+      "tags": [
+        "deploy"
+      ],
+      "created": "2026-06-28T09:58:57.739Z",
+      "updated": "2026-06-28T10:15:04.322Z"
+    },
+    {
+      "id": "pattern-005",
+      "category": "general",
+      "language": "unknown",
+      "description": "stablecoins.md — general 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [],
+      "created": "2026-06-28T10:04:25.725Z",
+      "updated": "2026-06-28T10:04:25.725Z"
+    },
+    {
+      "id": "pattern-006",
+      "category": "general",
+      "language": "unknown",
+      "description": "rwa.md — general 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [],
+      "created": "2026-06-28T10:07:45.206Z",
+      "updated": "2026-06-28T10:07:45.206Z"
+    },
+    {
+      "id": "pattern-007",
+      "category": "general",
+      "language": "unknown",
+      "description": "来源_2025-07-13_IOSG消费者应用.md — general 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [],
+      "created": "2026-06-28T10:11:11.211Z",
+      "updated": "2026-06-28T10:11:11.211Z"
+    },
+    {
+      "id": "pattern-008",
+      "category": "general",
+      "language": "unknown",
+      "description": "来源_2025-07-27_CubeLabs增长策略.md — general 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [],
+      "created": "2026-06-28T10:11:12.887Z",
+      "updated": "2026-06-28T10:11:12.887Z"
+    },
+    {
+      "id": "pattern-009",
+      "category": "general",
+      "language": "unknown",
+      "description": "来源_2025-08-19_CEX永续合约.md — general 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [],
+      "created": "2026-06-28T10:11:14.735Z",
+      "updated": "2026-06-28T10:11:14.735Z"
+    },
+    {
+      "id": "pattern-010",
+      "category": "db",
+      "language": "unknown",
+      "description": "log.md — db 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [
+        "db"
+      ],
+      "created": "2026-06-28T10:11:28.572Z",
+      "updated": "2026-06-28T10:11:28.573Z"
+    }
+  ],
+  "anti_patterns": []
+}

@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "updated": "2026-08-04T08:09:06.159Z",
+  "patterns": [
+    {
+      "id": "pattern-002",
+      "category": "ui",
+      "language": "javascript",
+      "description": "build.js — ui 패턴 (javascript)",
+      "score": 100,
+      "success_count": 36,
+      "failure_count": 0,
+      "tags": [
+        "ui",
+        "javascript"
+      ],
+      "created": "2026-08-04T07:43:11.640Z",
+      "updated": "2026-08-04T08:09:06.156Z"
+    },
+    {
+      "id": "pattern-001",
+      "category": "general",
+      "language": "javascript",
+      "description": "wikilinks.js — general 패턴 (javascript)",
+      "score": 92,
+      "success_count": 15,
+      "failure_count": 0,
+      "tags": [
+        "javascript"
+      ],
+      "created": "2026-08-04T07:43:08.454Z",
+      "updated": "2026-08-04T08:02:35.899Z"
+    },
+    {
+      "id": "pattern-003",
+      "category": "auth",
+      "language": "javascript",
+      "description": "render.js — auth 패턴 (javascript)",
+      "score": 59,
+      "success_count": 4,
+      "failure_count": 0,
+      "tags": [
+        "auth",
+        "javascript"
+      ],
+      "created": "2026-08-04T07:44:30.972Z",
+      "updated": "2026-08-04T08:09:00.599Z"
+    },
+    {
+      "id": "pattern-004",
+      "category": "db",
+      "language": "javascript",
+      "description": "app.js — db 패턴 (javascript)",
+      "score": 53,
+      "success_count": 2,
+      "failure_count": 0,
+      "tags": [
+        "db",
+        "javascript"
+      ],
+      "created": "2026-08-04T07:45:27.120Z",
+      "updated": "2026-08-04T07:53:12.201Z"
+    },
+    {
+      "id": "pattern-005",
+      "category": "deploy",
+      "language": "unknown",
+      "description": "package.json — deploy 패턴 (unknown)",
+      "score": 50,
+      "success_count": 1,
+      "failure_count": 0,
+      "tags": [
+        "deploy"
+      ],
+      "created": "2026-08-04T07:50:09.633Z",
+      "updated": "2026-08-04T07:50:09.637Z"
+    }
+  ],
+  "anti_patterns": []
+}

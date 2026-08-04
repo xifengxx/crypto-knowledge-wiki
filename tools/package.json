@@ -1,0 +1,13 @@
+{
+  "name": "knowledge-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export": "node notion-export.js",
+    "fetch": "node notion-fetch.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
