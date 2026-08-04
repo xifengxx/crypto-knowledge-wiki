@@ -54,28 +54,18 @@ export function buildGraph(ctx) {
 
   layoutNodes(nodes);
 
-  // 链接还原为 id 字符串（避免把节点对象序列化进 JSON）
-  const compactLinks = links.map((l) => ({
-    source: typeof l.source === 'object' ? l.source.id : l.source,
-    target: typeof l.target === 'object' ? l.target.id : l.target,
-  }));
+  // 链接压缩为节点索引对 [src, tgt]，大幅缩小文件体积
+  const idx = new Map(nodes.map((n, i) => [n.id, i]));
+  const compactLinks = links.map((l) => {
+    const s = typeof l.source === 'object' ? l.source.id : l.source;
+    const t = typeof l.target === 'object' ? l.target.id : l.target;
+    return [idx.get(s), idx.get(t)];
+  });
 
-  // 归一化坐标到 [0,1]
-  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
-  for (const n of nodes) {
-    if (n.x < minX) minX = n.x; if (n.x > maxX) maxX = n.x;
-    if (n.y < minY) minY = n.y; if (n.y > maxY) maxY = n.y;
-  }
-  const spanX = Math.max(1, maxX - minX);
-  const spanY = Math.max(1, maxY - minY);
-  const scale = Math.max(spanX, spanY);
-  for (const n of nodes) {
-    n.x = ((n.x - minX) / spanX - 0.5) * 0.9 + 0.5;
-    n.y = ((n.y - minY) / spanY - 0.5) * 0.9 + 0.5;
-  }
-  void scale;
+  // 节点坐标由客户端按可见集重新计算，序列化时剔除以缩小文件
+  const slimNodes = nodes.map(({ id, cat, label, refs }) => ({ id, cat, label, refs }));
 
-  return { nodes, links: compactLinks };
+  return { nodes: slimNodes, links: compactLinks };
 }
 
 /** /graph/ 页面 */
@@ -97,6 +87,7 @@ export function renderGraphPage(ctx, graph) {
 <div id="graph-canvas-wrap" class="graph-wrap">
   <canvas id="graph-canvas"></canvas>
   <div id="graph-tooltip" class="graph-tooltip"></div>
+  <div id="graph-status" class="graph-status">正在加载图谱数据…</div>
   <div class="graph-hint">滚轮缩放 · 拖拽平移 · 拖动节点 · 点击跳转</div>
 </div>
 <script>window.GRAPH_JSON_URL = ${JSON.stringify(graphJsonHref)};</script>

@@ -1,4 +1,4 @@
-import { relHref, staticSitePath, pageSitePath } from './fs-utils.js';
+import { relHref, relUrl, staticSitePath, pageSitePath } from './fs-utils.js';
 import { transformWikilinks } from './render.js';
 import { CATEGORY_COLORS, CATEGORY_LABELS } from './model.js';
 import { SITE } from './config.js';
@@ -26,6 +26,8 @@ export function layout(ctx, { sitePath, title, body, active = '', description = 
   }).join('');
   const homeHref = relHref(sitePath, staticSitePath(''));
   const indexHref = relHref(sitePath, 'search-index.json');
+  // 站点根相对前缀（当前页 → 站点根），供搜索/图谱跳转使用
+  const sitePrefix = relUrl(sitePath, staticSitePath('')).replace(/index\.html$/, '') || './';
   const stats = ctx.linkStats
     ? `<span class="muted">${ctx.pages.length} 页 · ${ctx.linkStats.resolved} 链接</span>`
     : '';
@@ -38,7 +40,7 @@ export function layout(ctx, { sitePath, title, body, active = '', description = 
 <meta name="description" content="${esc(description)}">
 <link rel="stylesheet" href="${relHref(sitePath, 'assets/style.css')}">
 ${extraHead}
-<script>window.SEARCH_INDEX_URL = ${JSON.stringify(indexHref)};</script>
+<script>window.SEARCH_INDEX_URL = ${JSON.stringify(indexHref)};window.SITE_PREFIX = ${JSON.stringify(sitePrefix)};</script>
 </head>
 <body class="${esc(bodyClass)}">
 <header class="topbar">

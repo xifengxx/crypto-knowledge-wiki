@@ -22,21 +22,37 @@
   let drag = null;
   let dragMoved = false;
 
+  const statusEl = document.getElementById('graph-status');
+
   // ── 数据 ──
   function loadGraph() {
+    if (statusEl) statusEl.textContent = '正在加载图谱数据…';
     fetch(window.GRAPH_JSON_URL || 'graph.json')
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
       .then((g) => {
         graph = g;
         byId = new Map(g.nodes.map((n) => [n.id, n]));
+        // links 为索引对 [src, tgt]，转换为 id 引用
+        graph.links = g.links.map(([s, t]) => ({ source: g.nodes[s].id, target: g.nodes[t].id }));
         degrees = {};
-        for (const l of g.links) {
+        for (const l of graph.links) {
           degrees[l.source] = (degrees[l.source] || 0) + 1;
           degrees[l.target] = (degrees[l.target] || 0) + 1;
         }
+        if (statusEl) statusEl.style.display = 'none';
         relayout();
       })
-      .catch((err) => { wrap.innerHTML = '<p class="muted">图谱数据加载失败: ' + err.message + '</p>'; });
+      .catch((err) => {
+        if (statusEl) {
+          statusEl.innerHTML = '图谱数据加载失败（' + err.message + '）<button id="graph-retry" class="g-reset" style="margin-left:8px">重试</button>';
+          statusEl.style.display = 'block';
+          const retry = document.getElementById('graph-retry');
+          if (retry) retry.addEventListener('click', loadGraph);
+        }
+      });
   }
 
   function visibleNodes() {
@@ -183,7 +199,8 @@
     const rect = wrap.getBoundingClientRect();
     const mx = e.clientX - rect.left, my = e.clientY - rect.top;
     const factor = e.deltaY < 0 ? 1.15 : 0.87;
-    const ns = Math.max(0.02, Math.min(20, transform.scale * factor));
+    // 缩放范围相对 fit 比例：可缩小到 2%、放大到 8 倍
+    const ns = Math.max(fitScale * 0.02, Math.min(fitScale * 8, transform.scale * factor));
     const wx = (mx - transform.x) / transform.scale;
     const wy = (my - transform.y) / transform.scale;
     transform.scale = ns;
@@ -235,7 +252,7 @@
   function onUp(e) {
     if (drag && drag.node && !dragMoved) {
       const [cat, ...rest] = drag.node.id.split(':');
-      window.location.href = `${cat}/${encodeURIComponent(rest.join(':'))}/`;
+      window.location.href = (window.SITE_PREFIX || './') + `${cat}/${encodeURIComponent(rest.join(':'))}/`;
     }
     drag = null;
   }

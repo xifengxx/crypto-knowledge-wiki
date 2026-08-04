@@ -71,8 +71,9 @@
     return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
+  // 站点根相对前缀（构建期注入到 window.SITE_PREFIX）
   function pageHref(e) {
-    return e.cat + '/' + encodeURIComponent(e.slug) + '/';
+    return (window.SITE_PREFIX || './') + e.cat + '/' + encodeURIComponent(e.slug) + '/';
   }
 
   function resultItem(e, tokens) {

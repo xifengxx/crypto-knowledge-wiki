@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T09:39:26.493Z",
+  "updated": "2026-08-04T10:29:55.720Z",
   "patterns": [
     {
       "id": "pattern-002",
@@ -8,14 +8,14 @@
       "language": "javascript",
       "description": "build.js — ui 패턴 (javascript)",
       "score": 100,
-      "success_count": 46,
+      "success_count": 54,
       "failure_count": 0,
       "tags": [
         "ui",
         "javascript"
       ],
       "created": "2026-08-04T07:43:11.640Z",
-      "updated": "2026-08-04T09:39:26.491Z"
+      "updated": "2026-08-04T10:29:55.719Z"
     },
     {
       "id": "pattern-001",
@@ -23,13 +23,13 @@
       "language": "javascript",
       "description": "wikilinks.js — general 패턴 (javascript)",
       "score": 100,
-      "success_count": 47,
+      "success_count": 55,
       "failure_count": 0,
       "tags": [
         "javascript"
       ],
       "created": "2026-08-04T07:43:08.454Z",
-      "updated": "2026-08-04T09:39:21.952Z"
+      "updated": "2026-08-04T10:29:41.002Z"
     },
     {
       "id": "pattern-003",

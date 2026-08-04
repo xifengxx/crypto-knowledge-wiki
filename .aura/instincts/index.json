@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T07:42:25.900Z",
+  "updated": "2026-08-04T10:22:41.659Z",
   "patterns": [
     {
       "id": "pattern-002",
@@ -36,13 +36,13 @@
       "language": "unknown",
       "description": "depin.md — ui 패턴 (unknown)",
       "score": 100,
-      "success_count": 454,
+      "success_count": 458,
       "failure_count": 0,
       "tags": [
         "ui"
       ],
       "created": "2026-06-28T11:08:16.701Z",
-      "updated": "2026-08-04T07:42:25.898Z"
+      "updated": "2026-08-04T10:22:41.657Z"
     },
     {
       "id": "pattern-001",
@@ -105,14 +105,14 @@
       "category": "general",
       "language": "javascript",
       "description": "config.js — general 패턴 (javascript)",
-      "score": 56,
-      "success_count": 3,
+      "score": 62,
+      "success_count": 5,
       "failure_count": 0,
       "tags": [
         "javascript"
       ],
       "created": "2026-08-04T07:40:35.952Z",
-      "updated": "2026-08-04T07:42:15.793Z"
+      "updated": "2026-08-04T10:22:33.021Z"
     },
     {
       "id": "pattern-004",
