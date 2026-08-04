@@ -1096,3 +1096,4 @@
 {"ts":"2026-08-04T07:41:53.833Z","file":"/Users/mac/knowledge/generator/src/frontmatter.js","category":"database","lines":110,"summary":"import matter from 'gray-matter';"}
 {"ts":"2026-08-04T07:41:59.007Z","file":"/Users/mac/knowledge/generator/src/model.js","category":"database","lines":44,"summary":"import { parseFrontmatter } from './frontmatter.js';"}
 {"ts":"2026-08-04T07:42:09.643Z","file":"/Users/mac/knowledge/generator/src/indexer.js","category":"general","lines":72,"summary":"import { RESOLVE_ORDER } from './config.js';"}
+{"ts":"2026-08-04T14:20:01.471Z","file":"/Users/mac/knowledge/WEBSITE.md","category":"general","lines":224,"summary":"LLM-Wiki 网站运维手册"}

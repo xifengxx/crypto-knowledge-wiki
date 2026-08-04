@@ -43,6 +43,16 @@ python3 -m http.server -d site   # 本地预览
 
 推送到 GitHub `main` 分支后，GitHub Actions 自动构建并部署到 GitHub Pages。
 
+## 文档
+
+| 文档 | 内容 |
+|------|------|
+| `WEBSITE.md` | **网站运维手册**：架构、构建/部署流程、图谱/搜索设计、日常操作、排错 |
+| `MAINTENANCE.md` | 知识库维护手册：采集 vs 提炼两种工作模式 |
+| `CLAUDE.md` | LLM 行为契约：Ingest/Query/Lint 工作流 |
+
 ## 维护
 
-采集与提炼两种工作模式见 `MAINTENANCE.md`，行为契约见 `CLAUDE.md`。
+- **发布网站**：`git add -A && git commit -m "update" && git push origin main`（自动部署，3-5 分钟）
+- **采集/提炼知识**：见 `MAINTENANCE.md`
+- **网站流程/操作/方法**：见 `WEBSITE.md`

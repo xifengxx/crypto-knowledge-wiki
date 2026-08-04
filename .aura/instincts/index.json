@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T10:22:41.659Z",
+  "updated": "2026-08-04T14:20:06.132Z",
   "patterns": [
     {
       "id": "pattern-002",
@@ -8,13 +8,13 @@
       "language": "unknown",
       "description": "来源_2024_Web3+AI赛道全景盘点.md — auth 패턴 (unknown)",
       "score": 100,
-      "success_count": 676,
+      "success_count": 677,
       "failure_count": 0,
       "tags": [
         "auth"
       ],
       "created": "2026-06-28T11:08:01.159Z",
-      "updated": "2026-08-04T07:41:53.837Z"
+      "updated": "2026-08-04T14:20:01.478Z"
     },
     {
       "id": "pattern-016",
@@ -64,13 +64,13 @@
       "language": "unknown",
       "description": "STATE.md — db 패턴 (unknown)",
       "score": 100,
-      "success_count": 60,
+      "success_count": 61,
       "failure_count": 0,
       "tags": [
         "db"
       ],
       "created": "2026-06-28T14:37:49.392Z",
-      "updated": "2026-07-02T15:08:32.211Z"
+      "updated": "2026-08-04T14:20:06.130Z"
     },
     {
       "id": "pattern-081",
