@@ -73,11 +73,11 @@
       .filter((l) => ids.has(l.source) && ids.has(l.target))
       .map((l) => ({ source: l.source, target: l.target }));
     const sim = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(links).id((d) => d.id).distance(28).strength(0.08))
-      .force('charge', d3.forceManyBody().strength(-22))
-      .force('collide', d3.forceCollide(3))
-      .force('x', d3.forceX(0).strength(0.1))
-      .force('y', d3.forceY(0).strength(0.1))
+      .force('link', d3.forceLink(links).id((d) => d.id).distance(16).strength(0.12))
+      .force('charge', d3.forceManyBody().strength(-10))
+      .force('collide', d3.forceCollide(2.5))
+      .force('x', d3.forceX(0).strength(0.12))
+      .force('y', d3.forceY(0).strength(0.12))
       .force('center', d3.forceCenter(0, 0))
       .stop();
     const ticks = Math.min(400, 80 + Math.round(Math.sqrt(nodes.length) * 22));
@@ -234,17 +234,20 @@
         g2d.stroke();
         g2d.globalAlpha = 1;
       }
-      if (!hov && showLabels && refs >= 3) {
+      // 悬停时：悬停节点 + 关联节点都显示名称；平时缩放足够才显示
+      if (hov) {
+        if (isHov || isNeighbor) {
+          g2d.fillStyle = isHov ? '#000' : 'rgba(28,28,28,0.85)';
+          g2d.font = isHov ? 'bold 12px sans-serif' : '11px sans-serif';
+          const maxLen = isHov ? 22 : 16;
+          const label = n.label.length > maxLen ? n.label.slice(0, maxLen - 1) + '…' : n.label;
+          g2d.fillText(label, p.x + r + 4, p.y + 4);
+        }
+      } else if (showLabels && refs >= 3) {
         g2d.fillStyle = 'rgba(28,28,28,0.72)';
         g2d.font = '10px sans-serif';
         const label = n.label.length > 14 ? n.label.slice(0, 13) + '…' : n.label;
         g2d.fillText(label, p.x + r + 3, p.y + 3);
-      }
-      if (isHov) {
-        g2d.fillStyle = '#000';
-        g2d.font = 'bold 11px sans-serif';
-        const label = n.label.length > 20 ? n.label.slice(0, 19) + '…' : n.label;
-        g2d.fillText(label, p.x + r + 4, p.y + 4);
       }
     }
     updateStats();
