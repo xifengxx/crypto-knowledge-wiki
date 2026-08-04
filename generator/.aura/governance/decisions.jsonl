@@ -11,3 +11,4 @@
 {"ts":"2026-08-04T07:53:12.187Z","file":"/Users/mac/knowledge/generator/assets/graph.js","category":"general","lines":230,"summary":"知识图谱前端：Canvas 力导向图渲染与交互"}
 {"ts":"2026-08-04T08:09:00.594Z","file":"/Users/mac/knowledge/.github/workflows/deploy.yml","category":"auth","lines":60,"summary":"name: Build & Deploy to GitHub Pages"}
 {"ts":"2026-08-04T08:09:06.149Z","file":"/Users/mac/knowledge/README.md","category":"general","lines":49,"summary":"知识图谱 · 个人知识库"}
+{"ts":"2026-08-04T09:14:29.855Z","file":"/Users/mac/knowledge/generator/assets/graph.js","category":"general","lines":242,"summary":"知识图谱前端：Canvas 渲染预烘焙布局（居中/缩放/拖拽/筛选）"}

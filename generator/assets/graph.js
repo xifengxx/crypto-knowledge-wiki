@@ -1,4 +1,4 @@
-// 知识图谱前端：Canvas 力导向图渲染与交互
+// 知识图谱前端：Canvas 渲染预烘焙布局（居中/缩放/拖拽/筛选）
 (function () {
   'use strict';
   const CAT_COLORS = { concepts: '#2563EB', entities: '#059669', theses: '#B45309', synthesis: '#6B7280' };
@@ -15,12 +15,12 @@
   let byId = new Map();
   let degrees = {};
   let transform = { x: 0, y: 0, scale: 1 };
+  let fitScale = 1;
   let activeCats = new Set(Object.keys(CAT_COLORS));
-  let minDegree = 0;
+  let minRefs = 15; // 默认只显示重要节点骨架
   let hover = null;
-  let drag = null;       // 正在拖拽的节点
+  let drag = null;
   let dragMoved = false;
-  let sim = null;
 
   // ── 数据 ──
   function loadGraph() {
@@ -40,7 +40,59 @@
   }
 
   function visibleNodes() {
-    return graph.nodes.filter((n) => activeCats.has(n.cat) && (degrees[n.id] || 0) >= minDegree);
+    return graph.nodes.filter((n) => activeCats.has(n.cat) && (n.refs || 0) >= minRefs);
+  }
+
+  // ── 黄金角螺旋分簇布局（按当前可见节点重算，间距适配数量）──
+  function layoutNodes(nodes) {
+    const CENTER = {
+      entities: [-0.55, -0.55],   // 左上（大）
+      synthesis: [0.55, 0.55],    // 右下（大）
+      concepts: [-0.55, 0.55],    // 左下
+      theses: [0.55, -0.55],      // 右上（小）
+    };
+    const QUAD = 0.42;
+    const byCat = {};
+    for (const n of nodes) (byCat[n.cat] ??= []).push(n);
+    for (const [cat, ns] of Object.entries(byCat)) {
+      if (!ns.length) continue;
+      const sorted = [...ns].sort((a, b) => (b.refs || 0) - (a.refs || 0));
+      const c = QUAD / Math.sqrt(sorted.length + 0.5);
+      const q = CENTER[cat] || [0, 0];
+      for (let i = 0; i < sorted.length; i++) {
+        const r = c * Math.sqrt(i + 0.5);
+        const a = i * 2.39996323;
+        sorted[i].x = q[0] + r * Math.cos(a);
+        sorted[i].y = q[1] + r * Math.sin(a);
+      }
+    }
+  }
+  function relayout() {
+    layoutNodes(visibleNodes());
+    fitView();
+    draw();
+  }
+
+  // ── 视图居中适配（预烘焙坐标在 [0,1]，全量 bounds 居中）──
+  function computeBounds(nodes) {
+    let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+    for (const n of nodes) {
+      if (n.x < minX) minX = n.x; if (n.x > maxX) maxX = n.x;
+      if (n.y < minY) minY = n.y; if (n.y > maxY) maxY = n.y;
+    }
+    if (minX === Infinity) return { x: 0, y: 0, w: 1, h: 1 };
+    return { x: minX, y: minY, w: Math.max(1e-6, maxX - minX), h: Math.max(1e-6, maxY - minY) };
+  }
+  function fitView() {
+    if (!graph) return;
+    const b = computeBounds(visibleNodes());
+    const w = wrap.clientWidth || 800, h = wrap.clientHeight || 500;
+    const pad = 60;
+    const scale = Math.min((w - pad * 2) / b.w, (h - pad * 2) / b.h);
+    transform.scale = Math.max(0.02, Math.min(scale, 5000));
+    fitScale = transform.scale;
+    transform.x = w / 2 - (b.x + b.w / 2) * transform.scale;
+    transform.y = h / 2 - (b.y + b.h / 2) * transform.scale;
   }
 
   // ── 画布 ──
@@ -63,7 +115,7 @@
 
   function nodeAt(pt) {
     const w = toWorld(pt);
-    let best = null, bestD = 14 / transform.scale;
+    let best = null, bestD = 16 / transform.scale;
     for (const n of visibleNodes()) {
       const dx = n.x - w.x, dy = n.y - w.y;
       const d = Math.sqrt(dx * dx + dy * dy);
@@ -74,9 +126,12 @@
 
   function draw() {
     g2d.clearRect(0, 0, wrap.clientWidth, wrap.clientHeight);
+    if (!graph) return;
     const vis = new Set(visibleNodes().map((n) => n.id));
-    // 边
-    g2d.strokeStyle = 'rgba(120,120,120,0.18)';
+    // 边：总览时几乎隐形（避免蜘蛛网），放大后随相对倍率提升清晰度
+    const rel = transform.scale / fitScale; // 1=总览
+    const edgeAlpha = Math.min(0.3, 0.03 + rel * 0.05);
+    g2d.strokeStyle = `rgba(120,120,120,${edgeAlpha.toFixed(3)})`;
     g2d.lineWidth = 1;
     g2d.beginPath();
     for (const l of graph.links) {
@@ -89,23 +144,25 @@
     }
     g2d.stroke();
 
-    // 节点
-    const showLabels = transform.scale > 1.4;
+    // 节点（小圆点避免密集处成黑块；hover 高亮；总览不显示标签避免文字重叠）
+    const showLabels = transform.scale > fitScale * 2;
     for (const n of visibleNodes()) {
       const p = toScreen(n);
-      const r = Math.min(14, 3 + Math.sqrt(n.refs || 0) * 1.6);
+      const refs = n.refs || 0;
+      const r = refs >= 50 ? 9 : refs >= 10 ? 5.5 : refs >= 3 ? 3.5 : 2;
+      const isHover = hover && hover.id === n.id;
       g2d.beginPath();
       g2d.arc(p.x, p.y, r, 0, Math.PI * 2);
       g2d.fillStyle = CAT_COLORS[n.cat] || '#999';
-      g2d.globalAlpha = 0.85;
+      g2d.globalAlpha = isHover ? 1 : refs >= 10 ? 0.85 : 0.55;
       g2d.fill();
       g2d.globalAlpha = 1;
-      if (hover && hover.id === n.id) {
+      if (isHover) {
         g2d.strokeStyle = '#000';
         g2d.lineWidth = 2;
         g2d.stroke();
       }
-      if (showLabels && (n.refs || 0) >= 3) {
+      if (showLabels && refs >= 3) {
         g2d.fillStyle = 'rgba(28,28,28,0.75)';
         g2d.font = '10px sans-serif';
         const label = n.label.length > 14 ? n.label.slice(0, 13) + '…' : n.label;
@@ -117,26 +174,7 @@
 
   function updateStats() {
     const vis = visibleNodes();
-    statsEl.textContent = `${vis.length}/${graph.nodes.length} 节点 · ${minDegree}+ 链`;
-  }
-
-  // ── 力导向（d3-force 交互）──
-  function relayout() {
-    const nodes = visibleNodes();
-    const ids = new Set(nodes.map((n) => n.id));
-    const links = graph.links.filter((l) => ids.has(l.source) && ids.has(l.target)).map((l) => ({ source: l.source, target: l.target }));
-    if (sim) sim.stop();
-    sim = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(links).id((d) => d.id).distance(28).strength(0.35))
-      .force('charge', d3.forceManyBody().strength(-30))
-      .force('collide', d3.forceCollide(7))
-      .force('center', d3.forceCenter(0.5, 0.5))
-      .on('tick', draw)
-      .stop();
-    // 预热若干次
-    for (let i = 0; i < 60; i++) sim.tick();
-    draw();
-    sim.restart();
+    statsEl.textContent = `${vis.length}/${graph.nodes.length} 节点 · 重要度≥${minRefs}`;
   }
 
   // ── 交互 ──
@@ -145,7 +183,7 @@
     const rect = wrap.getBoundingClientRect();
     const mx = e.clientX - rect.left, my = e.clientY - rect.top;
     const factor = e.deltaY < 0 ? 1.15 : 0.87;
-    const ns = Math.max(0.1, Math.min(8, transform.scale * factor));
+    const ns = Math.max(0.02, Math.min(20, transform.scale * factor));
     const wx = (mx - transform.x) / transform.scale;
     const wy = (my - transform.y) / transform.scale;
     transform.scale = ns;
@@ -158,7 +196,9 @@
     const rect = wrap.getBoundingClientRect();
     const pt = { x: e.clientX - rect.left, y: e.clientY - rect.top };
     const n = nodeAt(pt);
-    drag = n ? { node: n, id: n.id, startX: e.clientX, startY: e.clientY, origX: n.x, origY: n.y } : { node: null, startX: e.clientX, startY: e.clientY, panX: transform.x, panY: transform.y };
+    drag = n
+      ? { node: n, startX: e.clientX, startY: e.clientY, origX: n.x, origY: n.y }
+      : { node: null, startX: e.clientX, startY: e.clientY, panX: transform.x, panY: transform.y };
     dragMoved = false;
   }
   function onMove(e) {
@@ -169,9 +209,8 @@
       if (Math.abs(dx) + Math.abs(dy) > 3) dragMoved = true;
       if (drag.node) {
         const w = toWorld({ x: pt.x, y: pt.y });
-        drag.node.x = Math.max(0.01, Math.min(0.99, w.x));
-        drag.node.y = Math.max(0.01, Math.min(0.99, w.y));
-        if (sim) sim.alphaTarget(0.1).restart();
+        drag.node.x = Math.max(0.001, Math.min(0.999, w.x));
+        drag.node.y = Math.max(0.001, Math.min(0.999, w.y));
         draw();
       } else {
         transform.x = drag.panX + dx;
@@ -195,10 +234,10 @@
   }
   function onUp(e) {
     if (drag && drag.node && !dragMoved) {
-      window.location.href = drag.node.id.replace(':', '/') + '/';
+      const [cat, ...rest] = drag.node.id.split(':');
+      window.location.href = `${cat}/${encodeURIComponent(rest.join(':'))}/`;
     }
     drag = null;
-    if (sim) sim.alphaTarget(0);
   }
 
   // ── 控件 ──
@@ -211,13 +250,20 @@
       });
     });
     const slider = document.getElementById('min-degree');
-    slider.addEventListener('input', () => { minDegree = Number(slider.value); relayout(); });
-    const reset = document.getElementById('graph-reset') || { addEventListener() {} };
-    reset.addEventListener('click', () => { transform = { x: 0, y: 0, scale: 1 }; relayout(); });
+    slider.addEventListener('input', () => { minRefs = Number(slider.value); relayout(); });
+    const reset = document.getElementById('graph-reset');
+    reset.addEventListener('click', () => { relayout(); });
   }
 
   // ── 初始化 ──
-  window.addEventListener('resize', () => { resize(); draw(); });
+  window.addEventListener('resize', () => {
+    const cx = (wrap.clientWidth / 2 - transform.x) / transform.scale;
+    const cy = (wrap.clientHeight / 2 - transform.y) / transform.scale;
+    resize();
+    transform.x = wrap.clientWidth / 2 - cx * transform.scale;
+    transform.y = wrap.clientHeight / 2 - cy * transform.scale;
+    draw();
+  });
   wrap.addEventListener('wheel', onWheel, { passive: false });
   wrap.addEventListener('mousedown', onDown);
   window.addEventListener('mousemove', onMove);

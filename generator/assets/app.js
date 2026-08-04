@@ -165,8 +165,32 @@
     });
   }
 
+  // ── TOC scrollspy：滚动高亮当前章节 ──
+  function initTocScrollspy() {
+    const tocLinks = Array.from(document.querySelectorAll('.toc a[href^="#"]'));
+    if (!tocLinks.length) return;
+    const ids = tocLinks.map((a) => a.getAttribute('href').slice(1));
+    const headings = ids.map((id) => document.getElementById(id)).filter(Boolean);
+    let timer = null;
+    const update = () => {
+      const pos = window.scrollY + 90;
+      let current = null;
+      for (let i = 0; i < headings.length; i++) {
+        if (headings[i].offsetTop <= pos) current = ids[i];
+        else break;
+      }
+      tocLinks.forEach((a) => a.classList.toggle('active', a.getAttribute('href').slice(1) === current));
+    };
+    window.addEventListener('scroll', () => {
+      clearTimeout(timer);
+      timer = setTimeout(update, 80);
+    }, { passive: true });
+    update();
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     initOverlay();
     initSearchPage();
+    initTocScrollspy();
   });
 })();

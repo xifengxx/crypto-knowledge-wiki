@@ -48,12 +48,13 @@ export function relUrl(fromPath, toPath) {
 }
 
 /**
- * 页面输出的站点路径：`<cat>/<slug>/index.html`（含目录形式的 URL 用 / 结尾）。
+ * 页面输出的站点路径：`<cat>/<slug>/index.html`。
+ * 注意：slug 保持原始值（不预编码），由 relUrl 统一做一次 URL 编码，避免双重编码。
  * @param {string} category
  * @param {string} slug
  */
 export function pageSitePath(category, slug) {
-  return `${category}/${encodeURIComponent(slug)}/index.html`;
+  return `${category}/${slug}/index.html`;
 }
 
 /** 相对链接 href：从页面 A（site path）指向页面 B 或静态页。返回目录形式 URL（去 index.html）。 */

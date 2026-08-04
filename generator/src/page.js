@@ -18,7 +18,7 @@ const NAV = [
 ];
 
 /** 站点级页面壳 */
-export function layout(ctx, { sitePath, title, body, active = '', description = '', extraHead = '' }) {
+export function layout(ctx, { sitePath, title, body, active = '', description = '', extraHead = '', bodyClass = '' }) {
   const nav = NAV.map((n) => {
     const href = relHref(sitePath, staticSitePath(n.name));
     const cls = n.name === active ? 'active' : '';
@@ -40,7 +40,7 @@ export function layout(ctx, { sitePath, title, body, active = '', description = 
 ${extraHead}
 <script>window.SEARCH_INDEX_URL = ${JSON.stringify(indexHref)};</script>
 </head>
-<body>
+<body class="${esc(bodyClass)}">
 <header class="topbar">
   <a class="brand" href="${homeHref}">📚 ${SITE.title}</a>
   <nav class="nav">${nav}</nav>

@@ -39,5 +39,13 @@ export function renderSearchPage(ctx) {
   <div id="search-results" class="search-results"></div>
 </div>
 <script>window.SEARCH_INDEX_URL = ${JSON.stringify(indexHref)};</script>`;
-  return layout(ctx, { sitePath, title: '搜索', body, active: 'search', description: '搜索' });
+  return layout(ctx, {
+    sitePath,
+    title: '搜索',
+    body,
+    active: 'search',
+    description: '搜索',
+    bodyClass: 'search-page',
+    extraHead: '<style>body.search-page .search-trigger{display:none}</style>',
+  });
 }
