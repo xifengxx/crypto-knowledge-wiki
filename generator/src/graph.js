@@ -73,6 +73,9 @@ export function renderGraphPage(ctx, graph) {
   const sitePath = staticSitePath('graph');
   const graphJsonHref = relHref(sitePath, 'graph.json');
   const graphJsHref = relHref(sitePath, 'assets/graph.js');
+  const vendor = ['d3-dispatch', 'd3-quadtree', 'd3-timer', 'd3-force']
+    .map((n) => `<script src="${relHref(sitePath, `assets/vendor/${n}.min.js`)}"></script>`)
+    .join('\n');
   const toggles = Object.entries(CATEGORIES)
     .map(([key, meta]) => `<label class="g-toggle"><input type="checkbox" data-cat="${key}" checked><span style="background:${meta.color}"></span>${meta.label}</label>`)
     .join('');
@@ -91,6 +94,7 @@ export function renderGraphPage(ctx, graph) {
   <div class="graph-hint">滚轮缩放 · 拖拽平移 · 拖动节点 · 点击跳转</div>
 </div>
 <script>window.GRAPH_JSON_URL = ${JSON.stringify(graphJsonHref)};</script>
+${vendor}
 <script src="${graphJsHref}"></script>`;
   return layout(ctx, { sitePath, title: '知识图谱', body, active: 'graph', description: '知识图谱可视化' });
 }

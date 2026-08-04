@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-08-04T10:29:55.720Z",
+  "updated": "2026-08-04T13:45:41.886Z",
   "patterns": [
     {
       "id": "pattern-002",
@@ -23,13 +23,13 @@
       "language": "javascript",
       "description": "wikilinks.js — general 패턴 (javascript)",
       "score": 100,
-      "success_count": 55,
+      "success_count": 58,
       "failure_count": 0,
       "tags": [
         "javascript"
       ],
       "created": "2026-08-04T07:43:08.454Z",
-      "updated": "2026-08-04T10:29:41.002Z"
+      "updated": "2026-08-04T13:44:28.930Z"
     },
     {
       "id": "pattern-003",
@@ -51,15 +51,30 @@
       "category": "db",
       "language": "javascript",
       "description": "app.js — db 패턴 (javascript)",
-      "score": 56,
-      "success_count": 3,
+      "score": 59,
+      "success_count": 4,
       "failure_count": 0,
       "tags": [
         "db",
         "javascript"
       ],
       "created": "2026-08-04T07:45:27.120Z",
-      "updated": "2026-08-04T09:14:29.858Z"
+      "updated": "2026-08-04T13:43:00.574Z"
+    },
+    {
+      "id": "pattern-006",
+      "category": "test",
+      "language": "javascript",
+      "description": "graph.js — test 패턴 (javascript)",
+      "score": 53,
+      "success_count": 2,
+      "failure_count": 0,
+      "tags": [
+        "test",
+        "javascript"
+      ],
+      "created": "2026-08-04T09:24:38.240Z",
+      "updated": "2026-08-04T13:45:41.885Z"
     },
     {
       "id": "pattern-005",
@@ -74,21 +89,6 @@
       ],
       "created": "2026-08-04T07:50:09.633Z",
       "updated": "2026-08-04T07:50:09.637Z"
-    },
-    {
-      "id": "pattern-006",
-      "category": "test",
-      "language": "javascript",
-      "description": "graph.js — test 패턴 (javascript)",
-      "score": 50,
-      "success_count": 1,
-      "failure_count": 0,
-      "tags": [
-        "test",
-        "javascript"
-      ],
-      "created": "2026-08-04T09:24:38.240Z",
-      "updated": "2026-08-04T09:24:38.241Z"
     }
   ],
   "anti_patterns": []
